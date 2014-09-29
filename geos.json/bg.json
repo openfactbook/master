@@ -1,0 +1,652 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "bg",
+    "countryname": "Bangladesh",
+    "flag_orig": "503x302",
+    "last_update": "Page last updated on June 23, 2014",
+    "locator_orig": "456x501",
+    "map_orig": "331x354",
+    "region": "South Asia",
+    "regioncode": "sas"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Muslim conversions and settlement in the region now referred to as Bangladesh began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans began to set up trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won independence for Bangladesh in a brief war in 1971, during which at least 300,000 civilians died. The post-independence, AL government faced daunting challenges and in 1975 was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP). That government also ended in a coup in 1981, followed by military-backed rule until democratic elections in 1991. The BNP and AL have alternately held power since then, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the AL won the national election by an overwhelming majority after the BNP boycotted, extending HASINA's term as prime minister. With the help of international development assistance, Bangladesh has made great progress in food security since independence, and the economy has grown at an average of about 6 percent over the last two decades."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Asia, bordering the Bay of Bengal, between Burma and India"
+    },
+    "Geographic coordinates": {
+      "text": "24 00 N, 90 00 E"
+    },
+    "Map references": {
+      "text": "Asia"
+    },
+    "Area": {
+      "total": "143,998 sq km",
+      "land": "130,168 sq km",
+      "water": "13,830 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Iowa"
+    },
+    "Land boundaries": {
+      "total": "4,413 km",
+      "border countries": "Burma 271 km, India 4,142 km"
+    },
+    "Coastline": {
+      "text": "580 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "contiguous zone": "18 nm",
+      "exclusive economic zone": "200 nm",
+      "continental shelf": "up to the outer limits of the continental margin"
+    },
+    "Climate": {
+      "text": "tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)"
+    },
+    "Terrain": {
+      "text": "mostly flat alluvial plain; hilly in southeast"
+    },
+    "Elevation extremes": {
+      "lowest point": "Indian Ocean 0 m",
+      "highest point": "Keokradong 1,230 m"
+    },
+    "Natural resources": {
+      "text": "natural gas, arable land, timber, coal"
+    },
+    "Land use": {
+      "arable land": "52.97%",
+      "permanent crops": "6.25%",
+      "other": "40.78% (2011)"
+    },
+    "Irrigated land": {
+      "text": "50,500 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "1,227 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "35.87 cu km/yr (10%/2%/88%)",
+      "per capita": "238.3 cu m/yr (2008)"
+    },
+    "Natural hazards": {
+      "text": "droughts; cyclones; much of the country routinely inundated during the summer monsoon season"
+    },
+    "Environment - current issues": {
+      "text": "many people are landless and forced to live on and cultivate flood-prone land; waterborne diseases prevalent in surface water; water pollution, especially of fishing areas, results from the use of commercial pesticides; ground water contaminated by naturally occurring arsenic; intermittent water shortages because of falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; severe overpopulation"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Bangladeshi(s)",
+      "adjective": "Bangladeshi"
+    },
+    "Ethnic groups": {
+      "text": "Bengali 98%, other 2% (includes tribal groups, non-Bengali Muslims) (1998)"
+    },
+    "Languages": {
+      "text": "Bangla (official, also known as Bengali), English"
+    },
+    "Religions": {
+      "text": "Muslim 89.5%, Hindu 9.6%, other 0.9% (2004)"
+    },
+    "Population": {
+      "text": "166,280,712 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "32.3% (male 27,268,560/female 26,468,883)",
+      "15-24 years": "18.8% (male 14,637,526/female 16,630,766)",
+      "25-54 years": "38% (male 29,853,531/female 33,266,733)",
+      "55-64 years": "5.9% (male 4,964,130/female 4,870,447)",
+      "65 years and over": "5% (male 4,082,544/female 4,237,592) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "52.2 %",
+      "youth dependency ratio": "44.9 %",
+      "elderly dependency ratio": "7.3 %",
+      "potential support ratio": "13.6 (2014 est.)"
+    },
+    "Median age": {
+      "total": "24.3 years",
+      "male": "23.8 years",
+      "female": "24.8 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "1.6% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "21.61 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "5.64 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.02 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "28.4% of total population (2011)",
+      "rate of urbanization": "2.96% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "DHAKA (capital) 15.391 million; Chittagong 5.239 million; Khulna 1.781 million; Rajshahi 932,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.04 male(s)/female",
+      "0-14 years": "1.03 male(s)/female",
+      "15-24 years": "0.88 male(s)/female",
+      "25-54 years": "0.9 male(s)/female",
+      "55-64 years": "0.95 male(s)/female",
+      "65 years and over": "0.96 male(s)/female",
+      "total population": "0.95 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "18.1",
+      "note": "median age at first birth among women 25-29 (2011 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "240 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "45.67 deaths/1,000 live births",
+      "male": "48.15 deaths/1,000 live births",
+      "female": "43.09 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "70.65 years",
+      "male": "68.75 years",
+      "female": "72.63 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "2.45 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "61.2% (2011/12)"
+    },
+    "Health expenditures": {
+      "text": "3.7% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "0.36 physicians/1,000 population (2011)"
+    },
+    "Hospital bed density": {
+      "text": "0.6 beds/1,000 population (2011)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 85.8% of population; rural: 84.4% of population; total: 84.8% of population",
+      "unimproved": "urban: 14.2% of population; rural: 15.6% of population; total: 15.2% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 55.2% of population; rural: 57.8% of population; total: 57% of population",
+      "unimproved": "urban: 44.8% of population; rural: 42.2% of population; total: 43% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "8,000 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "400 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "high",
+      "food or waterborne diseases": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever",
+      "vectorborne diseases": "dengue fever and malaria are high risks in some locations",
+      "water contact disease": "leptospirosis",
+      "animal contact disease": "rabies",
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "1.1% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "36.8% (2011)"
+    },
+    "Education expenditures": {
+      "text": "2.2% of GDP (2009)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "57.7%",
+      "male": "62%",
+      "female": "53.4% (2011 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "10 years",
+      "male": "10 years",
+      "female": "10 years (2011)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "4,485,497",
+      "percentage": "13 % (2006 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "9.3%",
+      "male": "8%",
+      "female": "13.6% (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "People's Republic of Bangladesh",
+      "conventional short form": "Bangladesh",
+      "local long form": "Gana Prajatantri Bangladesh",
+      "local short form": "Bangladesh",
+      "former": "East Bengal, East Pakistan"
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": "Dhaka",
+      "geographic coordinates": "23 43 N, 90 24 E",
+      "time difference": "UTC+6 (11 hours ahead of Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "7 divisions; Barisal, Chittagong, Dhaka, Khulna, Rajshahi, Rangpur, Sylhet"
+    },
+    "Independence": {
+      "text": "16 December 1971 (from West Pakistan)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 March (1971); Victory Day; note - March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December, known as Victory Day, memorializes the military victory over Pakistan and the official creation of the state of Bangladesh"
+    },
+    "Constitution": {
+      "text": "previous 1935, 1956, 1962 (preindependence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986; amended many times, last in 2011 (2011)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of mostly English common law and Islamic law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Abdul HAMID (since 24 April 2013); note - Abdul HAMID served as acting president following the death of Zillur RAHMAN in March 2013; HAMID was subsequently elected by the National Parliament and was sworn in 24 April 2013",
+      "head of government": "Prime Minister Sheikh HASINA (since 6 January 2009; reelected 5 January 2014)",
+      "cabinet": "Cabinet selected by the prime minister and appointed by the president",
+      "elections": "president elected by National Parliament for a five-year term (eligible for a second term); last election held on 29 April 2013 (next must be held by 2018)",
+      "election results": "President Abdul HAMID was elected by the National Parliament unopposed"
+    },
+    "Legislative branch": {
+      "text": "unicameral National Parliament or Jatiya Sangsad; 300 seats (45 reserved for women) elected by popular vote from single territorial constituencies; members serve five-year terms",
+      "elections": "last held on 5 January 2014 (next to be held by January 2019); note - the 5 January 2014 poll was marred by widespread violence, boycotts, general strikes, and low voter turnout",
+      "election results": "percent of vote by party - AL-led Alliance 79%, JP 34%; seats by party - AL 234, JP 34, other 32"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)",
+      "judge selection and term of office": "chief justice and justices appointed by the president; justices serve until retirement at age 67",
+      "subordinate courts": "civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; special courts/tribunals; Metropolitan Magistrate Courts; Magistrate Court"
+    },
+    "Political parties and leaders": {
+      "text": "Awami League or AL [Sheikh HASINA]//Communist Party of Bangladesh or CPB [Manjurul A. KHAN]//Bangladesh Nationalist Front or BNF [Abdul Kalam AZADI]//Bangladesh Nationalist Party or BNP [Khaleda ZIA]//Bikalpa Dhara Bangladesh or BDB [Badrudozza CHOWDHURY]//Islami Oikya Jote or IOJ [multiple leaders]//Jatiya Party or JP (Ershad faction) [Hussain Mohammad ERSHAD]//Liberal Democratic Party or LDP [Oli AHMED]//National Socialist Party or JSD [KHALEQUZZAMAN]//Tarikat Foundation [Syed Nozibul Bashar MAIZBHANDARI]//Workers Party or WP [Rashed Khan MENON]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Advocacy to End Gender-based Violence through the MoWCA (Ministry of Women's and Children's Affairs)//Ain o Salish Kendro (Law and Order Center)//Bangladesh Rural Advancement Committee or BRAC//Bangladesh Center for Worker Solidarity//Federation of Bangladesh Chambers of Commerce and Industry//Odikhar (Human Rights)",
+      "other": "associations of madrassa teachers; business associations, including those intended to promote international trade; development and advocacy NGOs associated with the Grameen Bank; environmentalists; Islamist groups; labor rights advocacy groups; nongovernmental organizations focused on poverty, alleviation, and socioeconomic international trade; religious leaders; tribal groups and advocacy organizations; union leaders"
+    },
+    "International organization participation": {
+      "text": "ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMIT, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Akramul QADER (since 1 September 2009)",
+      "chancery": "3510 International Drive NW, Washington, DC 20008",
+      "telephone": "[1] (202) 244-0183",
+      "FAX": "[1] (202) 244-7830/2771",
+      "consulate(s) general": "Los Angeles, New York"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Dan W. MOZENA (since 11 November 2011)",
+      "embassy": "Madani Avenue, Baridhara, Dhaka 1212",
+      "mailing address": "G. P. O. Box 323, Dhaka 1000",
+      "telephone": "[880] (2) 885-5500",
+      "FAX": "[880] (2) 882-3744"
+    },
+    "Flag description": {
+      "text": "green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh"
+    },
+    "National symbol(s)": {
+      "text": "Bengal tiger, water lily"
+    },
+    "National anthem": {
+      "name": "\"Amar Shonar Bangla\" (My Golden Bengal)",
+      "lyrics/music": "Rabindranath TAGORE",
+      "note": "adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Bangladesh's economy has grown roughly 6% per year since 1996 despite political instability, poor infrastructure, corruption, insufficient power supplies, slow implementation of economic reforms, and the 2008-09 global financial crisis and recession. Although more than half of GDP is generated through the service sector, almost half of Bangladeshis are employed in the agriculture sector with rice as the single-most-important product. Garment exports, the backbone of Bangladesh’s industrial sector and 80% of total exports, surpassed $21 billion last year, 18% of GDP. The sector has remained resilient in recent years amidst a series of factory accidents that have killed over 1,000 workers and crippling strikes that shut down virtually all economic activity. Steady garment export growth combined with remittances from overseas Bangladeshis, which totaled almost $15 billion and 13% of GDP IN 2013, are the largest contributors to Bangladesh’s current account surplus and record foreign exchange holdings."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$324.6 billion (2013 est.)//$307 billion (2012 est.)//$289.2 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$140.2 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.8% (2013 est.)//6.1% (2012 est.)//6.5% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,100 (2013 est.)//$2,000 (2012 est.)//$1,900 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "28.3% of GDP (2013 est.)//27% of GDP (2012 est.)//25% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "75.3%",
+      "government consumption": "5.7%",
+      "investment in fixed capital": "25.6%",
+      "investment in inventories": "3.6%",
+      "exports of goods and services": "24.5%",
+      "imports of goods and services": "-34.7%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "17.2%",
+      "industry": "28.9%",
+      "services": "53.9% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "rice, jute, tea, wheat, sugarcane, potatoes, tobacco, pulses, oilseeds, spices, fruit; beef, milk, poultry"
+    },
+    "Industries": {
+      "text": "jute, cotton, garments, paper, leather, fertilizer, iron and steel, cement, petroleum products, tobacco, pharmaceuticals, ceramics, tea, salt, sugar, edible oils, soap and detergent, fabricated metal products, electricity, natural gas"
+    },
+    "Industrial production growth rate": {
+      "text": "9% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "78.62 million",
+      "note": "extensive export of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia; workers' remittances were $10.9 billion in FY09/10 (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "47%",
+      "industry": "13%",
+      "services": "40% (2010 est.)"
+    },
+    "Unemployment rate": {
+      "text": "5% (2013 est.)//5% (2012 est.)",
+      "note": "about 40% of the population is underemployed; many persons counted as employed work only a few hours a week and at low wages"
+    },
+    "Population below poverty line": {
+      "text": "31.5% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "4%",
+      "highest 10%": "27% (2010 est.)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "32.1 (2010)//33.6 (1996)"
+    },
+    "Budget": {
+      "revenues": "$17.19 billion",
+      "expenditures": "$24.02 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "12.3% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.9% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "30.9% of GDP (2013 est.)//32.2% of GDP (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.6% (2013 est.)//6.6% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5% (31 December 2010 est.)//5% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "13% (31 December 2013 est.)//13% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$17.11 billion (31 December 2013 est.)//$14.85 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$85.61 billion (31 December 2013 est.)//$70.87 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$93.38 billion (31 December 2013 est.)//$79.32 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA (February 2014 est.)//$17.48 billion (31 December 2012)//$23.55 billion (31 December 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$3.541 billion (2013 est.)//$1.754 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$26.91 billion (2013 est.)//$24.92 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "garments, knitwear, agricultural products, frozen food (fish and seafood), jute and jute goods, leather"
+    },
+    "Exports - partners": {
+      "text": "US 18.7%, Germany 15.8%, UK 10.2%, France 6.2%, Spain 4.6%, Canada 4.3%, Italy 4% (2013 est.)"
+    },
+    "Imports": {
+      "text": "$32.94 billion (2013 est.)//$32.29 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, chemicals, iron and steel, textiles, foodstuffs, petroleum products, cement"
+    },
+    "Imports - partners": {
+      "text": "China 21.7%, India 16.3%, Malaysia 5.2%, Republic of Korea 4.5%, Japan 4.1% (2013 est.)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$15.74 billion (31 December 2013 est.)//$12.75 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$30.69 billion (31 December 2013 est.)//$29.53 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$7.04 billion (31 December 2013 est.)//$6.64 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$110.1 million (31 December 2013 est.)//$108.1 million (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "taka (BDT) per US dollar -//78.19 (2013 est.)//81.863 (2012 est.)//69.649 (2010 est.)//69.04 (2009)//68.554 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "40.08 billion kWh (2011 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "38.89 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "500,000 kWh (2013 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "10.26 million kW (2013 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "97.7% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "2.3% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2013 est.)"
+    },
+    "Crude oil - production": {
+      "text": "5,452 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "23,620 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "28 million bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "22,710 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "108,900 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "3,288 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "84,490 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "20.11 billion cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "19.91 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "183.7 billion cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "58.81 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "962,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "97.18 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": "inadequate for a modern country; introducing digital systems; trunk systems include VHF and UHF microwave radio relay links, and some fiber-optic cable in cities",
+      "domestic": "fixed-line teledensity remains only about 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 50 telephones per 100 persons",
+      "international": "country code - 880; landing point for the SEA-ME-WE-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2011)"
+    },
+    "Broadcast media": {
+      "text": "state-owned Bangladesh Television (BTV) operates 1 terrestrial TV station, 3 radio networks, and about 10 local stations; 8 private satellite TV stations and 3 private radio stations also broadcasting; foreign satellite TV stations are gaining audience share in the large cities; several international radio broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".bd"
+    },
+    "Internet hosts": {
+      "text": "71,164 (2012)"
+    },
+    "Internet users": {
+      "text": "617,300 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "18 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "16",
+      "over 3,047 m": "2",
+      "2,438 to 3,047 m": "2",
+      "1,524 to 2,437 m": "6",
+      "914 to 1,523 m": "1",
+      "under 914 m": "5 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "2",
+      "1,524 to 2,437 m": "1",
+      "under 914 m": "1 (2013)"
+    },
+    "Heliports": {
+      "text": "3 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 2,950 km (2013)"
+    },
+    "Railways": {
+      "total": "2,622 km",
+      "broad gauge": "946 km 1.676-m gauge",
+      "narrow gauge": "1,676 km 1.000-m gauge (2008)"
+    },
+    "Roadways": {
+      "total": "21,269 km",
+      "paved": "1,063 km",
+      "unpaved": "20,206 km (2010)"
+    },
+    "Waterways": {
+      "text": "8,370 km (includes up to 3,060 km of main cargo routes; the network is reduced to 5,200 km in the dry season) (2011)"
+    },
+    "Merchant marine": {
+      "total": "62",
+      "by type": "bulk carrier 25, cargo 28, chemical tanker 1, container 5, petroleum tanker 3",
+      "foreign-owned": "8 (China 1, Singapore 7)",
+      "registered in other countries": "10 (Comoros 1, Hong Kong 1, Panama 5, Saint Vincent and the Grenadines 1, Sierra Leone 1, Singapore 1) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Chittagong",
+      "river port(s)": "Mongla Port (Sela River)",
+      "container port(s)": "Chittagong (1,392,104) (2011)"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; attacks against vessels have decreased over the last few years in response to improved local security"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Bangladesh Defense Force: Bangladesh Army (Sena Bahini), Bangladesh Navy (Noh Bahini, BN), Bangladesh Air Force (Biman Bahini, BAF) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "16-19 years of age for voluntary military service; Bangladeshi birth and 10th grade education required; initial obligation 15 years (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "36,520,491 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "30,486,086",
+      "females age 16-49": "35,616,093 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "1,606,963",
+      "female": "1,689,442 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "1.35% of GDP (2012)//1.44% of GDP (2011)//1.35% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh struggles to accommodate 29,000 Rohingya, Burmese Muslim minority from Arakan State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": "231,125 (Burma) (2013)",
+      "IDPs": "up to 280,000 (violence, human rights violations, religious persecution, natural disasters) (2013)"
+    },
+    "Illicit drugs": {
+      "text": "transit country for illegal drugs produced in neighboring countries"
+    }
+  }
+}

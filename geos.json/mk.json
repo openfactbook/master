@@ -1,0 +1,611 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "mk",
+    "countryname": "Macedonia",
+    "flag_orig": "453x302",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "468x502",
+    "map_orig": "329x353",
+    "region": "Europe",
+    "regioncode": "eur"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Macedonia gained its independence peacefully from Yugoslavia in 1991. Greece's objection to the new state's use of what it considered a Hellenic name and symbols delayed international recognition, which occurred under the provisional designation of \"the Former Yugoslav Republic of Macedonia.\" In 1995, Greece lifted a 20-month trade embargo and the two countries agreed to normalize relations, but the issue of the name remained unresolved and negotiations for a solution are ongoing. Since 2004, the US and over 130 other nations have recognized Macedonia by its constitutional name, Republic of Macedonia. Ethnic Albanian grievances over perceived political and economic inequities escalated into an insurgency in 2001 that eventually led to the internationally brokered Ohrid Framework Agreement, which ended the fighting and established guidelines for constitutional amendments and the creation of new laws that enhanced the rights of minorities. Although Macedonia became an EU candidate in 2005, the country still faces challenges, including fully implementing the Framework Agreement, improving relations with Bulgaria, carrying out democratic reforms, and stimulating economic growth and development. Macedonia's membership in NATO was blocked by Greece at the Alliance's Summit of Bucharest in 2008."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Europe, north of Greece"
+    },
+    "Geographic coordinates": {
+      "text": "41 50 N, 22 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": "25,713 sq km",
+      "land": "25,433 sq km",
+      "water": "280 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Vermont"
+    },
+    "Land boundaries": {
+      "total": "766 km",
+      "border countries": "Albania 151 km, Bulgaria 148 km, Greece 246 km, Kosovo 159 km, Serbia 62 km"
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "warm, dry summers and autumns; relatively cold winters with heavy snowfall"
+    },
+    "Terrain": {
+      "text": "mountainous territory covered with deep basins and valleys; three large lakes, each divided by a frontier line; country bisected by the Vardar River"
+    },
+    "Elevation extremes": {
+      "lowest point": "Vardar River 50 m",
+      "highest point": "Golem Korab (Maja e Korabit) 2,764 m"
+    },
+    "Natural resources": {
+      "text": "low-grade iron ore, copper, lead, zinc, chromite, manganese, nickel, tungsten, gold, silver, asbestos, gypsum, timber, arable land"
+    },
+    "Land use": {
+      "arable land": "16.1%",
+      "permanent crops": "1.36%",
+      "other": "82.54% (2011)"
+    },
+    "Irrigated land": {
+      "text": "1,278 sq km (2004)"
+    },
+    "Total renewable water resources": {
+      "text": "6.4 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "1.03 cu km/yr (21%/67%/12%)",
+      "per capita": "502 cu m/yr (2007)"
+    },
+    "Natural hazards": {
+      "text": "high seismic risks"
+    },
+    "Environment - current issues": {
+      "text": "air pollution from metallurgical plants"
+    },
+    "Environment - international agreements": {
+      "party to": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "landlocked; major transportation corridor from Western and Central Europe to Aegean Sea and Southern Europe to Western Europe"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Macedonian(s)",
+      "adjective": "Macedonian"
+    },
+    "Ethnic groups": {
+      "text": "Macedonian 64.2%, Albanian 25.2%, Turkish 3.9%, Roma (Gypsy) 2.7%, Serb 1.8%, other 2.2% (2002 census)"
+    },
+    "Languages": {
+      "text": "Macedonian (official) 66.5%, Albanian (official) 25.1%, Turkish 3.5%, Roma 1.9%, Serbian 1.2%, other 1.8% (2002 census)"
+    },
+    "Religions": {
+      "text": "Macedonian Orthodox 64.7%, Muslim 33.3%, other Christian 0.37%, other and unspecified 1.63% (2002 census)"
+    },
+    "Population": {
+      "text": "2,091,719 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "17.7% (male 191,682/female 178,510)",
+      "15-24 years": "14.1% (male 151,901/female 142,679)",
+      "25-54 years": "43.8% (male 464,392/female 451,038)",
+      "55-64 years": "12.1% (male 123,272/female 129,081)",
+      "65 years and over": "12.1% (male 111,090/female 148,074) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "41.2 %",
+      "youth dependency ratio": "23.4 %",
+      "elderly dependency ratio": "17.8 %",
+      "potential support ratio": "5.6 (2014 est.)"
+    },
+    "Median age": {
+      "total": "36.8 years",
+      "male": "35.7 years",
+      "female": "37.9 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "0.21% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "11.64 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "9.04 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.48 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "59.3% of total population (2011)",
+      "rate of urbanization": "0.33% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "SKOPJE (capital) 499,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.08 male(s)/female",
+      "0-14 years": "1.07 male(s)/female",
+      "15-24 years": "1.07 male(s)/female",
+      "25-54 years": "1.03 male(s)/female",
+      "55-64 years": "0.99 male(s)/female",
+      "65 years and over": "0.75 male(s)/female",
+      "total population": "0.99 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "26.2 (2011 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "10 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "7.9 deaths/1,000 live births",
+      "male": "8.16 deaths/1,000 live births",
+      "female": "7.63 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "75.8 years",
+      "male": "73.23 years",
+      "female": "78.56 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.59 children born/woman (2014 est.)"
+    },
+    "Health expenditures": {
+      "text": "6.6% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "2.62 physicians/1,000 population (2009)"
+    },
+    "Hospital bed density": {
+      "text": "4.6 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 99.8% of population; rural: 98.8% of population; total: 99.4% of population",
+      "unimproved": "urban: 0.2% of population; rural: 1.2% of population; total: 0.6% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 97.2% of population; rural: 82.8% of population; total: 91.4% of population",
+      "unimproved": "urban: 2.8% of population; rural: 17.2% of population; total: 8.6% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 200 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2003 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "21.1% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "1.8% (2005)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "97.4%",
+      "male": "98.7%",
+      "female": "96% (2011 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "13 years",
+      "male": "13 years",
+      "female": "13 years (2010)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "16,782",
+      "percentage": "6 % (2005 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "53.9%",
+      "male": "55.2%",
+      "female": "51.7% (2012)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Macedonia",
+      "conventional short form": "Macedonia",
+      "local long form": "Republika Makedonija",
+      "local short form": "Makedonija",
+      "note": "the provisional designation used by the UN, EU, and NATO is the \"former Yugoslav Republic of Macedonia\" (FYROM)",
+      "former": "People's Republic of Macedonia, Socialist Republic of Macedonia"
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": "Skopje",
+      "geographic coordinates": "42 00 N, 21 26 E",
+      "time difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+      "daylight saving time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+    },
+    "Administrative divisions": {
+      "text": "71 municipalities (opstini, singular - opstina); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Grad Skopje, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostusa, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci"
+    },
+    "Independence": {
+      "text": "8 September 1991 (referendum by registered voters endorsed independence from Yugoslavia)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 8 September (1991); also known as National Day"
+    },
+    "Constitution": {
+      "text": "several previous; latest adopted 17 November 1991, effective 20 November 1991; amended several times, last in 2011 (2011)"
+    },
+    "Legal system": {
+      "text": "civil law system; judicial review of legislative acts"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Gjorge IVANOV (since 12 May 2009)",
+      "head of government": "Prime Minister Nikola GRUEVSKI (since 26 August 2006)",
+      "cabinet": "Council of Ministers elected by the majority vote of all the deputies in the Assembly; note - current cabinet formed by the government coalition parties VMRO-DPMNE, DUI, and several small parties",
+      "elections": "president elected by popular vote for a five-year term (eligible for a second term); two-round election: first round held on 13 April 2014, second round held on 27 April 2014; prime minister elected by the Assembly following legislative elections; the leader of the majority party or majority coalition usually elected prime minister",
+      "election results": "Gjorge IVANOV re-elected president in second-round; percent of vote - Gjorge IVANOV 55.3%, Stevo PENDAROVSKI 41.1%; note - 13 April 2014 first round results - Gjorge IVANOV 51.7%, Stevo PENDAROVSKI 37.5%"
+    },
+    "Legislative branch": {
+      "text": "unicameral Assembly or Sobranie (123 seats; all members elected by popular vote from party lists based on the percentage of the overall vote the parties gain in each of the six domestic and three diaspora electoral districts; members serve four-year terms)",
+      "elections": "last held on 27 April 2014 (next to be held in April 2019)",
+      "election results": "percent of vote by party - VMRO-DPMNE 43.0%, SDSM 25.3%, DUI 13.7%, DPA 5.9%, GROM 2.8%, NDR 1.6%, other 4.3%, invalid 3.4%; seats by party - VMRO-DPMNE 61, SDSM 34, DUI 19, DPA 7, GROM 1, NDR 2"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court (consist of NA judges); Constitutional Court (consists of 9 judges)",
+      "judge selection and term of office": "Supreme Court judges nominated by the Judicial Council, a 7-member body of legal professionals, and appointed by the Assembly; judge tenure NA; Constitutional Court judges appointed by the legislature for nonrenewable, 9-year terms",
+      "subordinate courts": "Courts of Appeal; Basic Courts"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for Positive Macedonia or APM [Ljupco ZIKOV]//Citizens Option for Macedonia or GROM [Stevco JAKIMOVSKI]//Democratic Party of Albanians or DPA [Menduh THACI]//Democratic Union for Integration or DUI [Ali AHMETI]//Dosoinstvo (Diginity) [Stojance ANGELOV]//Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Nikola GRUEVSKI]//Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]//National Democratic Revival or NDR [Rufi OSMANI]//Party for a European Future or PEI [Fijat CANOSKI]//Party for Democratic Prosperity [Abdyladi VEJSELI]//Social Democratic Union of Macedonia or SDSM [Zoran ZAEV]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Federation of Free Trade Unions [Mirjana ANDREVSKA]//Federation of Trade Unions [Zivko MITREVSKI]//Trade Union of Education, Science and Culture [Jakim NEDELKOV]"
+    },
+    "International organization participation": {
+      "text": "BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ISO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Zoran JOLEVSKI (since 22 March 2007)",
+      "chancery": "2129 Wyoming Avenue NW, Washington, DC 20008",
+      "telephone": "[1] (202) 667-0501",
+      "FAX": "[1] (202) 667-2131",
+      "consulate(s) general": "Chicago, New York, Southfield (MI)"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Paul D. WOHLERS (since 11 August 2011)",
+      "embassy": "Str. Samolilova, Nr. 21, 1000 Skopje",
+      "mailing address": "American Embassy Skopje, US Department of State, 7120 Skopje Place, Washington, DC 20521-7120 (pouch)",
+      "telephone": "[389] (2) 310-2000",
+      "FAX": "[389] (2) 310-2499"
+    },
+    "Flag description": {
+      "text": "a yellow sun (the Sun of Liberty) with eight broadening rays extending to the edges of the red field; the red and yellow colors have long been associated with Macedonia"
+    },
+    "National symbol(s)": {
+      "text": "eight-rayed sun"
+    },
+    "National anthem": {
+      "name": "\"Denes Nad Makedonija\" (Today Over Macedonia)",
+      "lyrics/music": "Vlado MALESKI/Todor SKALOVSKI",
+      "note": "adopted 1991; the song, written in 1943, previously served as the anthem of the Socialist Republic of Macedonia while part of Yugoslavia"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Since its independence in 1991, Macedonia has made significant progress in liberalizing its economy and improving its business environment, but has lagged the Balkan region in attracting foreign investment. Unemployment has remained consistently high at more than 30% since 2008, but may be overstated based on the existence of an extensive gray market, estimated to be between 20% and 45% of GDP, that is not captured by official statistics. Macedonia’s economy is closely linked to Europe as a customer for exports and source of investment, and has suffered as a result of prolonged weakness in the euro zone. Macedonia maintained macroeconomic stability through the global financial crisis by conducting prudent monetary policy, which keeps the domestic currency pegged against the euro, and by limiting fiscal deficits. The government has been loosening fiscal policy, however, and the budget deficit expanded to 4.2% of GDP in 2013. Macedonia achieved modest GDP growth in 2013 after a small contraction in 2012; inflation is under control."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$22.57 billion (2013 est.)//$21.89 billion (2012 est.)//$21.98 billion (2011 est.)",
+      "note": "data are in 2013 US dollars; Macedonia has a large informal sector that may not be reflected in these data"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$10.65 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.1% (2013 est.)//-0.4% (2012 est.)//2.9% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,800 (2013 est.)//$10,600 (2012 est.)//$10,700 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "23.2% of GDP (2013 est.)//24.7% of GDP (2012 est.)//23.2% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "77.5%",
+      "government consumption": "15.3%",
+      "investment in fixed capital": "22.5%",
+      "investment in inventories": "3.1%",
+      "exports of goods and services": "47.7%",
+      "imports of goods and services": "-66.1%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "10.2%",
+      "industry": "27.5%",
+      "services": "62.3% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "grapes, tobacco, vegetables, fruits; milk, eggs"
+    },
+    "Industries": {
+      "text": "food processing, beverages, textiles, chemicals, iron, steel, cement, energy, pharmaceuticals"
+    },
+    "Industrial production growth rate": {
+      "text": "3.2% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "960,700 (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "18.8%",
+      "industry": "27.5%",
+      "services": "53.7% (31 September 2013)"
+    },
+    "Unemployment rate": {
+      "text": "28.6% (2013 est.)//31% (2012 est.)"
+    },
+    "Population below poverty line": {
+      "text": "30.4% (2011)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "2.2%",
+      "highest 10%": "34.5% (2009 est.)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "39.2 (2011)//43.2 (2009)"
+    },
+    "Budget": {
+      "revenues": "$3.023 billion",
+      "expenditures": "$3.438 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "30.6% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.1% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "34.3% of GDP (2013 est.)//34.1% of GDP (2012 est.)",
+      "note": "official data from Ministry of Finance; data cover central government debt; this data excludes debt instruments issued (or owned) by government entities other than the treasury; includes treasury debt held by foreign entitites; excludes debt issued by sub-national entities, as well as intra-governmental debt; there are no debt instruments sold for social funds"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.8% (2013 est.)//3.3% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3.25% (31 December 2013 est.)//3.75% (31 December 2012 est.)",
+      "note": "series discontinued in January 2010; the discount rate has been replaced by a referent rate for calculating the penalty rate"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.4% (31 December 2013 est.)//6.8% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$1.57 billion (31 December 2013 est.)//$1.414 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$6.286 billion (31 December 2013 est.)//$5.708 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$5.211 billion (31 December 2013 est.)//$4.681 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$2.214 billion (31 December 2013)//$2.423 billion (31 December 2012)//$2.495 billion (31 December 2011)"
+    },
+    "Current account balance": {
+      "text": "-$194.1 million (2013 est.)//-$385.2 million (2012 est.)"
+    },
+    "Exports": {
+      "text": "$4.267 billion (2013 est.)//$4.002 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "food, beverages, tobacco; textiles, miscellaneous manufactures, iron, steel; automotive parts"
+    },
+    "Exports - partners": {
+      "text": "Germany 36.9%, Bulgaria 7.6%, Italy 6.5%, Kosovo 6.5%, Serbia 6.3%, Greece 5% (2012 est.)"
+    },
+    "Imports": {
+      "text": "$6.6 billion (2013 est.)//$6.511 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, automobiles, chemicals, fuels, food products"
+    },
+    "Imports - partners": {
+      "text": "Great Britain 11%, Greece 10.6%, Germany 10.5%, Serbia 7.9%, Italy 6.5%, China 5.8%, Bulgaria 5.5%, Turkey 4.8% (2012 est.)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.747 billion (31 December 2013 est.)//$2.891 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$7.451 billion (30 September 2013 est.)//$6.818 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$4.695 billion (31 December 2013 est.)//$4.361 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA//$564 million (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "Macedonian denars (MKD) per US dollar -//46.398 (2013 est.)//47.885 (2012 est.)//46.485 (2010 est.)//44.1 (2009)//41.414 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "5.676 billion kWh (2013 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "6.989 billion kWh (2013 est.)"
+    },
+    "Electricity - exports": {
+      "text": "62.36 million kWh (2013 est.)"
+    },
+    "Electricity - imports": {
+      "text": "2.491 billion kWh (2013 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.953 million kW (2013 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "66.4% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "33.2% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.4% of total installed capacity (2013 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2013 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2013)"
+    },
+    "Crude oil - imports": {
+      "text": "51,510 bbl/day (2013 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est. est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "17,030 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "17,490 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "6,750 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "21,530 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013)"
+    },
+    "Natural gas - consumption": {
+      "text": "158.6 million cu m (2013 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013)"
+    },
+    "Natural gas - imports": {
+      "text": "158.6 million cu m (2013 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "6.947 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "407,900 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2.235 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "competition from the mobile-cellular segment of the telecommunications market has led to a drop in fixed-line telephone subscriptions",
+      "domestic": "combined fixed-line and mobile-cellular telephone subscribership about 130 per 100 persons",
+      "international": "country code - 389 (2012)"
+    },
+    "Broadcast media": {
+      "text": "public TV broadcaster operates 3 national channels and a satellite network; 5 privately owned TV channels broadcast nationally using terrestrial transmitters and about 15 broadcast on national level via satellite; roughly 75 local commercial TV stations; large number of cable operators offering domestic and international programming; public radio broadcaster operates over multiple stations; 3 privately owned radio stations broadcast nationally; about 70 local commercial radio stations (2012)"
+    },
+    "Internet country code": {
+      "text": ".mk"
+    },
+    "Internet hosts": {
+      "text": "62,826 (2012)"
+    },
+    "Internet users": {
+      "text": "1.057 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "10 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "8",
+      "2,438 to 3,047 m": "2",
+      "under 914 m": "6 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "2",
+      "914 to 1,523 m": "1",
+      "under 914 m": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 268 km; oil 120 km (2013)"
+    },
+    "Railways": {
+      "total": "699 km",
+      "standard gauge": "699 km 1.435-m gauge (234 km electrified) (2012)"
+    },
+    "Roadways": {
+      "total": "14,038 km (includes 259 km of expressways)",
+      "paved": "9,489 km",
+      "unpaved": "4,549 km (2012)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army of the Republic of Macedonia (ARM; includes General Staff and subordinate Joint Operational Command, Training and Doctrine Command, Special Operations Regiment) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; conscription abolished in 2008 (2013)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "532,196",
+      "females age 16-49": "511,964 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "443,843",
+      "females age 16-49": "426,251 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "16,144",
+      "female": "14,920 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "1.38% of GDP (2012)//1.27% of GDP (2011)//1.38% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Kosovo and Macedonia completed demarcation of their boundary in September 2008; Greece continues to reject the use of the name Macedonia or Republic of Macedonia"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": "905 (2012)"
+    },
+    "Illicit drugs": {
+      "text": "major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement"
+    }
+  }
+}

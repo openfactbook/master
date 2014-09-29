@@ -1,0 +1,622 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "fi",
+    "countryname": "Finland",
+    "flag_orig": "493x303",
+    "last_update": "Page last updated on June 22, 2014",
+    "locator_orig": "468x502",
+    "map_orig": "328x713",
+    "region": "Europe",
+    "regioncode": "eur"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, it successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the European Union since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Sweden and Russia"
+    },
+    "Geographic coordinates": {
+      "text": "64 00 N, 26 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": "338,145 sq km",
+      "land": "303,815 sq km",
+      "water": "34,330 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Montana"
+    },
+    "Land boundaries": {
+      "total": "2,563 km",
+      "border countries": "Norway 709 km, Sweden 545 km, Russia 1,309 km"
+    },
+    "Coastline": {
+      "text": "1,250 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm (in the Gulf of Finland - 3 nm)",
+      "contiguous zone": "24 nm",
+      "exclusive fishing zone": "12 nm; extends to continental shelf boundary with Sweden",
+      "continental shelf": "200 m depth or to the depth of exploitation"
+    },
+    "Climate": {
+      "text": "cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes"
+    },
+    "Terrain": {
+      "text": "mostly low, flat to rolling plains interspersed with lakes and low hills"
+    },
+    "Elevation extremes": {
+      "lowest point": "Baltic Sea 0 m",
+      "highest point": "Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) 1,328 m"
+    },
+    "Natural resources": {
+      "text": "timber, iron ore, copper, lead, zinc, chromite, nickel, gold, silver, limestone"
+    },
+    "Land use": {
+      "arable land": "6.65%",
+      "permanent crops": "0.01%",
+      "other": "93.34% (2011)"
+    },
+    "Irrigated land": {
+      "text": "685.8 sq km (2010)"
+    },
+    "Total renewable water resources": {
+      "text": "110 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "1.63 cu km/yr (25%/72%/3%)",
+      "per capita": "308.9 cu m/yr (2005)"
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "air pollution from manufacturing and power plants contributing to acid rain; water pollution from industrial wastes, agricultural chemicals; habitat loss threatens wildlife populations"
+    },
+    "Environment - international agreements": {
+      "party to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "long boundary with Russia; Helsinki is northernmost national capital on European continent; population concentrated on small southwestern coastal plain"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Finn(s)",
+      "adjective": "Finnish"
+    },
+    "Ethnic groups": {
+      "text": "Finn 93.4%, Swede 5.6%, Russian 0.5%, Estonian 0.3%, Roma (Gypsy) 0.1%, Sami 0.1% (2006)"
+    },
+    "Languages": {
+      "text": "Finnish (official) 94.2%, Swedish (official) 5.5%, other (small Sami- and Russian-speaking minorities) 0.2% (2012 est.)"
+    },
+    "Religions": {
+      "text": "Lutheran 78.4%, Orthodox 1.1%, other Christian 1.1%, other 0.2%, none 19.2% (2010 est.)"
+    },
+    "Population": {
+      "text": "5,268,799 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "15.8% (male 423,011/female 408,664)",
+      "15-24 years": "12.1% (male 326,140/female 313,621)",
+      "25-54 years": "38.1% (male 1,021,798/female 983,423)",
+      "55-64 years": "14.2% (male 368,355/female 379,957)",
+      "65 years and over": "19.2% (male 439,014/female 604,816) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "56.8 %",
+      "youth dependency ratio": "25.8 %",
+      "elderly dependency ratio": "31 %",
+      "potential support ratio": "3.2 (2014 est.)"
+    },
+    "Median age": {
+      "total": "43.2 years",
+      "male": "41.2 years",
+      "female": "45 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "0.05% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "10.35 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "10.51 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.62 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "83.7% of total population (2011)",
+      "rate of urbanization": "0.47% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "HELSINKI (capital) 1.134 million (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.04 male(s)/female",
+      "0-14 years": "1.04 male(s)/female",
+      "15-24 years": "1.04 male(s)/female",
+      "25-54 years": "1.04 male(s)/female",
+      "55-64 years": "0.96 male(s)/female",
+      "65 years and over": "0.71 male(s)/female",
+      "total population": "0.96 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "28.4 (2011 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "5 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "3.36 deaths/1,000 live births",
+      "male": "3.65 deaths/1,000 live births",
+      "female": "3.06 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "79.69 years",
+      "male": "76.24 years",
+      "female": "83.29 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.73 children born/woman (2014 est.)"
+    },
+    "Health expenditures": {
+      "text": "8.9% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "2.9 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "5.9 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 100% of population; rural: 100% of population; total: 100% of population",
+      "unimproved": "urban: 0% of population; rural: 0% of population; total: 0% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 100% of population; rural: 100% of population; total: 100% of population",
+      "unimproved": "urban: 0% of population; rural: 0% of population; total: 0% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "2,600 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "23% (2008)"
+    },
+    "Education expenditures": {
+      "text": "6.8% of GDP (2010)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "100%",
+      "male": "100%",
+      "female": "100% (2000 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "17 years",
+      "male": "16 years",
+      "female": "18 years (2011)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "17.7%",
+      "male": "17.6%",
+      "female": "17.9% (2012)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Finland",
+      "conventional short form": "Finland",
+      "local long form": "Suomen tasavalta/Republiken Finland",
+      "local short form": "Suomi/Finland"
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": "Helsinki",
+      "geographic coordinates": "60 10 N, 24 56 E",
+      "time difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+      "daylight saving time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+    },
+    "Administrative divisions": {
+      "text": "19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland]"
+    },
+    "Independence": {
+      "text": "6 December 1917 (from Russia)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 6 December (1917)"
+    },
+    "Constitution": {
+      "text": "previous 1906, 1919; latest drafted 17 June 1997, approved by Parliament 11 June 1999, entered into force 1 March 2000; amended several times, last in 2011 (2011)"
+    },
+    "Legal system": {
+      "text": "civil law system based on the Swedish model"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Sauli NIINISTO (since 1 March 2012)",
+      "head of government": "Prime Minister Jyrki KATAINEN (since 22 June 2011)",
+      "cabinet": "Council of State or Valtioneuvosto appointed by the president, responsible to parliament",
+      "elections": "president elected by popular vote for a six-year term (eligible for a second term); election last held on 5 February 2012 (next to be held in February 2018); the parliament elects a prime minister who is then appointed to office by the president",
+      "election results": "percent of vote - Sauli NIINISTO (Kok) 36.96%, Pekka HAAVISTO (Vihr) 18.76%, Paavo VAYRYNEN (Kesk) 17.53%, Timo SOINI (TF) 9.4%, Paavo LIPPONEN (SDP) 6.7%, Paavo ARHINMÄKI (Vas) 5.48%, Eva BIAUDET (SFP) 2.7%, Sari ESSAYAH (KD) 2.47%; a runoff election between NIINISTO and HAAVISTO was held 5 February 2012 - NIINISTO 62.59%, HAAVISTO 37.41%; Jyrki KATAINEN elected prime minister; election results 118-72",
+      "note": "government coalition - Kok, SDP, Vihr, SFP, Vas, and KD (2013)"
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament or Eduskunta (200 seats; members elected by popular vote on a proportional basis to serve four-year terms)",
+      "elections": "last held on 17 April 2011 (next to be held in April 2015)",
+      "election results": "percent of vote by party - Kok 20.4%, SDP 19.1%, PS 19.1%, Kesk 15.8%, Vas 8.1%, Vihr 7.3%, SFP 4.3%, KD 4%, other 1.9%; seats by party - Kok 44, SDP 42, TF 39, Kesk 35, Vas 14, Vihr 10, SFP 9, KD 6, other 1 (the constituency of Aland)"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction, and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities",
+      "judge selection and term of office": "Supreme Court and Supreme Administrative Court judges appointed by the president of the republic; judges serve until mandatory retirement at age 65",
+      "subordinate courts": "6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights"
+    },
+    "Political parties and leaders": {
+      "text": "Center Party or Kesk [Juha SIPILA]//Christian Democrats or KD [Paivi RASANEN]//Green League or Vihr [Ville NIINISTO]//Left Alliance or Vas [Paavo ARHINMAKI]//National Coalition Party or Kok [Jyrki KATAINEN]//Social Democratic Party or SDP [Jutta URPILAINEN]//Swedish People's Party or SFP [Carl HAGLUND]//The Finns Party or PS [Timo SOINI]"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Ritva KOUKKU-RONDE (since 1 September 2011)",
+      "chancery": "3301 Massachusetts Avenue NW, Washington, DC 20008",
+      "telephone": "[1] (202) 298-5800",
+      "FAX": "[1] (202) 298-6030",
+      "consulate(s) general": "Los Angeles (Juha Pekka MARKKANEN), New York (Jukka PIETIKAINEN)"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Bruce J. ORECK (since 12 August 2009)",
+      "embassy": "Itainen Puistotie 14B, 00140 Helsinki",
+      "mailing address": "APO AE 09723",
+      "telephone": "[358] (9) 616250",
+      "FAX": "[358] (9) 6162 5800"
+    },
+    "Flag description": {
+      "text": "white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue represents the thousands of lakes scattered across the country, while the white is for the snow that covers the land in winter"
+    },
+    "National symbol(s)": {
+      "text": "lion"
+    },
+    "National anthem": {
+      "name": "\"Maamme\" (Our Land)",
+      "lyrics/music": "Johan Ludvig RUNEBERG/Fredrik PACIUS",
+      "note": "in use since 1848; although never officially adopted by law, the anthem has been popular since it was first sung by a student group in 1848; Estonia's anthem uses the same melody as that of Finland"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Finland has a highly industrialized, largely free-market economy with per capita output almost as high as that of Austria, Belgium, the Netherlands, or Sweden. Trade is important, with exports accounting for over one-third of GDP in recent years. Finland is historically competitive in manufacturing - principally the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology for mobile phones as well as promotion of startups in the ICT, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export earner, provides a secondary occupation for the rural population. Finland had been one of the best performing economies within the EU in recent years and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in 2009, with Finland experiencing one of the deepest contractions in the euro zone. A recovery of exports, domestic trade, and household consumption stimulated economic growth in 2010-11, however, continued recession within the EU dampened the economy in 2012-13. The recession affected general government finances and the debt ratio, turning previously strong budget surpluses into deficits, but Finland took action to ensure it that it met the EU deficit targets in 2013 and retained its triple-A credit rating. Finland's main challenge will be to stimulate growth while faced with weak export demand in the EU and its own government austerity measures. Longer-term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$195.5 billion (2013 est.)//$196.8 billion (2012 est.)//$198.4 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$259.6 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-0.6% (2013 est.)//-0.8% (2012 est.)//2.7% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$35,900 (2013 est.)//$36,300 (2012 est.)//$36,700 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "17.9% of GDP (2013 est.)//19.6% of GDP (2012 est.)//21.2% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "56.3%",
+      "government consumption": "24.3%",
+      "investment in fixed capital": "18.3%",
+      "investment in inventories": "0.3%",
+      "exports of goods and services": "38%",
+      "imports of goods and services": "-37.3%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "2.9%",
+      "industry": "25.1%",
+      "services": "71.9% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "barley, wheat, sugar beets, potatoes; dairy cattle; fish"
+    },
+    "Industries": {
+      "text": "metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing"
+    },
+    "Industrial production growth rate": {
+      "text": "-4.2% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "2.685 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture and forestry": "4.4%",
+      "industry": "15.5%",
+      "construction": "7.1%",
+      "commerce": "21.3%",
+      "finance, insurance, and business services": "13.3%",
+      "transport and communications": "9.9%",
+      "public services": "28.5% (2011)"
+    },
+    "Unemployment rate": {
+      "text": "8.1% (2013 est.)//7.8% (2012 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "3.6%",
+      "highest 10%": "24.7% (2007)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "26.8 (2008)//25.6 (1991)"
+    },
+    "Budget": {
+      "revenues": "$139.4 billion",
+      "expenditures": "$145.3 billion",
+      "note": "Central Government Budget (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "53.7% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.3% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "56.5% of GDP (2013 est.)//53.1% of GDP (2012 est.)",
+      "note": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.2% (2013 est.)//3.2% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "0.75% (31 December 2013)//1.5% (31 December 2010)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "2% (31 December 2013 est.)//2.06% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$130.8 billion (31 December 2013 est.)//$126.5 billion (31 December 2012 est.)",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+    },
+    "Stock of broad money": {
+      "text": "$183.3 billion (31 December 2013 est.)//$182.4 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$267.8 billion (31 December 2013 est.)//$265.3 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$158.7 billion (31 December 2012 est.)//$143.1 billion (31 December 2011)//$118.2 billion (31 December 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$2 billion (2013 est.)//-$3.679 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$75.7 billion (2013 est.)//$76.46 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "electrical and optical equipment, machinery, transport equipment, paper and pulp, chemicals, basic metals; timber"
+    },
+    "Exports - partners": {
+      "text": "Sweden 11.1%, Russia 9.9%, Germany 9.3%, Netherlands 6.3%, US 6.2%, UK 5.1%, China 4.6% (2012)"
+    },
+    "Imports": {
+      "text": "$70.67 billion (2013 est.)//$72.13 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, petroleum and petroleum products, chemicals, transport equipment, iron and steel, machinery, computers, electronic industry products, textile yarn and fabrics, grains"
+    },
+    "Imports - partners": {
+      "text": "Russia 17.7%, Sweden 14.8%, Germany 13.9%, Netherlands 8.1%, China 4.4% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$10.6 billion (31 December 2013 est.)//$11.08 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$586.9 billion (31 December 2012 est.)//$478.5 billion (31 December 2011)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$138.7 billion (31 December 2013 est.)//$134.4 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$197.2 billion (31 December 2013 est.)//$186.7 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar -//0.7634 (2013 est.)//0.7752 (2012 est.)//0.755 (2010 est.)//0.7198 (2009 est.)//0.6827 (2008 est.)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "70.34 billion kWh (2011 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "84.83 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.645 billion kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "19.09 billion kWh (2012 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "16.68 million kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "52.3% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "16.2% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "18.8% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "12.7% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "13,530 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "214,700 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "282,300 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "204,800 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "144,400 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "113,800 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "4.7 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "3.661 billion cu m (2012 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "54.06 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "890,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "9.32 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "modern system with excellent service",
+      "domestic": "digital fiber-optic fixed-line network and an extensive mobile-cellular network provide domestic needs",
+      "international": "country code - 358; submarine cables provide links to Estonia and Sweden; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2011)"
+    },
+    "Broadcast media": {
+      "text": "a mix of publicly operated TV stations and privately owned TV stations; the 2 publicly owned TV stations recently expanded services and the largest private TV station has introduced several special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals have been broadcast digitally since September 2007; analog broadcasts via cable networks were terminated in February 2008; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters (2008)"
+    },
+    "Internet country code": {
+      "text": ".fi; note - Aland Islands assigned .ax"
+    },
+    "Internet hosts": {
+      "text": "4.763 million (2012)"
+    },
+    "Internet users": {
+      "text": "4.393 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "148 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "74",
+      "over 3,047 m": "3",
+      "2,438 to 3,047 m": "26",
+      "1,524 to 2,437 m": "10",
+      "914 to 1,523 m": "21",
+      "under 914 m": "14 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "74",
+      "914 to 1,523 m": "3",
+      "under 914 m": "71 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 1,689 km (2010)"
+    },
+    "Railways": {
+      "total": "5,944 km",
+      "broad gauge": "5,944 km 1.524-m gauge (3,067 km electrified) (2013)"
+    },
+    "Roadways": {
+      "total": "78,000 km",
+      "paved": "50,000 km (includes 700 km of expressways)",
+      "unpaved": "28,000 km",
+      "note": "there 78,000 km of highways, 350,000 km of private and forest roads, and 26,000 km of urban roads giving Finland a total road network of 450,000 km (2012)"
+    },
+    "Waterways": {
+      "text": "8,000 km (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport is used frequently in the summer and is widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finand also maintains 8,200 km of coastal fairways (2013)"
+    },
+    "Merchant marine": {
+      "total": "97",
+      "by type": "bulk carrier 2, cargo 25, carrier 1, chemical tanker 6, container 3, passenger 5, passenger/cargo 16, petroleum tanker 5, roll on/roll off 31, vehicle carrier 3",
+      "foreign-owned": "5 (Cyprus 1, Estonia 2, Iceland 1, Sweden 1)",
+      "registered in other countries": "47 (Bahamas 8, Germany 3, Gibraltar 2, Malta 3, Netherlands 13, Panama 2, Sweden 16) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Finnish Defense Forces (FDF): Army (Puolustusvoimat), Navy (Merivoimat; includes Coastal Defense Forces), Air Force (Ilmavoimat) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for male voluntary and compulsory - and female voluntary - national military and nonmilitary service; service obligation 6-12 months; military obligation to age 60 (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "1,155,368",
+      "females age 16-49": "1,106,193 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "955,151",
+      "females age 16-49": "912,983 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "32,599",
+      "female": "31,416 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "1.47% of GDP (2012)//1.42% of GDP (2011)//1.47% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "various groups in Finland advocate restoration of Karelia and other areas ceded to the Soviet Union, but the Finnish Government asserts no territorial demands"
+    }
+  }
+}

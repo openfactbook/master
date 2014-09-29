@@ -1,0 +1,138 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Open World Factbook -- sample LaTeX template (pre)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% declarations, styles and such
+
+\documentclass[a4paper,10pt,twoside]{report}
+
+\usepackage[utf8x]{inputenc}
+\usepackage{graphicx}
+\usepackage{colortbl}
+\usepackage[export]{adjustbox}
+\usepackage{multicol}
+\usepackage{eurosym}
+
+\textheight     26.0cm
+\textwidth      17.83cm
+\headsep         0.9cm
+\topmargin       0.0cm
+\leftmargin      0.0cm
+\hoffset        -2.8cm
+\voffset        -1.8cm
+\setlength{\evensidemargin}{1.5cm}
+\setlength{\oddsidemargin}{2.2cm}
+\parindent         0ex
+\parskip           4pt
+
+% allow sloppyness
+\frenchspacing \sloppy
+
+% use sensible font
+\renewcommand\familydefault{phv}
+
+% no section numbering, please
+\setcounter{secnumdepth}{-1}
+
+% color petrol 006383
+\newcommand{\myblue}[0]{\color[rgb]{0.0,0.39,0.51}}
+
+% color orange f88f34
+\newcommand{\myorange}[0]{\color[rgb]{0.97,0.56,0.20}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% macros 
+
+\newcommand{\wfbCountry}[2]{
+
+{\myblue\chapter{#1}}
+
+{\sl\large{#2}}
+
+\quad
+
+\thispagestyle{empty}
+
+}
+
+
+
+\newcommand{\wfbFlag}[5]{
+
+{\includegraphics[width={{#3}},frame]{#5}} \\[2ex]
+
+}
+
+
+\newcommand{\wfbMap}[5]{
+
+{\includegraphics[width={{#3}}]{#5}} \\[2ex]
+
+}
+
+
+\newcommand{\wfbLocator}[5]{
+
+{\includegraphics[width={{#3}},frame]{#5}} \\
+
+}
+
+
+\newcommand{\wfbSection}[1]{
+\section{#1}
+}
+
+
+\newcommand{\wfbEndSection}[0]{}
+
+
+\newcommand{\wfbCategory}[1]{
+{\bf\small\myblue{{#1}:}}
+}
+
+
+\newcommand{\wfbEndCategory}[0]{}
+
+
+\newcommand{\wfbText}[1]{
+{\small{{#1}  }}}
+
+
+\newcommand{\wfbSubCategory}[2]{
+{\small{\bf{#1}:} \small{{#2} }}}
+
+
+\newcommand{\wfbBeginMulticols}[0]{
+\begin{multicols}{2}
+}
+
+
+\newcommand{\wfbEndMulticols}[0]{
+\end{multicols}
+}
+
+
+\newcommand{\wfbLastUpdated}[1]{
+
+\quad \\
+
+\hrule
+{\sl\small{#1}}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% document start here
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\pagestyle{headings}
+
+\thispagestyle{empty}
+
+

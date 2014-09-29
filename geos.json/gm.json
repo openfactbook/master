@@ -1,0 +1,642 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "gm",
+    "countryname": "Germany",
+    "flag_orig": "400x246",
+    "last_update": "Page last updated on June 22, 2014",
+    "locator_orig": "468x502",
+    "map_orig": "329x353",
+    "region": "Europe",
+    "regioncode": "eur"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "As Europe's largest economy and second most populous nation (after Russia), Germany is a key member of the continent's economic, political, and defense organizations. European power struggles immersed Germany in two devastating World Wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key Western economic and security organizations, the EC, which became the EU, and NATO, while the communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the USSR and the end of the Cold War allowed for German unification in 1990. Since then, Germany has expended considerable funds to bring Eastern productivity and wages up to Western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Europe, bordering the Baltic Sea and the North Sea, between the Netherlands and Poland, south of Denmark"
+    },
+    "Geographic coordinates": {
+      "text": "51 00 N, 9 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": "357,022 sq km",
+      "land": "348,672 sq km",
+      "water": "8,350 sq km"
+    },
+    "Area - comparative": {
+      "text": "three times the size of Pennsylvania; slightly smaller than Montana"
+    },
+    "Land boundaries": {
+      "total": "3,694 km",
+      "border countries": "Austria 801 km, Belgium 133 km, Czech Republic 704 km, Denmark 140 km, France 418 km, Luxembourg 128 km, Netherlands 575 km, Poland 447 km, Switzerland 348 km"
+    },
+    "Coastline": {
+      "text": "2,389 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "exclusive economic zone": "200 nm",
+      "continental shelf": "200 m depth or to the depth of exploitation"
+    },
+    "Climate": {
+      "text": "temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind"
+    },
+    "Terrain": {
+      "text": "lowlands in north, uplands in center, Bavarian Alps in south"
+    },
+    "Elevation extremes": {
+      "lowest point": "Neuendorf bei Wilster -3.54 m",
+      "highest point": "Zugspitze 2,963 m"
+    },
+    "Natural resources": {
+      "text": "coal, lignite, natural gas, iron ore, copper, nickel, uranium, potash, salt, construction materials, timber, arable land"
+    },
+    "Land use": {
+      "arable land": "33.25%",
+      "permanent crops": "0.56%",
+      "other": "66.19% (2011)"
+    },
+    "Irrigated land": {
+      "text": "5,157 sq km (2006)"
+    },
+    "Total renewable water resources": {
+      "text": "154 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "32.3 cu km/yr (16%/84%/0%)",
+      "per capita": "391.4 cu m/yr (2007)"
+    },
+    "Natural hazards": {
+      "text": "flooding"
+    },
+    "Environment - current issues": {
+      "text": "emissions from coal-burning utilities and industries contribute to air pollution; acid rain, resulting from sulfur dioxide emissions, is damaging forests; pollution in the Baltic Sea from raw sewage and industrial effluents from rivers in eastern Germany; hazardous waste disposal; government established a mechanism for ending the use of nuclear power over the next 15 years; government working to meet EU commitment to identify nature preservation areas in line with the EU's Flora, Fauna, and Habitat directive"
+    },
+    "Environment - international agreements": {
+      "party to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "strategic location on North European Plain and along the entrance to the Baltic Sea"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "German(s)",
+      "adjective": "German"
+    },
+    "Ethnic groups": {
+      "text": "German 91.5%, Turkish 2.4%, other 6.1% (made up largely of Greek, Italian, Polish, Russian, Serbo-Croatian, Spanish)"
+    },
+    "Languages": {
+      "text": "German (official)",
+      "note": "Lower Sorbian, North Frisian, Sater Frisian, and Upper Sorbian are recognized as regional languages under the European Charter for Regional or Minority Languages"
+    },
+    "Religions": {
+      "text": "Protestant 34%, Roman Catholic 34%, Muslim 3.7%, unaffiliated or other 28.3%"
+    },
+    "Population": {
+      "text": "80,996,685 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "13% (male 5,386,525/female 5,107,336)",
+      "15-24 years": "10.6% (male 4,367,713/female 4,188,566)",
+      "25-54 years": "41.7% (male 17,116,346/female 16,664,995)",
+      "55-64 years": "13.6% (male 5,463,221/female 5,574,166)",
+      "65 years and over": "20.9% (male 7,468,552/female 9,659,265) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "52.1 %",
+      "youth dependency ratio": "19.8 %",
+      "elderly dependency ratio": "32.3 %",
+      "potential support ratio": "3.1 (2014 est.)"
+    },
+    "Median age": {
+      "total": "46.1 years",
+      "male": "45.1 years",
+      "female": "47.2 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "-0.18% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "8.42 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "11.29 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.06 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "73.9% of total population (2011)",
+      "rate of urbanization": "-0.03% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "BERLIN (capital) 3.462 million; Hamburg 1.796 million; Munich 1.364 million; Cologne 1.006 million (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.06 male(s)/female",
+      "0-14 years": "1.06 male(s)/female",
+      "15-24 years": "1.04 male(s)/female",
+      "25-54 years": "1.03 male(s)/female",
+      "55-64 years": "0.97 male(s)/female",
+      "65 years and over": "0.76 male(s)/female",
+      "total population": "0.97 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "29.2 (2012 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "7 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "3.46 deaths/1,000 live births",
+      "male": "3.75 deaths/1,000 live births",
+      "female": "3.14 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "80.44 years",
+      "male": "78.15 years",
+      "female": "82.86 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.43 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "66.2%",
+      "note": "percent of women aged 18-49 (2005)"
+    },
+    "Health expenditures": {
+      "text": "11.1% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "3.69 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "8.3 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 100% of population; rural: 100% of population; total: 100% of population",
+      "unimproved": "urban: 0% of population; rural: 0% of population; total: 0% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 100% of population; rural: 100% of population; total: 100% of population",
+      "unimproved": "urban: 0% of population; rural: 0% of population; total: 0% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "67,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 1,000 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "25.1% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "1.1% (2006)"
+    },
+    "Education expenditures": {
+      "text": "5.1% of GDP (2010)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "99%",
+      "male": "99%",
+      "female": "99% (2003 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "16 years",
+      "male": "16 years",
+      "female": "16 years (2011)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "8.1%",
+      "male": "8.8%",
+      "female": "7.4% (2012)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Federal Republic of Germany",
+      "conventional short form": "Germany",
+      "local long form": "Bundesrepublik Deutschland",
+      "local short form": "Deutschland",
+      "former": "German Empire, German Republic, German Reich"
+    },
+    "Government type": {
+      "text": "federal republic"
+    },
+    "Capital": {
+      "name": "Berlin",
+      "geographic coordinates": "52 31 N, 13 24 E",
+      "time difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+      "daylight saving time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+    },
+    "Administrative divisions": {
+      "text": "16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat)"
+    },
+    "Independence": {
+      "text": "18 January 1871 (establishment of the German Empire); divided into four zones of occupation (UK, US, USSR, and France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed on 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed on 7 October 1949 and included the former USSR zone; West Germany and East Germany unified on 3 October 1990; all four powers formally relinquished rights on 15 March 1991; notable earlier dates: 10 August 843 (Eastern Francia established from the division of the Carolingian Empire); 2 February 962 (crowning of OTTO I, recognized as the first Holy Roman Emperor)"
+    },
+    "National holiday": {
+      "text": "Unity Day, 3 October (1990)"
+    },
+    "Constitution": {
+      "text": "previous 1919 (Weimar Constitution); latest drafted 10 to 23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949; amended many times, last in 2012 (2012)"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Joachim GAUCK (since 23 March 2012)",
+      "head of government": "Chancellor Angela MERKEL (since 22 November 2005)",
+      "cabinet": "Cabinet or Bundesminister (Federal Ministers) appointed by the president on the recommendation of the chancellor",
+      "elections": "president elected for a five-year term (eligible for a second term) by a Federal Convention, including all members of the Federal Parliament (Bundestag) and an equal number of delegates elected by the state parliaments; election last held on 19 February 2012 (next to be held by June 2017); chancellor elected by an absolute majority of the Federal Parliament for a four-year term; Federal Parliament vote for Chancellor last held on 17 December 2013 (next to be held after the September 2017 elections)",
+      "election results": "Joachim GAUCK elected president; received 991 votes of the Federal Convention against 126 for Beate KLARSFELD and 3 for Olaf ROSE; Angela MERKEL reelected chancellor; vote by Federal Parliament 462 to 150 with four abstentions"
+    },
+    "Legislative branch": {
+      "text": "bicameral legislature consists of the Federal Council or Bundesrat (69 votes; state governments sit in the Council; each has three to six votes in proportion to population and is required to vote as a block) and the Federal Parliament or Bundestag (630 seats; members elected by popular vote for a four-year term under a system of personalized proportional representation; a party must win 5% of the national vote or three direct mandates to gain proportional representation and caucus recognition)",
+      "elections": "Bundestag - last held on 22 September 2013 (next to be held no later than autumn 2017); most all postwar German governments have been coalitions; note - there are no elections for the Bundesrat; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election",
+      "election results": "Bundestag - percent of vote by party - CDU/CSU 41.5%, SPD 25.7%, Left 8.6%, Greens 8.4%, FDP 4.8%, other 10.9%; seats by party - CDU/CSU 311, SPD 193, Left 64, Greens 63"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Federal Court of Justice (court consists of 127 judges including the court president, vice-presidents, presiding judges, and other judges, and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels; Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)",
+      "judge selection and term of office": "Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated States and 16 members appointed by the Federal Parliament; judges appointed by the president of Germany; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68",
+      "subordinate courts": "Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 German states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance '90/Greens [Cem OEZDEMIR and Simone PETER]//Christian Democratic Union or CDU [Angela MERKEL]//Christian Social Union or CSU [Horst SEEHOFER]//Free Democratic Party or FDP [Christian LINDNER]//Left Party or Die Linke [Katia KIPPING and Bernd RIEXINGER]//Social Democratic Party or SPD [Sigmar GABRIEL]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "business associations and employers' organizations//trade unions; religious, immigrant, expellee, and veterans groups"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-20, G-5, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Hans Peter WITTIG (since 21 May 2014)",
+      "chancery": "2300 M Street NW, Washington, DC 20037",
+      "telephone": "[1] (202) 298-4000",
+      "FAX": "[1] (202) 298-4261",
+      "consulate(s) general": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador John B. EMERSON (since 7 August 2013)",
+      "embassy": "Pariser Platz 2, 10117 Berlin",
+      "mailing address": "Unit 5090, Box 1000, DPO AE09265",
+      "telephone": "[49] (30) 48305-0",
+      "FAX": "[49] (30) 8305-1215",
+      "consulate(s) general": "Duesseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich"
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of black (top), red, and gold; these colors have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field"
+    },
+    "National symbol(s)": {
+      "text": "golden eagle"
+    },
+    "National anthem": {
+      "name": "\"Das Lied der Deutschen\" (Song of the Germans)",
+      "lyrics/music": "August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN",
+      "note": "adopted 1922; the anthem, also known as \"Deutschlandlied\" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, \"Deutschland, Deutschland ueber alles\" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The German economy - the fifth largest economy in the world in PPP terms and Europe's largest - is a leading exporter of machinery, vehicles, chemicals, and household equipment and benefits from a highly skilled labor force. Like its Western European neighbors, Germany faces significant demographic challenges to sustained long-term growth. Low fertility rates and declining net immigration are increasing pressure on the country's social welfare system and necessitate structural reforms. Reforms launched by the government of Chancellor Gerhard SCHROEDER (1998-2005), deemed necessary to address chronically high unemployment and low average growth, has contributed to strong growth and falling unemployment. These advances, as well as a government subsidized, reduced working hour scheme, help explain the relatively modest increase in unemployment during the 2008-09 recession - the deepest since World War II - and its decrease to 5.3% in 2013. The new German government introduced a minimum wage of $11 per hour to take effect in 2015. Stimulus and stabilization efforts initiated in 2008 and 2009 and tax cuts introduced in Chancellor Angela MERKEL's second term increased Germany's total budget deficit - including federal, state, and municipal - to 4.1% in 2010, but slower spending and higher tax revenues reduced the deficit to 0.8% in 2011 and in 2012 Germany reached a budget surplus of 0.1%. A constitutional amendment approved in 2009 limits the federal government to structural deficits of no more than 0.35% of GDP per annum as of 2016 though the target was already reached in 2012. Following the March 2011 Fukushima nuclear disaster, Chancellor Angela MERKEL announced in May 2011 that eight of the country's 17 nuclear reactors would be shut down immediately and the remaining plants would close by 2022. Germany hopes to replace nuclear power with renewable energy. Before the shutdown of the eight reactors, Germany relied on nuclear power for 23% of its electricity generating capacity and 46% of its base-load electricity production."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$3.227 trillion (2013 est.)//$3.211 trillion (2012 est.)//$3.182 trillion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$3.593 trillion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "0.5% (2013 est.)//0.9% (2012 est.)//3.4% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$39,500 (2013 est.)//$39,200 (2012 est.)//$38,900 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "24.7% of GDP (2013 est.)//24.3% of GDP (2012 est.)//24.4% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "57.6%",
+      "government consumption": "19.4%",
+      "investment in fixed capital": "17.5%",
+      "investment in inventories": "0.1%",
+      "exports of goods and services": "49.5%",
+      "imports of goods and services": "-44.1%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "0.8%",
+      "industry": "30.1%",
+      "services": "69%; (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "potatoes, wheat, barley, sugar beets, fruit, cabbages; milk products; cattle, pigs, poultry"
+    },
+    "Industries": {
+      "text": "among the world's largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "-0.3% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "44.2 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "1.6%",
+      "industry": "24.6%",
+      "services": "73.8%; (2011)"
+    },
+    "Unemployment rate": {
+      "text": "5.3% (2013 est.)//5.5% (2012 est.)"
+    },
+    "Population below poverty line": {
+      "text": "15.5% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "3.6%",
+      "highest 10%": "24% (2000)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "27 (2006)//30 (1994)"
+    },
+    "Budget": {
+      "revenues": "$1.626 trillion",
+      "expenditures": "$1.624 trillion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "45.3% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0.1% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "79.9% of GDP (2013 est.)//81% of GDP (2012 est.)",
+      "note": "general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; the series are presented as a percentage of GDP and in millions of euro; GDP used as a denominator is the gross domestic product at current market prices; data expressed in national currency are converted into euro using end-of-year exchange rates provided by the European Central Bank"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.6% (2013 est.)//2.1% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "0.75% (31 December 2013)//1.5% (31 December 2010)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "2.8% (31 December 2013 est.)//3.07% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$2.158 trillion (31 December 2013 est.)//$2.025 trillion (31 December 2012 est.)",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+    },
+    "Stock of broad money": {
+      "text": "$4.551 trillion (31 December 2013 est.)//$4.342 trillion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$4.457 trillion (31 December 2013 est.)//$4.277 trillion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.486 trillion (31 December 2012 est.)//$1.184 trillion (31 December 2011)//$1.43 trillion (31 December 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "$257.1 billion (2013 est.)//$238.5 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$1.493 trillion (2013 est.)//$1.46 trillion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "motor vehicles, machinery, chemicals, computer and electronic products, electrical equipment, pharmaceuticals, metals, transport equipment, foodstuffs, textiles, rubber and plastic products"
+    },
+    "Exports - partners": {
+      "text": "France 9.21%, United States 7.85%, United Kingdom 6.53%, Netherlands 6.33%, China 5.91%, Italy 5.05%, Austria 5.03%, Switzerland 4.3%, Belgium 4.04% (2013 est.)"
+    },
+    "Imports": {
+      "text": "$1.233 trillion (2013 est.)//$1.222 trillion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery, data processing equipment, vehicles, chemicals, oil and gas, metals, electric equipment, pharmaceuticals, foodstuffs, agricultural products"
+    },
+    "Imports - partners": {
+      "text": "Netherlands 12.88%, France 7.61%, China 6.25%, Belgium 6.13%, Italy 5.31%, United Kingdom 4.61%, Austria 4.33%, United States 4.19%, Switzerland 4.3%, Austria 4.1%, Poland 4% (2013 est.)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$248.9 billion (31 December 2012 est.)//$238.9 billion (31 December 2011 est.)"
+    },
+    "Debt - external": {
+      "text": "$5.717 trillion (31 December 2012 est.)//$5.338 trillion (31 December 2011)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.335 trillion (31 December 2013 est.)//$1.307 trillion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.871 trillion (31 December 2013 est.)//$1.788 trillion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar -//0.7634 (2013 est.)//0.7752 (2012 est.)//0.755 (2010 est.)//0.7198 (2009 est.)//0.6827 (2008 est.)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "526.6 billion kWh (2012 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "582.5 billion kWh (2012 est.)"
+    },
+    "Electricity - exports": {
+      "text": "66.81 billion kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "46.27 billion kWh (2012 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "178.4 million kW (2012 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "51% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "7% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "6% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "36% of total installed capacity (2012 est.)"
+    },
+    "Crude oil - production": {
+      "text": "169,500 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "14,260 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "1.876 million bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "254.2 million bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "2.198 million bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "2.4 million bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "376,600 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "758,100 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "9 billion cu m (2012 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "75.2 billion cu m (2012 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "18.17 billion cu m (2012 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "87.96 billion cu m (2012 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "125 billion cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "814 million Mt (2012 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "50.7 million (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "107.7 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "Germany has one of the world's most technologically advanced telecommunications systems; as a result of intensive capital expenditures since reunification, the formerly backward system of the eastern part of the country, dating back to World War II, has been modernized and integrated with that of the western part",
+      "domestic": "Germany is served by an extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to many foreign countries",
+      "international": "country code - 49; Germany's international service is excellent worldwide, consisting of extensive land and undersea cable facilities as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2011)"
+    },
+    "Broadcast media": {
+      "text": "a mixture of publicly operated and privately owned TV and radio stations; national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations including multiple national radio networks, regional radio networks, and a large number of local radio stations (2008)"
+    },
+    "Internet country code": {
+      "text": ".de"
+    },
+    "Internet hosts": {
+      "text": "20.043 million (2012)"
+    },
+    "Internet users": {
+      "text": "65.125 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "539 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "318",
+      "over 3,047 m": "14",
+      "2,438 to 3,047 m": "49",
+      "1,524 to 2,437 m": "60",
+      "914 to 1,523 m": "70",
+      "under 914 m": "125 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "221",
+      "1,524 to 2,437 m": "1",
+      "914 to 1,523 m": "35",
+      "under 914 m": "185 (2013)"
+    },
+    "Heliports": {
+      "text": "23 (2013)"
+    },
+    "Pipelines": {
+      "text": "condensate 37 km; gas 26,985 km; oil 2,826 km; refined products 4,479 km; water 8 km (2013)"
+    },
+    "Railways": {
+      "total": "41,981 km",
+      "standard gauge": "41,722 km 1.435-m gauge (20,053 km electrified)",
+      "narrow gauge": "220 km 1.000-m gauge (75 km electrified); 39 km 0.750-m gauge (24 km electrified) (2008)"
+    },
+    "Roadways": {
+      "total": "645,000 km",
+      "paved": "645,000 km (includes 12,800 km of expressways)",
+      "note": "includes local roads (2010)"
+    },
+    "Waterways": {
+      "text": "7,467 km (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea) (2012)"
+    },
+    "Merchant marine": {
+      "total": "427",
+      "by type": "barge carrier 2, bulk carrier 6, cargo 51, carrier 1, chemical tanker 15, container 298, liquefied gas 6, passenger 4, passenger/cargo 24, petroleum tanker 10, refrigerated cargo 3, roll on/roll off 6, vehicle carrier 1",
+      "foreign-owned": "6 (Finland 3, Netherlands 1, Switzerland 2)",
+      "registered in other countries": "3,420 (Antigua and Barbuda 1094, Australia 2, Bahamas 30, Bermuda 14, Brazil 6, Bulgaria 12, Burma 1, Cayman Islands 3, Cook Islands 1, Curacao 25, Cyprus 192, Denmark 9, Dominica 5, Estonia 1, France 1, Gibraltar 123, Hong Kong 10, Isle of Man 56, Jamaica 10, Liberia 1185, Luxembourg 9, Malta 135, Marshall Islands 248, Morocco 1, Netherlands 86, NZ 2, Panama 24, Papua New Guinea 1, Philippines 2, Portugal 14, Saint Vincent and the Grenadines 3, Singapore 32, Slovakia 3, Spain 4, Sri Lanka 8, Sweden 3, UK 59, US 5, Venezuela 1) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Baltic Sea - Rostock; North Sea - Wilhelmshaven",
+      "river port(s)": "Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Brunsbuttel, Hamburg (Elbe); Lubeck (Wakenitz)",
+      "oil/gas terminal(s)": "Brunsbuttel Canal terminals",
+      "container port(s)": "Bremen/Bremerhaven (5,915,487), Hamburg (9,014,165)(2011)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Federal Armed Forces (Bundeswehr): Army (Heer); Navy (Deutsche Marine, includes naval air arm); Air Force (Luftwaffe); Joint Support Services (Streitkraeftebasis, SKB); Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "17-23 years of age for male and female voluntary military service; conscription ended 1 July 2011; service obligation 8-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2013)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "18,529,299",
+      "females age 16-49": "17,888,543 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "15,027,886",
+      "females age 16-49": "14,510,527 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "405,438",
+      "female": "384,930 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "1.35% of GDP (2012)//1.34% of GDP (2011)//1.35% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": "40,230 (Iraq); 24,449 (Turkey); 24,203 (Afghanistan); 21,253 (Syria); 17,150 (Iran); 8,410 (Serbia) (2013)",
+      "stateless persons": "5,683 (2012)"
+    },
+    "Illicit drugs": {
+      "text": "source of precursor chemicals for South American cocaine processors; transshipment point for and consumer of Southwest Asian heroin, Latin American cocaine, and European-produced synthetic drugs; major financial center"
+    }
+  }
+}

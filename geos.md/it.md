@@ -1,0 +1,679 @@
+# Italy
+
+![Flag of Italy](../flags.png/it.png)
+
+![Location of Italy](../locator-orig.png/it.png)
+
+![Map of Italy](../maps-orig.png/it.png)
+
+
+## Introduction
+
+**_Background:_**   
+Italy became a nation-state in 1861 when the regional states of the peninsula, along with Sardinia and Sicily, were united under King Victor EMMANUEL II. An era of parliamentary government came to a close in the early 1920s when Benito MUSSOLINI established a Fascist dictatorship. His alliance with Nazi Germany led to Italy's defeat in World War II. A democratic republic replaced the monarchy in 1946 and economic revival followed. Italy is a charter member of NATO and the European Economic Community (EEC). It has been at the forefront of European economic and political unification, joining the Economic and Monetary Union in 1999. Persistent problems include sluggish economic growth, high youth and female unemployment, organized crime, corruption, and economic disparities between southern Italy and the more prosperous north.
+
+
+## Geography
+
+**_Location:_**   
+Southern Europe, a peninsula extending into the central Mediterranean Sea, northeast of Tunisia
+
+**_Geographic coordinates:_**   
+42 50 N, 12 50 E
+
+**_Map references:_**   
+Europe
+
+**_Area:_**   
+**total:** 301,340 sq km   
+**land:** 294,140 sq km   
+**water:** 7,200 sq km   
+**note:** includes Sardinia and Sicily
+
+**_Area - comparative:_**   
+almost twice the size of Georgia; slightly larger than Arizona
+
+**_Land boundaries:_**   
+**total:** 1,836 km   
+**border countries:** Austria 404 km, France 476 km, Holy See (Vatican City) 3 km, San Marino 37 km, Slovenia 218 km, Switzerland 698 km
+
+**_Coastline:_**   
+7,600 km
+
+**_Maritime claims:_**   
+**territorial sea:** 12 nm   
+**continental shelf:** 200 m depth or to the depth of exploitation
+
+**_Climate:_**   
+predominantly Mediterranean; Alpine in far north; hot, dry in south
+
+**_Terrain:_**   
+mostly rugged and mountainous; some plains, coastal lowlands
+
+**_Elevation extremes:_**   
+**lowest point:** Mediterranean Sea 0 m   
+**highest point:** Mont Blanc (Monte Bianco) de Courmayeur 4,748 m (a secondary peak of Mont Blanc)
+
+**_Natural resources:_**   
+coal, mercury, zinc, potash, marble, barite, asbestos, pumice, fluorspar, feldspar, pyrite (sulfur), natural gas and crude oil reserves, fish, arable land
+
+**_Land use:_**   
+**arable land:** 22.57%   
+**permanent crops:** 8.37%   
+**other:** 69.07% (2011)
+
+**_Irrigated land:_**   
+39,510 sq km (2007)
+
+**_Total renewable water resources:_**   
+191.3 cu km (2011)
+
+**_Freshwater withdrawal (domestic/industrial/agricultural):_**   
+**total:** 45.41 cu km/yr (24%/43%/34%)   
+**per capita:** 789.8 cu m/yr (2008)
+
+**_Natural hazards:_**   
+regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venice   
+**volcanism:** significant volcanic activity; Etna (elev. 3,330 m), which is in eruption as of 2010, is Europe's most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini
+
+**_Environment - current issues:_**   
+air pollution from industrial emissions such as sulfur dioxide; coastal and inland rivers polluted from industrial and agricultural effluents; acid rain damaging lakes; inadequate industrial waste treatment and disposal facilities
+
+**_Environment - international agreements:_**   
+**party to:** Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling   
+**signed, but not ratified:** none of the selected agreements
+
+**_Geography - note:_**   
+strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe
+
+
+## People and Society
+
+**_Nationality:_**   
+**noun:** Italian(s)   
+**adjective:** Italian
+
+**_Ethnic groups:_**   
+Italian (includes small clusters of German-, French-, and Slovene-Italians in the north and Albanian-Italians and Greek-Italians in the south)
+
+**_Languages:_**   
+Italian (official), German (parts of Trentino-Alto Adige region are predominantly German-speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)
+
+**_Religions:_**   
+Christian 80% (overwhelmingly Roman Catholic with very small groups of Jehovah's Witnesses and Protestants), Muslim (about 800,000 to 1 million), Atheist and Agnostic 20%
+
+**_Population:_**   
+61,680,122 (July 2014 est.)
+
+**_Age structure:_**   
+**0-14 years:** 13.8% (male 4,340,943/female 4,154,547)   
+**15-24 years:** 9.8% (male 3,046,202/female 3,028,190)   
+**25-54 years:** 43% (male 13,107,098/female 13,405,812)   
+**55-64 years:** 12.4% (male 3,703,329/female 3,942,261)   
+**65 years and over:** 20.8% (male 5,548,047/female 7,403,693) (2014 est.)
+
+**_Dependency ratios:_**   
+**total dependency ratio:** 55 %   
+**youth dependency ratio:** 21.8 %   
+**elderly dependency ratio:** 33.3 %   
+**potential support ratio:** 3 (2014 est.)
+
+**_Median age:_**   
+**total:** 44.5 years   
+**male:** 43.3 years   
+**female:** 45.6 years (2014 est.)
+
+**_Population growth rate:_**   
+0.3% (2014 est.)
+
+**_Birth rate:_**   
+8.84 births/1,000 population (2014 est.)
+
+**_Death rate:_**   
+10.1 deaths/1,000 population (2014 est.)
+
+**_Net migration rate:_**   
+4.29 migrant(s)/1,000 population (2014 est.)
+
+**_Urbanization:_**   
+**urban population:** 68.4% of total population (2011)   
+**rate of urbanization:** 0.49% annual rate of change (2010-15 est.)
+
+**_Major urban areas - population:_**   
+ROME (capital) 3.298 million; Milan 2.909 million; Naples 2.373 million; Turin 1.613 million; Palermo 915,000; Bergamo 784,000 (2011)
+
+**_Sex ratio:_**   
+**at birth:** 1.06 male(s)/female   
+**0-14 years:** 1.05 male(s)/female   
+**15-24 years:** 1.01 male(s)/female   
+**25-54 years:** 0.98 male(s)/female   
+**55-64 years:** 0.93 male(s)/female   
+**65 years and over:** 0.74 male(s)/female   
+**total population:** 0.93 male(s)/female (2014 est.)
+
+**_Mother's mean age at first birth:_**   
+30.3 (2011 est.)
+
+**_Maternal mortality rate:_**   
+4 deaths/100,000 live births (2010)
+
+**_Infant mortality rate:_**   
+**total:** 3.31 deaths/1,000 live births   
+**male:** 3.51 deaths/1,000 live births   
+**female:** 3.1 deaths/1,000 live births (2014 est.)
+
+**_Life expectancy at birth:_**   
+**total population:** 82.03 years   
+**male:** 79.4 years   
+**female:** 84.82 years (2014 est.)
+
+**_Total fertility rate:_**   
+1.42 children born/woman (2014 est.)
+
+**_Health expenditures:_**   
+9.5% of GDP (2011)
+
+**_Physicians density:_**   
+3.8 physicians/1,000 population (2009)
+
+**_Hospital bed density:_**   
+3.5 beds/1,000 population (2010)
+
+**_Drinking water source:_**   
+**improved:** urban: 100% of population; rural: 100% of population; total: 100% of population   
+**unimproved:** urban: 0% of population; rural: 0% of population; total: 0% of population (2012 est.)
+
+**_HIV/AIDS - adult prevalence rate:_**   
+0.3% (2009 est.)
+
+**_HIV/AIDS - people living with HIV/AIDS:_**   
+140,000 (2009 est.)
+
+**_HIV/AIDS - deaths:_**   
+fewer than 1,000 (2009 est.)
+
+**_Obesity - adult prevalence rate:_**   
+19.8% (2008)
+
+**_Education expenditures:_**   
+4.5% of GDP (2010)
+
+**_Literacy:_**   
+**definition:** age 15 and over can read and write   
+**total population:** 99%   
+**male:** 99.2%   
+**female:** 98.7% (2011 est.)
+
+**_School life expectancy (primary to tertiary education):_**   
+**total:** 16 years   
+**male:** 16 years   
+**female:** 17 years (2011)
+
+**_Unemployment, youth ages 15-24:_**   
+**total:** 35.3%   
+**male:** 33.7%   
+**female:** 37.5% (2012)
+
+
+## Government
+
+**_Country name:_**   
+**conventional long form:** Italian Republic   
+**conventional short form:** Italy   
+**local long form:** Repubblica Italiana   
+**local short form:** Italia   
+**former:** Kingdom of Italy
+
+**_Government type:_**   
+republic
+
+**_Capital:_**   
+**name:** Rome   
+**geographic coordinates:** 41 54 N, 12 29 E   
+**time difference:** UTC+1 (6 hours ahead of Washington, DC, during Standard Time)   
+**daylight saving time:** +1hr, begins last Sunday in March; ends last Sunday in October
+
+**_Administrative divisions:_**   
+15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma)   
+**regions:** Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto (Venetia)   
+**autonomous regions:** Friuli-Venezia Giulia; Sardegna (Sardinia); Sicilia (Sicily); Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German); Valle d'Aosta (Aosta Valley) or Vallee d'Aoste (French)
+
+**_Independence:_**   
+17 March 1861 (Kingdom of Italy proclaimed; Italy was not finally unified until 1870)
+
+**_National holiday:_**   
+Republic Day, 2 June (1946)
+
+**_Constitution:_**   
+previous 1848 (originally for Kingdom of Sardinia and adopted by Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948; amended many times, last in 2012 (2013)
+
+**_Legal system:_**   
+civil law system; judicial review of legislation under certain conditions in Constitutional Court
+
+**_International law organization participation:_**   
+has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
+
+**_Suffrage:_**   
+18 years of age; universal except in senatorial elections, where minimum age is 25
+
+**_Executive branch:_**   
+**chief of state:** President Giorgio NAPOLITANO (since 15 May 2006)   
+**head of government:** Prime Minister Matteo RENZI (since 22 February 2014); note - the prime minister is referred to as the President of the Council of Ministers   
+**cabinet:** Council of Ministers proposed by the prime minister and nominated by the President of the Republic   
+**elections:** president elected by an electoral college consisting of both houses of parliament and 58 regional representatives for a seven-year term (no term limits); election last held on 18-20 April 2013 (next scheduled for 2020); prime minister appointed by the president and confirmed by parliament; national parliamentary elections were last held on 24-25 February 2013   
+**election results:** Giorgio NAPOLITANO elected president on the sixth round of voting; electoral college vote - 738 out of a possible 1,007 (504 votes required); Enrico LETTA sworn in as prime minister on 28 April 2013 following formal talks between the center-left Democratic Party (PD), the center-right People of Freedom party (PdL), the centrist Civic Choice, and President NAPOLITANO that also led to the creation of a broad coalition government; the talks coming after the February 2013 legislative election produced a stalemate that impeded government formation; the PdL split into the Forza Italia and the New Center Right (NCD) in November 2013 and only the NCD remained in the governing coalition
+
+**_Legislative branch:_**   
+bicameral Parliament or Parlamento consists of the Senate or Senato della Repubblica (321 seats; members elected by proportional vote with the winning coalition in each region receiving 55% of seats from that region; members to serve five-year terms; and up to 5 senators for life appointed by the president of the Republic) and the Chamber of Deputies or Camera dei Deputati (630 seats; members elected by popular vote with the winning national coalition receiving 54% of chamber seats; members to serve five-year terms); note - it has not been clarified if each president has the power to designate up to five senators or if five is the number of senators for life who might sit in the Senate   
+**elections:** Senate - last held on 24-25 February 2013 (next to be held in 2018); Chamber of Deputies - last held on 24-25 February 2013 (next to be held in 2018)   
+**election results:** Senate - percent of vote by party - NA; seats by party - center-left coalition [Pier Luigi BERSANI] 123 (PD 111, SEL 7, SVP 2, other 3), center-right coalition [Silvio BERLUSCONI] 117 (PdL 98, LN 18, other 1), M5S 54, centrist coalition [Mario MONTI] 19, other 2; Chamber of Deputies - percent of vote by party - NA; seats by party - center-left coalition [Pier Luigi BERSANI] 345 (PD 297, SEL 37, CD 6 SVP 5), center-right coalition [Silvio BERLUSCONI] 125 (PdL 98, LN 18, FdI 9), M5S 109, centrist coalition [Mario MONTI] 47, other 4; note - President NAPOLITANO dissolved Parliament on 22 December 2012
+
+**_Judicial branch:_**   
+**highest court(s):** Supreme Court of Cassation or Corte Suprema di Cassazione (organized into penal, civil, administrative, and military divisions, each with a president and several judges); Constitutional Court or Corte Costituzionale (consists of 15 judges)   
+**judge selection and term of office:** Supreme Court judges appointed by the Superior Council of the Judiciary, headed by the president, to serve NA terms; Constitutional Court judges - 5 appointed by the president, 5 elected by parliament, 5 elected by select higher courts; judges serve up to 9 years)   
+**subordinate courts:** various lower civil and criminal courts (primary and secondary tribunals, courts, and courts of appeal)
+
+**_Political parties and leaders:_**   
+**Center-right parties:** :; Forza Italia [Silvio BERLUSCONI]; The New Center-Right or NCD [Angelino ALFANO]; Northern League or LN [Roberto MARONI]; Brothers of Italy or Fdl [Giorgia MELONI, Ignazio LA RUSSA, and Guido CROSETTO]; The Right or LD [Francesco STORACE]; other minor parties;   
+**Center-left parties:** :; Democratic Party or PD [Matteo RENZI]; Left Ecology Freedom or SEL [Nichi VENDOLA]; Italian Socialist Party or PSI [Riccardo NENCINI]; Democratic Centre or CD [Bruno TABACCI and Massimo DONADI]; South Tyrolean People's Party or SVP [Arno KOMPATSCHER];   
+**Centrist parties:** :; Civic Choice or SC [Alberto BOMBASSEI]; Union of the Center or UdC [Pier Ferdinando CASINI]; Future and Freedom for Italy or FLI [vacant];   
+**other coalitions and parties:** :; Five Star Movment or M5S [Beppe GRILLO]; Civil Revolution or RC [Antonio INGROIA]; Act to Stop the Decline or FiD [Michele BOLDRIN]
+
+**_Political pressure groups and leaders:_**   
+manufacturers and merchants associations - Confcommercio; Confindustria   
+organized farm groups - Confcoltivatori; Confagricoltura; Roman Catholic Church   
+three major trade union confederations - Confederazione Generale Italiana del Lavoro or CGIL [Susanna CAMUSSO] which is left wing; Confederazione Italiana dei Sindacati Lavoratori or CISL [Raffaele BONANNI], which is Roman Catholic centrist; Unione Italiana del Lavoro or UIL [Luigi ANGELETTI] which is lay centrist
+
+**_International organization participation:_**   
+ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-20, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMISS, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC
+
+**_Diplomatic representation in the US:_**   
+**chief of mission:** Ambassador Claudio BISOGNIERO (since 13 January 2012)   
+**chancery:** 3000 Whitehaven Street NW, Washington, DC 20008   
+**telephone:** [1] (202) 612-4400   
+**FAX:** [1] (202) 518-2154   
+**consulate(s) general:** Boston, Chicago, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco   
+**consulate(s):** Detroit, Newark (NJ), San Francisco
+
+**_Diplomatic representation from the US:_**   
+**chief of mission:** Ambassador John R. PHILLIPS (since 16 August 2013); note - also accredited to San Marino   
+**embassy:** Via Vittorio Veneto 121, 00187-Rome   
+**mailing address:** PSC 59, Box 100, APO AE 09624   
+**telephone:** [39] (06) 46741   
+**FAX:** [39] (06) 4674-2244   
+**consulate(s) general:** Florence, Milan, Naples
+
+**_Flag description:_**   
+three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag brought to Italy by Napoleon in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard   
+**note:** similar to the flag of Mexico, which is longer, uses darker shades of red and green, and has its coat of arms centered on the white band; Ireland, which is longer and is green (hoist side), white, and orange; also similar to the flag of the Cote d'Ivoire, which has the colors reversed - orange (hoist side), white, and green
+
+**_National symbol(s):_**   
+white, five-pointed star (Stella d'Italia)
+
+**_National anthem:_**   
+**name:** "Il Canto degli Italiani" (The Song of the Italians)   
+**lyrics/music:** Goffredo MAMELI/Michele NOVARO   
+**note:** adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli D'Italia" (Brothers of Italy)
+
+
+## Economy
+
+**_Economy - overview:_**   
+Italy has a diversified industrial economy, which is divided into a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, where unemployment is higher. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors. Italy is the third-largest economy in the euro-zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, topping 133% of GDP in 2013, but investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's long-standing structural impediments to growth, such as labor market inefficiencies and widespread tax evasion. In 2013 economic growth and labor market conditions deteriorated, with growth at -1.8% and unemployment rising to 12.4%, with youth unemployment around 40%. Italy's GDP is now 8% below its 2007 pre-crisis level.
+
+**_GDP (purchasing power parity):_**   
+$1.805 trillion (2013 est.)   
+$1.838 trillion (2012 est.)   
+$1.883 trillion (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_GDP (official exchange rate):_**   
+$2.068 trillion (2013 est.)
+
+**_GDP - real growth rate:_**   
+-1.8% (2013 est.)   
+-2.4% (2012 est.)   
+0.4% (2011 est.)
+
+**_GDP - per capita (PPP):_**   
+$29,600 (2013 est.)   
+$29,800 (2012 est.)   
+$30,100 (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_Gross national saving:_**   
+17.4% of GDP (2013 est.)   
+16.9% of GDP (2012 est.)   
+16.4% of GDP (2011 est.)
+
+**_GDP - composition, by end use:_**   
+**household consumption:** 60%   
+**government consumption:** 20.6%   
+**investment in fixed capital:** 17.6%   
+**investment in inventories:** -0.3%   
+**exports of goods and services:** 30.1%   
+**imports of goods and services:** -27.9%; (2013 est.)
+
+**_GDP - composition, by sector of origin:_**   
+**agriculture:** 2%   
+**industry:** 24.4%   
+**services:** 73.5% (2013 est.)
+
+**_Agriculture - products:_**   
+fruits, vegetables, grapes, potatoes, sugar beets, soybeans, grain, olives; beef, dairy products; fish
+
+**_Industries:_**   
+tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics
+
+**_Industrial production growth rate:_**   
+-2.7% (2013 est.)
+
+**_Labor force:_**   
+25.74 million (2013 est.)
+
+**_Labor force - by occupation:_**   
+**agriculture:** 3.9%   
+**industry:** 28.3%   
+**services:** 67.8% (2011)
+
+**_Unemployment rate:_**   
+12.4% (2013 est.)   
+10.7% (2012 est.)
+
+**_Population below poverty line:_**   
+29.9% (2012)
+
+**_Household income or consumption by percentage share:_**   
+**lowest 10%:** 2.3%   
+**highest 10%:** 26.8% (2000)
+
+**_Distribution of family income - Gini index:_**   
+31.9 (2012 est.)   
+27.3 (1995)
+
+**_Budget:_**   
+**revenues:** $984 billion   
+**expenditures:** $1.052 trillion (2013 est.)
+
+**_Taxes and other revenues:_**   
+47.6% of GDP (2013 est.)
+
+**_Budget surplus (+) or deficit (-):_**   
+-3.3% of GDP (2013 est.)
+
+**_Public debt:_**   
+133% of GDP (2013 est.)   
+126.9% of GDP (2012 est.)   
+**note:** Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the central government, state government, local government and social security funds
+
+**_Fiscal year:_**   
+calendar year
+
+**_Inflation rate (consumer prices):_**   
+1.2% (2013 est.)   
+3% (2012 est.)
+
+**_Central bank discount rate:_**   
+0.25% (31 December 2013)   
+0.75% (31 December 2012)   
+**note:** this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area
+
+**_Commercial bank prime lending rate:_**   
+5.2% (31 December 2013 est.)   
+5.22% (31 December 2012 est.)
+
+**_Stock of narrow money:_**   
+$1.138 trillion (31 December 2013 est.)   
+$1.162 trillion (31 December 2012 est.)   
+**note:** see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders
+
+**_Stock of broad money:_**   
+$2.15 trillion (31 December 2013 est.)   
+$2.134 trillion (31 December 2012 est.)
+
+**_Stock of domestic credit:_**   
+$3.407 trillion (31 December 2013 est.)   
+$3.438 trillion (31 December 2012 est.)
+
+**_Market value of publicly traded shares:_**   
+$480.5 billion (31 December 2012 est.)   
+$431.5 billion (31 December 2011)   
+$318.1 billion (31 December 2010 est.)
+
+**_Current account balance:_**   
+-$2.4 billion (2013 est.)   
+-$14.88 billion (2012 est.)
+
+**_Exports:_**   
+$474 billion (2013 est.)   
+$478.9 billion (2012 est.)
+
+**_Exports - commodities:_**   
+engineering products, textiles and clothing, production machinery, motor vehicles, transport equipment, chemicals; food, beverages and tobacco; minerals, nonferrous metals
+
+**_Exports - partners:_**   
+Germany 12.63%, France 11.11%, United States 6.84%, Switzerland 5.72%, United Kingdom 4.72%, Spain 4.48% (2013 est.)
+
+**_Imports:_**   
+$435.8 billion (2013 est.)   
+$453.5 billion (2012 est.)
+
+**_Imports - commodities:_**   
+engineering products, chemicals, transport equipment, energy products, minerals and nonferrous metals, textiles and clothing; food, beverages, and tobacco
+
+**_Imports - partners:_**   
+Germany 14.73%, France 8.4%, China 8.4%, Russia 6.35%, Netherlands 5.85%, Spain 4.54%, Belgium 4.09% (2013 est.)
+
+**_Reserves of foreign exchange and gold:_**   
+$181.7 billion (31 December 2012 est.)   
+$173.3 billion (31 December 2011 est.)
+
+**_Debt - external:_**   
+$2.604 trillion (31 December 2013 est.)   
+$2.516 trillion (31 December 2012 est.)
+
+**_Stock of direct foreign investment - at home:_**   
+$466.3 billion (31 December 2013 est.)   
+$457.8 billion (31 December 2012 est.)
+
+**_Stock of direct foreign investment - abroad:_**   
+$683.6 billion (31 December 2013 est.)   
+$653.3 billion (31 December 2012 est.)
+
+**_Exchange rates:_**   
+euros (EUR) per US dollar -   
+0.7634 (2013 est.)   
+0.7752 (2012 est.)   
+0.755 (2010 est.)   
+0.7198 (2009 est.)   
+0.6827 (2008 est.)
+
+
+## Energy
+
+**_Electricity - production:_**   
+299.3 billion kWh (2012 est.)
+
+**_Electricity - consumption:_**   
+307.2 billion kWh (2012 est.)
+
+**_Electricity - exports:_**   
+2.304 billion kWh (2012 est.)
+
+**_Electricity - imports:_**   
+45.41 billion kWh (2012 est.)
+
+**_Electricity - installed generating capacity:_**   
+124.2 million kW (2012 est.)
+
+**_Electricity - from fossil fuels:_**   
+65% of total installed capacity (2011 est.)
+
+**_Electricity - from nuclear fuels:_**   
+0% of total installed capacity (2012 est.)
+
+**_Electricity - from hydroelectric plants:_**   
+18% of total installed capacity (2011 est.)
+
+**_Electricity - from other renewable sources:_**   
+15.8% of total installed capacity (2011 est.)
+
+**_Crude oil - production:_**   
+112,000 bbl/day (2012 est.)
+
+**_Crude oil - exports:_**   
+6,300 bbl/day (2010 est.)
+
+**_Crude oil - imports:_**   
+1.591 million bbl/day (2010 est.)
+
+**_Crude oil - proved reserves:_**   
+521.3 million bbl (1 January 2013 est.)
+
+**_Refined petroleum products - production:_**   
+6,600 bbl/day (2011 est.)
+
+**_Refined petroleum products - consumption:_**   
+1.454 million bbl/day (2011 est.)
+
+**_Refined petroleum products - exports:_**   
+628,000 bbl/day (2010 est.)
+
+**_Refined petroleum products - imports:_**   
+393,300 bbl/day (2010 est.)
+
+**_Natural gas - production:_**   
+7.8 billion cu m (2012 est.)
+
+**_Natural gas - consumption:_**   
+68.7 billion cu m (2012 est.)
+
+**_Natural gas - exports:_**   
+324 million cu m (2012 est.)
+
+**_Natural gas - imports:_**   
+67.8 billion cu m (2012 est.)
+
+**_Natural gas - proved reserves:_**   
+62.35 billion cu m (1 January 2013 est.)
+
+**_Carbon dioxide emissions from consumption of energy:_**   
+400.9 million Mt (2011 est.)
+
+
+## Communications
+
+**_Telephones - main lines in use:_**   
+21.656 million (2012)
+
+**_Telephones - mobile cellular:_**   
+97.225 million (2012)
+
+**_Telephone system:_**   
+**general assessment:** modern, well-developed, fast; fully automated telephone, telex, and data services   
+**domestic:** high-capacity cable and microwave radio relay trunks   
+**international:** country code - 39; a series of submarine cables provide links to Asia, Middle East, Europe, North Africa, and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and NA Eutelsat (2011)
+
+**_Broadcast media:_**   
+two Italian media giants dominate - the publicly owned Radiotelevisione Italiana (RAI) with 3 national terrestrial stations and privately owned Mediaset with 3 national terrestrial stations; a large number of private stations and Sky Italia - a satellite TV network; RAI operates 3 AM/FM nationwide radio stations; some 1,300 commercial radio stations (2007)
+
+**_Internet country code:_**   
+.it
+
+**_Internet hosts:_**   
+25.662 million (2012)
+
+**_Internet users:_**   
+29.235 million (2009)
+
+
+## Transportation
+
+**_Airports:_**   
+129 (2013)
+
+**_Airports - with paved runways:_**   
+**total:** 98   
+**over 3,047 m:** 9   
+**2,438 to 3,047 m:** 31   
+**1,524 to 2,437 m:** 18   
+**914 to 1,523 m:** 29   
+**under 914 m:** 11 (2013)
+
+**_Airports - with unpaved runways:_**   
+**total:** 31   
+**1,524 to 2,437 m:** 1   
+**914 to 1,523 m:** 10   
+**under 914 m:** 20 (2013)
+
+**_Heliports:_**   
+5 (2013)
+
+**_Pipelines:_**   
+gas 20,223 km; oil 1,393 km; refined products 1,574 km (2013)
+
+**_Railways:_**   
+**total:** 20,255 km   
+**standard gauge:** 18,611 km 1.435-m gauge (12,662 km electrified)   
+**narrow gauge:** 123 km 1.000-m gauge (123 km electrified); 1,290 km 0.950-m gauge (151 km electrified); 231 km 0.850-m gauge (2008)
+
+**_Roadways:_**   
+**total:** 487,700 km   
+**paved:** 487,700 km (includes 6,700 km of expressways) (2007)
+
+**_Waterways:_**   
+2,400 km (used for commercial traffic; of limited overall value compared to road and rail) (2012)
+
+**_Merchant marine:_**   
+**total:** 681   
+**by type:** bulk carrier 105, cargo 42, carrier 1, chemical tanker 164, container 21, liquefied gas 28, passenger 25, passenger/cargo 154, petroleum tanker 59, refrigerated cargo 4, roll on/roll off 39, specialized tanker 9, vehicle carrier 30   
+**foreign-owned:** 90 (Denmark 4, France 2, Greece 7, Luxembourg 14, Netherlands 2, Nigeria 1, Norway 6, Singapore 1, Sweden 1, Switzerland 13, Taiwan 10, Turkey 4, UK 2, US 23)   
+**registered in other countries:** 201 (Bahamas 1, Belize 3, Cayman Islands 7, Cyprus 6, Georgia 2, Gibraltar 4, Greece 5, Liberia 47, Malta 45, Marshall Islands 1, Morocco 1, Netherlands 6, Panama 25, Portugal 12, Russia 14, Saint Vincent and the Grenadines 4, Singapore 5, Slovakia 2, Spain 1, Sweden 5, Turkey 1, UK 3, unknown 1) (2010)
+
+**_Ports and terminals:_**   
+**major seaport(s):** Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice   
+**oil terminals:** Melilli (Santa Panagia) oil terminal, Sarroch oil terminal   
+**container port(s) (TEUs):** Genoa (1,847,648), Gioia Tauro (2,264,798), La Spezia (1,307,274)
+
+
+## Military
+
+**_Military branches:_**   
+Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI), Italian Air Force (Aeronautica Militare Italiana, AMI), Carabinieri Corps (Arma dei Carabinieri, CC) (2011)
+
+**_Military service age and obligation:_**   
+18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 12-month service obligation (2013)
+
+**_Manpower available for military service:_**   
+**males age 16-49:** 13,865,688   
+**females age 16-49:** 14,003,755 (2010 est.)
+
+**_Manpower fit for military service:_**   
+**males age 16-49:** 11,247,446   
+**females age 16-49:** 11,348,695 (2010 est.)
+
+**_Manpower reaching militarily significant age annually:_**   
+**male:** 288,188   
+**female:** 281,671 (2010 est.)
+
+**_Military expenditures:_**   
+1.69% of GDP (2012)   
+1.72% of GDP (2011)   
+1.69% of GDP (2010)
+
+
+## Transnational Issues
+
+**_Disputes - international:_**   
+Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa
+
+**_Refugees and internally displaced persons:_**   
+**refugees (country of origin):** 12,682 (Eritrea); 10,817 (Somalia); 6,695 (Afghanistan) (2013)   
+**stateless persons:** 470 (2012)
+
+**_Illicit drugs:_**   
+important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling
+
+
+............................................................   
+_Page last updated on June 22, 2014_

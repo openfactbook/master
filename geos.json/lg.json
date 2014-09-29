@@ -1,0 +1,636 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "lg",
+    "countryname": "Latvia",
+    "flag_orig": "500x248",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "468x502",
+    "map_orig": "328x352",
+    "region": "Europe",
+    "regioncode": "eur"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "The name \"Latvia\" originates from the ancient Latgalians, one of four eastern Baltic tribes that formed the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 28% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the eurozone in 2014."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Europe, bordering the Baltic Sea, between Estonia and Lithuania"
+    },
+    "Geographic coordinates": {
+      "text": "57 00 N, 25 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": "64,589 sq km",
+      "land": "62,249 sq km",
+      "water": "2,340 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly larger than West Virginia"
+    },
+    "Land boundaries": {
+      "total": "1,382 km",
+      "border countries": "Belarus 171 km, Estonia 343 km, Lithuania 576 km, Russia 292 km"
+    },
+    "Coastline": {
+      "text": "498 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "exclusive economic zone": "200 nm",
+      "continental shelf": "200 m depth or to the depth of exploitation"
+    },
+    "Climate": {
+      "text": "maritime; wet, moderate winters"
+    },
+    "Terrain": {
+      "text": "low plain"
+    },
+    "Elevation extremes": {
+      "lowest point": "Baltic Sea 0 m",
+      "highest point": "Gaizina Kalns 312 m"
+    },
+    "Natural resources": {
+      "text": "peat, limestone, dolomite, amber, hydropower, timber, arable land"
+    },
+    "Land use": {
+      "arable land": "17.96%",
+      "permanent crops": "0.11%",
+      "other": "81.93% (2011)"
+    },
+    "Irrigated land": {
+      "text": "8.3 sq km",
+      "note": "land in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage (2007)"
+    },
+    "Total renewable water resources": {
+      "text": "35.45 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "0.42 cu km/yr (42%/45%/13%)",
+      "per capita": "177.9 cu m/yr (2007)"
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "Latvia's environment has benefited from a shift to service industries after the country regained independence; the main environmental priorities are improvement of drinking water quality and sewage system, household, and hazardous waste management, as well as reduction of air pollution; in 2001, Latvia closed the EU accession negotiation chapter on environment committing to full enforcement of EU environmental directives by 2010"
+    },
+    "Environment - international agreements": {
+      "party to": "Air Pollution, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "most of the country is composed of fertile low-lying plains with some hills in the east"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Latvian(s)",
+      "adjective": "Latvian"
+    },
+    "Ethnic groups": {
+      "text": "Latvian 61.1%, Russian 26.2%, Belarusian 3.5%, Ukrainian 2.3%, Polish 2.2%, Lithuanian 1.3%, other 3.4% (2013 est.)"
+    },
+    "Languages": {
+      "text": "Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4% (2011 est.)"
+    },
+    "Religions": {
+      "text": "Lutheran 19.6%, Orthodox 15.3%, other Christian 1%, other 0.4%, unspecified 63.7% (2006)"
+    },
+    "Population": {
+      "text": "2,165,165 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "14.2% (male 156,851/female 150,074)",
+      "15-24 years": "11% (male 121,435/female 116,602)",
+      "25-54 years": "44.8% (male 481,336/female 487,991)",
+      "55-64 years": "12.8% (male 122,544/female 155,114)",
+      "65 years and over": "17.1% (male 121,668/female 251,550) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "51 %",
+      "youth dependency ratio": "22.9 %",
+      "elderly dependency ratio": "28.1 %",
+      "potential support ratio": "3.6 (2014 est.)"
+    },
+    "Median age": {
+      "total": "41.4 years",
+      "male": "38.4 years",
+      "female": "44.3 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "-0.62% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "9.79 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "13.6 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.37 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "67.7% of total population (2011)",
+      "rate of urbanization": "-0.38% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "RIGA (capital) 701,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.05 male(s)/female",
+      "0-14 years": "1.05 male(s)/female",
+      "15-24 years": "1.04 male(s)/female",
+      "25-54 years": "0.99 male(s)/female",
+      "55-64 years": "0.86 male(s)/female",
+      "65 years and over": "0.48 male(s)/female",
+      "total population": "0.86 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "26.4 (2011 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "34 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "7.91 deaths/1,000 live births",
+      "male": "9.6 deaths/1,000 live births",
+      "female": "6.13 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "73.44 years",
+      "male": "68.41 years",
+      "female": "78.75 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.35 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "67.8%",
+      "note": "percent of women aged 18-49 (1995)"
+    },
+    "Health expenditures": {
+      "text": "6.7% of GDP (2010)"
+    },
+    "Physicians density": {
+      "text": "2.9 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "5.3 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 99.6% of population; rural: 95.8% of population; total: 98.4% of population",
+      "unimproved": "urban: 0.4% of population; rural: 4.2% of population; total: 1.6% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 82.1% of population; rural: 71.1% of population; total: 78.6% of population",
+      "unimproved": "urban: 17.9% of population; rural: 28.9% of population; total: 21.4% of population (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.7% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "8,600 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 1,000 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "intermediate",
+      "vectorborne diseases": "tickborne encephalitis (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "24.9% (2008)"
+    },
+    "Education expenditures": {
+      "text": "5% of GDP (2010)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "99.8%",
+      "male": "99.8%",
+      "female": "99.8% (2011 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "16 years",
+      "male": "15 years",
+      "female": "16 years (2011)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "28.4%",
+      "male": "27.6%",
+      "female": "29.3% (2012)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Latvia",
+      "conventional short form": "Latvia",
+      "local long form": "Latvijas Republika",
+      "local short form": "Latvija",
+      "former": "Latvian Soviet Socialist Republic"
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": "Riga",
+      "geographic coordinates": "56 57 N, 24 06 E",
+      "time difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+      "daylight saving time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+    },
+    "Administrative divisions": {
+      "text": "110 municipalities (novadi, singular - novads) and 9 cities",
+      "municipalities": "Adazu Novads, Aglonas Novads, Aizkraukles Novads, Aizputes Novads, Aknistes Novads, Alojas Novads, Alsungas Novads, Aluksnes Novads, Amatas Novads, Apes Novads, Auces Novads, Babites Novads, Baldones Novads, Baltinavas Novads, Balvu Novads, Bauskas Novads, Beverinas Novads, Brocenu Novads, Burtnieku Novads, Carnikavas Novads, Cesu Novads, Cesvaines Novads, Ciblas Novads, Dagdas Novads, Daugavpils Novads, Dobeles Novads, Dundagas Novads, Durbes Novads, Engures Novads, Erglu Novads, Garkalnes Novads, Grobinas Novads, Gulbenes Novads, Iecavas Novads, Ikskiles Novads, Ilukstes Novads, Incukalna Novads, Jaunjelgavas Novads, Jaunpiebalgas Novads, Jaunpils Novads, Jekabpils Novads, Jelgavas Novads, Kandavas Novads, Karsavas Novads, Keguma Novads, Kekavas Novads, Kocenu Novads, Kokneses Novads, Kraslavas Novads, Krimuldas Novads, Krustpils Novads, Kuldigas Novads, Lielvardes Novads, Ligatnes Novads, Limbazu Novads, Livanu Novads, Lubanas Novads, Ludzas Novads, Madonas Novads, Malpils Novads, Marupes Novads, Mazsalacas Novads, Mersraga Novads, Nauksenu Novads, Neretas Novads, Nicas Novads, Ogres Novads, Olaines Novads, Ozolnieku Novads, Pargaujas Novads, Pavilostas Novads, Plavinu Novads, Preilu Novads, Priekules Novads, Priekulu Novads, Raunas Novads, Rezeknes Novads, Riebinu Novads, Rojas Novads, Ropazu Novads, Rucavas Novads, Rugaju Novads, Rujienas Novads, Rundales Novads, Salacgrivas Novads, Salas Novads, Salaspils Novads, Saldus Novads, Saulkrastu Novads, Sejas Novads, Siguldas Novads, Skriveru Novads, Skrundas Novads, Smiltenes Novads, Stopinu Novads, Strencu Novads, Talsu Novads, Tervetes Novads, Tukuma Novads, Vainodes Novads, Valkas Novads, Varaklanu Novads, Varkavas Novads, Vecpiebalgas Novads, Vecumnieku Novads, Ventspils Novads, Viesites Novads, Vilakas Novads, Vilanu Novads, Zilupes Novads",
+      "cities": "Daugavpils, Jekabpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Valmiera, Ventspils"
+    },
+    "Independence": {
+      "text": "4 May 1990 (declared); 6 September 1991 (recognized by the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 18 November (1918); note - 18 November 1918 was the date Latvia declared independence from Soviet Russia and established its statehood; 4 May 1990 was the date it declared its independence from the Soviet Union"
+    },
+    "Constitution": {
+      "text": "several previous (preindependence); note - at independence, parts of the 1922 constitution were reinforced and fully reinforced 6 July 1993; amended several times, last in 2009 (2009)"
+    },
+    "Legal system": {
+      "text": "civil law system with traces of socialist legal traditions and practices"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Andris BERZINS (since 8 July 2011)",
+      "head of government": "Prime Minister Laimdota STRAUJUMA (since 22 January 2014)",
+      "cabinet": "Cabinet of Ministers nominated by the prime minister and appointed by Parliament",
+      "elections": "president elected by Parliament for a four-year term (eligible for a second term); election last held on 2 June 2011 (next to be held in 2015); prime minister appointed by the president, confirmed by Parliament",
+      "election results": "Andris BERZINS elected president; parliamentary vote - Andris BERZINS 53, Valdis ZATLERS 41"
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament or Saeima (100 seats; members elected by proportional representation from party lists by popular vote to serve four-year terms)",
+      "elections": "last held on 17 September 2011 (next to be held in October 2014)",
+      "election results": "percent of vote by party - SC 28.4%, Reform 20.8%, Unity 18.8%, National Alliance 13.9%, ZZS 12.2%, other 5.9%; seats by party - SC 31, Unity 20, Reform 16, National Alliance 14, ZZS 13, unaffiliated 6"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court (consists of the Senate with 27 judges and Supreme Court of Chambers with 22 judges); Constitutional Court (consists of 7 judges)",
+      "judge selection and term of office": "Supreme Court judges nominated by chief justice and confirmed by the Saeima; judges serve until age 70, but term can be extended 2 years; Constitutional Court judges - 3 nominated by Saeima members, 2 by Cabinet ministers, and 2 by plenum of Supreme Court; all judges confirmed by Saeima majority vote; Constitutional Court president and vice president serve in their positions for 3 years; all judges serve 10-year terms; mandatory retirement at age 70",
+      "subordinate courts": "district (city) and regional courts"
+    },
+    "Political parties and leaders": {
+      "text": "Union of Greens and Farmers or ZZS [Raimonds VEJONIS]//Harmony Center or SC [Nils USAKOVS]//National Alliance \"All For Latvia!\"-\"For Fatherland and Freedom/LNNK\" or NA [Gaidis BERZINS, Raivis DZINTARS]//Unity [Solvita ABOLTINA]//Reform Party or RP [Edmunds DEMITERS]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Free Trade Union Confederation of Latvia [Peteris KRIGERS]//Employers' Confederation of Latvia [Vitalijs GAVRILOVS]//Farmers' Parliament [Juris LAZDINS]"
+    },
+    "International organization participation": {
+      "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Andris RAZANS (since 27 July 2012)",
+      "chancery": "2306 Massachusetts Ave. NW, Washington, DC 20008",
+      "telephone": "[1] (202) 328-2840",
+      "FAX": "[1] (202) 328-2860"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Mark A. PEKALA (since 10 July 2012)",
+      "embassy": "1 Samnera Velsa St, Riga LV-1510",
+      "mailing address": "Embassy of the United States of America, 1 Samnera Velsa St, Riga, LV-1510, Latvia",
+      "telephone": "[371] 6710-7000",
+      "FAX": "[371] 6710-7050"
+    },
+    "Flag description": {
+      "text": "three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world; a medieval chronicle mentions a red standard with a white stripe being used by Latvian tribes in about 1280"
+    },
+    "National symbol(s)": {
+      "text": "white wagtail (bird)"
+    },
+    "National anthem": {
+      "name": "\"Dievs, sveti Latviju!\" (God Bless Latvia)",
+      "lyrics/music": "Karlis BAUMANIS",
+      "note": "adopted 1920, restored 1990; the song was first performed in 1873 while Latvia was a part of Russia; the anthem was banned during the Soviet occupation from 1940 to 1990"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Latvia is a small, open economy with exports contributing nearly a third of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality. Latvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the softening world economy. Triggered by the collapse of the second largest bank, GDP plunged 18% in 2009. The economy has not returned to pre-crisis levels despite strong growth, especially in the export sector in 2011-12. The IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011. The government of Prime Minister Valdis DOMBROVSKIS remains committed to fiscal prudence and reducing the fiscal deficit. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 99.8% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia intends to join the euro zone in 2014."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$38.87 billion (2013 est.)//$37.38 billion (2012 est.)//$35.4 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$30.38 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4% (2013 est.)//5.6% (2012 est.)//5.5% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$19,100 (2013 est.)//$18,300 (2012 est.)//$17,100 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "23.2% of GDP (2013 est.)//24.6% of GDP (2012 est.)//22.7% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "62.4%",
+      "government consumption": "15%",
+      "investment in fixed capital": "22.5%",
+      "investment in inventories": "2.8%",
+      "exports of goods and services": "61.3%",
+      "imports of goods and services": "-63.9%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "4.9%",
+      "industry": "25.7%",
+      "services": "69.4% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "grain, rapeseed, potatoes, vegetables; pork, poultry, milk, eggs; fish"
+    },
+    "Industries": {
+      "text": "processed foods, processed wood products, textiles, processed metals, pharmaceuticals, railroad cars, synthetic fibers, electronics"
+    },
+    "Industrial production growth rate": {
+      "text": "4.2% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "1.022 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "8.8%",
+      "industry": "24%",
+      "services": "67.2% (2010 est.)"
+    },
+    "Unemployment rate": {
+      "text": "9.8% (2013 est.)//11.4% (2012 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "2.7%",
+      "highest 10%": "27.6% (2008)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.2 (2010)//32 (1999)"
+    },
+    "Budget": {
+      "revenues": "$10.9 billion",
+      "expenditures": "$10.95 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "35.9% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-0.2% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "39.2% of GDP (2013 est.)//40.7% of GDP (2012 est.)",
+      "note": "data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.2% (2013 est.)//2.3% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3.5% (31 December 2011 est.)//3.5% (31 December 2010 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5% (31 December 2013 est.)//5.52% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$9.865 billion (31 December 2013 est.)//$9.099 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$12.57 billion (31 December 2013 est.)//$12.63 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$17.39 billion (31 December 2013 est.)//$18.39 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.115 billion (31 December 2012 est.)//$1.076 billion (31 December 2011)//$1.252 billion (31 December 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$613.9 million (2013 est.)//-$473.4 million (2012 est.)"
+    },
+    "Exports": {
+      "text": "$12.67 billion (2013 est.)//$12.23 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "food products, wood and wood products, metals, machinery and equipment, textiles"
+    },
+    "Exports - partners": {
+      "text": "Russia 18.2%, Lithuania 14.9%, Estonia 12.1%, Germany 7.5%, Poland 5.6%, Sweden 4.8% (2012)"
+    },
+    "Imports": {
+      "text": "$15.56 billion (2013 est.)//$15.15 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, consumer goods, chemicals, fuels, vehicles"
+    },
+    "Imports - partners": {
+      "text": "Lithuania 19.1%, Germany 11.6%, Russia 9.2%, Poland 8.2%, Estonia 7.6%, Italy 4.6%, Finland 4.4% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$7.22 billion (31 December 2013 est.)//$7.523 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$39.87 billion (31 December 2013 est.)//$39.43 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$15.49 billion (31 December 2013 est.)//$14.14 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$2.212 billion (31 December 2013 est.)//$1.992 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "lati (LVL) per US dollar -//0.5313 (2013 est.)//0.5469 (2012 est.)//0.5305 (2010 est.)//0.5056 (2009)//0.4701 (2008)",
+      "note": "Latvia joined the EMU and adopted the euro as its currency on 1 January 2014"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "6.412 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "6.56 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "2.764 billion kWh (2011 est.)"
+    },
+    "Electricity - imports": {
+      "text": "4.009 billion kWh (2011 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "2.166 million kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "27.2% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "70.9% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "1.9% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "1,000 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "31,340 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "6,146 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "35,930 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "1.52 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "1.58 billion cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "8.475 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "501,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2.31 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "recent efforts focused on bringing competition to the telecommunications sector; the number of fixed lines is decreasing as mobile-cellular telephone service expands",
+      "domestic": "number of telecommunications operators has grown rapidly since the fixed-line market opened to competition in 2003; combined fixed-line and mobile-cellular subscribership roughly 150 per 100 persons",
+      "international": "country code - 371; the Latvian network is now connected via fiber optic cable to Estonia, Finland, and Sweden (2008)"
+    },
+    "Broadcast media": {
+      "text": "several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations throughout the country; dozens of private broadcasters also operate radio stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".lv"
+    },
+    "Internet hosts": {
+      "text": "359,604 (2012)"
+    },
+    "Internet users": {
+      "text": "1.504 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "42 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "18",
+      "over 3,047 m": "1",
+      "2,438 to 3,047 m": "3",
+      "1,524 to 2,437 m": "4",
+      "914 to 1,523 m": "3",
+      "under 914 m": "7 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "24",
+      "under 914 m": "24 (2013)"
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 928 km; refined products 415 km (2013)"
+    },
+    "Railways": {
+      "total": "2,239 km",
+      "broad gauge": "2,206 km 1.520-m gauge",
+      "narrow gauge": "33 km 0.750-m gauge (2008)"
+    },
+    "Roadways": {
+      "total": "72,440 km",
+      "paved": "14,707 km",
+      "unpaved": "57,733 km (2013)"
+    },
+    "Waterways": {
+      "text": "300 km (navigable year round) (2010)"
+    },
+    "Merchant marine": {
+      "total": "11",
+      "by type": "cargo 3, chemical tanker 1, passenger/cargo 4, petroleum tanker 2, roll on/roll off 1",
+      "foreign-owned": "3 (Estonia 3)",
+      "registered in other countries": "79 (Antigua and Barbuda 16, Belize 9, Comoros 2, Dominica 2, Georgia 1, Liberia 5, Malta 8, Marshall Islands 19, Russia 2, Saint Vincent and the Grenadines 15) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Riga, Ventspils"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "National Armed Forces (Nacionalo Brunoto Speku): Land Forces (Latvijas Sauszemes Speki), Navy (Latvijas Juras Speki; includes Coast Guard (Latvijas Kara Flotes)), Latvian Air Force (Latvijas Gaisa Speki), Latvian Home Guard (Latvijas Zemessardze) (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary male and female military service; no conscription; under current law, every citizen is entitled to serve in the armed forces for life (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "546,090",
+      "females age 16-49": "540,810 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "401,691",
+      "females age 16-49": "447,638 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "10,482",
+      "female": "9,858 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "0.92% of GDP (2012)//1.05% of GDP (2011)//0.92% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Russia demands better Latvian treatment of ethnic Russians in Latvia; boundary demarcated with Latvia and Lithuania; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": "280,759 (2012); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem"
+    },
+    "Illicit drugs": {
+      "text": "transshipment and destination point for cocaine, synthetic drugs, opiates, and cannabis from Southwest Asia, Western Europe, Latin America, and neighboring Balkan countries; despite improved legislation, vulnerable to money laundering due to nascent enforcement capabilities and comparatively weak regulation of offshore companies and the gaming industry; CIS organized crime (including counterfeiting, corruption, extortion, stolen cars, and prostitution) accounts for most laundered proceeds"
+    }
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "mz",
+    "countryname": "Mozambique",
+    "flag_orig": "500x334",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "511x497",
+    "map_orig": "328x715",
+    "region": "Africa",
+    "regioncode": "afr"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Almost five centuries as a Portuguese colony came to a close with independence in 1975. Large-scale emigration, economic dependence on South Africa, a severe drought, and a prolonged civil war hindered the country's development until the mid 1990s. The ruling Front for the Liberation of Mozambique (Frelimo) party formally abandoned Marxism in 1989, and a new constitution the following year provided for multiparty elections and a free market economy. A UN-negotiated peace agreement between Frelimo and rebel Mozambique National Resistance (Renamo) forces ended the fighting in 1992. In December 2004, Mozambique underwent a delicate transition as Joaquim CHISSANO stepped down after 18 years in office. His elected successor, Armando Emilio GUEBUZA, promised to continue the sound economic policies that have encouraged foreign investment. President GUEBUZA was reelected to a second term in October 2009. However, the elections were flawed by voter fraud, questionable disqualification of candidates, and Frelimo use of government resources during the campaign. As a result, Freedom House removed Mozambique from its list of electoral democracies."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Africa, bordering the Mozambique Channel, between South Africa and Tanzania"
+    },
+    "Geographic coordinates": {
+      "text": "18 15 S, 35 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": "799,380 sq km",
+      "land": "786,380 sq km",
+      "water": "13,000 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of California"
+    },
+    "Land boundaries": {
+      "total": "4,571 km",
+      "border countries": "Malawi 1,569 km, South Africa 491 km, Swaziland 105 km, Tanzania 756 km, Zambia 419 km, Zimbabwe 1,231 km"
+    },
+    "Coastline": {
+      "text": "2,470 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "exclusive economic zone": "200 nm"
+    },
+    "Climate": {
+      "text": "tropical to subtropical"
+    },
+    "Terrain": {
+      "text": "mostly coastal lowlands, uplands in center, high plateaus in northwest, mountains in west"
+    },
+    "Elevation extremes": {
+      "lowest point": "Indian Ocean 0 m",
+      "highest point": "Monte Binga 2,436 m"
+    },
+    "Natural resources": {
+      "text": "coal, titanium, natural gas, hydropower, tantalum, graphite"
+    },
+    "Land use": {
+      "arable land": "6.51%",
+      "permanent crops": "0.25%",
+      "other": "93.24% (2011)"
+    },
+    "Irrigated land": {
+      "text": "1,181 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "217.1 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "0.88 cu km/yr (26%/4%/70%)",
+      "per capita": "46.05 cu m/yr (2005)"
+    },
+    "Natural hazards": {
+      "text": "severe droughts; devastating cyclones and floods in central and southern provinces"
+    },
+    "Environment - current issues": {
+      "text": "a long civil war and recurrent drought in the hinterlands have resulted in increased migration of the population to urban and coastal areas with adverse environmental consequences; desertification; pollution of surface and coastal waters; elephant poaching for ivory is a problem"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "the Zambezi flows through the north-central and most fertile part of the country"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Mozambican(s)",
+      "adjective": "Mozambican"
+    },
+    "Ethnic groups": {
+      "text": "African 99.66% (Makhuwa, Tsonga, Lomwe, Sena, and others), Europeans 0.06%, Euro-Africans 0.2%, Indians 0.08%"
+    },
+    "Languages": {
+      "text": "Emakhuwa 25.3%, Portuguese (official) 10.7%, Xichangana 10.3%, Cisena 7.5%, Elomwe 7%, Echuwabo 5.1%, other Mozambican languages 30.1%, other 4% (1997 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 28.4%, Muslim 17.9%, Zionist Christian 15.5%, Protestant 12.2% (includes Pentecostal 10.9% and Anglican 1.3%), other 6.7%, none 18.7%, unspecified 0.7% (2007 est.)"
+    },
+    "Population": {
+      "text": "24,692,144",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "45.3% (male 5,627,116/female 5,566,260)",
+      "15-24 years": "21.3% (male 2,566,298/female 2,689,695)",
+      "25-54 years": "27% (male 3,113,095/female 3,553,266)",
+      "55-64 years": "3.5% (male 404,988/female 448,814)",
+      "65 years and over": "2.9% (male 332,013/female 390,599) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "94.5 %",
+      "youth dependency ratio": "88.1 %",
+      "elderly dependency ratio": "6.4 %",
+      "potential support ratio": "15.6 (2014 est.)"
+    },
+    "Median age": {
+      "total": "16.9 years",
+      "male": "16.3 years",
+      "female": "17.5 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "2.45% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "38.83 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "12.34 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.02 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "31.2% of total population (2011)",
+      "rate of urbanization": "3.05% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "MAPUTO (capital) 1.15 million; Matola 790,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.02 male(s)/female",
+      "0-14 years": "1.01 male(s)/female",
+      "15-24 years": "0.95 male(s)/female",
+      "25-54 years": "0.88 male(s)/female",
+      "55-64 years": "0.95 male(s)/female",
+      "65 years and over": "0.85 male(s)/female",
+      "total population": "0.95 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "18.9//median age at first birth among women 25-29 (2011 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "490 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "72.42 deaths/1,000 live births",
+      "male": "74.53 deaths/1,000 live births",
+      "female": "70.26 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "52.6 years",
+      "male": "51.85 years",
+      "female": "53.37 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "5.27 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "11.6% (2011)"
+    },
+    "Health expenditures": {
+      "text": "6.6% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "0.03 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "0.7 beds/1,000 population (2011)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 80.3% of population; rural: 35% of population; total: 49.2% of population",
+      "unimproved": "urban: 19.7% of population; rural: 65% of population; total: 50.8% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 43.6% of population; rural: 10.7% of population; total: 21% of population",
+      "unimproved": "urban: 56.4% of population; rural: 89.3% of population; total: 79% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "11.1% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "1,554,700 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "76,800 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "very high",
+      "food or waterborne diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever",
+      "vectorborne diseases": "malaria and dengue fever",
+      "water contact disease": "schistosomiasis",
+      "animal contact disease": "rabies (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "4.9% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "15.6% (2011)"
+    },
+    "Education expenditures": {
+      "text": "5% of GDP (2006)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "56.1%",
+      "male": "70.8%",
+      "female": "42.8% (2010 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "10 years",
+      "male": "10 years",
+      "female": "9 years (2011)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "1,369,080",
+      "percentage": "22 % (2008 est.)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Mozambique",
+      "conventional short form": "Mozambique",
+      "local long form": "Republica de Mocambique",
+      "local short form": "Mocambique",
+      "former": "Portuguese East Africa"
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": "Maputo",
+      "geographic coordinates": "25 57 S, 32 35 E",
+      "time difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia"
+    },
+    "Independence": {
+      "text": "25 June 1975 (from Portugal)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 June (1975)"
+    },
+    "Constitution": {
+      "text": "previous 1975, 1990; latest adopted 16 November 2004, effective 21 December 2004; note - draft amendments planned for parliamentary review in late 2013 (2013)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of Portuguese civil law, and customary law; note - in rural, predominately Muslim villages with no formal legal system, Islamic law may be applied"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Armando Emilio GUEBUZA (since 2 February 2005)",
+      "head of government": "Prime Minister Alberto Clementino Antonio VAQUINA (since 8 October 2012)",
+      "cabinet": "Cabinet",
+      "elections": "president elected by popular vote for a five-year term (eligible for three terms); election last held on 28 October 2009 (next to be held in 2014); prime minister appointed by the president",
+      "election results": "Armando GUEBUZA reelected president; percent of vote - Armando GUEBUZA 76.3%, Afonso DHLAKAMA 14.9%, Daviz SIMANGO 8.8%"
+    },
+    "Legislative branch": {
+      "text": "unicameral Assembly of the Republic or Assembleia da Republica (250 seats; members directly elected by popular vote to serve five-year terms)",
+      "elections": "last held on 28 October 2009 (next to be held in 2014)",
+      "election results": "percent of vote by party - FRELIMO 74.7%, RENAMO 17.7%, MDM 3.9%, other 3.7%; seats by party - FRELIMO 191, RENAMO 51, MDM 8"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary is responsible for judiciary management and discipline",
+      "judge selection and term of office": "Supreme Court president and vice president appointed by Mozambique president in consultation with the Higher Council of the Judiciary (CSMJ) and with ratification by the legislature; other judges elected by the legislature; judges serve 5-year renewable terms; Constitutional Council judges appointed - 1 by the president, 5 by the legislature, and 1 by the CSMJ; judges serve 5-year nonrenewable terms",
+      "subordinate courts": "Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Daviz SIMANGO]//Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Armando Emilio GUEBUZA]//Mozambique National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Afonso DHLAKAMA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Mozambican League of Human Rights (Liga Mocambicana dos Direitos Humanos) or LDH [Alice MABOTE, president]"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Amelia Narciso Matos SUMBANA (since 2 November 2009)",
+      "chancery": "1525 New Hampshire Avenue NW, Washington, DC 20036",
+      "telephone": "[1] (202) 293-7146",
+      "FAX": "[1] (202) 835-0245"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Douglas M. GRIFFITHS (since 6 July 2012)",
+      "embassy": "Avenida Kenneth Kuanda 193, Maputo",
+      "mailing address": "P. O. Box 783, Maputo",
+      "telephone": "[258] (21) 492797",
+      "FAX": "[258] (21) 490114"
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country's minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism"
+    },
+    "National anthem": {
+      "name": "\"Patria Amada\" (Lovely Fatherland)",
+      "lyrics/music": "Salomao J. MANHICA/unknown",
+      "note": "adopted 2002"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "At independence in 1975, Mozambique was one of the world's poorest countries. Socialist mismanagement and a brutal civil war from 1977-92 exacerbated the situation. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, have led to dramatic improvements in the country's growth rate. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government's revenue collection abilities. In spite of these gains, Mozambique remained dependent upon foreign assistance for 40% of its 2012 annual budget and over half the population remained below the poverty line. Subsistence agriculture continues to employ the vast majority of the country's work force and smallholder agricultural productivity and productivity growth is weak. A substantial trade imbalance persists although aluminum production from the Mozal smelter has significantly boosted export earnings in recent years. In 2012, The Mozambican government took over Portugal's last remaining share in the Cahora Bassa Hydroelectricity Company (HCB), a signficant contributor to the Southern African Power Pool. The government has plans to expand the Cahora Bassa Dam and build additional dams to increase its electricity exports and fulfill the needs of its burgeoning domestic industries. Mozambique's once substantial foreign debt has been reduced through forgiveness and rescheduling under the IMF's Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives, and is now at a manageable level. In July 2007, the US government's Millennium Challenge Corporation (MCC) signed a $506.9 million Compact with Mozambique. Compact projects will end in September 2013 and are focusing on improving sanitation, roads, agriculture, and the business regulation environment in an effort to spur economic growth in the four northern provinces of the country. Citizens rioted in September 2010, after fuel, water, electricity, and bread price increases were announced. In an attempt to lessen the negative impact on people, the government implemented subsidies, decreased taxes and tariffs, and instituted other fiscal measures. Mozambique grew at an average annual rate of 6%-8% in the decade up to 2013, one of Africa's strongest performances. Mozambique's ability to attract large investment projects in natural resources is expected to fuel continued high growth in coming years. Revenues from these vast resources, including natural gas, coal, titanium and hydroelectric capacity, could overtake donor assistance within five years."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$28.15 billion (2013 est.)//$26.31 billion (2012 est.)//$24.49 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$14.67 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7% (2013 est.)//7.4% (2012 est.)//7.3% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,200 (2013 est.)//$1,200 (2012 est.)//$1,100 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "-5.6% of GDP (2013 est.)//-4.6% of GDP (2012 est.)//0.8% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "71.4%",
+      "government consumption": "16.9%",
+      "investment in fixed capital": "33.8%",
+      "investment in inventories": "-1.6%",
+      "exports of goods and services": "30%",
+      "imports of goods and services": "-50.5%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "28.7%",
+      "industry": "24.9%",
+      "services": "46.4% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "cotton, cashew nuts, sugarcane, tea, cassava (manioc, tapioca), corn, coconuts, sisal, citrus and tropical fruits, potatoes, sunflowers; beef, poultry"
+    },
+    "Industries": {
+      "text": "aluminum, petroleum products, chemicals (fertilizer, soap, paints), textiles, cement, glass, asbestos, tobacco, food, beverages"
+    },
+    "Industrial production growth rate": {
+      "text": "8% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "10.55 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "81%",
+      "industry": "6%",
+      "services": "13% (1997 est.)"
+    },
+    "Unemployment rate": {
+      "text": "17% (2007 est.)//21% (1997 est.)"
+    },
+    "Population below poverty line": {
+      "text": "52% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "1.9%",
+      "highest 10%": "36.7% (2008)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "45.6 (2008)//47.3 (2002)"
+    },
+    "Budget": {
+      "revenues": "$4.808 billion",
+      "expenditures": "$6.101 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "32.8% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-8.8% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "46.7% of GDP (2013 est.)//42.2% of GDP (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.4% (2013 est.)//2.1% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "9.5% (17 January 2013 est.)//3.25% (31 December 2010 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15.6% (31 December 2013 est.)//16.81% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$4.665 billion (31 December 2013 est.)//$4.335 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$6.856 billion (31 December 2013 est.)//$6.242 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$4.438 billion (31 December 2013 est.)//$3.951 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$5.884 billion (2013 est.)//-$5.168 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$3.92 billion (2013 est.)//$3.47 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "aluminum, prawns, cashews, cotton, sugar, citrus, timber; bulk electricity"
+    },
+    "Exports - partners": {
+      "text": "South Africa 31.3%, Belgium 12.8%, China 9%, Italy 7.9%, Spain 6.2%, India 5.8% (2012)"
+    },
+    "Imports": {
+      "text": "$7.068 billion (2013 est.)//$6.168 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, vehicles, fuel, chemicals, metal products, foodstuffs, textiles"
+    },
+    "Imports - partners": {
+      "text": "South Africa 30.5%, China 12.3%, India 11.6%, US 5.1%, Portugal 4.8%, Australia 4.5% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.99 billion (31 December 2013 est.)//$2.77 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$6.276 billion (31 December 2013 est.)//$4.7 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "meticais (MZM) per US dollar -//30 (2013 est.)//28.383 (2012 est.)//33.96 (2010 est.)//26.28 (2009)//24.125 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "14.83 billion kWh (2012 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "10.19 billion kWh (2012 est.)"
+    },
+    "Electricity - exports": {
+      "text": "9.462 billion kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "8.537 billion kWh (2012 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "2.428 million kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "0.1% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "99.9% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)"
+    },
+    "Crude oil - production": {
+      "text": "20 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "992 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "19,580 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "953 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "16,140 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "3.82 billion cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "80 million cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "3.3 billion cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "127.4 billion cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "3.426 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "88,100 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "8.108 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "a fair telecommunications system that is shackled with a heavy state presence, lack of competition, and high operating costs and charges",
+      "domestic": "stagnation in the fixed-line network contrasts with rapid growth in the mobile-cellular network; mobile-cellular coverage now includes all the main cities and key roads, including those from Maputo to the South African and Swaziland borders, the national highway through Gaza and Inhambane provinces, the Beira corridor, and from Nampula to Nacala; extremely low fixed-line teledensity; despite significant growth in mobile-cellular services, teledensity remains low at about 35 per 100 persons",
+      "international": "country code - 258; landing point for the EASSy and SEACOM fiber-optic submarine cable systems; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean) (2011)"
+    },
+    "Broadcast media": {
+      "text": "1 state-run TV station supplemented by private TV station; Portuguese state TV's African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately owned and community-operated stations; transmissions of multiple international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".mz"
+    },
+    "Internet hosts": {
+      "text": "89,737 (2012)"
+    },
+    "Internet users": {
+      "text": "613,600 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "98 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "21",
+      "over 3,047 m": "1",
+      "2,438 to 3,047 m": "2",
+      "1,524 to 2,437 m": "9",
+      "914 to 1,523 m": "5",
+      "under 914 m": "4 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "77",
+      "2,438 to 3,047 m": "1",
+      "1,524 to 2,437 m": "9",
+      "914 to 1,523 m": "29",
+      "under 914 m": "38 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 972 km; refined products 278 km (2013)"
+    },
+    "Railways": {
+      "total": "4,787 km",
+      "narrow gauge": "4,787 km 1.067-m gauge (2008)"
+    },
+    "Roadways": {
+      "total": "30,331 km",
+      "paved": "6,303 km",
+      "unpaved": "24,028 km (2009)"
+    },
+    "Waterways": {
+      "text": "460 km (Zambezi River navigable to Tete and along Cahora Bassa Lake) (2010)"
+    },
+    "Merchant marine": {
+      "total": "2",
+      "by type": "cargo 2",
+      "foreign-owned": "2 (Belgium 2) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Beira, Maputo, Nacala"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Mozambique Armed Defense Forces (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "4,613,367 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "2,677,473",
+      "females age 16-49": "2,941,073 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "274,602",
+      "female": "280,008 (2010 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration"
+    },
+    "Illicit drugs": {
+      "text": "southern African transit point for South Asian hashish and heroin, and South American cocaine probably destined for the European and South African markets; producer of cannabis (for local consumption) and methaqualone (for export to South Africa); corruption and poor regulatory capability make the banking system vulnerable to money laundering, but the lack of a well-developed financial infrastructure limits the country's utility as a money-laundering center"
+    }
+  }
+}

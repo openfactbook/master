@@ -1,0 +1,716 @@
+# Mexico
+
+![Flag of Mexico](../flags.png/mx.png)
+
+![Location of Mexico](../locator-orig.png/mx.png)
+
+![Map of Mexico](../maps-orig.png/mx.png)
+
+
+## Introduction
+
+**_Background:_**   
+The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved its independence early in the 19th century. The global financial crisis beginning in late 2008 caused a massive economic downturn the following year, although growth returned quickly in 2010. Ongoing economic and social concerns include low real wages, underemployment for a large segment of the population, inequitable income distribution, and few advancement opportunities for the largely indigenous population in the impoverished southern states. The elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PENA NIETO regained the presidency for the PRI in 2012. Since 2007, Mexico's powerful drug-trafficking organizations have engaged in bloody feuding, resulting in tens of thousands of drug-related homicides.
+
+
+## Geography
+
+**_Location:_**   
+North America, bordering the Caribbean Sea and the Gulf of Mexico, between Belize and the United States and bordering the North Pacific Ocean, between Guatemala and the United States
+
+**_Geographic coordinates:_**   
+23 00 N, 102 00 W
+
+**_Map references:_**   
+North America
+
+**_Area:_**   
+**total:** 1,964,375 sq km   
+**land:** 1,943,945 sq km   
+**water:** 20,430 sq km
+
+**_Area - comparative:_**   
+slightly less than three times the size of Texas
+
+**_Land boundaries:_**   
+**total:** 4,353 km   
+**border countries:** Belize 250 km, Guatemala 962 km, US 3,141 km
+
+**_Coastline:_**   
+9,330 km
+
+**_Maritime claims:_**   
+**territorial sea:** 12 nm   
+**contiguous zone:** 24 nm   
+**exclusive economic zone:** 200 nm   
+**continental shelf:** 200 nm or to the edge of the continental margin
+
+**_Climate:_**   
+varies from tropical to desert
+
+**_Terrain:_**   
+high, rugged mountains; low coastal plains; high plateaus; desert
+
+**_Elevation extremes:_**   
+**lowest point:** Laguna Salada -10 m   
+**highest point:** Volcan Pico de Orizaba 5,700 m
+
+**_Natural resources:_**   
+petroleum, silver, copper, gold, lead, zinc, natural gas, timber
+
+**_Land use:_**   
+**arable land:** 12.98%   
+**permanent crops:** 1.36%   
+**other:** 85.66% (2011)
+
+**_Irrigated land:_**   
+64,600 sq km (2009)
+
+**_Total renewable water resources:_**   
+457.2 cu km (2011)
+
+**_Freshwater withdrawal (domestic/industrial/agricultural):_**   
+**total:** 80.4 cu km/yr (14%/9%/77%)   
+**per capita:** 700.4 cu m/yr (2009)
+
+**_Natural hazards:_**   
+tsunamis along the Pacific coast, volcanoes and destructive earthquakes in the center and south, and hurricanes on the Pacific, Gulf of Mexico, and Caribbean coasts   
+**volcanism:** volcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (elev. 3,850 m), which erupted in 2010, is Mexico's most active volcano and is responsible for causing periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (elev. 5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana
+
+**_Environment - current issues:_**   
+scarcity of hazardous waste disposal facilities; rural to urban migration; natural freshwater resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; raw sewage and industrial effluents polluting rivers in urban areas; deforestation; widespread erosion; desertification; deteriorating agricultural lands; serious air and water pollution in the national capital and urban centers along US-Mexico border; land subsidence in Valley of Mexico caused by groundwater depletion   
+**note:** the government considers the lack of clean water and deforestation national security issues
+
+**_Environment - international agreements:_**   
+**party to:** Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling   
+**signed, but not ratified:** none of the selected agreements
+
+**_Geography - note:_**   
+strategic location on southern border of US; corn (maize), one of the world's major grain crops, is thought to have originated in Mexico
+
+
+## People and Society
+
+**_Nationality:_**   
+**noun:** Mexican(s)   
+**adjective:** Mexican
+
+**_Ethnic groups:_**   
+mestizo (Amerindian-Spanish) 60%, Amerindian or predominantly Amerindian 30%, white 9%, other 1%
+
+**_Languages:_**   
+Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%   
+**note:** indigenous languages include various Mayan, Nahuatl, and other regional languages (2005)
+
+**_Religions:_**   
+Roman Catholic 82.7%, Pentecostal 1.6%, Jehovah's Witnesses 1.4%, other Evangelical Churches 5%, other 1.9%, none 4.7%, unspecified 2.7% (2010 est.)
+
+**_Population:_**   
+120,286,655 (July 2014 est.)
+
+**_Age structure:_**   
+**0-14 years:** 27.9% (male 17,188,577/female 16,423,421)   
+**15-24 years:** 18.1% (male 10,999,445/female 10,741,999)   
+**25-54 years:** 40.4% (male 23,385,321/female 25,200,511)   
+**55-64 years:** 7% (male 3,850,792/female 4,527,074)   
+**65 years and over:** 6.9% (male 3,594,675/female 4,374,840) (2014 est.)
+
+**_Dependency ratios:_**   
+**total dependency ratio:** 52.7 %   
+**youth dependency ratio:** 42.7 %   
+**elderly dependency ratio:** 10.1 %   
+**potential support ratio:** 9.9 (2014 est.)
+
+**_Median age:_**   
+**total:** 27.3 years   
+**male:** 26.3 years   
+**female:** 28.4 years (2014 est.)
+
+**_Population growth rate:_**   
+1.21% (2014 est.)
+
+**_Birth rate:_**   
+19.02 births/1,000 population (2014 est.)
+
+**_Death rate:_**   
+5.24 deaths/1,000 population (2014 est.)
+
+**_Net migration rate:_**   
+-1.64 migrant(s)/1,000 population (2014 est.)
+
+**_Urbanization:_**   
+**urban population:** 78.1% of total population (2011)   
+**rate of urbanization:** 1.49% annual rate of change (2010-15 est.)
+
+**_Major urban areas - population:_**   
+MEXICO CITY (capital) 20.446 million; Guadalajara 4.525 million; Monterrey 4.213 million; Puebla 2.335 million; Tijuana 1.82 million; Toluca de Lerdo 1.748 million (2011)
+
+**_Sex ratio:_**   
+**at birth:** 1.05 male(s)/female   
+**0-14 years:** 1.05 male(s)/female   
+**15-24 years:** 1.02 male(s)/female   
+**25-54 years:** 0.93 male(s)/female   
+**55-64 years:** 0.96 male(s)/female   
+**65 years and over:** 0.81 male(s)/female   
+**total population:** 0.96 male(s)/female (2014 est.)
+
+**_Mother's mean age at first birth:_**   
+21.3   
+**note:** median age at first birth among women 25-29 (2006 est.)
+
+**_Maternal mortality rate:_**   
+50 deaths/100,000 live births (2010)
+
+**_Infant mortality rate:_**   
+**total:** 12.58 deaths/1,000 live births   
+**male:** 14 deaths/1,000 live births   
+**female:** 11.08 deaths/1,000 live births (2014 est.)
+
+**_Life expectancy at birth:_**   
+**total population:** 75.43 years   
+**male:** 72.67 years   
+**female:** 78.32 years (2014 est.)
+
+**_Total fertility rate:_**   
+2.29 children born/woman (2014 est.)
+
+**_Contraceptive prevalence rate:_**   
+70.9% (2006)
+
+**_Health expenditures:_**   
+6.4% of GDP (2009)
+
+**_Physicians density:_**   
+1.96 physicians/1,000 population (2009)
+
+**_Hospital bed density:_**   
+1.7 beds/1,000 population (2010)
+
+**_Drinking water source:_**   
+**96.1improved:** urban: 95.9% of population; rural: 90.8% of population; total: 94.9% of population   
+**unimproved:** urban: 3.9% of population; rural: 9.2% of population; total: 5.1% of population (2012 est.)
+
+**_Sanitation facility access:_**   
+**improved:** urban: 87% of population; rural: 79% of population; total: 85.3% of population   
+**unimproved:** urban: 13% of population; rural: 21% of population; total: 14.7% of population (2012 est.)
+
+**_HIV/AIDS - adult prevalence rate:_**   
+0.2% (2012 est.)
+
+**_HIV/AIDS - people living with HIV/AIDS:_**   
+174,300 (2012 est.)
+
+**_HIV/AIDS - deaths:_**   
+NA
+
+**_Major infectious diseases:_**   
+**degree of risk:** intermediate   
+**food or waterborne diseases:** bacterial diarrhea and hepatitis A   
+**vectorborne disease:** dengue fever (2013)
+
+**_Obesity - adult prevalence rate:_**   
+32.1% (2008)
+
+**_Children under the age of 5 years underweight:_**   
+2.8% (2012)
+
+**_Education expenditures:_**   
+5.1% of GDP (2009)
+
+**_Literacy:_**   
+**definition:** age 15 and over can read and write   
+**total population:** 93.5%   
+**male:** 94.8%   
+**female:** 92.3% (2011 est.)
+
+**_School life expectancy (primary to tertiary education):_**   
+**total:** 13 years   
+**male:** 13 years   
+**female:** 13 years (2011)
+
+**_Child labor - children ages 5-14:_**   
+**total number:** 1,105,617   
+**percentage:** 5 % (2009 est.)
+
+**_Unemployment, youth ages 15-24:_**   
+**total:** 9.4%   
+**male:** 9.1%   
+**female:** 9.9% (2012)
+
+
+## Government
+
+**_Country name:_**   
+**conventional long form:** United Mexican States   
+**conventional short form:** Mexico   
+**local long form:** Estados Unidos Mexicanos   
+**local short form:** Mexico
+
+**_Government type:_**   
+federal republic
+
+**_Capital:_**   
+**name:** Mexico City (Distrito Federal)   
+**geographic coordinates:** 19 26 N, 99 08 W   
+**time difference:** UTC-6 (1 hour behind Washington, DC, during Standard Time)   
+**daylight saving time:** +1hr, begins first Sunday in April; ends last Sunday in October   
+**note:** Mexico has three time zones
+
+**_Administrative divisions:_**   
+31 states (estados, singular - estado) and 1 federal district\* (distrito federal); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila de Zaragoza, Colima, Distrito Federal\*, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan de Ocampo, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro de Arteaga, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave (Veracruz), Yucatan, Zacatecas
+
+**_Independence:_**   
+16 September 1810 (declared); 27 September 1821 (recognized by Spain)
+
+**_National holiday:_**   
+Independence Day, 16 September (1810)
+
+**_Constitution:_**   
+several previous; latest approved 5 February 1917; amended many times, last in 2014 (2014)
+
+**_Legal system:_**   
+civil law system with US constitutional law influence; judicial review of legislative acts
+
+**_International law organization participation:_**   
+accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
+
+**_Suffrage:_**   
+18 years of age; universal and compulsory
+
+**_Executive branch:_**   
+**chief of state:** President Enrique PENA NIETO (since 1 December 2012); note - the president is both chief of state and head of government   
+**head of government:** President Enrique PENA NIETO (since 1 December 2012)   
+**cabinet:** Cabinet appointed by the president; note - appointment of attorney general, the head of the Bank of Mexico, and senior treasury officials require consent of the Senate   
+**elections:** president elected by popular vote for a single six-year term; election last held on 1 July 2012 (next to be held in July 2018)   
+**election results:** Enrique PENA NIETO elected president; percent of vote - Enrique PENA NIETO (PRI) 38.21%, Andres Manuel LOPEZ OBRADOR (PRD) 31.59%, Josefina Eugenia VAZQUEZ Mota (PAN) 25.41%, other 4.79%
+
+**_Legislative branch:_**   
+bicameral National Congress or Congreso de la Union consists of the Senate or Camara de Senadores (128 seats; 96 members elected by popular vote to serve six-year terms, and 32 seats allocated on the basis of each party's popular vote) and the Chamber of Deputies or Camara de Diputados (500 seats; 300 members are elected by popular vote; remaining 200 members are allocated on the basis of each party's popular vote; members to serve three-year terms)   
+**elections:** Senate - last held on 1 July 2012 for all of the seats (next to be held on 1 July 2018); Chamber of Deputies - last held on 1 July 2012 (next to be held on 5 July 2015)   
+**election results:** Senate - percent of vote by party - NA; seats by party - PRI 52, PAN 38, PRD 22, PVEM 9, PT 4, Movimiento Ciudadano 2, PANAL 1; Chamber of Deputies - percent of vote by party - NA; seats by party - PRI 208, PAN 114, PRD 100, PVEM 33, PT 19, Movimiento Ciudadano 16, PANAL 10
+
+**_Judicial branch:_**   
+**highest court(s):** Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president and 5 regional courts, each with 3 judges)   
+**judge selection and term of office:** Supreme Court justices nominated by the president of the republic and approved by two-thirds vote of the members present in the Senate; justices serve for life; Electoral Tribunal superior and regional court judges nominated by the Supreme Court and elected by two-thirds vote of members present in the Senate; superior court president elected from among its members to hold office for a single-renewable 4-year term; other judges of the superior and regional courts serve staggered, single-renewable 9-year terms   
+**subordinate courts:** federal level includes circuit, collegiate, and unitary courts; state and district level courts
+
+**_Political parties and leaders:_**   
+Citizen's Movement (Movimiento Ciudadano) [Dante DELGADO Rannaoro]   
+Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI [Cesar CAMACHO Quiroz]   
+Labor Party (Partido del Trabajo) or PT [Alberto ANAYA Gutierrez]   
+Mexican Green Ecological Party (Partido Verde Ecologista de Mexico) or PVEM [vacant]   
+National Action Party (Partido Accion Nacional) or PAN [Gustavo MADERO Munoz]   
+New Alliance Party (Partido Nueva Alianza) or PNA/PANAL [Luis CASTRO Obregon]   
+Party of the Democratic Revolution (Partido de la Revolucion Democratica) or PRD [Jesus ZAMBRANO Grijalva]
+
+**_Political pressure groups and leaders:_**   
+Businessmen's Coordinating Council or CCE   
+Confederation of Employers of the Mexican Republic or COPARMEX   
+Confederation of Industrial Chambers or CONCAMIN   
+Confederation of Mexican Workers or CTM   
+Confederation of National Chambers of Commerce or CONCANACO   
+Coordinator for Foreign Trade Business Organizations or COECE   
+Federation of Unions Providing Goods and Services or FESEBES   
+National Chamber of Transformation Industries or CANACINTRA   
+National Confederation of Popular Organizations or CNOP   
+National Coordinator for Education Workers or CNTE   
+National Peasant Confederation or CNC   
+National Small Business Chamber or CANACOPE   
+National Syndicate of Education Workers or SNTE   
+National Union of Workers or UNT   
+Popular Assembly of the People of Oaxaca or APPO   
+Roman Catholic Church
+
+**_International organization participation:_**   
+APEC, BCIE, BIS, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-20, G-3, G-15, G-24, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
+
+**_Diplomatic representation in the US:_**   
+**chief of mission:** Ambassador Eduardo MEDINA MORA Icaza (since 11 January 2013)   
+**chancery:** 1911 Pennsylvania Avenue NW, Washington, DC 20006   
+**telephone:** [1] (202) 728-1600   
+**FAX:** [1] (202) 728-1698   
+**consulate(s) general:** Anchorage (AK), Atlanta, Austin, Boston, Chicago, Dallas, Denver, El Paso (TX), Houston, Laredo (TX), Los Angeles, Miami, New York, Nogales (AZ), Phoenix, Sacramento (CA), San Antonio, San Diego, San Francisco, San Jose (CA), San Juan (Puerto Rico), Saint Paul (MN)   
+**consulate(s):** Albuquerque, Boise (ID), Brownsville (TX), Calexico (CA), Del Rio (TX), Detroit, Douglas (AZ), Eagle Pass (TX), Fresno (CA), Indianapolis (IN), Kansas City (MO), Las Vegas (NV), Little Rock (AR), McAllen (TX), New Orleans, Omaha (NE), Orlando (FL), Oxnard (CA), Philadelphia, Portland (OR), Presidio (TX), Raleigh (NC), Salt Lake City, San Bernardino (CA), Santa Ana (CA), Seattle, Tucson (AZ), Yuma (AZ); note - Washington DC Consular Section located in a separate building from the Mexican Embassy and has jurisdiction over DC, parts of Virginia, Maryland, and West Virginia
+
+**_Diplomatic representation from the US:_**   
+**chief of mission:** Ambassador Earl Anthony WAYNE (since 2 August 2011)   
+**embassy:** Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal   
+**mailing address:** P. O. Box 9000, Brownsville, TX 78520-9000   
+**telephone:** [52] (55) 5080-2000   
+**FAX:** [52] (55) 5080-2834   
+**consulate(s) general:** Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana
+
+**_Flag description:_**   
+three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green signifies hope, joy, and love; white represents peace and honesty; red stands for hardiness, bravery, strength, and valor; the coat of arms is derived from a legend that the wandering Aztec people were to settle at a location where they would see an eagle on a cactus eating a snake; the city they founded, Tenochtitlan, is now Mexico City   
+**note:** similar to the flag of Italy, which is shorter, uses lighter shades of red and green, and does not have anything in its white band
+
+**_National symbol(s):_**   
+golden eagle
+
+**_National anthem:_**   
+**name:** "Himno Nacional Mexicano" (National Anthem of Mexico)   
+**lyrics/music:** Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA   
+**note:** adopted 1943, in use since 1854; the anthem is also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, Francisco Gonzalez BOCANEGRA, an accomplished poet, was uninterested in submitting lyrics to a national anthem contest; his fiancee locked him in a room and refused to release him until the lyrics were completed
+
+
+## Economy
+
+**_Economy - overview:_**   
+Mexico's $1.3 trillion economy has become increasingly oriented toward manufacturing in the 20 years since the North American Free Trade Agreement (NAFTA) entered into force. Per capita income is roughly one-third that of the US; income distribution remains highly unequal. Mexico has become the United States' second-largest export market and third-largest source of imports. In 2013, two-way merchandise trade reached nearly $507 billion. Mexico has free trade agreements with over 50 countries including Guatemala, Honduras, El Salvador, the European Free Trade Area, and Japan - putting more than 90% of trade under free trade agreements. In 2012 Mexico formally joined the Trans-Pacific Partnership negotiations and formed the Pacific Alliance with Peru, Colombia and Chile. Mexico's current government, led by President Enrique PENA NIETO, emphasized economic reforms during its first year in office, passing education, energy, financial, fiscal and telecommunications reform legislation. The three-party "Pact for Mexico" reform agenda aims to improve competitiveness and economic growth across the Mexican economy.
+
+**_GDP (purchasing power parity):_**   
+$1.845 trillion (2013 est.)   
+$1.823 trillion (2012 est.)   
+$1.76 trillion (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_GDP (official exchange rate):_**   
+$1.327 trillion (2013 est.)
+
+**_GDP - real growth rate:_**   
+1.2% (2013 est.)   
+3.6% (2012 est.)   
+4% (2011 est.)
+
+**_GDP - per capita (PPP):_**   
+$15,600 (2013 est.)   
+$15,600 (2012 est.)   
+$15,200 (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_Gross national saving:_**   
+21% of GDP (2013 est.)   
+21.3% of GDP (2012 est.)   
+21.2% of GDP (2011 est.)
+
+**_GDP - composition, by end use:_**   
+**household consumption:** 69.1%   
+**government consumption:** 11.8%   
+**investment in fixed capital:** 22.7%   
+**investment in inventories:** -1%   
+**exports of goods and services:** 31.2%   
+**imports of goods and services:** -33.8%; (2013 est.)
+
+**_GDP - composition, by sector of origin:_**   
+**agriculture:** 3.6%   
+**industry:** 36.6%   
+**services:** 59.8% (2013 est.)
+
+**_Agriculture - products:_**   
+corn, wheat, soybeans, rice, beans, cotton, coffee, fruit, tomatoes; beef, poultry, dairy products; wood products
+
+**_Industries:_**   
+food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism
+
+**_Industrial production growth rate:_**   
+3.5% (2013 est.)
+
+**_Labor force:_**   
+51.48 million (2013 est.)
+
+**_Labor force - by occupation:_**   
+**agriculture:** 13.4%   
+**industry:** 24.1%   
+**services:** 61.9% (2011)
+
+**_Unemployment rate:_**   
+4.9% (2013 est.)   
+5.3% (2012 est.)   
+**note:** underemployment may be as high as 25%
+
+**_Population below poverty line:_**   
+52.3%   
+**note:** based on food-based definition of poverty; asset based poverty amounted to more than 47% (2012 est.)
+
+**_Household income or consumption by percentage share:_**   
+**lowest 10%:** 2%   
+**highest 10%:** 37.5% (2010)
+
+**_Distribution of family income - Gini index:_**   
+48.3 (2008)   
+53.1 (1998)
+
+**_Budget:_**   
+**revenues:** $291.2 billion   
+**expenditures:** $324.1 billion (2013 est.)
+
+**_Taxes and other revenues:_**   
+21.9% of GDP (2013 est.)
+
+**_Budget surplus (+) or deficit (-):_**   
+-2.5% of GDP (2013 est.)
+
+**_Public debt:_**   
+37.7% of GDP (2013 est.)   
+35.8% of GDP (2012 est.)
+
+**_Fiscal year:_**   
+calendar year
+
+**_Inflation rate (consumer prices):_**   
+4% (2013 est.)   
+3.6% (2012 est.)
+
+**_Central bank discount rate:_**   
+4.5% (31 December 2012 est.)   
+4.5% (31 December 2011 est.)
+
+**_Commercial bank prime lending rate:_**   
+4.7% (31 December 2013 est.)   
+4.73% (31 December 2012 est.)
+
+**_Stock of narrow money:_**   
+$174.2 billion (31 December 2012 est.)   
+$170.5 billion (31 December 2011 est.)
+
+**_Stock of broad money:_**   
+$713 billion (31 December 2013 est.)   
+$671.8 billion (31 December 2012 est.)
+
+**_Stock of domestic credit:_**   
+$444.6 billion (31 December 2013 est.)   
+$404.4 billion (31 December 2012 est.)
+
+**_Market value of publicly traded shares:_**   
+$525.1 billion (31 December 2012 est.)   
+$408.7 billion (31 December 2011)   
+$NA (31 December 2010 est.)
+
+**_Current account balance:_**   
+-$14.18 billion (2013 est.)   
+-$11.84 billion (2012 est.)
+
+**_Exports:_**   
+$370.9 billion (2013 est.)   
+$349.6 billion (2012 est.)
+
+**_Exports - commodities:_**   
+manufactured goods, oil and oil products, silver, fruits, vegetables, coffee, cotton
+
+**_Exports - partners:_**   
+US 78% (2012)
+
+**_Imports:_**   
+$370.7 billion (2013 est.)   
+$350.9 billion (2012 est.)
+
+**_Imports - commodities:_**   
+metalworking machines, steel mill products, agricultural machinery, electrical equipment, car parts for assembly, repair parts for motor vehicles, aircraft, and aircraft parts
+
+**_Imports - partners:_**   
+US 49.9%, China 15.4%, Japan 4.8% (2012)
+
+**_Reserves of foreign exchange and gold:_**   
+$167.1 billion (31 December 2013 est.)   
+$149.2 billion (31 December 2012 est.)
+
+**_Debt - external:_**   
+$354.9 billion (31 December 2013 est.)   
+$286.4 billion (31 December 2012 est.)
+
+**_Stock of direct foreign investment - at home:_**   
+$435.3 billion (31 December 2013 est.)   
+$400.9 billion (31 December 2012 est.)
+
+**_Stock of direct foreign investment - abroad:_**   
+$141.2 billion (31 December 2013 est.)   
+$133 billion (31 December 2012 est.)
+
+**_Exchange rates:_**   
+Mexican pesos (MXN) per US dollar -   
+12.76 (2013 est.)   
+13.17 (2012 est.)   
+12.636 (2010 est.)   
+13.514 (2009)   
+11.016 (2008)
+
+
+## Energy
+
+**_Electricity - production:_**   
+296 billion kWh (2012 est.)
+
+**_Electricity - consumption:_**   
+212.3 billion kWh (2010 est.)
+
+**_Electricity - exports:_**   
+1.286 billion kWh (2012 est.)
+
+**_Electricity - imports:_**   
+603 million kWh (2012 est.)
+
+**_Electricity - installed generating capacity:_**   
+62 million kW (2010 est.)
+
+**_Electricity - from fossil fuels:_**   
+76.2% of total installed capacity (2010 est.)
+
+**_Electricity - from nuclear fuels:_**   
+2.2% of total installed capacity (2010 est.)
+
+**_Electricity - from hydroelectric plants:_**   
+18.3% of total installed capacity (2010 est.)
+
+**_Electricity - from other renewable sources:_**   
+3.3% of total installed capacity (2010 est.)
+
+**_Crude oil - production:_**   
+2.936 million bbl/day (2012 est.)
+
+**_Crude oil - exports:_**   
+1.46 million bbl/day (2010 est.)
+
+**_Crude oil - imports:_**   
+0 bbl/day (2010 est.)
+
+**_Crude oil - proved reserves:_**   
+10.26 billion bbl (1 January 2013 est.)
+
+**_Refined petroleum products - production:_**   
+1.364 million bbl/day (2010 est.)
+
+**_Refined petroleum products - consumption:_**   
+2.133 million bbl/day (2011 est.)
+
+**_Refined petroleum products - exports:_**   
+189,100 bbl/day (2010 est.)
+
+**_Refined petroleum products - imports:_**   
+607,400 bbl/day (2010 est.)
+
+**_Natural gas - production:_**   
+53.96 billion cu m (2012 est.)
+
+**_Natural gas - consumption:_**   
+59.15 billion cu m (2011 est.)
+
+**_Natural gas - exports:_**   
+11 million cu m (2012 est.)
+
+**_Natural gas - imports:_**   
+17.24 billion cu m (2012 est.)
+
+**_Natural gas - proved reserves:_**   
+487.7 billion cu m (1 January 2013 est.)
+
+**_Carbon dioxide emissions from consumption of energy:_**   
+462.3 million Mt (2011 est.)
+
+
+## Communications
+
+**_Telephones - main lines in use:_**   
+20.22 million (2012)
+
+**_Telephones - mobile cellular:_**   
+100.786 million (2012)
+
+**_Telephone system:_**   
+**general assessment:** adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable   
+**domestic:** despite the opening to competition in January 1997, Telmex remains dominant; Fixed-line teledensity is less than 20 per 100 persons; mobile-cellular teledensity is about 80 per 100 persons   
+**international:** country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2011)
+
+**_Broadcast media:_**   
+many TV stations and more than 1,400 radio stations with most privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available (2012)
+
+**_Internet country code:_**   
+.mx
+
+**_Internet hosts:_**   
+16.233 million (2012)
+
+**_Internet users:_**   
+31.02 million (2009)
+
+
+## Transportation
+
+**_Airports:_**   
+1,714 (2013)
+
+**_Airports - with paved runways:_**   
+**total:** 243   
+**over 3,047 m:** 12   
+**2,438 to 3,047 m:** 32   
+**1,524 to 2,437 m:** 80   
+**914 to 1,523 m:** 86   
+**under 914 m:** 33 (2013)
+
+**_Airports - with unpaved runways:_**   
+**total:** 1,471   
+**over 3,047 m:** 1   
+**2,438 to 3,047 m:** 1   
+**1,524 to 2,437 m:** 42   
+**914 to 1,523 m:** 281   
+**under 914 m:** 1,146 (2013)
+
+**_Heliports:_**   
+1 (2013)
+
+**_Pipelines:_**   
+gas 18,074 km; liquid petroleum 2,102 km; oil 8,775 km; oil/gas/water 369 km; refined products 7,565 km; water 123 km (2013)
+
+**_Railways:_**   
+**total:** 17,166 km   
+**standard gauge:** 17,166 km 1.435-m gauge (22 km electrified) (2008)
+
+**_Roadways:_**   
+**total:** 377,660 km   
+**paved:** 137,544 km (includes 7,176 km of expressways)   
+**unpaved:** 240,116 km (2012)
+
+**_Waterways:_**   
+2,900 km (navigable rivers and coastal canals mostly connected with ports on the country's east coast) (2012)
+
+**_Merchant marine:_**   
+**total:** 52   
+**by type:** bulk carrier 5, cargo 3, chemical tanker 11, liquefied gas 3, passenger/cargo 10, petroleum tanker 17, roll on/roll off 3   
+**foreign-owned:** 5 (France 1, Greece 2, South Africa 1, UAE 1)   
+**registered in other countries:** 12 (Antigua and Barbuda 1, Marshall Islands 2, Panama 5, Portugal 1, Spain 1, Venezuela 1, unknown 1) (2010)
+
+**_Ports and terminals:_**   
+**major seaport(s):** Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Salina Cruz, Veracruz   
+**oil terminals:** Cayo Arcas terminal, Dos Bocas terminal
+
+
+## Military
+
+**_Military branches:_**   
+Secretariat of National Defense (Secretaria de Defensa Nacional, Sedena): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, Semar): Mexican Navy (Armada de Mexico (ARM); includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)) (2013)
+
+**_Military service age and obligation:_**   
+18 years of age for compulsory military service, conscript service obligation is 12 months; 16 years of age with consent for voluntary enlistment; conscripts serve only in the Army; Navy and Air Force service is all voluntary; women are eligible for voluntary military service; cadets enrolled in military schools from the age of 15 are considered members of the armed forces (2012)
+
+**_Manpower available for military service:_**   
+**males age 16-49:** 28,815,506   
+**females age 16-49:** 30,363,558 (2010 est.)
+
+**_Manpower fit for military service:_**   
+**males age 16-49:** 23,239,866   
+**females age 16-49:** 25,642,549 (2010 est.)
+
+**_Manpower reaching militarily significant age annually:_**   
+**male:** 1,105,371   
+**female:** 1,067,007 (2010 est.)
+
+**_Military expenditures:_**   
+0.59% of GDP (2012)   
+0.56% of GDP (2011)   
+0.59% of GDP (2010)
+
+
+## Transnational Issues
+
+**_Disputes - international:_**   
+abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the United States; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty
+
+**_Refugees and internally displaced persons:_**   
+**IDPs:** 160,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2013 est.)   
+**stateless persons:** 7 (2012)
+
+**_Illicit drugs:_**   
+major drug-producing and transit nation; world's second largest opium poppy cultivator; opium poppy cultivation in 2009 rose 31% over 2008 to 19,500 hectares yielding a potential production of 50 metric tons of pure heroin, or 125 metric tons of "black tar" heroin, the dominant form of Mexican heroin in the western United States; marijuana cultivation increased 45% to 17,500 hectares in 2009; government conducts the largest independent illicit-crop eradication program in the world; continues as the primary transshipment country for US-bound cocaine from South America, with an estimated 95% of annual cocaine movements toward the US stopping in Mexico; major drug syndicates control the majority of drug trafficking throughout the country; producer and distributor of ecstasy; significant money-laundering center; major supplier of heroin and largest foreign supplier of marijuana and methamphetamine to the US market (2007)
+
+
+............................................................   
+_Page last updated on June 20, 2014_

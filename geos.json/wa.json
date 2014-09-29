@@ -1,0 +1,618 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "wa",
+    "countryname": "Namibia",
+    "flag_orig": "500x334",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "511x497",
+    "map_orig": "328x353",
+    "region": "Africa",
+    "regioncode": "afr"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "South Africa occupied the German colony of South-West Africa during World War I and administered it as a mandate until after World War II, when it annexed the territory. In 1966 the Marxist South-West Africa People's Organization (SWAPO) guerrilla group launched a war of independence for the area that became Namibia, but it was not until 1988 that South Africa agreed to end its administration in accordance with a UN peace plan for the entire region. Namibia has been governed by SWAPO since the country won independence in 1990. Hifikepunye POHAMBA was elected president in November 2004 in a landslide victory replacing Sam NUJOMA who led the country during its first 14 years of self rule. POHAMBA was reelected in November 2009."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Africa, bordering the South Atlantic Ocean, between Angola and South Africa"
+    },
+    "Geographic coordinates": {
+      "text": "22 00 S, 17 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": "824,292 sq km",
+      "land": "823,290 sq km",
+      "water": "1,002 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly more than half the size of Alaska"
+    },
+    "Land boundaries": {
+      "total": "3,936 km",
+      "border countries": "Angola 1,376 km, Botswana 1,360 km, South Africa 967 km, Zambia 233 km"
+    },
+    "Coastline": {
+      "text": "1,572 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "contiguous zone": "24 nm",
+      "exclusive economic zone": "200 nm"
+    },
+    "Climate": {
+      "text": "desert; hot, dry; rainfall sparse and erratic"
+    },
+    "Terrain": {
+      "text": "mostly high plateau; Namib Desert along coast; Kalahari Desert in east"
+    },
+    "Elevation extremes": {
+      "lowest point": "Atlantic Ocean 0 m",
+      "highest point": "Konigstein 2,606 m"
+    },
+    "Natural resources": {
+      "text": "diamonds, copper, uranium, gold, silver, lead, tin, lithium, cadmium, tungsten, zinc, salt, hydropower, fish",
+      "note": "suspected deposits of oil, coal, and iron ore"
+    },
+    "Land use": {
+      "arable land": "0.97%",
+      "permanent crops": "0.01%",
+      "other": "99.02% (2011)"
+    },
+    "Irrigated land": {
+      "text": "75.73 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "17.72 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "0.29 cu km/yr (25%/5%/70%)",
+      "per capita": "146 cu m/yr (2002)"
+    },
+    "Natural hazards": {
+      "text": "prolonged periods of drought"
+    },
+    "Environment - current issues": {
+      "text": "limited natural freshwater resources; desertification; wildlife poaching; land degradation has led to few conservation areas"
+    },
+    "Environment - international agreements": {
+      "party to": "Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "first country in the world to incorporate the protection of the environment into its constitution; some 14% of the land is protected, including virtually the entire Namib Desert coastal strip"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Namibian(s)",
+      "adjective": "Namibian"
+    },
+    "Ethnic groups": {
+      "text": "black 87.5%, white 6%, mixed 6.5%",
+      "note": "about 50% of the population belong to the Ovambo tribe and 9% to the Kavangos tribe; other ethnic groups include Herero 7%, Damara 7%, Nama 5%, Caprivian 4%, Bushmen 3%, Baster 2%, Tswana 0.5%"
+    },
+    "Languages": {
+      "text": "Oshiwambo languages 48.9%, Nama/Damara 11.3%, Afrikaans 10.4% (common language of most of the population and about 60% of the white population), Otjiherero languages 8.6%, Kavango languages 8.5%, Caprivi languages 4.8%, English (official) 3.4%, other African languages 2.3%, other 1.7%",
+      "note": "Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 Indo-European languages (2011 est.)"
+    },
+    "Religions": {
+      "text": "Christian 80% to 90% (at least 50% Lutheran), indigenous beliefs 10% to 20%"
+    },
+    "Population": {
+      "text": "2,198,406",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "31.7% (male 352,368/female 345,593)",
+      "15-24 years": "23.1% (male 256,965/female 251,276)",
+      "25-54 years": "35.9% (male 410,736/female 378,678)",
+      "55-64 years": "4.8% (male 47,832/female 58,602)",
+      "65 years and over": "4.3% (male 41,697/female 54,659) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "64.2 %",
+      "youth dependency ratio": "58.3 %",
+      "elderly dependency ratio": "5.9 %",
+      "potential support ratio": "17 (2014 est.)"
+    },
+    "Median age": {
+      "total": "22.8 years",
+      "male": "22.8 years",
+      "female": "22.8 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "0.67% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "20.28 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "13.6 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.05 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "38.4% of total population (2011)",
+      "rate of urbanization": "3.14% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "WINDHOEK (capital) 380,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.03 male(s)/female",
+      "0-14 years": "1.02 male(s)/female",
+      "15-24 years": "1.02 male(s)/female",
+      "25-54 years": "1.09 male(s)/female",
+      "55-64 years": "1.02 male(s)/female",
+      "65 years and over": "0.78 male(s)/female",
+      "total population": "1.02 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "21.4",
+      "note": "median age at first birth among women 25-29 (2006-07 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "200 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "45.64 deaths/1,000 live births",
+      "male": "48.6 deaths/1,000 live births",
+      "female": "42.59 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "51.85 years",
+      "male": "52.22 years",
+      "female": "51.46 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "2.25 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "55.1% (2006/07)"
+    },
+    "Health expenditures": {
+      "text": "5.3% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "0.37 physicians/1,000 population (2007)"
+    },
+    "Hospital bed density": {
+      "text": "2.7 beds/1,000 population (2009)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 98.4% of population; rural: 87.4% of population; total: 91.7% of population",
+      "unimproved": "urban: 1.6% of population; rural: 12.6% of population; total: 8.3% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 56.1% of population; rural: 16.9% of population; total: 32.2% of population",
+      "unimproved": "urban: 43.9% of population; rural: 83.1% of population; total: 67.8% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "13.3% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "220,100 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "5,000 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "high",
+      "food or waterborne diseases": "bacterial diarrhea, hepatitis A, and typhoid fever",
+      "vectorborne disease": "malaria",
+      "water contact disease": "schistosomiasis (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "9.5% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "17.5% (2007)"
+    },
+    "Education expenditures": {
+      "text": "8.4% of GDP (2010)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "88.8%",
+      "male": "89%",
+      "female": "88.5% (2010 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "11 years",
+      "male": "11 years",
+      "female": "11 years (2006)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "40.1%",
+      "male": "29.4%",
+      "female": "34.3% (2012)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Namibia",
+      "conventional short form": "Namibia",
+      "local long form": "Republic of Namibia",
+      "local short form": "Namibia",
+      "former": "German South-West Africa (Sued-West Afrika), South-West Africa"
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": "Windhoek",
+      "geographic coordinates": "22 34 S, 17 05 E",
+      "time difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+      "daylight saving time": "+1hr, begins first Sunday in September; ends first Sunday in April"
+    },
+    "Administrative divisions": {
+      "text": "14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi; note - the Karas Region was renamed //Karas in September 2013 to include the alveolar lateral click of the Khoekhoegowab language"
+    },
+    "Independence": {
+      "text": "21 March 1990 (from South African mandate)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 21 March (1990)"
+    },
+    "Constitution": {
+      "text": "drafted 9 February 1990, signed 16 March 1990, entered into force 21 March 1990; amended 1998, 2010 (2010)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of uncodified civil law based on Roman-Dutch law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Hifikepunye POHAMBA (since 21 March 2005); note - the president is both chief of state and head of government",
+      "head of government": "President Hifikepunye POHAMBA (since 21 March 2005); Prime Minister Hage GEINGOB (since 4 December 2012)",
+      "cabinet": "Cabinet appointed by the president from among the members of the National Assembly",
+      "elections": "president elected by popular vote for a five-year term (eligible for a second term); if no single candidate receives a majority of the vote in the first round of voting, a run-off election is scheduled between the two candidates with the greatest vote count; election last held on 27-28 November 2009 (next to be held in 2014)",
+      "election results": "Hifikepunye POHAMBA reelected president; percent of vote - Hifikepunye POHAMBA 76.4%, Hidipo HAMUTENYA 11.0%, Katuutire KAURA 3.0%, Kuaima RIRUAKO 2.9%, Justus GAROEB 2.4%, Ignatius SHIXWAMENI 1.3%, Hendrick MUDGE 1.2%, other 1.8%"
+    },
+    "Legislative branch": {
+      "text": "bicameral legislature consists of the National Council, primarily an advisory body (26 seats; two members chosen from each regional council to serve six-year terms), and the National Assembly (72 seats; members elected by popular vote to serve five-year terms, an additonal six nonvoting members are appointed by the president)",
+      "elections": "National Council - elections for regional councils to determine members of the National Council held on 26-27 November 2010 (next to be held in 2016); National Assembly - last held on 26-27 November 2009 (next to be held in November 2014)",
+      "election results": "National Council - percent of vote by party - NA; seats by party - SWAPO 24, UDF 1, DTA 1; National Assembly - percent of vote by party - SWAPO 75.3%, RDP 11.3%, DTA 3.1%, NUDO 3.0%, UDF 2.4%, APP 1.4%, RP 0.8%, COD 0.7%, SWANU 0.6%, other 1.3%; seats by party - SWAPO 54, RDP 8, DTA 2, NUDO 2, UDF 2, APP 1, COD 1, RP 1, SWANU 1"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)",
+      "judge selection and term of office": "judges appointed by the president of Namibia upon the recommendation of the Judicial Service Commission; judges serve until age 65 but can be extended by the president until age 70",
+      "subordinate courts": "High Court; Labor Court; regional and district magistrates' courts; community courts"
+    },
+    "Political parties and leaders": {
+      "text": "All People's Party or APP [Ignatius SHIXWAMENI]//Congress of Democrats or COD [Benjamin ULENGA]//Democratic Turnhalle Alliance of Namibia or DTA [McHenry VENAANI]//Monitor Action Group or MAG [Jurgie VILJOEN]//National Unity Democratic Organization or NUDO [Kuaima RIRUAKO]//Rally for Democracy and Progress or RDP [Hidipo HAMUTENYA]//Republican Party or RP [Henk MUDGE]//South West Africa National Union or SWANU [Usutuaije MAAMBERUA]//South West Africa People's Organization or SWAPO [Hifikepunye POHAMBA]//United Democratic Front or UDF [Justus //GAROEB]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Society for Human Rights or NSHR (NAMRIGHTS as of 2010)//various labor unions"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Martin ANDJABA (since 3 September 2010)",
+      "chancery": "1605 New Hampshire Avenue NW, Washington, DC 20009",
+      "telephone": "[1] (202) 986-0540",
+      "FAX": "[1] (202) 986-0443"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Wanda L. NESBITT (since 20 July 2010)",
+      "embassy": "14 Lossen Street, Windhoek",
+      "mailing address": "Private Bag 12029 Ausspannplatz, Windhoek",
+      "telephone": "[264] (61) 295-8500",
+      "FAX": "[264] (61) 295-8603"
+    },
+    "Flag description": {
+      "text": "a wide red stripe edged by narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper hoist-side triangle is blue and charged with a yellow, 12-rayed sunburst; the lower fly-side triangle is green; red signifies the heroism of the people and their determination to build a future of equal opportunity for all; white stands for peace, unity, tranquility, and harmony; blue represents the Namibian sky and the Atlantic Ocean, the country's precious water resources and rain; the yellow sun denotes power and existence; green symbolizes vegetation and agricultural resources"
+    },
+    "National anthem": {
+      "name": "\"Namibia, Land of the Brave\"",
+      "lyrics/music": "Axali DOESEB",
+      "note": "adopted 1991"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for 11.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is becoming increasingly important as the terrestrial diamond supply has dwindled. Namibia is the world's fourth-largest producer of uranium. It also produces large quantities of zinc and is a small producer of gold and other minerals. The mining and quarrying sectors employs only about 1.8% of the population. Namibia normally imports about 50% of its cereal requirements; in drought years food shortages are a major problem in rural areas. A high per capita GDP, relative to the region, hides one of the world's most unequal income distributions, as shown by Namibia's 59.7 GINI coefficient. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU). Volatility in the size of Namibia's annual SACU allotment complicates budget planning. Namibia's economy remains vulnerable to volatility in the price of uranium and other commodities. The rising cost of mining diamonds, increasingly from the sea, has reduced profit margins. Namibian authorities recognize these issues and have emphasized the need to increase higher value raw materials, manufacturing, and services, especially in the logistics and transportation sectors."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$17.79 billion (2013 est.)//$17.05 billion (2012 est.)//$16.23 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$12.3 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.4% (2013 est.)//5% (2012 est.)//5.7% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$8,200 (2013 est.)//$7,900 (2012 est.)//$7,600 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "NA% (2013 est.)//30.4% of GDP (2012 est.)//27% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "59.9%",
+      "government consumption": "26.2%",
+      "investment in fixed capital": "22.8%",
+      "investment in inventories": "0.5%",
+      "exports of goods and services": "41.4%",
+      "imports of goods and services": "-50.9%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "7.7%",
+      "industry": "29.6%",
+      "services": "62.6% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "millet, sorghum, peanuts, grapes; livestock; fish"
+    },
+    "Industries": {
+      "text": "meatpacking, fish processing, dairy products, pasta, beverages; mining (diamonds, lead, zinc, tin, silver, tungsten, uranium, copper)"
+    },
+    "Industrial production growth rate": {
+      "text": "5.6% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "880,400 (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "16.3%",
+      "industry": "22.4%",
+      "services": "61.3%",
+      "note": "about half of Namibia's people are unemployed while about two-thirds live in rural areas; roughly two-thirds of rural dwellers rely on subsistence agriculture (2008 est.)"
+    },
+    "Unemployment rate": {
+      "text": "27.4% (2012 est.)//51.2% (2008 est.)"
+    },
+    "Population below poverty line": {
+      "text": "28.7%",
+      "note": "the UNDP's 2005 Human Development Report indicated that 34.9% of the population live on $1 per day and 55.8% live on $2 per day (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "2.4%",
+      "highest 10%": "42% (2010)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "59.7 (2010)//70.7 (2003)"
+    },
+    "Budget": {
+      "revenues": "$4.325 billion",
+      "expenditures": "$5.126 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "35.2% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6.5% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "27.2% of GDP (2013 est.)//25.8% of GDP (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.5% (2013 est.)//6.5% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5.5% (31 December 2013 est.)//12% (31 December 2010 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.25% (31 December 2013 est.)//8.7% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$2.723 billion (31 December 2013 est.)//$2.941 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$7.22 billion (31 December 2013 est.)//$7.228 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$5.942 billion (31 December 2013 est.)//$6.266 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.305 billion (31 December 2012 est.)//$1.152 billion (31 December 2011)//$1.176 billion (31 December 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$658.4 million (2013 est.)//-$414 million (2012 est.)"
+    },
+    "Exports": {
+      "text": "$5.124 billion (2013 est.)//$4.883 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "diamonds, copper, gold, zinc, lead, uranium; cattle, white fish and mollusks"
+    },
+    "Imports": {
+      "text": "$7.084 billion (2013 est.)//$6.44 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs; petroleum products and fuel, machinery and equipment, chemicals"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.267 billion (31 December 2013 est.)//$1.738 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$4.312 billion (31 December 2013 est.)//$4.292 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Namibian dollars (NAD) per US dollar -//9.282 (2013 est.)//8.2031 (2012 est.)//7.3212 (2010 est.)//8.42 (2009)//7.75 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "1.331 billion kWh (2013 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "4.238 billion kWh (2013 est.)"
+    },
+    "Electricity - exports": {
+      "text": "89 million kWh (2013 est.)"
+    },
+    "Electricity - imports": {
+      "text": "2.907 billion kWh (2013 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "487,000 kW (2013 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "31.8% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "68.2% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2013 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2012 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "22,990 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "20,810 bbl/day (2012 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "62.29 billion cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "3.217 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "171,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2.435 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "good system; core fiber-optic network links most centers and connections are now digital",
+      "domestic": "multiple mobile-cellular providers with a combined subscribership of more than 100 telephones per 100 persons",
+      "international": "country code - 264; fiber-optic cable to South Africa, microwave radio relay link to Botswana, direct links to other neighboring countries; connected to the South African Far East (SAFE) submarine cable through South Africa; satellite earth stations - 4 Intelsat (2010)"
+    },
+    "Broadcast media": {
+      "text": "1 private and 1 state-run TV station; satellite and cable TV service is available; state-run radio service broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".na"
+    },
+    "Internet hosts": {
+      "text": "78,280 (2012)"
+    },
+    "Internet users": {
+      "text": "127,500 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "112 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "19",
+      "over 3,047 m": "4",
+      "2,438 to 3,047 m": "2",
+      "1,524 to 2,437 m": "12",
+      "914 to 1,523 m": "1 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "93",
+      "1,524 to 2,437 m": "25",
+      "914 to 1,523 m": "52",
+      "under 914 m": "16 (2013)"
+    },
+    "Railways": {
+      "total": "2,626 km",
+      "narrow gauge": "2,626 km 1.067-m gauge (2008)"
+    },
+    "Roadways": {
+      "total": "44,138 km",
+      "paved": "6,387 km",
+      "unpaved": "37,751 km (2010)"
+    },
+    "Merchant marine": {
+      "total": "1",
+      "by type": "cargo 1 (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Luderitz, Walvis Bay"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Namibian Defense Force (NDF): Army, Navy, Air Force (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "568,231 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "351,431",
+      "females age 16-49": "311,513 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "26,413",
+      "female": "26,038 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "3.11% of GDP (2012)//3.38% of GDP (2011)//3.11% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river"
+    },
+    "Trafficking in persons": {
+      "current situation": "Namibia is predominantly a country of origin and destination for children and, to a lesser extent, women subjected to forced labor and sex trafficking; victims lured by promises of legitimate jobs are forced to work in hazardous condition in urban centers and on commercial farms; traffickers exploit Namibian children, as well as children from Angola, Zambia, and Zimbabwe, for forced labor in agriculture, cattle herding, domestic service, and criminal activities; children are also forced into prostitution, often catering to tourists from southern Africa and Europe; girls of the San tribe are particularly vulnerable"
+    }
+  }
+}

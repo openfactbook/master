@@ -1,0 +1,489 @@
+# World
+
+![Map of World](../maps-orig.png/xx.png)
+
+
+## Introduction
+
+**_Background:_**   
+Globally, the 20th century was marked by: (a) two devastating world wars; (b) the Great Depression of the 1930s; (c) the end of vast colonial empires; (d) rapid advances in science and technology, from the first airplane flight at Kitty Hawk, North Carolina (US) to the landing on the moon; (e) the Cold War between the Western alliance and the Warsaw Pact nations; (f) a sharp rise in living standards in North America, Europe, and Japan; (g) increased concerns about environmental degradation including deforestation, energy and water shortages, declining biological diversity, and air pollution; (h) the onset of the AIDS epidemic; and (i) the ultimate emergence of the US as the only world superpower. The planet's population continues to explode: from 1 billion in 1820 to 2 billion in 1930, 3 billion in 1960, 4 billion in 1974, 5 billion in 1987, 6 billion in 1999, and 7 billion in 2012. For the 21st century, the continued exponential growth in science and technology raises both hopes (e.g., advances in medicine and agriculture) and fears (e.g., development of even more lethal weapons of war).
+
+
+## Geography
+
+**_Geographic overview:_**   
+The surface of the earth is approximately 70.9% water and 29.1% land. The former portion is divided into large water bodies termed oceans. The World Factbook recognizes and describes five oceans, which are in decreasing order of size: the Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, and Arctic Ocean.   
+The land portion is generally divided into several, large, discrete landmasses termed continents. Depending on the convention used, the number of continents can vary from five to seven. The most common classification recognizes seven, which are (from largest to smallest): Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia and Europe are sometimes lumped together into a Eurasian continent resulting in six continents. Alternatively, North and South America are sometimes grouped as simply the Americas, resulting in a continent total of six (or five, if the Eurasia designation is used).   
+North America is commonly understood to include the island of Greenland, the isles of the Caribbean, and to extend south all the way to the Isthmus of Panama. The easternmost extent of Europe is generally defined as being the Ural Mountains and the Ural River; on the southeast the Caspian Sea; and on the south the Caucasus Mountains, the Black Sea, and the Mediterranean. Portions of Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey fall within both Europe and Asia, but in every instance the larger section is in Asia. These countries are considered part of both continents. Armenia and Cyprus, which lie completely in Western Asia, are geopolitically European countries.   
+Asia usually incorporates all the islands of the Philippines, Malaysia, and Indonesia. The islands of the Pacific are often lumped with Australia into a "land mass" termed Oceania or Australasia. Africa's northeast extremity is frequently delimited at the Isthmus of Suez, but for geopolitical purposes, the Egyptian Sinai Peninsula is often included as part of Africa.   
+Although the above groupings are the most common, different continental dispositions are recognized or taught in certain parts of the world, with some arrangements more heavily based on cultural spheres rather than physical geographic considerations.
+
+**_Map references:_**   
+Political Map of the World , Physical Map of the World , Standard Time Zones of the World , World Oceans
+
+**_Area:_**   
+**total:** 510.072 million sq km   
+**land:** 148.94 million sq km   
+**water:** 361.132 million sq km   
+**note:** 70.9% of the world's surface is water, 29.1% is land
+
+**_Area - comparative:_**   
+land area about 16 times the size of the US   
+**top fifteen World Factbook entities ranked by size:** Pacific Ocean 155.557 million sq km; Atlantic Ocean 76.762 million sq km; Indian Ocean 68.556 million sq km; Southern Ocean 20.327 million sq km; Russia 17,098,242 sq km; Arctic Ocean 14.056 million sq km; Antarctica 14 million sq km; Canada 9,984,670 sq km; United States 9,826,675 sq km; China 9,596,961 sq km; Brazil 8,514,877 sq km; Australia 7,741,220 sq km; European Union 4,324,782 sq km; India 3,287,263 sq km; Argentina 2,780,400 sq km   
+**top ten largest water bodies:** Pacific Ocean 155.557 million sq km; Atlantic Ocean 76.762 million sq km; Indian Ocean 68.556 million sq km; Southern Ocean 20.327 million sq km; Arctic Ocean 14.056 million sq km; Coral Sea 4,184,100 sq km; South China Sea 3,595,900 sq km; Caribbean Sea 2.834 million sq km; Bering Sea 2.52 million sq km; Mediterranean Sea 2.469 million sq km   
+**top ten largest landmasses:** Asia 44,568,500 sq km; Africa 30.065 million sq km; North America 24.473 million sq km; South America 17.819 million sq km; Antarctica 14 million sq km; Europe 9.948 million sq km; Australia 7,741,220 sq km; Greenland 2,166,086 sq km; New Guinea 785,753 sq km; Borneo 751,929 sq km   
+**top ten largest islands:** Greenland 2,166,086 sq km; New Guinea (Indonesia, Papua New Guinea) 785,753 sq km; Borneo (Brunei, Indonesia, Malaysia) 751,929 sq km; Madagascar 587,713 sq km; Baffin Island (Canada) 507,451 sq km; Sumatra (Indonesia) 472,784 sq km; Honshu (Japan) 227,963 sq km; Victoria Island (Canada) 217,291 sq km; Great Britain (United Kingdom) 209,331 sq km; Ellesmere Island (Canada) 196,236 sq km
+
+**_Land boundaries:_**   
+the land boundaries in the world total 251,060 km (not counting shared boundaries twice); two nations, China and Russia, each border 14 other countries   
+**note:** 46 nations and other areas are landlocked, these include: Afghanistan, Andorra, Armenia, Austria, Azerbaijan, Belarus, Bhutan, Bolivia, Botswana, Burkina Faso, Burundi, Central African Republic, Chad, Czech Republic, Ethiopia, Holy See (Vatican City), Hungary, Kazakhstan, Kosovo, Kyrgyzstan, Laos, Lesotho, Liechtenstein, Luxembourg, Macedonia, Malawi, Mali, Moldova, Mongolia, Nepal, Niger, Paraguay, Rwanda, San Marino, Serbia, Slovakia, South Sudan, Swaziland, Switzerland, Tajikistan, Turkmenistan, Uganda, Uzbekistan, West Bank, Zambia, Zimbabwe; two of these, Liechtenstein and Uzbekistan, are doubly landlocked
+
+**_Coastline:_**   
+356,000 km   
+**note:** 95 nations and other entities are islands that border no other countries, they include: American Samoa, Anguilla, Antigua and Barbuda, Aruba, Ashmore and Cartier Islands, The Bahamas, Bahrain, Baker Island, Barbados, Bermuda, Bouvet Island, British Indian Ocean Territory, British Virgin Islands, Cabo Verde, Cayman Islands, Christmas Island, Clipperton Island, Cocos (Keeling) Islands, Comoros, Cook Islands, Coral Sea Islands, Cuba, Curacao, Cyprus, Dominica, Falkland Islands (Islas Malvinas), Faroe Islands, Fiji, French Polynesia, French Southern and Antarctic Lands, Greenland, Grenada, Guam, Guernsey, Heard Island and McDonald Islands, Howland Island, Iceland, Isle of Man, Jamaica, Jan Mayen, Japan, Jarvis Island, Jersey, Johnston Atoll, Kingman Reef, Kiribati, Madagascar, Maldives, Malta, Marshall Islands, Mauritius, Mayotte, Federated States of Micronesia, Midway Islands, Montserrat, Nauru, Navassa Island, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Palau, Palmyra Atoll, Paracel Islands, Philippines, Pitcairn Islands, Puerto Rico, Saint Barthelemy, Saint Helena, Saint Kitts and Nevis, Saint Lucia, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, Sao Tome and Principe, Seychelles, Singapore, Sint Maarten, Solomon Islands, South Georgia and the South Sandwich Islands, Spratly Islands, Sri Lanka, Svalbard, Tokelau, Tonga, Trinidad and Tobago, Turks and Caicos Islands, Tuvalu, Vanuatu, Virgin Islands, Wake Island, Wallis and Futuna, Taiwan
+
+**_Maritime claims:_**   
+a variety of situations exist, but in general, most countries make the following claims measured from the mean low-tide baseline as described in the 1982 UN Convention on the Law of the Sea: territorial sea - 12 nm, contiguous zone - 24 nm, and exclusive economic zone - 200 nm; additional zones provide for exploitation of continental shelf resources and an exclusive fishing zone; boundary situations with neighboring states prevent many countries from extending their fishing or economic zones to a full 200 nm
+
+**_Climate:_**   
+a wide equatorial band of hot and humid tropical climates - bordered north and south by subtropical temperate zones - that separate two large areas of cold and dry polar climates
+
+**_Terrain:_**   
+the greatest ocean depth is the Mariana Trench at 10,924 m in the Pacific Ocean
+
+**_Elevation extremes:_**   
+**lowest point:** Bentley Subglacial Trench (Antarctica) -2,555 m   
+**note:** in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean   
+**highest point:** Mount Everest 8,850 m   
+**top ten highest mountains (measured from sea level):** Mount Everest (China-Nepal) 8,850 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m
+
+**_Natural resources:_**   
+the rapid depletion of nonrenewable mineral resources, the depletion of forest areas and wetlands, the extinction of animal and plant species, and the deterioration in air and water quality (especially in some countries of Eastern Europe, the former USSR, and China) pose serious long-term problems that governments and peoples are only beginning to address
+
+**_Land use:_**   
+**arable land:** 10.43%   
+**permanent crops:** 1.15%   
+**other:** 88.42% (2011)
+
+**_Irrigated land:_**   
+3,096,621.45 sq km (2011 est.)
+
+**_Total renewable water resources:_**   
+53,789.29 cu km (2011)
+
+**_Natural hazards:_**   
+large areas subject to severe weather (tropical cyclones); natural disasters (earthquakes, landslides, tsunamis, volcanic eruptions)   
+**volcanism:** volcanism is a fundamental driver and consequence of plate tectonics, the physical process reshaping the Earth's lithosphere; the world is home to more than 1,500 potentially active volcanoes, with over 500 of these having erupted in historical times; an estimated 500 million people live near these volcanoes; associated dangers include lava flows, lahars (mudflows), pyroclastic flows, ash clouds, ash fall, ballistic projectiles, gas emissions, landslides, earthquakes, and tsunamis; in the 1990s, the International Association of Volcanology and Chemistry of the Earth's Interior, created a list of 16 Decade Volcanoes worthy of special study because of their great potential for destruction: Avachinsky-Koryaksky (Russia), Colima (Mexico), Etna (Italy), Galeras (Colombia), Mauna Loa (United States), Merapi (Indonesia), Nyiragongo (Democratic Republic of the Congo), Rainier (United States), Sakurajima (Japan), Santa Maria (Guatemala), Santorini (Greece), Taal (Philippines), Teide (Spain), Ulawun (Papua New Guinea), Unzen (Japan), Vesuvius (Italy)
+
+**_Environment - current issues:_**   
+large areas subject to overpopulation, industrial disasters, pollution (air, water, acid rain, toxic substances), loss of vegetation (overgrazing, deforestation, desertification), loss of wildlife, soil degradation, soil depletion, erosion; global warming becoming a greater concern
+
+**_Geography - note:_**   
+the world is now thought to be about 4.55 billion years old, just about one-third of the 13.8-billion-year age estimated for the universe
+
+
+## People and Society
+
+**_Languages:_**   
+Mandarin Chinese 12.44%, Spanish 4.85%, English 4.83%, Arabic 3.25%, Hindi 2.68%, Bengali 2.66%, Portuguese 2.62%, Russian 2.12%, Japanese 1.8%, Standard German 1.33%, Javanese 1.25% (2009 est.)   
+**note 1:** percents are for "first language" speakers only; the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about half of the world's population, and are the official languages in more than half the states in the world; some 150 to 200 languages have more than a million speakers   
+**note 2:** all told, there are an estimated 7,100 languages spoken in the world; aproximately 80% of these languages are spoken by less than 100,000 people; about 50 languages are spoken by only 1 person; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 836 separate languages   
+**note 3:** approximately 2,300 languages are spoken in Asia, 2,150, in Africa, 1,300 in the Pacific, 1,060 in the Americas, and 280 in Europe
+
+**_Religions:_**   
+Christian 33.39% (of which Roman Catholic 16.85%, Protestant 6.15%, Orthodox 3.96%, Anglican 1.26%), Muslim 22.74%, Hindu 13.8%, Buddhist 6.77%, Sikh 0.35%, Jewish 0.22%, Baha'i 0.11%, other religions 10.95%, non-religious 9.66%, atheists 2.01% (2010 est.)
+
+**_Population:_**   
+7,174,611,584 (July 2014 est.)   
+**top ten most populous countries (in millions):** China 1355.69; India 1,236.34; United States 318.89; Indonesia 253.61; Brazil 202.66; Pakistan 196.17; Nigeria 177.16; Bangladesh 166.28; Russia 142.47; Japan 127.10
+
+**_Age structure:_**   
+**0-14 years:** 25.79% (male 956,360,171/female 893,629,520)   
+**15-24 years:** 16.61% (male 613,806,639/female 577,904,561)   
+**25-54 years:** 40.78% (male 1,478,739,525/female 1,447,244,791)   
+**55-64 years:** 8.51% (male 298,092,946/female 312,206,795)   
+**65 years and over:** 8.32% (male 265,453,689/female 331,172,947) (2014 est.)
+
+**_Dependency ratios:_**   
+**total dependency ratio:** 52 %   
+**youth dependency ratio:** 39.7 %   
+**elderly dependency ratio:** 12.3 %   
+**potential support ratio:** 8.1 (2014 est.)
+
+**_Median age:_**   
+**total:** 29.7 years   
+**male:** 28.9 years   
+**female:** 30.4 years (2014 est.)
+
+**_Population growth rate:_**   
+1.064%   
+**note:** this rate results in about 145 net additions to the worldwide population every minute or 2.4 every second (2014 est.)
+
+**_Birth rate:_**   
+18.7 births/1,000 population   
+**note:** this rate results in about 255 worldwide births per minute or 4.3 births every second (2014 est.)
+
+**_Death rate:_**   
+7.89 deaths/1,000 population   
+**note:** this rate results in about 108 worldwide deaths per minute or 1.8 deaths every second (2014 est.)
+
+**_Urbanization:_**   
+**urban population:** 52.1% of total population (2011)   
+**rate of urbanization:** 1.97% annual rate of change (2010-15 est.)   
+**ten largest urban agglomerations:** Tokyo (Japan) - 37,217,000; Delhi (India) - 22,654,000; Mexico City (Mexico) - 20,446,000; New York-Newark (US) - 20,352,000; Shanghai (China) - 20,208,000; Sao Paulo (Brazil) - 19,924,000; Mumbai (India) - 19,744,000; Beijing (China) - 15,594,000; Dhaka (Bangladesh) - 15,391,000; Kolkata (India) - 14,402,000 (2011)
+
+**_Sex ratio:_**   
+**at birth:** 1.07 male(s)/female   
+**0-14 years:** 1.07 male(s)/female   
+**15-24 years:** 1.062 male(s)/female   
+**25-54 years:** 1.022 male(s)/female   
+**55-64 years:** 0.955 male(s)/female   
+**65 years and over:** 0.802 male(s)/female   
+**total population:** 1.014 male(s)/female (2014 est.)
+
+**_Infant mortality rate:_**   
+**total:** 36.58 deaths/1,000 live births   
+**male:** 38.49 deaths/1,000 live births   
+**female:** 34.54 deaths/1,000 live births (2014 est.)
+
+**_Life expectancy at birth:_**   
+**total population:** 68.35 years   
+**male:** 66.39 years   
+**female:** 70.43 years (2014 est.)
+
+**_Total fertility rate:_**   
+2.43 children born/woman (2014 est.)
+
+**_Hospital bed density:_**   
+2.9 beds/1,000 population (2005)
+
+**_Drinking water source:_**   
+**improved:** urban: 96.4% of population; rural: 81.4% of population; total: 89.4% of population   
+**unimproved:** urban: 3.6% of population; rural: 18.4% of population; total: 10.6% of population (2012 est.)
+
+**_Sanitation facility access:_**   
+**improved:** urban: 79.6% of population; rural: 47.2% of population; total: 64.2% of population   
+**unimproved:** urban: 20.4% of population; rural: 52.8% of population; total: 35.8% of population (2012 est.)
+
+**_HIV/AIDS - adult prevalence rate:_**   
+0.8% (2009 est.)
+
+**_HIV/AIDS - people living with HIV/AIDS:_**   
+35.3 million (2009 est.)
+
+**_HIV/AIDS - deaths:_**   
+1.6 million (2009 est.)
+
+**_Literacy:_**   
+**definition:** age 15 and over can read and write   
+**total population:** 84.1%   
+**male:** 88.6%   
+**female:** 79.7%   
+**note:** almost three-quarters of the world's 775 million illiterate adults are found in only ten countries (in descending order: India, China, Pakistan, Bangladesh, Nigeria, Ethiopia, Egypt, Brazil, Indonesia, and the Democratic Republic of the Congo); of all the illiterate adults in the world, two-thirds are women; extremely low literacy rates are concentrated in South and West Asia and Sub-Saharan Africa (2010 est.)
+
+**_School life expectancy (primary to tertiary education):_**   
+**total:** 12 years   
+**male:** 12 years   
+**female:** 12 years (2011)
+
+
+## Government
+
+**_Administrative divisions:_**   
+195 countries, 72 dependent areas and other entities
+
+**_Legal system:_**   
+the legal systems of nearly all countries are generally modeled upon elements of five main types: civil law (including French law, the Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law); common law (including United States law); customary law; mixed or pluralistic law; and religious law (including Islamic law); an additional type of legal system - international law - governs the conduct of independent nations in their relationships with one another
+
+**_International law organization participation:_**   
+all members of the UN are parties to the statute that established the International Court of Justice (ICJ) or World Court; 54 countries have accepted jurisdiction of the ICJ as compulsory with reservations and 14 countries have accepted ICJ jurisdiction as compulsory without reservations; states parties to the Rome Statute of the International Criminal Court (ICCt) are those countries that have ratified or acceded to the Rome Statute, the treaty that established the Court; a total of 121 (effective 1 July 2012) countries have accepted jurisdiction of the ICCt (see Appendix B for a clarification on the differing mandates of the ICJ and ICCt)
+
+
+## Economy
+
+**_Economy - overview:_**   
+The international financial crisis of 2008-09 led to the first downturn in global output since 1946 and presented the world with a major new challenge: determining what mix of fiscal and monetary policies to follow to restore growth and jobs, while keeping inflation and debt under control. Financial stabilization and stimulus programs that started in 2009-11, combined with lower tax revenues in 2009-10, required most countries to run large budget deficits. Treasuries issued new public debt - totaling $9.1 trillion since 2008 - to pay for the additional expenditures. To keep interest rates low, most central banks monetized that debt, injecting large sums of money into their economies - between December 2008 and December 2013 the global money supply increased by more than 35%. Governments now are faced with the difficult task of spurring current growth and employment without saddling their economies with so much debt that they sacrifice long-term growth and financial stability. And when economic activity picks up, central banks will confront the difficult task of containing inflation without raising interest rates so high they snuff out further growth.   
+   
+Fiscal and monetary data for 2012 are currently available for 180 countries, which together account for 98.5% of World GDP. Of the 180 countries, 85 pursued unequivocally expansionary policies, boosting government spending while also expanding their money supply relatively rapidly - faster than the world average of 4.1%; 37 followed restrictive fiscal and monetary policies, reducing government spending and holding money growth to less than the 4.1% average; and the remaining 58 followed a mix of counterbalancing fiscal and monetary policies, either reducing government spending while accelerating money growth, or boosting spending while curtailing money growth.   
+   
+(For more information, see attached spreadsheet, Fiscal and Monetary Data, 2008-2012.)   
+   
+In 2012, fiscal policy shifted towards greater austerity for a majority of the countries. In an attempt to attack their deficit and debt problems head-on, nearly 5 out of 6 countries slowed the rate of growth of government spending, and 1 in 3 countries actually lowered the level of their expenditures. The global growth rate for government expenditures dropped from 5.9% in 2010 and 10.1% in 2011, to just 1.4% in 2012. Roughly 1 out of 3 central banks tightened monetary policy, decelerating the rate of growth of their money supply, and about 1 out of 7 actually withdrew money from circulation. Growth of the global money supply, as measured by the narrowly defined M1, slowed from 8.7% in 2009 and 10.4% in 2010 to 5.2% in 2011 and 4.1% in 2012.   
+   
+These policy choices significantly affected economic performance. The global budget deficit narrowed to roughly $2.7 trillion in 2012, or 3.8% of World GDP. But growth of the world economy slipped from 5.1% in 2010 and 3.7% in 2011, to just 3.1% in 2012, and 2.9% in 2013.   
+   
+Countries with expansionary fiscal and monetary policies achieved significantly higher rates of growth, lower unemployment, higher growth of tax revenues, and greater success reducing the public debt burden than those countries that chose contractionary policies. In 2012, the 85 countries that followed a pro-growth approach achieved a median GDP growth rate of 4.9%, compared to just 0.8% for the 37 countries with restrictive fiscal and monetary policies, a difference of more than 4 percentage points. Among the 85, China grew 7.8%, Indonesia 6.0%, Mexico 4.0%, Russia 3.4%, Turkey 3.0%, the United States 2.2%, and Canada 1.9%, while among the 37, Brazil grew 1.3%, Germany 0.7%, France 0.1%, Belgium -0.2%, Netherlands -0.5%, Spain -1.4%, and Italy -2.3%. The median unemployment rate for the 37 countries jumped to 11.5%, while the median for the pro-growth countries held steady at 7.3%.   
+   
+Faster GDP growth and lower unemployment rates translated into increased tax revenues and a lower debt burden. Revenues for the 85 expansionary countries grew at a median rate of 10.8%, whereas tax revenues fell at a median rate of 6.2% for the 37 countries that chose austere economic policies. Budget balances improved for about half of the 37, but, for most, debt grew faster than GDP, and the median level of their public debt as a share of GDP increased 2.5 percentage points, to 57.8%. On the other hand, budget balances deteriorated for most of the 85 pro-growth countries, but GDP growth outpaced increases in debt, and the median level of public debt as a share of GDP actually declined slightly (-0.1 percentage points).   
+   
+The world recession has suppressed inflation rates - world inflation declined 1.0 percentage point in 2012 to about 4.0%. At the same time, the median inflation rate for the 85 pro-growth countries, at 5.5%, was 2.5 percentage points higher than that for the countries that followed more austere fiscal and monetary policies. Overall, the latter countries also improved their current account balances by shedding imports; as a result, current account balances deteriorated for most of the countries that pursued pro-growth policies. Slower growth of world income reduced import demand and crude oil prices fell. Consequently, the dollar value of world trade grew just 1% in 2012, compared with 18% in 2011.   
+   
+Beyond the current global slowdown, the world faces several long-standing economic challenges. The addition of 80 million people each year to an already overcrowded globe is exacerbating the problems of pollution, waste-disposal, epidemics, water-shortages, famine, over-fishing of oceans, deforestation, desertification, and depletion of non-renewable resources. The nation-state, as a bedrock economic-political institution, is steadily losing control over international flows of people, goods, services, funds, and technology. The introduction of the euro as the common currency of much of Western Europe in January 1999, while paving the way for an integrated economic powerhouse, has created economic risks because the participating nations have varying income levels and growth rates, and hence, require a different mix of monetary and fiscal policies. Governments, especially in Western Europe, face the difficult political problem of channeling resources away from welfare programs in order to increase investment and strengthen incentives to seek employment. Because of their own internal problems and priorities, the industrialized countries are unable to devote sufficient resources to deal effectively with the poorer areas of the world, which, at least from an economic point of view, are becoming further marginalized. The terrorist attacks on the US on 11 September 2001 accentuated a growing risk to global prosperity - the diversion of resources away from capital investments to counter-terrorist programs.   
+   
+Despite these vexing problems, the world economy also shows great promise. Technology has made possible further advances in a wide range of fields, from agriculture, to medicine, alternative energy, metallurgy, and transportation. Improved global communications have greatly reduced the costs of international trade, helping the world gain from the international division of labor, raise living standards, and reduce income disparities among nations. Much of the resilience of the world economy in the aftermath of the financial crisis resulted from government and central bank leaders around the globe working in concert to stem the financial onslaught, knowing well the lessons of past economic failures.
+
+**_GDP (purchasing power parity):_**   
+$87.25 trillion (2013 est.)   
+$84.83 trillion (2012 est.)   
+$82.25 trillion (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_GDP (official exchange rate):_**   
+GWP (gross world product): $74.31 trillion (2013 est.)
+
+**_GDP - real growth rate:_**   
+2.9% (2013 est.)   
+3.1% (2012 est.)   
+3.8% (2011 est.)
+
+**_GDP - per capita (PPP):_**   
+$13,100 (2013 est.)   
+$12,800 (2012 est.)   
+$12,600 (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_GDP - composition, by end use:_**   
+**household consumption:** 62%   
+**government consumption:** 18.5%   
+**investment in fixed capital:** 19.4%   
+**investment in inventories:** 0.5%   
+**exports of goods and services:** 29.3%   
+**imports of goods and services:** -29.7%; (2011 est.)
+
+**_GDP - composition, by sector of origin:_**   
+**agriculture:** 6%   
+**industry:** 30.7%   
+**services:** 63.3% (2013 est.)
+
+**_Industries:_**   
+dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems
+
+**_Industrial production growth rate:_**   
+3.5% (2013 est.)
+
+**_Labor force:_**   
+3.308 billion (2013 est.)
+
+**_Labor force - by occupation:_**   
+**agriculture:** 34.5%   
+**industry:** 22.7%   
+**services:** 42.8% (2009 est.)
+
+**_Unemployment rate:_**   
+8.4% (2013 est.)   
+7.5% (2012 est.)   
+**note:** 30% combined unemployment and underemployment in many non-industrialized countries; developed countries typically 4%-12% unemployment (2007 est.)
+
+**_Household income or consumption by percentage share:_**   
+**lowest 10%:** 2.8%   
+**highest 10%:** 28.2% (2008 est.)
+
+**_Distribution of family income - Gini index:_**   
+38.5 (2008 est.)   
+37.3 (1999 est.)
+
+**_Budget:_**   
+**revenues:** $22.41 trillion   
+**expenditures:** $24.6 trillion (2013 est.)
+
+**_Taxes and other revenues:_**   
+30.3% of GDP (2013 est.)
+
+**_Budget surplus (+) or deficit (-):_**   
+-3.1% of GDP (2013 est.)
+
+**_Public debt:_**   
+63.3% of GDP (2013 est.)   
+62.8% of GDP (2012 est.)
+
+**_Inflation rate (consumer prices):_**   
+world average 3.9% (2013 est.)   
+developed countries 1.5% (2013 est.)   
+developing countries 5.6% (2013 est.)   
+**note:** the above estimates are weighted averages; inflation in developed countries is 0% to 4% typically, in developing countries, 5% to 10% typically; national inflation rates vary widely in individual cases; inflation rates have declined for most countries for the last several years, held in check by increasing international competition from several low wage countries, and by soft demand as a result of the world financial crisis (2013 est.)
+
+**_Stock of narrow money:_**   
+$27.49 trillion (31 December 2013 est.)   
+$26.67 trillion (31 December 2012 est.)
+
+**_Stock of broad money:_**   
+$82.84 trillion (31 December 2013 est.)   
+$79.31 trillion (31 December 2012 est.)
+
+**_Stock of domestic credit:_**   
+$87.9 trillion (31 December 2013 est.)   
+$86.03 trillion (31 December 2012 est.)
+
+**_Market value of publicly traded shares:_**   
+$53.87 trillion (31 December 2012 est.)   
+$47.13 trillion (31 December 2011)   
+$54.61 trillion (31 December 2010 est.)
+
+**_Exports:_**   
+$18.71 trillion (2013 est.)   
+$18.59 trillion (2012 est.)
+
+**_Exports - commodities:_**   
+the whole range of industrial and agricultural goods and services   
+**top ten - share of world trade:** electrical machinery, including computers 14.8%; mineral fuels, including oil, coal, gas, and refined products 14.4%; nuclear reactors, boilers, and parts 14.2%; cars, trucks, and buses 8.9%; scientific and precision instruments 3.5%; plastics 3.4%; iron and steel 2.7%; organic chemicals 2.6%; pharmaceutical products 2.6%; diamonds, pearls, and precious stones 1.9%
+
+**_Imports:_**   
+$18.36 trillion (2013 est.)   
+$18.13 trillion (2012 est.)
+
+**_Imports - commodities:_**   
+the whole range of industrial and agricultural goods and services   
+**top ten - share of world trade:** see listing for exports
+
+**_Debt - external:_**   
+$72.97 trillion (31 December 2013 est.)   
+$69.87 trillion (31 December 2012 est.)   
+**note:** this figure is the sum total of all countries' external debt, both public and private
+
+**_Stock of direct foreign investment - at home:_**   
+$24.7 trillion (31 December 2013 est.)   
+$22.85 trillion (31 December 2012 est.)
+
+**_Stock of direct foreign investment - abroad:_**   
+$25.2 trillion (31 December 2013 est.)   
+$23.64 trillion (31 December 2012 est.)
+
+
+## Energy
+
+**_Electricity - production:_**   
+22.03 trillion kWh (2011 est.)
+
+**_Electricity - consumption:_**   
+20.45 trillion kWh (2010 est.)
+
+**_Electricity - exports:_**   
+673.6 billion kWh (2012 est.)
+
+**_Electricity - imports:_**   
+692.6 billion kWh (2012 est.)
+
+**_Electricity - installed generating capacity:_**   
+5.359 billion kW (2010 est.)
+
+**_Electricity - from fossil fuels:_**   
+66.6% of total installed capacity (2010 est.)
+
+**_Electricity - from nuclear fuels:_**   
+7.4% of total installed capacity (2010 est.)
+
+**_Electricity - from hydroelectric plants:_**   
+18.8% of total installed capacity (2010 est.)
+
+**_Electricity - from other renewable sources:_**   
+7.1% of total installed capacity (2010 est.)
+
+**_Crude oil - production:_**   
+89.08 million bbl/day (2012 est.)
+
+**_Crude oil - exports:_**   
+44.06 million bbl/day (2010 est.)
+
+**_Crude oil - imports:_**   
+45.41 million bbl/day (2010 est.)
+
+**_Crude oil - proved reserves:_**   
+1.63 trillion bbl (1 January 2013 est.)
+
+**_Refined petroleum products - production:_**   
+82.24 million bbl/day (2010 est.)
+
+**_Refined petroleum products - consumption:_**   
+87.31 million bbl/day (2011 est.)
+
+**_Refined petroleum products - exports:_**   
+24.4 million bbl/day (2010 est.)
+
+**_Refined petroleum products - imports:_**   
+23.75 million bbl/day (2010 est.)
+
+**_Natural gas - production:_**   
+3.471 trillion cu m (2011 est.)
+
+**_Natural gas - consumption:_**   
+3.235 trillion cu m (2010 est.)
+
+**_Natural gas - exports:_**   
+1.291 trillion cu m (2011 est.)
+
+**_Natural gas - imports:_**   
+1.624 trillion cu m (2011 est.)
+
+**_Natural gas - proved reserves:_**   
+204.7 trillion cu m (1 January 2013 est.)
+
+**_Carbon dioxide emissions from consumption of energy:_**   
+33.4 billion Mt (2011 est.)
+
+
+## Communications
+
+**_Telephones - main lines in use:_**   
+1.2 billion (2011)
+
+**_Telephones - mobile cellular:_**   
+6 billion (2011)
+
+**_Internet users:_**   
+2.1 billion (2010)
+
+
+## Transportation
+
+**_Airports:_**   
+total airports - 41,821 (2013)   
+**top ten by passengers:** Atlanta (ATL) - 95,672,104; Beijing (PEK) - 81,908,740; London (LHR) - 70,051,902; Tokyo (HND) - 67,824,747; Chicago (ORD) - 67,124,607; Los Angeles (LAX) - 63,849,335; Paris (CDG) - 61,478,475; Dallas/Fort Worth (DFW) - 58,887,570; Dubai (DXB) - 58,392,171; Jakarta (CGK) - 57,839,056 (2013)   
+**top ten by cargo (metric tons):** Hong Kong (HKG) - 4,120,348; Memphis (MEM) - 4,053,865; Shanghai (PVG) - 2,969,554; Anchorage (ANC) - 2,470,147; Incheon (ICN) - 2,461,229; Dubai (DXB) - 2,294,614; Louisville (SDF) - 2,186,937; Frankfurt (FRA) - 2,067,698; Tokyo (NRT) - 2,014,500; Paris (CDG) - 1,940,850 (2013) (2013)
+
+**_Heliports:_**   
+6,524 (2013)
+
+**_Railways:_**   
+**total:** 657,382 km (2013)
+
+**_Roadways:_**   
+**total:** 64,285,009 km (2013)
+
+**_Waterways:_**   
+2,293,412 km   
+**top ten longest rivers:** Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km   
+**note:** rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the world   
+**top ten largest natural lakes (by surface area):** Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km   
+**note:** the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water (2013)
+
+**_Ports and terminals:_**   
+**top ten container ports as measured by Twenty-Foot Equivalent Units (TEUs) throughput:** Shanghai (China) - 31,739,000; Singapore (Singapore) - 29,937,700; Hong Kong (China) - 24,384,000; Shenzhen (China) - 22,570,800; Busan (South Korea) - 16,163,842; Ningbo (China) - 14,719,200; Guangzhou (China) - 14,260,400; Qingdao (China) - 13,020,100; Dubai (UAE) - 12,617,595; - Rotterdam (Netherlands) - 11,876,920 (2011)
+
+**_Transportation - note:_**   
+the International Maritime Bureau (IMB) reports that 2011 saw a very slight (1%) decrease in global pirate activities with marginally fewer people taken hostage at sea; in 2011, pirates attacked a total of 439 ships world-wide including hijacking 45 ships, capturing 802 seafarers, and killing eight; while the Horn of Africa remains the most dangerous area for maritime shipping, accounting for more than 50% of all attacks in 2011, a number of attacks also occurred in the coastal waters of Indonesia, the South China Sea, Bangladesh, and West Africa; as of July 2012, there were 189 attacks worldwide with 20 hijackings; the Horn of Africa remains the most dangerous region in 2012 with 70 attacks, 13 hijackings, 212 hostages seized; as of July 2012, Somali pirates held 11 vessels and 174 hostages; the decrease in successful pirate attacks is due, in part, to more aggressive anti-piracy operations by international naval forces as well as the increased use of armed security teams aboard merchant ships
+
+
+## Military
+
+**_Military expenditures:_**   
+2.42% of GDP (2012)   
+2.51% of GDP (2011)   
+2.42% of GDP (2010)
+
+
+## Transnational Issues
+
+**_Disputes - international:_**   
+stretching over 250,000 km, the world's 325 international land boundaries separate 195 independent states and 71 dependencies, areas of special sovereignty, and other miscellaneous entities; ethnicity, culture, race, religion, and language have divided states into separate political entities as much as history, physical terrain, political fiat, or conquest, resulting in sometimes arbitrary and imposed boundaries; most maritime states have claimed limits that include territorial seas and exclusive economic zones; overlapping limits due to adjacent or opposite coasts create the potential for 430 bilateral maritime boundaries of which 209 have agreements that include contiguous and non-contiguous segments; boundary, borderland/resource, and territorial disputes vary in intensity from managed or dormant to violent or militarized; undemarcated, indefinite, porous, and unmanaged boundaries tend to encourage illegal cross-border activities, uncontrolled migration, and confrontation; territorial disputes may evolve from historical and/or cultural claims, or they may be brought on by resource competition; ethnic and cultural clashes continue to be responsible for much of the territorial fragmentation and internal displacement of the estimated 20.8 million people and cross-border displacements of approximately 12.1 million refugees and asylum seekers around the world as of mid-2013; over half a million refugees were repatriated during 2012; other sources of contention include access to water and mineral (especially hydrocarbon) resources, fisheries, and arable land; armed conflict prevails not so much between the uniformed armed forces of independent states as between stateless armed entities that detract from the sustenance and welfare of local populations, leaving the community of nations to cope with resultant refugees, hunger, disease, impoverishment, and environmental degradation
+
+**_Refugees and internally displaced persons:_**   
+the United Nations High Commissioner for Refugees (UNHCR) estimated that as of the end of 2012 there were 45.2 million people forcibly displaced worldwide; this includes 15.4 million refugees, 937,000 asylum seekers, and 28.8 million conflict IDPs (another 32.4 million IDPs were displaced by natural disasters); the UNHCR estimates there are currently 10-12 million stateless persons (2012)
+
+**_Trafficking in persons:_**   
+**current situation:** approximately 800,000 people, mostly women and children, are trafficked annually across national borders, not including the millions who are trafficked within their own countries; at least 80% of the victims are female and up to 50% are minors; 75% of all victims are trafficked into commercial sexual exploitation; almost two-thirds of the global victims are trafficked intra-regionally within East Asia and the Pacific (260,000 to 280,000 people) and Europe and Eurasia (170,000 to 210,000 people) (2012)   
+**Tier 2 Watch List:** (44 countries) Afghanistan, Albania, Angola, Bahrain, Barbados, Belarus, Burma, Burundi, Cambodia, Chad, Comoros, Djibouti, Federated States of Micronesia, The Gambia, Guinea, Guyana, Haiti, Honduras, Kenya, Lebanon, Lesotho, Liberia, Madagascar, Malaysia, Maldives, Mali, Marshall Islands, Morocco, Namibia, Rwanda, Saint Lucia, Seychelles, Solomon Islands, South Sudan, Sri Lanka, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkmenistan, Ukraine, Uruguay, Venezuela   
+**Tier 3:** (21 countries) Algeria, Central African Republic, China, Democratic Republic of Congo, Cuba, Equatorial Guinea, Eritrea, Guinea-Bissau, Iran, North Korea, Kuwait, Libya, Mauritania, Papua New Guinea, Russia, Saudi Arabia, Sudan, Syria, Uzbekistan, Yemen, Zimbabwe (2013)
+
+**_Illicit drugs:_**   
+**cocaine:** worldwide coca leaf cultivation in 2007 amounted to 232,500 hectares; Colombia produced slightly more than two-thirds of the worldwide crop, followed by Peru and Bolivia; potential pure cocaine production decreased 7% to 865 metric tons in 2007; Colombia conducts an aggressive coca eradication campaign, but both Peruvian and Bolivian Governments are hesitant to eradicate coca in key growing areas; 551 metric tons of export-quality cocaine (85% pure) is documented to have been seized or destroyed in 2005; US consumption of export quality cocaine is estimated to have been in excess of 380 metric tons
+

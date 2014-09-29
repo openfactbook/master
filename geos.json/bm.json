@@ -1,0 +1,627 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "bm",
+    "countryname": "Burma",
+    "flag_orig": "498x281",
+    "last_update": "Page last updated on June 23, 2014",
+    "locator_orig": "533x502",
+    "map_orig": "328x715",
+    "region": "East &amp; Southeast Asia",
+    "regioncode": "eas"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Various ethnic Burmese and ethnic minority city-states or kingdoms occupied the present borders through the 19th century. Over a period of 62 years (1824-1886), Britain conquered Burma and incorporated the country into its Indian Empire. Burma was administered as a province of India until 1937 when it became a separate, self-governing colony; in 1948, Burma attained independence from the British Commonwealth. Gen. NE WIN dominated the government from 1962 to 1988, first as military ruler, then as self-appointed president, and later as political kingpin. In response to widespread civil unrest, NE WIN resigned in 1988, but within months the military crushed student-led protests and took power. Multiparty legislative elections in 1990 resulted in the main opposition party - the National League for Democracy (NLD) - winning a landslide victory. Instead of handing over power, the junta placed NLD leader (and Nobel Peace Prize recipient) AUNG SAN SUU KYI (ASSK) under house arrest from 1989 to 1995, 2000 to 2002, and from May 2003 to November 2010. In late September 2007, the ruling junta brutally suppressed protests over increased fuel prices led by prodemocracy activists and Buddhist monks, killing at least 13 people and arresting thousands for participating in the demonstrations. In early May 2008, Burma was struck by Cyclone Nargis, which left over 138,000 dead and tens of thousands injured and homeless. Despite this tragedy, the junta proceeded with its May constitutional referendum, the first vote in Burma since 1990. Parliamentary elections held in November 2010, considered flawed by many in the international community, saw the ruling Union Solidarity and Development Party garner over 75% of the seats. Parliament convened in January 2011 and selected former Prime Minister THEIN SEIN as president. Although the vast majority of national-level appointees named by THEIN SEIN are former or current military officers, the government has initiated a series of political and economic reforms leading to a substantial opening of the long-isolated country. These reforms have included allowing ASSK to contest parliamentary by-elections on 1 April 2012, releasing hundreds of political prisoners, reaching preliminary peace agreements with 10 of the 11 major armed ethnic groups, enacting laws that provide better protections for basic human rights, and gradually reducing restrictions on freedom of the press, association, and civil society. At least due in part to these reforms, ASSK now serves as an elected Member of Parliament and chair of the Committee for Rule of Law and Tranquility. Most political parties have begun building their institutions in preparation for the next round of general elections in 2015. The country is the chair of the Association of Southeast Asian Nations (ASEAN) for 2014."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Asia, bordering the Andaman Sea and the Bay of Bengal, between Bangladesh and Thailand"
+    },
+    "Geographic coordinates": {
+      "text": "22 00 N, 98 00 E"
+    },
+    "Map references": {
+      "text": "Southeast Asia"
+    },
+    "Area": {
+      "total": "676,578 sq km",
+      "land": "653,508 sq km",
+      "water": "23,070 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Texas"
+    },
+    "Land boundaries": {
+      "total": "6,522 km",
+      "border countries": "Bangladesh 271 km, China 2,129 km, India 1,468 km, Laos 238 km, Thailand 2,416 km"
+    },
+    "Coastline": {
+      "text": "1,930 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "contiguous zone": "24 nm",
+      "exclusive economic zone": "200 nm",
+      "continental shelf": "200 nm or to the edge of the continental margin"
+    },
+    "Climate": {
+      "text": "tropical monsoon; cloudy, rainy, hot, humid summers (southwest monsoon, June to September); less cloudy, scant rainfall, mild temperatures, lower humidity during winter (northeast monsoon, December to April)"
+    },
+    "Terrain": {
+      "text": "central lowlands ringed by steep, rugged highlands"
+    },
+    "Elevation extremes": {
+      "lowest point": "Andaman Sea / Bay of Bengal 0 m",
+      "highest point": "Gamlang Razi 5,870 m"
+    },
+    "Natural resources": {
+      "text": "petroleum, timber, tin, antimony, zinc, copper, tungsten, lead, coal, marble, limestone, precious stones, natural gas, hydropower"
+    },
+    "Land use": {
+      "arable land": "15.94%",
+      "permanent crops": "2.16%",
+      "other": "81.89% (2011)"
+    },
+    "Irrigated land": {
+      "text": "21,100 sq km (2004)"
+    },
+    "Total renewable water resources": {
+      "text": "1,168 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "33.23 cu km/yr (10%/1%/89%)",
+      "per capita": "728.6 cu m/yr (2005)"
+    },
+    "Natural hazards": {
+      "text": "destructive earthquakes and cyclones; flooding and landslides common during rainy season (June to September); periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; industrial pollution of air, soil, and water; inadequate sanitation and water treatment contribute to disease"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "strategic location near major Indian Ocean shipping lanes"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Burmese (singular and plural)",
+      "adjective": "Burmese"
+    },
+    "Ethnic groups": {
+      "text": "Burman 68%, Shan 9%, Karen 7%, Rakhine 4%, Chinese 3%, Indian 2%, Mon 2%, other 5%"
+    },
+    "Languages": {
+      "text": "Burmese (official)",
+      "note": "minority ethnic groups have their own languages"
+    },
+    "Religions": {
+      "text": "Buddhist 89%, Christian 4% (Baptist 3%, Roman Catholic 1%), Muslim 4%, Animist 1%, other 2%"
+    },
+    "Population": {
+      "text": "55,746,253",
+      "note": "estimates for this country take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "26.4% (male 7,498,179/female 7,209,588)",
+      "15-24 years": "18.3% (male 5,163,399/female 5,037,117)",
+      "25-54 years": "43.1% (male 11,930,777/female 12,073,741)",
+      "55-64 years": "7% (male 1,836,463/female 2,059,482)",
+      "65 years and over": "5.3% (male 1,277,919/female 1,659,588) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "42.5 %",
+      "youth dependency ratio": "35 %",
+      "elderly dependency ratio": "7.6 %",
+      "potential support ratio": "13.2 (2014 est.)"
+    },
+    "Median age": {
+      "total": "27.9 years",
+      "male": "27.3 years",
+      "female": "28.5 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "1.03% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "18.65 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "8.01 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.3 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "32.6% of total population (2011)",
+      "rate of urbanization": "2.49% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "RANGOON (capital) 4.457 million; Mandalay 1.063 million; Nay Pyi Taw 1.06 million (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.06 male(s)/female",
+      "0-14 years": "1.04 male(s)/female",
+      "15-24 years": "1.03 male(s)/female",
+      "25-54 years": "0.99 male(s)/female",
+      "55-64 years": "0.99 male(s)/female",
+      "65 years and over": "0.77 male(s)/female",
+      "total population": "0.99 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "22.8 (2007 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "200 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "44.91 deaths/1,000 live births",
+      "male": "51.35 deaths/1,000 live births",
+      "female": "38.07 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "65.94 years",
+      "male": "63.57 years",
+      "female": "68.46 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "2.18 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "46% (2009/10)"
+    },
+    "Health expenditures": {
+      "text": "2% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "0.5 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "0.6 beds/1,000 population (2006)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 94.8% of population; rural: 81.1% of population; total: 85.7% of population",
+      "unimproved": "urban: 5.2% of population; rural: 18.9% of population; total: 14.3% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 84.3% of population; rural: 73.9% of population; total: 77.4% of population",
+      "unimproved": "urban: 15.7% of population; rural: 26.1% of population; total: 22.6% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.6% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "195,700 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "11,600 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "very high",
+      "food or waterborne diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever",
+      "vectorborne diseases": "dengue fever, malaria, and Japanese encephalitis",
+      "water contact disease": "leptospirosis",
+      "animal contact disease": "rabies",
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "4% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "22.6% (2010)"
+    },
+    "Education expenditures": {
+      "text": "0.8% of GDP (2011)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "92.7%",
+      "male": "95.1%",
+      "female": "90.4% (2011 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "9 years (2007)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Union of Burma",
+      "conventional short form": "Burma",
+      "local long form": "Pyidaungzu Thammada Myanma Naingngandaw (translated as the Republic of the Union of Myanmar)",
+      "local short form": "Myanma Naingngandaw",
+      "former": "Socialist Republic of the Union of Burma, Union of Myanmar",
+      "note": "since 1989 the military authorities in Burma and the current parliamentary government have promoted the name Myanmar as a conventional name for their state; the US Government has not adopted the name"
+    },
+    "Government type": {
+      "text": "parliamentary government took power in March 2011"
+    },
+    "Capital": {
+      "name": "Rangoon (Yangon); note - Nay Pyi Taw is the administrative capital",
+      "geographic coordinates": "16 48 N, 96 09 E",
+      "time difference": "UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "7 regions (taing-myar, singular - taing) and 7 states (pyi ne-myar, singular - pyi ne)",
+      "regions": "Ayeyawady (Irrawaddy), Bago, Magway, Mandalay, Sagaing, Taninthayi, Yangon",
+      "states": "Chin, Kachin, Kayah, Kayin, Mon, Rakhine (Arakan), Shan",
+      "union territory": "Nay Pyi Taw"
+    },
+    "Independence": {
+      "text": "4 January 1948 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 4 January (1948); Union Day, 12 February (1947)"
+    },
+    "Constitution": {
+      "text": "previous 1947, 1974 (suspended until 2008); latest approved by referendum 29 May 2008; reformed 2011 (2011)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law (as introduced in codifications designed for colonial India) and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President THEIN SEIN (since 4 February 2011); Vice President SAI MAUK KHAM (since 3 February 2011); Vice President NYAN TUN (since 15 August 2012)",
+      "head of government": "President THEIN SEIN (since 4 February 2011)",
+      "cabinet": "cabinet is appointed by the president and confirmed by the parliament",
+      "elections": "THEIN SEIN elected president by the parliament from among three vice presidents; the upper house, the lower house, and military members of the parliament each nominate one vice president (president serves a five-year term)"
+    },
+    "Legislative branch": {
+      "text": "bicameral, consists of the House of Nationalities [Amyotha Hluttaw] (224 seats, 168 directly elected and 56 appointed by the military; members serve five-year terms) and the House of Representatives [Pythu Hluttaw] (440 seats, 330 directly elected and 110 appointed by the military; members serve five-year terms)",
+      "elections": "last held on 7 November 2010 (next to be held in December 2015)",
+      "election results": "House of Nationalities - percent of vote by party - USDP 74.8%, other (NUP, SNDP, RNDP, NDF, AMRDP) 25.2%; seats by party - USDP 129, other 39; House of Representatives - percent of vote by party - USDP 79.6%, other (NUP, SNDP, RNDP, NDF, AMRDP) 20.4%; seats by party - USDP 259, other 71"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of the Union (consists of the chief justice and 7-11 judges)",
+      "judge selection and term of office": "chief justice and judges nominated by the president, with approval of the Pythu Hlattaw, and appointed by the president; judges normally serve until mandatory retirement at age 70",
+      "subordinate courts": "High Courts of the Region; High Courts of the State; Court of the Self-Administered Division; Court of the Self-Administered Zone; district and township courts; special courts (for juvenile, municipal, and traffic offenses); courts martial"
+    },
+    "Political parties and leaders": {
+      "text": "All Mon Region Democracy Party or AMRDP [NAING NGWE THEIN]//National Democratic Force or NDF [KHIN MAUNG SWE, Dr.THAN NYEIN]//National League for Democracy or NLD [AUNG SAN SUU KYI]//National Unity Party or NUP [TUN YE]//Rakhine Nationalities Development Party or RNDP [Dr. AYE MG]//Shan Nationalities Democratic Party or SNDP [SAI AIKE PAUNG]//Shan Nationalities League for Democracy or SNLD [HKUN HTUN OO]//Union Solidarity and Development Party or USDP [SHWE MANN, HTAY OO]//numerous smaller parties"
+    },
+    "Political pressure groups and leaders": {
+      "Thai border": "Ethnic Nationalities Council or ENC; Federation of Trade Unions-Burma or FTUB (exile trade union and labor advocates); National Coalition Government of the Union of Burma or NCGUB (self-proclaimed government in exile) [\"Prime Minister\" Dr. SEIN WIN] consists of individuals, some legitimately elected to the People's Assembly in 1990 (the group fled to a border area and joined insurgents in December 1990 to form a parallel government in exile); National Council-Union of Burma or NCUB (exile coalition of opposition groups); United Nationalities Federal Council (UNFC)",
+      "Inside Burma": "Karen National Union or KNU; Karenni National People's Party or KNPP; United Wa State Army or UWSA; 88 Generation Students (pro-democracy movement); several other Chin, Karen, Mon, and Shan factions",
+      "note": "freedom of expression has been highly restricted in Burma; the restrictions are being relaxed by the government; political groups, other than parties approved by the government, are limited in number"
+    },
+    "International organization participation": {
+      "text": "ADB, ARF, ASEAN, BIMSTEC, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), NAM, OPCW (signatory), SAARC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador KYAW MYO HTUT (since 3 December 2013)",
+      "chancery": "2300 S Street NW, Washington, DC 20008",
+      "telephone": "[1] (202) 332-3344",
+      "FAX": "[1] (202) 332-4351",
+      "consulate(s) general": "none; Burma has a Mission to the UN in New York"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Derek J. MITCHELL (since 11 July 2012)",
+      "embassy": "110 University Avenue, Kamayut Township, Rangoon",
+      "mailing address": "Box B, APO AP 96546",
+      "telephone": "[95] (1) 536-509, 535-756, 538-038",
+      "FAX": "[95] (1) 511-069"
+    },
+    "Flag description": {
+      "text": "design consists of three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a large white five-pointed star that partially overlaps onto the adjacent colored stripes; the design revives the triband colors used by Burma from 1943-45, during the Japanese occupation"
+    },
+    "National symbol(s)": {
+      "text": "chinthe (mythical lion)"
+    },
+    "National anthem": {
+      "name": "\"Kaba Ma Kyei\" (Till the End of the World, Myanmar)",
+      "lyrics/music": "SAYA TIN",
+      "note": "adopted 1948; Burma is among a handful of non-European nations that have anthems rooted in indigenous traditions; the beginning portion of the anthem is a traditional Burmese anthem before transitioning into a Western-style orchestrated work"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Since the transition to a civilian government in 2011, Burma has begun an economic overhaul aimed at attracting foreign investment and reintegrating into the global economy. Economic reforms have included establishing a managed float of the Burmese kyat in 2012, granting the Central Bank operational independence in July 2013, and enacting a new Anti-corruption Law in September 2013. The government’s commitment to reform, and the subsequent easing of most Western sanctions, has begun to pay dividends. The economy accelerated in 2012 and 2013. And Burma’s abundant natural resources, young labor force, and proximity to Asia’s dynamic economies have attracted foreign investment in the energy sector, garment industry, information technology, and food and beverages. Foreign direct investment grew from US$1.9 billion in FY 2011 to US$2.7 billion in FY 2012. Despite these improvements, living standards have not improved for the majority of the people residing in rural areas. Burma remains one of the poorest countries in Asia - more than one-fourth of the country’s 60 million people live in poverty. The previous government’s isolationist policies and economic mismanagement have left Burma with poor infrastructure, endemic corruption, underdeveloped human resources, and inadequate access to capital, which will require a major commitment to reverse. The Burmese government has been slow to address impediments to economic development such as an opaque revenue collection system and antiquated banking system. Key benchmarks of sustained economic progress would include modernizing and opening the financial sector, increasing budget allocations for social services, and accelerating agricultural and land reforms."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$111.1 billion (2013 est.)//$104 billion (2012 est.)//$97.81 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$59.43 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.8% (2013 est.)//6.4% (2012 est.)//5.9% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,700 (2013 est.)//$1,600 (2012 est.)//$1,600 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "11.9% of GDP (2013 est.)//12.9% of GDP (2012 est.)//13.7% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "80.6%",
+      "government consumption": "3.8%",
+      "investment in fixed capital": "17.5%",
+      "investment in inventories": "0.3%",
+      "exports of goods and services": "20.1%",
+      "imports of goods and services": "-22.3%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "38%",
+      "industry": "20.3%",
+      "services": "41.7% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "rice, pulses, beans, sesame, groundnuts, sugarcane; fish and fish products; hardwood"
+    },
+    "Industries": {
+      "text": "agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; oil and natural gas; garments, jade, gems"
+    },
+    "Industrial production growth rate": {
+      "text": "11.4% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "34.31 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "70%",
+      "industry": "7%",
+      "services": "23% (2001)"
+    },
+    "Unemployment rate": {
+      "text": "5.2% (2013 est.)//5.4% (2012 est.)"
+    },
+    "Population below poverty line": {
+      "text": "32.7% (2007 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "2.8%",
+      "highest 10%": "32.4% (1998)"
+    },
+    "Budget": {
+      "revenues": "$2.413 billion",
+      "expenditures": "$4.443 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "4.1% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.4% of GDP (2013 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.7% (2013 est.)//1.5% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "9.95% (31 December 2010 est.)//12% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "13% (31 December 2013 est.)//13% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$12.23 billion (31 December 2013 est.)//$11.54 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$14.43 billion (31 December 2013 est.)//$13.51 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$2.596 billion (2013 est.)//-$1.791 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$9.043 billion (2013 est.)//$7.82 billion (2012 est.)",
+      "note": "official export figures are grossly underestimated due to the value of timber, gems, narcotics, rice, and other products smuggled to Thailand, China, and Bangladesh"
+    },
+    "Exports - commodities": {
+      "text": "natural gas, wood products, pulses, beans, fish, rice, clothing, jade and gems"
+    },
+    "Exports - partners": {
+      "text": "Thailand 40.7%, India 14.8%, China 14.3%, Japan 7.4% (2012)"
+    },
+    "Imports": {
+      "text": "$10.11 billion (2013 est.)//$7.998 billion (2012 est.)",
+      "note": "import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India"
+    },
+    "Imports - commodities": {
+      "text": "fabric, petroleum products, fertilizer, plastics, machinery, transport equipment; cement, construction materials, crude oil; food products, edible oil"
+    },
+    "Imports - partners": {
+      "text": "China 36.9%, Thailand 20.2%, Singapore 8.7%, South Korea 8.7%, Japan 8.2%, Malaysia 4.6% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$8.278 billion (31 December 2013 est.)//$6.977 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$5.379 billion (31 December 2013 est.)//$5.591 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "kyats (MMK) per US dollar -//947.9 (2013 est.)//853.48 (2012 est.)//5.58 (2010 est.)//1,055 (2009)//1,205 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "7.346 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "6.093 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.713 million kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "53.3% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "46.7% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "20,830 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "50 million bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "18,920 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "40,620 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "4,855 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "11.91 billion cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "3.24 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "8.57 billion cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "283.2 billion cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "13.67 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "556,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "5.44 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "meets minimum requirements for local and intercity service for business and government",
+      "domestic": "system barely capable of providing basic service; mobile-cellular phone system is grossly underdeveloped",
+      "international": "country code - 95; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable that provides links to Asia, the Middle East, and Europe; satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat (2011)"
+    },
+    "Broadcast media": {
+      "text": "government controls all domestic broadcast media; 2 state-controlled TV stations with 1 of the stations controlled by the armed forces; 2 pay-TV stations are joint state-private ventures; access to satellite TV is limited; 1 state-controlled domestic radio station and 9 FM stations that are joint state-private ventures; transmissions of several international broadcasters are available in parts of Burma; the Voice of America (VOA), Radio Free Asia (RFA), BBC Burmese service, the Democratic Voice of Burma (DVB), and Radio Australia use shortwave to broadcast in Burma; VOA, RFA, and DVB produce daily TV news programs that are transmitted by satellite to audiences in Burma"
+    },
+    "Internet country code": {
+      "text": ".mm"
+    },
+    "Internet hosts": {
+      "text": "1,055 (2012)"
+    },
+    "Internet users": {
+      "text": "110,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "64 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "36",
+      "over 3,047 m": "12",
+      "2,438 to 3,047 m": "11",
+      "1,524 to 2,437 m": "12",
+      "under 914 m": "1 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "28",
+      "over 3,047 m": "1",
+      "1,524 to 2,437 m": "4",
+      "914 to 1,523 m": "10",
+      "under 914 m": "13 (2013)"
+    },
+    "Heliports": {
+      "text": "11 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 3,739 km; oil 551 km (2013)"
+    },
+    "Railways": {
+      "total": "5,031 km",
+      "narrow gauge": "5,031 km 1.000-m gauge (2008)"
+    },
+    "Roadways": {
+      "total": "34,377 km (includes 358 km of expressways) (2010)"
+    },
+    "Waterways": {
+      "text": "12,800 km (2011)"
+    },
+    "Merchant marine": {
+      "total": "29",
+      "by type": "cargo 22, passenger 2, passenger/cargo 3, specialized tanker 1, vehicle carrier 1",
+      "foreign-owned": "2 (Germany 1, Japan 1)",
+      "registered in other countries": "3 (Panama 3) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Moulmein, Sittwe",
+      "river port(s)": "Rangoon (Rangoon River)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Myanmar Armed Forces (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-35 years of age (men) and 18-27 years of age (women) for voluntary military service; no conscription (a 2010 law reintroducing conscription has not yet entered into force); service obligation 2 years; male (ages 18-45) and female (ages 18-35) professionals (including doctors, engineers, mechanics) serve up to 3 years; service terms may be stretched to 5 years in an officially declared emergency; Burma signed the Convention on the Rights of the Child (CRC) on 15 August 1991; on 27 June 2012, the regime signed a Joint Action Plan on prevention of child recruitment; in February 2013, the military formed a new task force to address forced child conscription, which reportedly continues (2013)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "14,747,845",
+      "females age 16-49": "14,710,871 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "10,451,515",
+      "females age 16-49": "11,181,537 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "522,478",
+      "female": "506,388 (2010 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "over half of Burma's population consists of diverse ethnic groups who have substantial numbers of kin in neighboring countries; the Naf River on the border with Bangladesh serves as a smuggling and illegal transit route; Bangladesh struggles to accommodate 29,000 Rohingya, Burmese Muslim minority from Arakan State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border with Bangladesh in 2010; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Burmese forces attempting to dig in to the largely autonomous Shan State to rout local militias tied to the drug trade, prompts local residents to periodically flee into neighboring Yunnan Province in China; fencing along the India-Burma international border at Manipur's Moreh town is in progress to check illegal drug trafficking and movement of militants; over 90,000 mostly Karen refugees and asylum seekers fleeing civil strife, political upheaval, and economic stagnation in Burma were living in remote camps in Thailand near the border as of year-end 2013"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": "640,900 (government offensives against armed ethnic minority groups near its borders with China and Thailand) (2013)",
+      "stateless persons": "808,075 (2014); note - Burma's main group of stateless people is the Rohingya, Muslims living in northern Rakhine State; the Burmese Government does not recognize the Rohingya as a \"national race\" and stripped them of their citizenship under the 1982 Citizenship law, categorizing them as \"non-national\" or \"foreign residents\"; native-born but non-indigenous people, such as Indians, and children born in Thailand to Burmese parents are also stateless; the Burmese Government does not grant citizenship to children born outside of the country to Burmese parents who left the country illegally or fled persecution"
+    },
+    "Trafficking in persons": {
+      "current situation": "Burma is a source country for women, children, and men trafficked for the purpose of forced labor, and for women and children subjected to sex trafficking in other countries; poor economic conditions have led to increased legal and illegal migration of Burmese adults and children throughout East Asia and parts of the Middle East, where they are subject to forced labor and sex trafficking; men are forced to work in the fishing and construction industries, while women and girls are forced into prostitution or domestic servitude; some Burmese economic migrants seeking work in Thailand are subsequently subjected to forced labor or sexual exploitation; military personnel and insurgent militias unlawfully conscript child soldiers and continue to be the leading perpetrators of forced labor inside the country; Burmese children are also forced to work in tea shops, home industries, on plantations, and as beggars",
+      "tier rating": "Tier 2 Watch List - Burma does not fully comply with the minimum standards for the elimination of trafficking, but it is making significant efforts to do so; anti-trafficking law enforcement efforts focus on the recruitment and transport of Burmese women and girls across international boundaries for forced marriages and sex trafficking; efforts to combat trafficking within Burma remain weak; forced labor of civilians and the recruitment of child soldiers by both military and private entities remain serious problems; the government continues modest efforts to provide temporary shelter and facilitate safe passage to Burmese victims repatriated from abroad, but its overall victim protection efforts are inadequate; in 2012, the government signed a UN-backed action plan for the identification, release, and rehabilitation of children in the Burmese military; as a result, some child soldiers have been released, but the government has not taken steps to prevent recruitment (2013)"
+    },
+    "Illicit drugs": {
+      "text": "world's third largest producer of illicit opium with an estimated production in 2012 of 690 metric tons, an increase of 13% over 2011, and poppy cultivation in 2012 totaled 51,000 hectares, a 17% increase over 2011; production in the United Wa State Army's areas of greatest control remains low; Shan state is the source of 94.5% of Burma's poppy cultivation; lack of government will to take on major narcotrafficking groups and lack of serious commitment against money laundering continues to hinder the overall antidrug effort; major source of methamphetamine and heroin for regional consumption (2013)"
+    }
+  }
+}

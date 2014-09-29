@@ -1,0 +1,610 @@
+# Montenegro
+
+![Flag of Montenegro](../flags.png/mj.png)
+
+![Location of Montenegro](../locator-orig.png/mj.png)
+
+![Map of Montenegro](../maps-orig.png/mj.png)
+
+
+## Introduction
+
+**_Background:_**   
+The use of the name Crna Gora or Black Mountain (Montenegro) began in the 13th century in reference to a highland region in the Serbian province of Zeta. The later medieval state of Zeta maintained its existence until 1496 when Montenegro finally fell under Ottoman rule. Over subsequent centuries Montenegro managed to maintain a level of autonomy within the Ottoman Empire. From the 16th to 19th centuries, Montenegro was a theocracy ruled by a series of bishop princes; in 1852, it transformed into a secular principality. Montenegro was recognized as an independent sovereign principality at the Congress of Berlin in 1878. After World War I, during which Montenegro fought on the side of the Allies, Montenegro was absorbed by the Kingdom of Serbs, Croats, and Slovenes, which became the Kingdom of Yugoslavia in 1929; at the conclusion of World War II, it became a constituent republic of the Socialist Federal Republic of Yugoslavia. When the latter dissolved in 1992, Montenegro federated with Serbia, creating the Federal Republic of Yugoslavia and, after 2003, shifting to a looser State Union of Serbia and Montenegro. In May 2006, Montenegro invoked its right under the Constitutional Charter of Serbia and Montenegro to hold a referendum on independence from the state union. The vote for severing ties with Serbia barely exceeded 55% - the threshold set by the EU - allowing Montenegro to formally restore its independence on 3 June 2006.
+
+
+## Geography
+
+**_Location:_**   
+Southeastern Europe, between the Adriatic Sea and Serbia
+
+**_Geographic coordinates:_**   
+42 30 N, 19 18 E
+
+**_Map references:_**   
+Europe
+
+**_Area:_**   
+**total:** 13,812 sq km   
+**land:** 13,452 sq km   
+**water:** 360 sq km
+
+**_Area - comparative:_**   
+slightly smaller than Connecticut
+
+**_Land boundaries:_**   
+**total:** 625 km   
+**border countries:** Albania 172 km, Bosnia and Herzegovina 225 km, Croatia 25 km, Kosovo 79 km, Serbia 124 km
+
+**_Coastline:_**   
+293.5 km
+
+**_Maritime claims:_**   
+**territorial sea:** 12 nm   
+**continental shelf:** defined by treaty
+
+**_Climate:_**   
+Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland
+
+**_Terrain:_**   
+highly indented coastline with narrow coastal plain backed by rugged high limestone mountains and plateaus
+
+**_Elevation extremes:_**   
+**lowest point:** Adriatic Sea 0 m   
+**highest point:** Bobotov Kuk 2,522 m
+
+**_Natural resources:_**   
+bauxite, hydroelectricity
+
+**_Land use:_**   
+**arable land:** 12.45%   
+**permanent crops:** 1.16%   
+**other:** 86.39% (2011)
+
+**_Irrigated land:_**   
+24.12 sq km (2010)
+
+**_Natural hazards:_**   
+destructive earthquakes
+
+**_Environment - current issues:_**   
+pollution of coastal waters from sewage outlets, especially in tourist-related areas such as Kotor
+
+**_Environment - international agreements:_**   
+**party to:** Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution   
+**signed, but not ratified:** none of the selected agreements
+
+**_Geography - note:_**   
+strategic location along the Adriatic coast
+
+
+## People and Society
+
+**_Nationality:_**   
+**noun:** Montenegrin(s)   
+**adjective:** Montenegrin
+
+**_Ethnic groups:_**   
+Montenegrin 45%, Serbian 28.7%, Bosniak 8.7%, Albanian 4.9%, Muslim 3.3%, Roma 1%, Croat 1%, other 2.6%, unspecified 4.9% (2011 est.)
+
+**_Languages:_**   
+Serbian 42.9%, Montenegrin (official) 37%, Bosnian 5.3%, Albanian 5.3%, Serbo-Croat 2%, other 3.5%, unspecified 4% (2011 est.)
+
+**_Religions:_**   
+Orthodox 72.1%, Muslim 19.1%, Catholic 3.4%, atheist 1.2%, other 1.5%, unspecified 2.6% (2011 est.)
+
+**_Population:_**   
+650,036 (July 2014 est.)
+
+**_Age structure:_**   
+**0-14 years:** 15.2% (male 48,231/female 50,659)   
+**15-24 years:** 10.8% (male 33,085/female 37,029)   
+**25-54 years:** 47.1% (male 164,644/female 141,380)   
+**55-64 years:** 12.9% (male 41,765/female 42,075)   
+**65 years and over:** 13.8% (male 36,081/female 55,087) (2014 est.)
+
+**_Dependency ratios:_**   
+**total dependency ratio:** 46.8 %   
+**youth dependency ratio:** 27.1 %   
+**elderly dependency ratio:** 19.7 %   
+**potential support ratio:** 5.1 (2014 est.)
+
+**_Median age:_**   
+**total:** 39.2 years   
+**male:** 38.2 years   
+**female:** 40.5 years (2014 est.)
+
+**_Population growth rate:_**   
+-0.49% (2014 est.)
+
+**_Birth rate:_**   
+10.59 births/1,000 population (2014 est.)
+
+**_Death rate:_**   
+9.3 deaths/1,000 population (2014 est.)
+
+**_Urbanization:_**   
+**urban population:** 63.3% of total population (2011)   
+**rate of urbanization:** 0.38% annual rate of change (2010-15 est.)
+
+**_Major urban areas - population:_**   
+PODGORICA (capital) 156,000 (2011)
+
+**_Sex ratio:_**   
+**at birth:** 1.07 male(s)/female   
+**0-14 years:** 0.95 male(s)/female   
+**15-24 years:** 0.89 male(s)/female   
+**25-54 years:** 1.17 male(s)/female   
+**55-64 years:** 0.99 male(s)/female   
+**65 years and over:** 0.66 male(s)/female   
+**total population:** 0.99 male(s)/female (2014 est.)
+
+**_Mother's mean age at first birth:_**   
+26.3 (2010 est.)
+
+**_Maternal mortality rate:_**   
+8 deaths/100,000 live births (2010)
+
+**_Contraceptive prevalence rate:_**   
+39.4% (2005/06)
+
+**_Health expenditures:_**   
+9.3% of GDP (2011)
+
+**_Physicians density:_**   
+2.03 physicians/1,000 population (2010)
+
+**_Hospital bed density:_**   
+4 beds/1,000 population (2010)
+
+**_Drinking water source:_**   
+**improved:** urban: 99.6% of population; rural: 95.3% of population; total: 98% of population   
+**unimproved:** urban: 0.4% of population; rural: 4.7% of population; total: 2% of population (2012 est.)
+
+**_Sanitation facility access:_**   
+**improved:** urban: 91.9% of population; rural: 86.8% of population; total: 90% of population   
+**unimproved:** urban: 8.1% of population; rural: 13.2% of population; total: 10% of population (2012 est.)
+
+**_Major infectious diseases:_**   
+**degree of risk:** intermediate   
+**food or waterborne diseases:** bacterial diarrhea   
+**vectorborne disease:** Crimean-Congo hemorrhagic fever (2013)
+
+**_Obesity - adult prevalence rate:_**   
+22.5% (2008)
+
+**_Children under the age of 5 years underweight:_**   
+2.2% (2006)
+
+**_Education expenditures:_**   
+NA
+
+**_Literacy:_**   
+**definition:** age 15 and over can read and write   
+**total population:** 98.5%   
+**male:** 99.4%   
+**female:** 97.6% (2011 est.)
+
+**_School life expectancy (primary to tertiary education):_**   
+**total:** 15 years   
+**male:** 15 years   
+**female:** 16 years (2010)
+
+**_Child labor - children ages 5-14:_**   
+**total number:** 8,520   
+**percentage:** 10 % (2005 est.)
+
+**_Unemployment, youth ages 15-24:_**   
+**total:** 41.1%   
+**male:** 42.3%   
+**female:** 39.7% (2012)
+
+
+## Government
+
+**_Country name:_**   
+**conventional long form:** none   
+**conventional short form:** Montenegro   
+**local long form:** none   
+**local short form:** Crna Gora   
+**former:** People's Republic of Montenegro, Socialist Republic of Montenegro, Republic of Montenegro
+
+**_Government type:_**   
+republic
+
+**_Capital:_**   
+**name:** Podgorica; note - the Old Royal Capital is Cetinje mentioned in the constitution   
+**geographic coordinates:** 42 26 N, 19 16 E   
+**time difference:** UTC+1 (6 hours ahead of Washington, DC, during Standard Time)   
+**daylight saving time:** +1 hr, begins last Sunday in March; ends last Sunday in October
+
+**_Administrative divisions:_**   
+23 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnijica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Ulcinj, Zabljak
+
+**_Independence:_**   
+3 June 2006 (from the State Union of Serbia and Montenegro)
+
+**_National holiday:_**   
+National Day, 13 July (1878)
+
+**_Constitution:_**   
+several previous; latest adopted 22 October 2007; note - in early 2013, Montenegro's parliamentary constitutional committee began debate on proposed amendments (2013)
+
+**_Legal system:_**   
+civil law
+
+**_International law organization participation:_**   
+has not submitted an ICJ jurisdiction declaration; accepts ICC jurisdiction
+
+**_Suffrage:_**   
+18 years of age; universal
+
+**_Executive branch:_**   
+**chief of state:** President Filip VUJANOVIC (since 6 April 2008)   
+**head of government:** Prime Minister Milo DJUKANOVIC (since 4 December 2012)   
+**cabinet:** Ministers act as cabinet   
+**elections:** president elected by direct vote for a five-year term (eligible for a second term); election last held on 7 April 2013 (next to be held in 2018); prime minister proposed by president, accepted by Assembly   
+**election results:** Filip VUJANOVIC re-elected president; Filip VUJANOVIC 51.2%, Miodrag LEKIC 48.8%%
+
+**_Legislative branch:_**   
+unicameral Assembly (81 seats; members elected by direct vote to serve four-year terms)   
+**elections:** last held on 14 October 2012 (next to be held by 2016)   
+**election results:** percent of vote by party/coalition - Coalition for European Montenegro 45.6%, Democratic Front 22.8%, SNP 11.1%, Positive Montenegro 8.2%, Bosniak Party, 4.2%, other (including Albanian and Croatian minority parties) 8.1%; seats by party - Coalition for European Montenegro 39, Democratic Front 20, SNP 9, Positive Montenegro 7, Bosniak Party 3, Albanian and Croatian minority parties 3
+
+**_Judicial branch:_**   
+**highest court(s):** Supreme Court or Vrhovni Sud (consists of the court president and 6 judges); Constitutional Court or Ustavni Sud (consists of the court president and 6 judges)   
+**judge selection and term of office:** president of Supreme Court proposed jointly by the president of Montenegro, the speaker of the Assembly, and the prime minister; other judges elected by the Judicial Council; court president term is 5 years; term of other judges is 9 years; Constitutional Court judges proposed by the president of Montenegro and elected by the Assembly; court president elected among its members; term of judges is 9 years; court president term is 3 years   
+**subordinate courts:** Administrative Court; Court of Appeal; regional and first instance courts
+
+**_Political parties and leaders:_**   
+Albanian Coalition (includes Democratic League in Montenegro or DSCG [Mehmed BARDHI], Democratic Party [Fatmir DJEKA], and Albanian Alternative or AA [Djerdj DAMAJ])   
+Bosniak Party or BS [Rafet HUSOVIC]   
+Coalition for European Montenegro (bloc) [Milo DJUKANOVIC] (includes Democratic Party of Socialists or DPS [Milo DJUKANOVIC], Liberal Party of Montenegro or LP [Andrija POPOCVIC], and the Social Democratic Party or SDP [Ranko KRIVOKAPIC])   
+Coalition FORCA for Unity (includes FORCA [Nazif CUNGU] and Civic Initiative [Vaselj Sinistaj])   
+Croatian Civic Initiative or HGI [Marija VUCINOVIC]   
+Democratic Center or DC [Goran BATRICEVIC]   
+Democratic Front (bloc) [Miodrag LEKIC] (includes New Serb Democracy or NOVA [Andrija MANDIC] and Movement for Change or PZP [Nebojsa MEDOJEVIC], a splinter faction of the Socialist People's Party or SNP)   
+Democratic Union of Albanians or DUA [Mehmet ZENKA]   
+Just Montenegro [Rade BOJOVIC]   
+Positive Montenegro [Darko PAJOVIC]   
+Serbian National Alliance (bloc)(includes Party of Serb Radicals or SSR, Democratic Serb Party or DSS [Ranko KADIC], and the Serbian National Council)   
+Serbian Unity (bloc) (includes Serbian People's Party or NS [Predrag POPOVIC], the Serb List or SL, the Serbian Homeland Party, the Serbian Radical Party, and the Democratic Centre of Boka or DCB [Dejan COROVIC])   
+Socialist People's Party or SNP [Srdan MILIC]   
+Together (bloc) (includes Pensioners' Party [Vojo VULETIC], Disabled and Social Justice, and the Yugoslav Communist Party of Montenegro or JKPCG)
+
+**_Political pressure groups and leaders:_**   
+NA
+
+**_International organization participation:_**   
+CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
+
+**_Diplomatic representation in the US:_**   
+**chief of mission:** Ambassador Srdjan DARMANOVIC (since 30 November 2010)   
+**chancery:** 1610 New Hampshire Avenue NW, Washington, DC, 20009   
+**telephone:** [1] (202) 234-6108   
+**FAX:** [1] (202) 234-6109   
+**consulate(s) general:** New York
+
+**_Diplomatic representation from the US:_**   
+**chief of mission:** Ambassador Sue K. BROWN (since 27 April 2011)   
+**embassy:** Dzona Dzeksona 2, 81000 Podgorica, Montenegro   
+**mailing address:** use embassy street address   
+**telephone:** [382] (0) 20 410 500   
+**FAX:** [382] (0) 20 241 358
+
+**_Flag description:_**   
+a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is symbol of episcopal authority and harkens back to the three and a half centuries that Montenegro was ruled as a theocracy
+
+**_National symbol(s):_**   
+double-headed eagle
+
+**_National anthem:_**   
+**name:** "Oj, svijetla majska zoro" (Oh, Bright Dawn of May)   
+**lyrics/music:** Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC   
+**note:** adopted 2004; the anthem's music is based on a Montenegrin folk song
+
+
+## Economy
+
+**_Economy - overview:_**   
+Montenegro's economy is slowly transitioning to a market system, but the state sector remains large and additional institutional changes are needed. The economy relies heavily on foreign tourism and the export of refined metals. Unprofitable state-owned enterprises, especially the Podgorica Aluminum Kombine, the country’s largest exporter, weigh heavily on public finances. During the MILOSEVIC era, Montenegro severed its economy from Serbia, maintained its own central bank, adopted the Deutsche Mark, then shifted to the euro - rather than the Yugoslav dinar - as official currency, collected customs tariffs, and managed its own budget. The 2006 dissolution of the loose political union between Serbia and Montenegro led to separate memberships in several international financial institutions, such as the European Bank for Reconstruction and Development. In January 2007, Montenegro joined the World Bank and IMF. Montenegro became the 156th member of World Trade Organization in December 2011. The European Council (EC) granted candidate country status to Montenegro at the December 2010 session. Montenegro began negotiations to join the EC in June, 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime. Unemployment and disparities in regional development, especially in the north, remain key political and economic problems. The global financial crisis had a significant negative impact on the economy, due to a credit crunch, a decline in the real estate sector, and a fall in aluminum exports. The Government of Montenegro increased value added tax (VAT) from 17% in 2012 to 19% in 2013 and raised income tax rates from 9% to 15% for those earning over €480 a month. In 2013, the government also retrenched by freezing pensions and limiting salary increases for public enterprises and members of the parliament.
+
+**_GDP (purchasing power parity):_**   
+$7.429 billion (2013 est.)   
+$7.318 billion (2012 est.)   
+$7.358 billion (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_GDP (official exchange rate):_**   
+$4.518 billion (2013 est.)
+
+**_GDP - real growth rate:_**   
+1.5% (2013 est.)   
+-0.5% (2012 est.)   
+3.2% (2011 est.)
+
+**_GDP - per capita (PPP):_**   
+$11,900 (2013 est.)   
+$11,800 (2012 est.)   
+$11,900 (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_GDP - composition, by end use:_**   
+**household consumption:** 84.4%   
+**government consumption:** 22.1%   
+**investment in fixed capital:** 18.4%   
+**investment in inventories:** 1.1%   
+**exports of goods and services:** 40.2%   
+**imports of goods and services:** -66.2%; (2011 est.)
+
+**_GDP - composition, by sector of origin:_**   
+**agriculture:** 0.8%   
+**industry:** 11.3%   
+**services:** 87.9% (2011)
+
+**_Agriculture - products:_**   
+tobacco, potatoes, citrus fruits, olives, grapes; sheep
+
+**_Industries:_**   
+steelmaking, aluminum, agricultural processing, consumer goods, tourism
+
+**_Labor force:_**   
+251,300 (2011 est.)
+
+**_Labor force - by occupation:_**   
+**agriculture:** 6.3%   
+**industry:** 20.9%   
+**services:** 72.8% (2011 est.)
+
+**_Unemployment rate:_**   
+19.1% (2012 est.)   
+11.5% (2011 est.)
+
+**_Population below poverty line:_**   
+6.6% (2010 est.)
+
+**_Distribution of family income - Gini index:_**   
+24.3 (2010)   
+30 (2003)
+
+**_Budget:_**   
+**revenues:** $1.68 billion   
+**expenditures:** $1.58 billion (2012 est.)
+
+**_Taxes and other revenues:_**   
+37.2% of GDP (2012 est.)
+
+**_Budget surplus (+) or deficit (-):_**   
+2.2% of GDP (2012 est.)
+
+**_Public debt:_**   
+52.1% of GDP (2012 est.)   
+45% of GDP (2011 est.)   
+**note:** data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions
+
+**_Fiscal year:_**   
+calendar year
+
+**_Inflation rate (consumer prices):_**   
+4% (2012)   
+3% (2011)
+
+**_Commercial bank prime lending rate:_**   
+9.69% (31 December 2011 est.)   
+9.53% (31 December 2010 est.)
+
+**_Stock of narrow money:_**   
+$749 million (31 December 2011 est.)   
+$783.3 million (31 December 2010 est.)
+
+**_Stock of broad money:_**   
+$1.982 billion (31 December 2011 est.)   
+$2.01 billion (31 December 2010 est.)
+
+**_Stock of domestic credit:_**   
+$3.29 billion (31 December 2009)   
+$3.771 billion (31 December 2008)
+
+**_Market value of publicly traded shares:_**   
+$3.827 billion (31 December 2012 est.)   
+$3.322 billion (31 December 2011)   
+$3.604 billion (31 December 2010 est.)
+
+**_Current account balance:_**   
+-$1.938 billion (2012 est.)   
+-$1.927 billion (2011 est.)
+
+**_Exports:_**   
+$489.2 million (2012 est.)   
+$640 million (2011 est.)
+
+**_Exports - partners:_**   
+Croatia 22.7%, Serbia 22.7%, Slovenia 7.8% (2012 est.)
+
+**_Imports:_**   
+$2.4 billion (2012 est.)   
+$2.5 billion (2011 est.)
+
+**_Imports - partners:_**   
+Serbia 29.3%, Greece 8.7%, China 7.1% (2012 est.)
+
+**_Reserves of foreign exchange and gold:_**   
+$400 million (31 December 2011)
+
+**_Debt - external:_**   
+$1.7 billion (2012 est.)   
+$1.2 billion (2011 est.)
+
+**_Exchange rates:_**   
+euros (EUR) per US dollar -   
+0.7634 (2013 est.)   
+0.7752 (2012 est.)   
+0.755 (2010 est.)   
+0.7198 (2009 est.)   
+0.6827 (2008 est.)
+
+
+## Energy
+
+**_Electricity - production:_**   
+3.945 billion kWh (2010 est.)
+
+**_Electricity - consumption:_**   
+3.279 billion kWh (2010 est.)
+
+**_Electricity - exports:_**   
+730 million kWh (2010 est.)
+
+**_Electricity - imports:_**   
+732 million kWh (2010 est.)
+
+**_Electricity - installed generating capacity:_**   
+868,000 kW (2010 est.)
+
+**_Electricity - from fossil fuels:_**   
+24.2% of total installed capacity (2010 est.)
+
+**_Electricity - from nuclear fuels:_**   
+0% of total installed capacity (2010 est.)
+
+**_Electricity - from hydroelectric plants:_**   
+75.8% of total installed capacity (2010 est.)
+
+**_Electricity - from other renewable sources:_**   
+0% of total installed capacity (2010 est.)
+
+**_Crude oil - production:_**   
+0 bbl/day (2012 est.)
+
+**_Crude oil - exports:_**   
+0 bbl/day (2010 est.)
+
+**_Crude oil - imports:_**   
+0 bbl/day (2010 est.)
+
+**_Crude oil - proved reserves:_**   
+0 bbl (1 January 2012 est.)
+
+**_Refined petroleum products - production:_**   
+0 bbl/day (2010 est.)
+
+**_Refined petroleum products - consumption:_**   
+4,446 bbl/day (2011 est.)
+
+**_Refined petroleum products - exports:_**   
+369 bbl/day (2010 est.)
+
+**_Refined petroleum products - imports:_**   
+3,300 bbl/day (2010 est.)
+
+**_Natural gas - production:_**   
+0 cu m (2011 est.)
+
+**_Natural gas - consumption:_**   
+0 cu m (2010 est.)
+
+**_Natural gas - exports:_**   
+0 cu m (2011 est.)
+
+**_Natural gas - imports:_**   
+0 cu m (2011 est.)
+
+**_Natural gas - proved reserves:_**   
+0 cu m (1 January 2013 est.)
+
+**_Carbon dioxide emissions from consumption of energy:_**   
+2.166 million Mt (2011 est.)
+
+
+## Communications
+
+**_Telephones - main lines in use:_**   
+163,000 (2012)
+
+**_Telephones - mobile cellular:_**   
+1.126 million (2012)
+
+**_Telephone system:_**   
+**general assessment:** modern telecommunications system with access to European satellites   
+**domestic:** GSM mobile-cellular service, available through multiple providers with national coverage, is growing   
+**international:** country code - 382; 2 international switches connect the national system (2011)
+
+**_Broadcast media:_**   
+state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks; 4 public TV stations and some 20 private TV stations; 14 local public radio stations and more than 40 private radio stations (2007)
+
+**_Internet country code:_**   
+.me
+
+**_Internet hosts:_**   
+10,088 (2012)
+
+**_Internet users:_**   
+280,000 (2009)
+
+
+## Transportation
+
+**_Airports:_**   
+5 (2013)
+
+**_Airports - with paved runways:_**   
+**total:** 5   
+**2,438 to 3,047 m:** 2   
+**1,524 to 2,437 m:** 1   
+**914 to 1,523 m:** 1   
+**under 914 m:** 1 (2013)
+
+**_Heliports:_**   
+1 (2012)
+
+**_Railways:_**   
+**total:** 250 km   
+**standard gauge:** 250 km 1.435-m gauge (169 km electrified) (2010)
+
+**_Roadways:_**   
+**total:** 7,763 km   
+**paved:** 5,365 km   
+**unpaved:** 2,398 km (2010)
+
+**_Merchant marine:_**   
+**total:** 2   
+**by type:** cargo 1, passenger/cargo 1   
+**registered in other countries:** 4 (Bahamas 2, Honduras 1, Slovakia 1) (2010)
+
+**_Ports and terminals:_**   
+**major seaport(s):** Bar
+
+
+## Military
+
+**_Military branches:_**   
+Armed Forces of the Republic of Montenegro: Army of Montenegro (includes Montenegrin Navy (Mornarica Crne Gore, MCG)), Air Force (2011)
+
+**_Military service age and obligation:_**   
+18 is the legal minimum age for voluntary military service; no conscription (2012)
+
+**_Manpower fit for military service:_**   
+**males age 16-49:** 149,159   
+**females age 16-49:** 131,823 (2010 est.)
+
+**_Manpower reaching militarily significant age annually:_**   
+**male:** 3,120   
+**female:** 3,677 (2010 est.)
+
+**_Military expenditures:_**   
+1.87% of GDP (2012)   
+1.95% of GDP (2011)   
+1.87% of GDP (2010)
+
+
+## Transnational Issues
+
+**_Disputes - international:_**   
+none
+
+**_Refugees and internally displaced persons:_**   
+**refugees (country of origin):** 6,967 (Kosovo) (2013)
+
+
+............................................................   
+_Page last updated on June 20, 2014_

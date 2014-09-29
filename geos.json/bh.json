@@ -1,0 +1,612 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "bh",
+    "countryname": "Belize",
+    "flag_orig": "500x334",
+    "last_update": "Page last updated on June 23, 2014",
+    "locator_orig": "773x476",
+    "map_orig": "330x353",
+    "region": "Central America and Caribbean",
+    "regioncode": "cam"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Belize was the site of several Mayan city states until their decline at the end of the first millennium A.D. The British and Spanish disputed the region in the 17th and 18th centuries; it formally became the colony of British Honduras in 1854. Territorial disputes between the UK and Guatemala delayed the independence of Belize until 1981. Guatemala refused to recognize the new nation until 1992 and the two countries are involved in an ongoing border dispute. Tourism has become the mainstay of the economy. Current concerns include the country's heavy foreign debt burden, high unemployment, growing involvement in the Mexican and South American drug trade, high crime rates, and one of the highest HIV/AIDS prevalence rates in Central America."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central America, bordering the Caribbean Sea, between Guatemala and Mexico"
+    },
+    "Geographic coordinates": {
+      "text": "17 15 N, 88 45 W"
+    },
+    "Map references": {
+      "text": "Central America and the Caribbean"
+    },
+    "Area": {
+      "total": "22,966 sq km",
+      "land": "22,806 sq km",
+      "water": "160 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Massachusetts"
+    },
+    "Land boundaries": {
+      "total": "542 km",
+      "border countries": "Guatemala 266 km, Mexico 276 km"
+    },
+    "Coastline": {
+      "text": "386 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm in the north, 3 nm in the south; note - from the mouth of the Sarstoon River to Ranguana Cay, Belize's territorial sea is 3 nm; according to Belize's Maritime Areas Act, 1992, the purpose of this limitation is to provide a framework for negotiating a definitive agreement on territorial differences with Guatemala",
+      "exclusive economic zone": "200 nm"
+    },
+    "Climate": {
+      "text": "tropical; very hot and humid; rainy season (May to November); dry season (February to May)"
+    },
+    "Terrain": {
+      "text": "flat, swampy coastal plain; low mountains in south"
+    },
+    "Elevation extremes": {
+      "lowest point": "Caribbean Sea 0 m",
+      "highest point": "Doyle's Delight 1,160 m"
+    },
+    "Natural resources": {
+      "text": "arable land potential, timber, fish, hydropower"
+    },
+    "Land use": {
+      "arable land": "3.27%",
+      "permanent crops": "1.39%",
+      "other": "95.34% (2011)"
+    },
+    "Irrigated land": {
+      "text": "30 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "18.55 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "0.22 cu km/yr (4%/49%/46%)",
+      "per capita": "845.2 cu m/yr (2000)"
+    },
+    "Natural hazards": {
+      "text": "frequent, devastating hurricanes (June to November) and coastal flooding (especially in south)"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; water pollution from sewage, industrial effluents, agricultural runoff; solid and sewage waste disposal"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "only country in Central America without a coastline on the North Pacific Ocean"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Belizean(s)",
+      "adjective": "Belizean"
+    },
+    "Ethnic groups": {
+      "text": "mestizo 48.7%, Creole 24.9%, Maya 10.6%, Garifuna 6.1%, other 9.7% (2000 census)"
+    },
+    "Languages": {
+      "text": "Spanish 46%, Creole 32.9%, Mayan dialects 8.9%, English 3.9% (official), Garifuna 3.4% (Carib), German 3.3%, other 1.4%, unknown 0.2% (2000 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 39.3%, Pentacostal 8.3%, Seventh Day Adventist 5.3%, Anglican 4.5%, Mennonite 3.7%, Baptist 3.5%, Methodist 2.8%, Nazarene 2.8%, Jehovah's Witnesses 1.6%, other 9.9% (includes Baha'i Faith, Buddhism, Hinduism, Islam, and Mormon), other (unknown) 3.1%, none 15.2% (2010 census)"
+    },
+    "Demographic profile": {
+      "text": "Migration continues to transform Belize's population. About 16% of Belizeans live abroad, while immigrants constitute approximately 15% of Belize's population. Belizeans seeking job and educational opportunities have preferred to emigrate to the United States rather than former colonizer Great Britain because of the United States' closer proximity and stronger trade ties with Belize. Belizeans also emigrate to Canada, Mexico, and English-speaking Caribbean countries. The emigration of a large share of Creoles (Afro-Belizeans) and the influx of Central American immigrants, mainly Guatemalans, Salvadorans, and Hondurans, has changed Belize's ethnic composition. Mestizos have become the largest ethnic group, and Belize now has more native Spanish speakers than English or Creole speakers, despite English being the official language. In addition, Central American immigrants are establishing new communities in rural areas, which contrasts with the urbanization trend seen in neighboring countries. Recently, Chinese, European, and North American immigrants have become more frequent.//Immigration accounts for an increasing share of Belize's population growth rate, which is steadily falling due to fertility decline. Belize's declining birth rate and its increased life expectancy are creating an aging population. As the elderly population grows and nuclear families replace extended households, Belize's government will be challenged to balance a rising demand for pensions, social services, and healthcare for its senior citizens with the need to reduce poverty and social inequality and to improve sanitation."
+    },
+    "Population": {
+      "text": "340,844 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "35.3% (male 61,480/female 59,000)",
+      "15-24 years": "21% (male 36,432/female 35,093)",
+      "25-54 years": "35.5% (male 61,112/female 59,809)",
+      "55-64 years": "4.6% (male 7,719/female 7,807)",
+      "65 years and over": "3.6% (male 5,848/female 6,544) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "59.7 %",
+      "youth dependency ratio": "53.3 %",
+      "elderly dependency ratio": "6.4 %",
+      "potential support ratio": "15.6 (2014 est.)"
+    },
+    "Median age": {
+      "total": "21.8 years",
+      "male": "21.6 years",
+      "female": "22 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "1.92% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "25.14 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "5.95 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "0 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "44.7% of total population (2011)",
+      "rate of urbanization": "1.54% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "BELMOPAN (capital) 14,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.05 male(s)/female",
+      "0-14 years": "1.04 male(s)/female",
+      "15-24 years": "1.04 male(s)/female",
+      "25-54 years": "1.02 male(s)/female",
+      "55-64 years": "1.03 male(s)/female",
+      "65 years and over": "0.9 male(s)/female",
+      "total population": "1.03 male(s)/female (2014 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "53 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "20.31 deaths/1,000 live births",
+      "male": "22.78 deaths/1,000 live births",
+      "female": "17.7 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "68.49 years",
+      "male": "66.88 years",
+      "female": "70.17 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "3.02 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "55.2% (2011)"
+    },
+    "Health expenditures": {
+      "text": "5.7% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "0.83 physicians/1,000 population (2009)"
+    },
+    "Hospital bed density": {
+      "text": "1.1 beds/1,000 population (2011)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 98.4% of population; rural: 100% of population; total: 99.3% of population",
+      "unimproved": "urban: 1.6% of population; rural: 0% of population; total: 0.7% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 94.2% of population; rural: 87.6% of population; total: 90.5% of population",
+      "unimproved": "urban: 5.8% of population; rural: 12.4% of population; total: 9.5% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "1.4% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "3,100 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "100 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "high",
+      "food or waterborne diseases": "bacterial diarrhea, hepatitis A, and typhoid fever",
+      "vectorborne diseases": "dengue fever and malaria (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "33.7% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "6.2% (2011)"
+    },
+    "Education expenditures": {
+      "text": "6.6% of GDP (2010)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "76.9%",
+      "male": "76.7%",
+      "female": "77.1% (2000 census)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "14 years",
+      "male": "13 years",
+      "female": "14 years (2012)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "27,751",
+      "percentage": "40 % (2001 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "19.5%",
+      "male": "13.8%",
+      "female": "28.8% (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "none",
+      "conventional short form": "Belize",
+      "former": "British Honduras"
+    },
+    "Government type": {
+      "text": "parliamentary democracy and a Commonwealth realm"
+    },
+    "Capital": {
+      "name": "Belmopan",
+      "geographic coordinates": "17 15 N, 88 46 W",
+      "time difference": "UTC-6 (1 hour behind Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "6 districts; Belize, Cayo, Corozal, Orange Walk, Stann Creek, Toledo"
+    },
+    "Independence": {
+      "text": "21 September 1981 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 21 September (1981)"
+    },
+    "Constitution": {
+      "text": "previous 1954, 1963 (preindependence); latest signed and entered into force 21 September 1981; amended several times, last in 2012 (2013)"
+    },
+    "Legal system": {
+      "text": "English common law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sir Colville YOUNG, Sr. (since 17 November 1993)",
+      "head of government": "Prime Minister Dean Oliver BARROW (since 8 February 2008); Deputy Prime Minister Gaspar VEGA (since 12 February 2008)",
+      "cabinet": "Cabinet appointed by the governor general on the advice of the prime minister from the General Assembly",
+      "elections": "the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or the leader of the majority coalition usually appointed prime minister by the governor general; prime minister recommends the deputy prime minister"
+    },
+    "Legislative branch": {
+      "text": "bicameral National Assembly consists of the Senate (12 seats; members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, and the National Trade Union Congress and the Civil Society Steering Committee; to serve five-year terms) and the House of Representatives (31 seats; members are elected by direct popular vote to serve five-year terms)",
+      "elections": "House of Representatives - last held on 8 March 2012 (next to be held in 2017)",
+      "election results": "percent of vote by party - UDP 50.4%, PUP 47.5%, other 2.1%; seats by party - UDP 17, PUP 14"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 2 judges); note - in 2005, Belize ceased final appeals in civil and criminal cases to the Judicial Committee of the Privy Council (in London), replacing it with the Caribbean Court of Justice, the judicial organ of the Caribbean Community",
+      "judge selection and term of office": "Court of Appeal president and justices appointed by the governor general upon advice of the prime minister after consultation with the National Assembly opposition leader; justices' tenures vary by terms of appointment; Supreme Court chief justice appointed by the governor-general upon the advice of the prime minister and the National Assembly opposition leader; other judges appointed by the governor-general upon the advice of the Judicial and Legal Services Section of the Public Services Commission and with the concurrence of the prime minister after consultation with the National Assembly opposition leader; judges can be appointed beyond age 65 but must retire by age 75",
+      "subordinate courts": "Summary Jurisdiction Courts (criminal) and District Courts (civil)"
+    },
+    "Political parties and leaders": {
+      "text": "National Alliance for Belizean Rights or NABR//National Reform Party or NRP [Cornelius DUECK]//People's National Party or PNP [Wil MAHEIA]//People's United Party or PUP [John BRICENO]//United Democratic Party or UDP [Dean Oliver BARROW]//Vision Inspired by the People or VIP [Paul MORGAN]//We the People Reform Movement or WTP [Hipolito BAUTISTA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Society for the Promotion of Education and Research or SPEAR [Nicole HAYLOCK]//Association of Concerned Belizeans or ACB [David VASQUEZ]//National Trade Union Congress of Belize or NTUC/B [Rene GOMEZ]"
+    },
+    "International organization participation": {
+      "text": "ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Nestor MENDEZ (since 10 July 2008)",
+      "chancery": "2535 Massachusetts Avenue NW, Washington, DC 20008",
+      "telephone": "[1] (202) 332-9636",
+      "FAX": "[1] (202) 332-6888",
+      "consulate(s) general": "Los Angeles"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador (vacant); Charge d'Affaires Margaret HAWTHORNE",
+      "embassy": "Floral Park Road, Belmopan City, Cayo District",
+      "mailing address": "P.O. Box 497, Belmopan City, Cayo District, Belize",
+      "telephone": "[501] 822-4011",
+      "FAX": "[501] 822-4012"
+    },
+    "Flag description": {
+      "text": "blue with a narrow red stripe along the top and the bottom edges; centered is a large white disk bearing the coat of arms; the coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP; various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize",
+      "note": "Belize's flag is the only national flag that depicts human beings; two British overseas territories, Montserrat and the British Virgin Islands, also depict humans"
+    },
+    "National symbol(s)": {
+      "text": "Baird's tapir (a large, browsing, forest-dwelling mammal); keel-billed toucan"
+    },
+    "National anthem": {
+      "name": "\"Land of the Free\"",
+      "lyrics/music": "Samuel Alfred HAYNES/Selwyn Walford YOUNG",
+      "note": "adopted 1981; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Tourism is the number one foreign exchange earner in this small economy, followed by exports of marine products, citrus, cane sugar, bananas, and garments. The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007. Oil discoveries in 2006 bolstered this growth. Exploration efforts have continued and production has increased a small amount. Growth slipped to 0% in 2009, resulting from the global economic slowdown, natural disasters, and a temporary drop in the price of oil, but grew to 2.5% in 2013. With weak economic growth and a large public debt burden, fiscal spending is likely to be tight. In January 2013, the government announced that it had reached a deal with creditors to restructure its $544 million commercial external debt, commonly referred to as the \"superbond.\" The superbond represents one half of the country's public debt. A key government objective remains the reduction of poverty and inequality with the help of international donors. Although Belize has the second highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor. The sizable trade deficit and heavy foreign debt burden continue to be major concerns."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$3.083 billion (2013 est.)//$3.008 billion (2012 est.)//$2.857 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.637 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.5% (2013 est.)//5.3% (2012 est.)//1.9% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$8,800 (2013 est.)//$8,800 (2012 est.)//$8,500 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "31.2% of GDP (2013 est.)//29.2% of GDP (2012 est.)//28.2% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "79.3%",
+      "government consumption": "16.8%",
+      "investment in fixed capital": "31.2%",
+      "investment in inventories": "1.2%",
+      "exports of goods and services": "62.1%",
+      "imports of goods and services": "-90.6%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "13%",
+      "industry": "23%",
+      "services": "64% (2012 est.)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, cacao, citrus, sugar; fish, cultured shrimp; lumber"
+    },
+    "Industries": {
+      "text": "garment production, food processing, tourism, construction, oil"
+    },
+    "Industrial production growth rate": {
+      "text": "-1% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "120,500",
+      "note": "shortage of skilled labor and all types of technical personnel (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "10.2%",
+      "industry": "18.1%",
+      "services": "71.7% (2007)"
+    },
+    "Unemployment rate": {
+      "text": "15.5% (2013)//11.3% (2012)"
+    },
+    "Population below poverty line": {
+      "text": "41% (2013 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "NA%",
+      "highest 10%": "NA%"
+    },
+    "Budget": {
+      "revenues": "$410.1 million",
+      "expenditures": "$352.4 million (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "25.1% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "3.5% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "75.1% of GDP (2013 est.)//84.6% of GDP (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.3% (2013 est.)//1.3% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "18% (31 December 2010 est.)//12% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "11.8% (31 December 2013 est.)//12.4% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$573 million (31 December 2013 est.)//$551.5 million (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$1.3 billion (31 December 2013 est.)//$1.222 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.05 billion (31 December 2013 est.)//$1 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$32 million (2013 est.)//-$28 million (2012 est.)"
+    },
+    "Exports": {
+      "text": "$633 million (2013 est.)//$628.3 million (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "sugar, bananas, citrus, clothing, fish products, molasses, wood, crude oil"
+    },
+    "Exports - partners": {
+      "text": "US 31.8%, UK 21.9%, Nigeria 4.8%, Japan 4.1%, Netherlands 4.1% (2012)"
+    },
+    "Imports": {
+      "text": "$864 million (2013 est.)//$837.1 million (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactured goods; fuels, chemicals, pharmaceuticals; food, beverages, tobacco"
+    },
+    "Imports - partners": {
+      "text": "US 23.6%, Germany 15%, Mexico 11.5%, Cuba 8.4%, Guatemala 4.8%, China 4.7%, Singapore 4% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$273 million (31 December 2013 est.)//$288.9 million (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.048 billion (31 December 2013 est.)//$1.033 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "Belizean dollars (BZD) per US dollar -//2 (2013 est.)//2 (2012 est.)//2 (2010 est.)//2 (2009)//2 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "524.2 million kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "630 million kWh (2011 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "171 million kWh (2011 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "178,100 kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "51.1% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "32% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "16.9% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "3,239 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "4,345 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "6.7 million bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "7,044 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "3,493 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "536,300 Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "25,400 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "164,200 (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "above-average system; trunk network depends primarily on microwave radio relay",
+      "domestic": "fixed-line teledensity of slightly less than 10 per 100 persons; mobile-cellular teledensity approaching 70 per 100 persons",
+      "international": "country code - 501; landing point for the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2011)"
+    },
+    "Broadcast media": {
+      "text": "8 privately owned TV stations; multi-channel cable TV provides access to foreign stations; about 25 radio stations broadcasting on roughly 50 different frequencies; state-run radio was privatized in 1998 (2007)"
+    },
+    "Internet country code": {
+      "text": ".bz"
+    },
+    "Internet hosts": {
+      "text": "3,392 (2012)"
+    },
+    "Internet users": {
+      "text": "36,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "47 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "6",
+      "2,438 to 3,047 m": "1",
+      "914 to 1,523 m": "2",
+      "under 914 m": "3 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "41",
+      "2,438 to 3,047 m": "1",
+      "914 to 1,523 m": "11",
+      "under 914 m": "29 (2013)"
+    },
+    "Roadways": {
+      "total": "2,870 km",
+      "paved": "488 km",
+      "unpaved": "2,382 km (2011)"
+    },
+    "Waterways": {
+      "text": "825 km (navigable only by small craft) (2011)"
+    },
+    "Merchant marine": {
+      "total": "247",
+      "by type": "barge carrier 1, bulk carrier 33, cargo 156, chemical tanker 2, liquefied gas 1, passenger/cargo 4, petroleum tanker 9, refrigerated cargo 30, roll on/roll off 10, specialized tanker 1",
+      "foreign-owned": "152 (Bulgaria 1, China 61, Croatia 1, Estonia 1, Greece 2, Iceland 1, Italy 3, Latvia 9, Lithuania 1, Netherlands 1, Norway 2, Russia 30, Singapore 4, Switzerland 1, Syria 4, Thailand 1, Turkey 16, UAE 3, UK 4, Ukraine 6) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Belize City, Big Creek"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Belize Defense Force (BDF): Army, BDF Air Wing (includes Special Boat Unit), BDF Volunteer Guard (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient; conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "81,284",
+      "females age 16-49": "79,185 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "59,431",
+      "females age 16-49": "57,221 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "3,723",
+      "female": "3,584 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "NA% (2012)//1.08% of GDP (2011)//NA% (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Guatemala persists in its territorial claim to half of Belize, but agrees to the Line of Adjacency to keep Guatemalan squatters out of Belize's forested interior; both countries agreed in April 2012 to hold simultaneous referenda, which was scheduled for 6 October 2013, to decide whether to refer the dispute to the ICJ for binding resolution, though this has been suspended indefinitely; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for cocaine; small-scale illicit producer of cannabis, primarily for local consumption; offshore sector money-laundering activity related to narcotics trafficking and other crimes (2008)"
+    }
+  }
+}

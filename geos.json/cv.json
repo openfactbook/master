@@ -1,0 +1,585 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "cv",
+    "countryname": "Cabo Verde",
+    "flag_orig": "400x267",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "524x497",
+    "map_orig": "330x355",
+    "region": "Africa",
+    "regioncode": "afr"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "The uninhabited islands were discovered and colonized by the Portuguese in the 15th century; Cabo Verde subsequently became a trading center for African slaves and later an important coaling and resupply stop for whaling and transatlantic shipping. Following independence in 1975, and a tentative interest in unification with Guinea-Bissau, a one-party system was established and maintained until multi-party elections were held in 1990. Cabo Verde continues to exhibit one of Africa's most stable democratic governments. Repeated droughts during the second half of the 20th century caused significant hardship and prompted heavy emigration. As a result, Cabo Verde's expatriate population is greater than its domestic one. Most Cabo Verdeans have both African and Portuguese antecedents."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, group of islands in the North Atlantic Ocean, west of Senegal"
+    },
+    "Geographic coordinates": {
+      "text": "16 00 N, 24 00 W"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": "4,033 sq km",
+      "land": "4,033 sq km",
+      "water": "0 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Rhode Island"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "965 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic baselines",
+      "territorial sea": "12 nm",
+      "contiguous zone": "24 nm",
+      "exclusive economic zone": "200 nm"
+    },
+    "Climate": {
+      "text": "temperate; warm, dry summer; precipitation meager and erratic"
+    },
+    "Terrain": {
+      "text": "steep, rugged, rocky, volcanic"
+    },
+    "Elevation extremes": {
+      "lowest point": "Atlantic Ocean 0 m",
+      "highest point": "Mt. Fogo 2,829 m (a volcano on Fogo Island)"
+    },
+    "Natural resources": {
+      "text": "salt, basalt rock, limestone, kaolin, fish, clay, gypsum"
+    },
+    "Land use": {
+      "arable land": "11.66%",
+      "permanent crops": "0.74%",
+      "other": "87.59% (2011)"
+    },
+    "Irrigated land": {
+      "text": "34.76 sq km (2004)"
+    },
+    "Total renewable water resources": {
+      "text": "0.3 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "0.02 cu km/yr (6%/1%/93%)",
+      "per capita": "48.57 cu m/yr (2004)"
+    },
+    "Natural hazards": {
+      "text": "prolonged droughts; seasonal harmattan wind produces obscuring dust; volcanically and seismically active",
+      "volcanism": "Fogo (elev. 2,829 m), which last erupted in 1995, is Cabo Verde's only active volcano"
+    },
+    "Environment - current issues": {
+      "text": "soil erosion; deforestation due to demand for wood used as fuel; water shortages; desertification; environmental damage has threatened several species of birds and reptiles; illegal beach sand extraction; overfishing"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "strategic location 500 km from west coast of Africa near major north-south sea routes; important communications station; important sea and air refueling site"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Cabo Verdean(s)",
+      "adjective": "Cabo Verdean"
+    },
+    "Ethnic groups": {
+      "text": "Creole (mulatto) 71%, African 28%, European 1%"
+    },
+    "Languages": {
+      "text": "Portuguese (official), Crioulo (a blend of Portuguese and West African words)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 77.3%, Protestant 3.7% (includes Church of the Nazarene 1.7%, Adventist 1.5%, Universal Kingdom of God .4%, and God and Love .1%), other Christian 4.3% (includes Christian Rationalism 1.9%, Jehovah's Witness 1%, Assembly of God .9%, and New Apostolic .5%), Muslim 1.8%, other 1.3%, none 10.8%, unspecified 0.7% (2010 est.)"
+    },
+    "Population": {
+      "text": "538,535 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "30.6% (male 82,942/female 82,069)",
+      "15-24 years": "21.4% (male 57,633/female 57,637)",
+      "25-54 years": "38% (male 99,248/female 105,381)",
+      "55-64 years": "4.9% (male 10,917/female 15,352)",
+      "65 years and over": "5.2% (male 10,322/female 17,034) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "51.7 %",
+      "youth dependency ratio": "43.8 %",
+      "elderly dependency ratio": "8 %",
+      "potential support ratio": "12.6 (2014 est.)"
+    },
+    "Median age": {
+      "total": "24 years",
+      "male": "23.2 years",
+      "female": "24.8 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "1.39% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "20.72 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "6.17 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.64 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "62.6% of total population (2011)",
+      "rate of urbanization": "2.12% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "PRAIA (capital) 132,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.03 male(s)/female",
+      "0-14 years": "1.01 male(s)/female",
+      "15-24 years": "1 male(s)/female",
+      "25-54 years": "0.94 male(s)/female",
+      "55-64 years": "0.94 male(s)/female",
+      "65 years and over": "0.6 male(s)/female",
+      "total population": "0.94 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "19.5",
+      "note": "median age at first birth among women 25-29 (2005 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "79 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "24.28 deaths/1,000 live births",
+      "male": "27.82 deaths/1,000 live births",
+      "female": "20.63 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "71.57 years",
+      "male": "69.32 years",
+      "female": "73.89 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "2.34 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "61.3% (2005)"
+    },
+    "Health expenditures": {
+      "text": "4.8% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "0.3 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "2.1 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 91.2% of population; rural: 86% of population; total: 89.3% of population",
+      "unimproved": "urban: 8.8% of population; rural: 14% of population; total: 10.7% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 75.2% of population; rural: 47.2% of population; total: 64.9% of population",
+      "unimproved": "urban: 24.8% of population; rural: 52.8% of population; total: 35.1% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "800 (2001) (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "10% (2008)"
+    },
+    "Education expenditures": {
+      "text": "5% of GDP (2011)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "84.9%",
+      "male": "89.7%",
+      "female": "80.3% (2011 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "13 years",
+      "male": "13 years",
+      "female": "14 years (2012)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "1,948",
+      "percentage": "3 %",
+      "note": "data represents children ages 10-14 (2001 est.)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Cabo Verde",
+      "conventional short form": "Cabo Verde",
+      "local long form": "Republica de Cabo Verde",
+      "local short form": "Cabo Verde"
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": "Praia",
+      "geographic coordinates": "14 55 N, 23 31 W",
+      "time difference": "UTC-1 (4 hours ahead of Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "22 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, Sao Domingos, Sao Filipe, Sao Lourenco dos Orgaos, Sao Miguel, Sao Salvador do Mundo, Sao Vicente, Tarrafal, Tarrafal de Sao Nicolau"
+    },
+    "Independence": {
+      "text": "5 July 1975 (from Portugal)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 5 July (1975)"
+    },
+    "Constitution": {
+      "text": "previous 1981; latest effective 25 September 1992; revised 1995, 1999, 2010 (2010)"
+    },
+    "Legal system": {
+      "text": "civil law system of Portugal"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Jorge Carlos FONSECA (since 9 September 2011)",
+      "head of government": "Prime Minister Jose Maria Pereira NEVES (since 1 February 2001)",
+      "cabinet": "Council of Ministers appointed by the president on the recommendation of the prime minister",
+      "elections": "president elected by popular vote for a five-year term (eligible for a second term); election last held on 7 August 2011 with a second round on 21 August 2011; prime minister nominated by the National Assembly and appointed by the president",
+      "election results": "percent of vote (second round) - Jorge Carlos FONSECA 53.4%, Manuel Inocencio SOUSA 46.6%"
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Assembleia Nacional (72 seats; members elected by popular vote to serve five-year terms)",
+      "elections": "last held on 6 February 2011 (next to be held by 2016)",
+      "election results": "percent of vote by party - NA; seats by party - PAICV 38, MPD 32, UCID 2"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of Justice (consists of the chief justice and at least 5 judges)",
+      "judge selection and term of office": "judges appointments - 1 by the president of the republic, 1 elected by the National Assembly, and the remainder by the Supreme Council of Magistrates, a 9-member independent body presided over by the chief justice and includes the high judicial inspector, 2 presidential appointees, 3 elected by the National Assembly, and 2 by their court peers; chief justice appointed by the president of the republic from among peers of the Supreme Court and in consultation with the Supreme Council of the Magistrates; judge tenure NA",
+      "subordinate courts": "first instance (municipal) courts; audit, military, and fiscal and customs courts"
+    },
+    "Political parties and leaders": {
+      "text": "African Party for Independence of Cabo Verde or PAICV [Jose Maria Pereira NEVES, chairman]//Democratic and Independent Cabo Verdean Union or UCID [Antonio MONTEIRO]//Democratic Christian Party or PDC [Manuel RODRIGUES]//Democratic Renovation Party or PRD [Victor FIDALGO]//Movement for Democracy or MPD [Carlos VEIGA]//Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]//Party of Work and Solidarity or PTS [Anibal MEDINA]//Social Democratic Party or PSD [Joao ALEM]"
+    },
+    "Political pressure groups and leaders": {
+      "other": "environmentalists; political pressure groups"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Maria De Fatima Lima Da VEIGA (since 22 November 2013)",
+      "chancery": "3415 Massachusetts Avenue NW, Washington, DC 20007",
+      "telephone": "[1] (202) 965-6820",
+      "FAX": "[1] (202) 965-1207",
+      "consulate(s) general": "Boston"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Adrienne O'NEAL (since 9 December 2011)",
+      "embassy": "Rua Abilio Macedo 6, Praia",
+      "mailing address": "C. P. 201, Praia",
+      "telephone": "[238] 2-60-89-00",
+      "FAX": "[238] 2-61-13-55"
+    },
+    "Flag description": {
+      "text": "five unequal horizontal bands; the top-most band of blue - equal to one half the width of the flag - is followed by three bands of white, red, and white, each equal to 1/12 of the width, and a bottom stripe of blue equal to one quarter of the flag width; a circle of 10, yellow, five-pointed stars is centered on the red stripe and positioned 3/8 of the length of the flag from the hoist side; blue stands for the sea and the sky, the circle of stars represents the 10 major islands united into a nation, the stripes symbolize the road to formation of the country through peace (white) and effort (red)"
+    },
+    "National anthem": {
+      "name": "\"Cantico da Liberdade\" (Song of Freedom)",
+      "lyrics/music": "Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA",
+      "note": "adopted 1996"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The economy is service-oriented with commerce, transport, tourism, and public services accounting for about three-fourths of GDP. Tourism is the mainstay of the economy and it is heavily dependent on conditions in the euro zone countries. This island economy suffers from a poor natural resource base, including serious water shortages exacerbated by cycles of long-term drought and poor soil for agriculture on several of the islands. Although about 40% of the population lives in rural areas, the share of food production in GDP is low. About 82% of food must be imported. The fishing potential, mostly lobster and tuna, is not fully exploited. Cabo Verde annually runs a high trade deficit financed by foreign aid and remittances from its large pool of emigrants; remittances supplement GDP by more than 20%. Despite the lack of resources, sound economic management has produced steadily improving incomes. Continued economic reforms are aimed at developing the private sector and attracting foreign investment to diversify the economy and mitigate high unemployment. Future prospects depend heavily on the maintenance of aid flows, the encouragement of tourism, remittances, and the momentum of the government's development program. Cabo Verde became a member of the WTO in July 2008."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.222 billion (2013 est.)//$2.19 billion (2012 est.)//$2.135 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.955 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.5% (2013 est.)//2.5% (2012 est.)//4% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,400 (2013 est.)//$4,400 (2012 est.)//$4,400 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "38.5% of GDP (2013 est.)//34.2% of GDP (2012 est.)//31.2% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "52.9%",
+      "government consumption": "16.6%",
+      "investment in fixed capital": "41.9%",
+      "investment in inventories": "1.7%",
+      "exports of goods and services": "34.3%",
+      "imports of goods and services": "-47.3%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "9.3%",
+      "industry": "18.8%",
+      "services": "71.9% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, corn, beans, sweet potatoes, sugarcane, coffee, peanuts; fish"
+    },
+    "Industries": {
+      "text": "food and beverages, fish processing, shoes and garments, salt mining, ship repair"
+    },
+    "Industrial production growth rate": {
+      "text": "1.8% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "196,100 (2007)"
+    },
+    "Unemployment rate": {
+      "text": "21% (2000 est.)"
+    },
+    "Population below poverty line": {
+      "text": "30% (2000)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "1.9%",
+      "highest 10%": "40.6% (2001)"
+    },
+    "Budget": {
+      "revenues": "$414.6 million",
+      "expenditures": "$607 million (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "21.2% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-9.8% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "86.2% of GDP (2012 est.)//78.1% of GDP (2011 est.)"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.9% (2013 est.)//2.5% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "7.5% (31 December 2010 est.)//7.5% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "10.1% (31 December 2013 est.)//9.92% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$517.4 million (31 December 2013 est.)//$490.5 million (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$1.488 billion (31 December 2013 est.)//$1.461 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.523 billion (31 December 2013 est.)//$1.496 billion (31 December 2012 est.)"
+    },
+    "Current account balance": {
+      "text": "-$100 million (2013 est.)//-$209.3 million (2012 est.)"
+    },
+    "Exports": {
+      "text": "$159.9 million (2013 est.)//$173.1 million (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "fuel, shoes, garments, fish, hides"
+    },
+    "Exports - partners": {
+      "text": "Spain 66.9%, Portugal 13.9%, US 5% (2012)"
+    },
+    "Imports": {
+      "text": "$796.3 million (2013 est.)//$878.7 million (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, industrial products, transport equipment, fuels"
+    },
+    "Imports - partners": {
+      "text": "Portugal 38.1%, Netherlands 21.5%, China 7.9%, Spain 7% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$426.2 million (31 December 2013 est.)//$376 million (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.328 billion (31 December 2013 est.)//$1.18 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "Cabo Verdean escudos (CVE) per US dollar -//84.18 (2013 est.)//85.822 (2012 est.)//83.259 (2010 est.)//79.38 (2009)//73.84 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "287 million kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "266.9 million kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "89,800 kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "96.9% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "3.1% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "2,608 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "2,646 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "430,000 Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "70,200 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "425,300 (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "effective system, extensive modernization from 1996-2000 following partial privatization in 1995",
+      "domestic": "major service provider is Cabo Verde Telecom (CVT); fiber-optic ring, completed in 2001, links all islands providing Internet access and ISDN services; cellular service introduced in 1998; broadband services launched in 2004",
+      "international": "country code - 238; landing point for the Atlantis-2 fiber-optic transatlantic telephone cable that provides links to South America, Senegal, and Europe; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2011)"
+    },
+    "Broadcast media": {
+      "text": "state-run TV and radio broadcast network plus a growing number of private broadcasters; Portuguese public TV and radio services for Africa are available; transmissions of a few international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".cv"
+    },
+    "Internet hosts": {
+      "text": "38 (2012)"
+    },
+    "Internet users": {
+      "text": "150,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "9 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "9",
+      "over 3,047 m": "1",
+      "1,524 to 2,437 m": "3",
+      "914 to 1,523 m": "3",
+      "under 914 m": "2 (2013)"
+    },
+    "Roadways": {
+      "total": "1,350 km",
+      "paved": "932 km",
+      "unpaved": "418 km (2013)"
+    },
+    "Merchant marine": {
+      "total": "13",
+      "by type": "cargo 3, chemical tanker 2, passenger/cargo 7, petroleum tanker 1",
+      "foreign-owned": "3 (Greece 1, Spain 1, UK 1)",
+      "registered in other countries": "1 (unknown 1) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Porto Grande"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Armed Forces: Army (also called the National Guard, GN), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV; includes naval infantry) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-35 years of age for male and female selective compulsory military service; conscript service obligation - 2 years; 17 years of age for voluntary service (with parental consent) (2013)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "132,087",
+      "females age 16-49": "136,956 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "106,864",
+      "females age 16-49": "117,518 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "6,029",
+      "female": "6,026 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "NA% (2012)//0.51% of GDP (2011)//NA% (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "used as a transshipment point for Latin American cocaine destined for Western Europe, particularly because of Lusophone links to Brazil, Portugal, and Guinea-Bissau; has taken steps to deter drug money laundering, including a 2002 anti-money laundering reform that criminalizes laundering the proceeds of narcotics trafficking and other crimes and the establishment in 2008 of a Financial Intelligence Unit (2008)"
+    }
+  }
+}

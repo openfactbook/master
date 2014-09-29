@@ -1,0 +1,405 @@
+{
+  "headers": {
+    "countryaffiliation": "(commonwealth in political union with the US)",
+    "countrycode": "cq",
+    "countryname": "Northern Mariana Islands",
+    "flag_orig": "512x302",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "772x490",
+    "map_orig": "328x352",
+    "region": "Australia-Oceania",
+    "regioncode": "aus"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Under US administration as part of the UN Trust Territory of the Pacific, the people of the Northern Mariana Islands decided in the 1970s not to seek independence but instead to forge closer links with the US. Negotiations for territorial status began in 1972. A covenant to establish a commonwealth in political union with the US was approved in 1975, and came into force on 24 March 1976. A new government and constitution went into effect in 1978."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, islands in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines"
+    },
+    "Geographic coordinates": {
+      "text": "15 12 N, 145 45 E"
+    },
+    "Map references": {
+      "text": "Oceania"
+    },
+    "Area": {
+      "total": "464 sq km",
+      "land": "464 sq km",
+      "water": "0 sq km",
+      "note": "consists of 14 islands including Saipan, Rota, and Tinian"
+    },
+    "Area - comparative": {
+      "text": "2.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,482 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "exclusive economic zone": "200 nm"
+    },
+    "Climate": {
+      "text": "tropical marine; moderated by northeast trade winds, little seasonal temperature variation; dry season December to June, rainy season July to October"
+    },
+    "Terrain": {
+      "text": "southern islands are limestone with level terraces and fringing coral reefs; northern islands are volcanic"
+    },
+    "Elevation extremes": {
+      "lowest point": "Pacific Ocean 0 m",
+      "highest point": "unnamed elevation on Agrihan 965 m"
+    },
+    "Natural resources": {
+      "text": "arable land, fish"
+    },
+    "Land use": {
+      "arable land": "2.17%",
+      "permanent crops": "2.17%",
+      "other": "95.65% (2011)"
+    },
+    "Irrigated land": {
+      "text": "1 sq km (2011)"
+    },
+    "Natural hazards": {
+      "text": "active volcanoes on Pagan and Agrihan; typhoons (especially August to November)"
+    },
+    "Environment - current issues": {
+      "text": "contamination of groundwater on Saipan may contribute to disease; clean-up of landfill; protection of endangered species conflicts with development"
+    },
+    "Geography - note": {
+      "text": "strategic location in the North Pacific Ocean"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "NA (US citizens)",
+      "adjective": "NA"
+    },
+    "Ethnic groups": {
+      "text": "Asian 50% (includes Filipino 35.3%, Chinese 6.8%, Korean 4.2%, and other Asian 3.7%), Native Hawaiian or other Pacific Islander 34.9% (includes Chamorro 23.9%, Carolinian 4.6%, and other Native Hawaiian or Pacific Islander 6.4%), other 2.5%, two or more ethnicities or races 12.7% (2010 est.)"
+    },
+    "Languages": {
+      "text": "Philippine languages 32.8%, Chamorro (official) 24.1%, English (official) 17%, other Pacific island languages 10.1%, Chinese 6.8%, other Asian languages 7.3%, other 1.9% (2010 est.)"
+    },
+    "Religions": {
+      "text": "Christian (Roman Catholic majority, although traditional beliefs and taboos may still be found)"
+    },
+    "Population": {
+      "text": "51,483 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "25.9% (male 6,944/female 6,393)",
+      "15-24 years": "14.5% (male 4,133/female 3,348)",
+      "25-54 years": "44.9% (male 9,793/female 13,340)",
+      "55-64 years": "10% (male 2,798/female 2,372)",
+      "65 years and over": "4.3% (male 1,122/female 1,240) (2014 est.)"
+    },
+    "Median age": {
+      "total": "31.6 years",
+      "male": "29.4 years",
+      "female": "32.2 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "1.13% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "18.94 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "3.61 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-4.02 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "91.5% of total population (2011)",
+      "rate of urbanization": "1.87% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "SAIPAN (capital) 56,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.06 male(s)/female",
+      "0-14 years": "1.09 male(s)/female",
+      "15-24 years": "1.23 male(s)/female",
+      "25-54 years": "0.73 male(s)/female",
+      "55-64 years": "0.93 male(s)/female",
+      "65 years and over": "0.91 male(s)/female",
+      "total population": "0.93 male(s)/female (2014 est.)"
+    },
+    "Infant mortality rate": {
+      "total": "5.5 deaths/1,000 live births",
+      "male": "5.88 deaths/1,000 live births",
+      "female": "5.09 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "77.64 years",
+      "male": "74.98 years",
+      "female": "80.46 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "2.01 children born/woman (2014 est.)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 97.5% of population; rural: 97.5% of population; total: 97.5% of population",
+      "unimproved": "urban: 2.5% of population; rural: 2.5% of population; total: 2.5% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 79.7% of population; rural: 79.7% of population; total: 79.7% of population",
+      "unimproved": "urban: 20.3% of population; rural: 20.3% of population; total: 20.3% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "97%",
+      "male": "97%",
+      "female": "96% (1980 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "5.9%",
+      "male": "11.2%",
+      "female": "4.4% (2003)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Commonwealth of the Northern Mariana Islands",
+      "conventional short form": "Northern Mariana Islands",
+      "abbreviation": "CNMI",
+      "former": "Trust Territory of the Pacific Islands, Mariana Islands District"
+    },
+    "Dependency status": {
+      "text": "commonwealth in political union with the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs"
+    },
+    "Government type": {
+      "text": "commonwealth; self-governing with locally elected governor, lieutenant governor, and legislature"
+    },
+    "Capital": {
+      "name": "Saipan",
+      "geographic coordinates": "15 12 N, 145 45 E",
+      "time difference": "UTC+10 (15 hours ahead of Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US Government, but there are four municipalities at the second order: Northern Islands, Rota, Saipan, Tinian"
+    },
+    "Independence": {
+      "text": "none (commonwealth in political union with the US)"
+    },
+    "National holiday": {
+      "text": "Commonwealth Day, 8 January (1978)"
+    },
+    "Constitution": {
+      "text": "partially effective 1 January 1978 (Constitution of the Commonwealth of the Northern Mariana Islands); fully effective 4 November 1986 (Covenant Agreement); amended several times, last in 2012 (2012)"
+    },
+    "Legal system": {
+      "text": "US system applies, except for customs, wages, immigration laws, and taxation"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal; note - indigenous inhabitants are US citizens but do not vote in US presidential elections"
+    },
+    "Executive branch": {
+      "chief of state": "President Barack H. OBAMA (since 20 January 2009); Vice President Joseph R. BIDEN (since 20 January 2009)",
+      "head of government": "Governor Eloy S. INOS (since 20 February 2013); Lieutenant Governor Jude U. HOFSCHNEIDER (since 20 February 2013)",
+      "cabinet": "the cabinet consists of the heads of the 10 principal departments under the executive branch who are appointed by the governor with the advice and consent of the Senate; other members include special assistants to the governor and office heads appointed by and reporting directly to the governor",
+      "elections": "under the US Constitution, residents of unincorporated territories, such as the Commonwealth of the Northern Mariana Islands, do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican party presidential primary elections; governor and lieutenant governor elected on the same ticket by popular vote for four-year terms (eligible for a second term); election last held on 7 November 2009 with a run-off election held on 23 November 2009 (next to be held in 2014)",
+      "election results": "Benigno R. FITIAL reelected governor in a run-off election held 23 November 2009; percent of vote - Benigno R. FITIAL 51.4%, Heinz HOFSCHNEIDER 48.6%",
+      "note": "Benigno R. FITIAL was impeached by House of Representatives on 11-12 February 2013 and resigned on 20 February 2013; Eloy INOS was sworn in as governor the same day"
+    },
+    "Legislative branch": {
+      "text": "bicameral legislature consists of the Senate (9 seats; members elected by popular vote to serve four-year staggered terms) and the House of Representatives (20 seats; members elected by popular vote to serve two-year terms)",
+      "elections": "Senate - last held on 6 November 2012 (next to be held in November 2014); House of Representatives - last held on 6 November 2012 (next to be held in November 2014)",
+      "election results": "Senate - percent of vote by party - NA; seats by party - Covenant Party 3, Republican Party 3, Democratic Party 1, independents 2; House of Representatives - percent of vote by party - NA; seats by party - Republican Party 4, Covenant Party 3, independents 13",
+      "note": "the Northern Mariana Islands elects one nonvoting delegate to the US House of Representatives; election last held on 6 November 2012 (next to be held in November 2014); seats by party - independent 1"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of the Commonwealth of the Northern Marianna Islands or CNMI (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge); note - US Federal District Court jurisdiction limited to US federal laws; note - appeals beyond the Northern Mariannas Islands Supreme Court are referred to the US Supreme Court",
+      "judge selection and term of office": "judges of the Supreme Court of the CNMI appointed by the governor and confirmed by the CNMI Senate; judges appointed for 8-year terms and can serve another term if approved through voter election; US Federal District Court judges appointed by the US president and confirmed by the US Senate; judges appointed for renewable 10-year terms",
+      "subordinate courts": "Superior Court"
+    },
+    "Political parties and leaders": {
+      "text": "Covenant Party [Benigno R. FITIAL]//Democratic Party [Dr. Carlos S. CAMACHO]//Republican Party [Juan S. REYES]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "SPC, UPU"
+    },
+    "Flag description": {
+      "text": "blue, with a white, five-pointed star superimposed on a gray latte stone (the traditional foundation stone used in building) in the center, surrounded by a wreath; blue symbolizes the Pacific Ocean, the star represents the Commonwealth; the latte stone and the floral head wreath display elements of the native Chamorro culture"
+    },
+    "National symbol(s)": {
+      "text": "latte stone"
+    },
+    "National anthem": {
+      "name": "\"Gi Talo Gi Halom Tasi\" (In the Middle of the Sea)",
+      "lyrics/music": "Jose S. PANGELINAN [Chamoru], David PETER [Carolinian]/Wilhelm GANZHORN",
+      "note": "adopted 1996; the Carolinian version of the song is known as \"Satil Matawal Pacifico;\" as a commonwealth of the United States, in addition to the local anthem, \"The Star-Spangled Banner\" is official (see United States)"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Northern Mariana Islands' economy benefits substantially from financial assistance from the US. The tourist industry employs approximately a quarter of the work force and accounts for roughly one-fourth of GDP. As a share of total arrivals, the number of Japanese tourists has dropped recently to less than half, while Korean visitors account for roughly one-third. Annual tourist arrivals have remained below 400,000 since 2007. Other services such as trade are also important to the local economy. The small agriculture sector is made up of cattle ranches and small farms producing coconuts, breadfruit, tomatoes, and melons."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$733 million (2010 est.)",
+      "note": "GDP estimate includes US subsidy"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$733 million (2010 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$13,600 (2010 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "1.7%",
+      "industry": "3.3%",
+      "services": "95% (2010)"
+    },
+    "Agriculture - products": {
+      "text": "vegetables and melons, fruits and nuts; ornamental plants; livestock, poultry, eggs; fish and aquaculture products"
+    },
+    "Industries": {
+      "text": "tourism, banking, construction, fishing, handicrafts, other services"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Labor force": {
+      "text": "38,450",
+      "note": "includes nearly 29,000 foreign workers (2005 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "1.9%",
+      "industry": "10%",
+      "services": "88.1% (2010 est.)"
+    },
+    "Unemployment rate": {
+      "text": "11.2% (2010 est.)//8% (2005 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "NA%",
+      "highest 10%": "NA%"
+    },
+    "Budget": {
+      "revenues": "$260 million",
+      "expenditures": "$318.2 million (FY10/11)"
+    },
+    "Taxes and other revenues": {
+      "text": "35.5% of GDP (FY10/11 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-7.9% of GDP (FY10/11 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 October - 30 September"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-2.7% (2012 est.)"
+    },
+    "Exports": {
+      "text": "$98.2 million (2008)"
+    },
+    "Exports - commodities": {
+      "text": "garments"
+    },
+    "Imports": {
+      "text": "$214.4 million (2001)"
+    },
+    "Imports - commodities": {
+      "text": "food, construction equipment and materials, petroleum products"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "60,600 kWh (January 2009)"
+    },
+    "Electricity - consumption": {
+      "text": "48,300 kWh (January 2009)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (January 2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (January 2009 est.)"
+    }
+  },
+  "Communications": {
+    "Telephone system": {
+      "international": "country code - 1-670; satellite earth stations - 2 Intelsat (Pacific Ocean)"
+    },
+    "Broadcast media": {
+      "text": "1 TV broadcast station on Saipan; multi-channel cable TV services are available on Saipan; 9 licensed radio broadcast stations (2009)"
+    },
+    "Internet country code": {
+      "text": ".mp"
+    },
+    "Internet hosts": {
+      "text": "17 (2012)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "5 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "3",
+      "2,438 to 3,047 m": "2",
+      "1,524 to 2,437 m": "1 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "2",
+      "2,438 to 3,047 m": "1",
+      "under 914 m": "1 (2013)"
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Roadways": {
+      "total": "536 km (2008)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Saipan, Tinian, Rota"
+    }
+  },
+  "Military": {
+    "Manpower fit for military service": {
+      "males age 16-49": "8,793",
+      "females age 16-49": "11,569 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "410",
+      "female": "306 (2010 est.)"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the US"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

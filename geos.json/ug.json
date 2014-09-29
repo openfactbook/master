@@ -1,0 +1,622 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "ug",
+    "countryname": "Uganda",
+    "flag_orig": "503x302",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "511x497",
+    "map_orig": "330x354",
+    "region": "Africa",
+    "regioncode": "afr"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "The colonial boundaries created by Britain to delimit Uganda grouped together a wide range of ethnic groups with different political systems and cultures. These differences prevented the establishment of a working political community after independence was achieved in 1962. The dictatorial regime of Idi AMIN (1971-79) was responsible for the deaths of some 300,000 opponents; guerrilla war and human rights abuses under Milton OBOTE (1980-85) claimed at least another 100,000 lives. The rule of Yoweri MUSEVENI since 1986 has brought relative stability and economic growth to Uganda. A constitutional referendum in 2005 cancelled a 19-year ban on multi-party politics."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "East-Central Africa, west of Kenya, east of the Democratic Republic of the Congo"
+    },
+    "Geographic coordinates": {
+      "text": "1 00 N, 32 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": "241,038 sq km",
+      "land": "197,100 sq km",
+      "water": "43,938 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Oregon"
+    },
+    "Land boundaries": {
+      "total": "2,698 km",
+      "border countries": "Democratic Republic of the Congo 765 km, Kenya 933 km, Rwanda 169 km, South Sudan 435 km, Tanzania 396 km"
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast"
+    },
+    "Terrain": {
+      "text": "mostly plateau with rim of mountains"
+    },
+    "Elevation extremes": {
+      "lowest point": "Lake Albert 621 m",
+      "highest point": "Margherita Peak on Mount Stanley 5,110 m"
+    },
+    "Natural resources": {
+      "text": "copper, cobalt, hydropower, limestone, salt, arable land, gold"
+    },
+    "Land use": {
+      "arable land": "27.94%",
+      "permanent crops": "9.11%",
+      "other": "62.95% (2011)"
+    },
+    "Irrigated land": {
+      "text": "144.2 sq km (2010)"
+    },
+    "Total renewable water resources": {
+      "text": "66 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "0.32 cu km/yr (41%/16%/43%)",
+      "per capita": "12.31 cu m/yr (2005)"
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "draining of wetlands for agricultural use; deforestation; overgrazing; soil erosion; water hyacinth infestation in Lake Victoria; widespread poaching"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands",
+      "signed, but not ratified": "Environmental Modification"
+    },
+    "Geography - note": {
+      "text": "landlocked; fertile, well-watered country with many lakes and rivers"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Ugandan(s)",
+      "adjective": "Ugandan"
+    },
+    "Ethnic groups": {
+      "text": "Baganda 16.9%, Banyankole 9.5%, Basoga 8.4%, Bakiga 6.9%, Iteso 6.4%, Langi 6.1%, Acholi 4.7%, Bagisu 4.6%, Lugbara 4.2%, Bunyoro 2.7%, other 29.6% (2002 census)"
+    },
+    "Languages": {
+      "text": "English (official national language, taught in grade schools, used in courts of law and by most newspapers and some radio broadcasts), Ganda or Luganda (most widely used of the Niger-Congo languages, preferred for native language publications in the capital and may be taught in school), other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic"
+    },
+    "Religions": {
+      "text": "Roman Catholic 41.9%, Protestant 42% (Anglican 35.9%, Pentecostal 4.6%, Seventh-Day Adventist 1.5%), Muslim 12.1%, other 3.1%, none 0.9% (2002 census)"
+    },
+    "Population": {
+      "text": "35,918,915",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "48.7% (male 8,714,354/female 8,765,900)",
+      "15-24 years": "21.2% (male 3,775,679/female 3,833,574)",
+      "25-54 years": "25.7% (male 4,618,088/female 4,615,616)",
+      "55-64 years": "2.4% (male 405,740/female 447,118)",
+      "65 years and over": "2.1% (male 327,771/female 415,075) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "102.4 %",
+      "youth dependency ratio": "97.5 %",
+      "elderly dependency ratio": "4.9 %",
+      "potential support ratio": "20.5 (2014 est.)"
+    },
+    "Median age": {
+      "total": "15.5 years",
+      "male": "15.5 years",
+      "female": "15.6 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "3.24% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "44.17 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "10.97 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.76 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "15.6% of total population (2011)",
+      "rate of urbanization": "5.74% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "KAMPALA (capital) 1.659 million (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.03 male(s)/female",
+      "0-14 years": "0.99 male(s)/female",
+      "15-24 years": "0.99 male(s)/female",
+      "25-54 years": "1 male(s)/female",
+      "55-64 years": "0.99 male(s)/female",
+      "65 years and over": "0.8 male(s)/female",
+      "total population": "0.99 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "18.9",
+      "note": "median age at first birth among women 25-29 (2011 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "310 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "60.82 deaths/1,000 live births",
+      "male": "70.17 deaths/1,000 live births",
+      "female": "51.18 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "54.46 years",
+      "male": "53.1 years",
+      "female": "55.86 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "5.97 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "30% (2011)"
+    },
+    "Health expenditures": {
+      "text": "9.5% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "0.12 physicians/1,000 population (2005)"
+    },
+    "Hospital bed density": {
+      "text": "0.5 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 94.8% of population; rural: 71% of population; total: 74.8% of population",
+      "unimproved": "urban: 5.2% of population; rural: 29% of population; total: 25.2% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 32.8% of population; rural: 34.1% of population; total: 33.9% of population",
+      "unimproved": "urban: 67.2% of population; rural: 65.9% of population; total: 66.1% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "7.2% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "1,549,200 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "63,300 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "very high",
+      "food or waterborne diseases": "bacterial diarrhea, hepatitis A and E, and typhoid fever",
+      "vectorborne diseases": "malaria, dengue fever, and trypanosomiasis-Gambiense (African sleeping sickness)",
+      "water contact disease": "schistosomiasis",
+      "animal contact disease": "rabies (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "4.3% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "14.1% (2011)"
+    },
+    "Education expenditures": {
+      "text": "3.3% of GDP (2012)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "73.2%",
+      "male": "82.6%",
+      "female": "64.6% (2010 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "11 years",
+      "male": "11 years",
+      "female": "11 years (2009)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "117,266",
+      "percentage": "25 %",
+      "note": "data represents children ages 5-17 working in the (2010 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "5.4% (2009)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Uganda",
+      "conventional short form": "Uganda"
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": "Kampala",
+      "geographic coordinates": "0 19 N, 32 33 E",
+      "time difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "111 districts and 1 capital city*; Abim, Adjumani, Agago, Alebtong, Amolatar, Amudat, Amuria, Amuru, Apac, Arua, Budaka, Bududa, Bugiri, Buhweju, Buikwe, Bukedea, Bukomansimbi, Bukwa, Bulambuli, Buliisa, Bundibugyo, Bushenyi, Busia, Butaleja, Butambala, Buvuma, Buyende, Dokolo, Gomba, Gulu, Hoima, Ibanda, Iganga, Isingiro, Jinja, Kaabong, Kabale, Kabarole, Kaberamaido, Kalangala, Kaliro, Kalungu, Kampala*, Kamuli, Kamwenge, Kanungu, Kapchorwa, Kasese, Katakwi, Kayunga, Kibaale, Kiboga, Kibuku, Kiruhura, Kiryandongo, Kisoro, Kitgum, Koboko, Kole, Kotido, Kumi, Kween, Kyankwanzi, Kyegegwa, Kyenjojo, Lamwo, Lira, Luuka, Luwero, Lwengo, Lyantonde, Manafwa, Maracha, Masaka, Masindi, Mayuge, Mbale, Mbarara, Mitooma, Mityana, Moroto, Moyo, Mpigi, Mubende, Mukono, Nakapiripirit, Nakaseke, Nakasongola, Namayingo, Namutumba, Napak, Nebbi, Ngora, Ntoroko, Ntungamo, Nwoya, Otuke, Oyam, Pader, Pallisa, Rakai, Rubirizi, Rukungiri, Sembabule, Serere, Sheema, Sironko, Soroti, Tororo, Wakiso, Yumbe, Zombo"
+    },
+    "Independence": {
+      "text": "9 October 1962 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 9 October (1962)"
+    },
+    "Constitution": {
+      "text": "several previous; latest adopted 27 September 1995, promulgated 8 October 1995; amended many times, last in 2005 (2011)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law and customary law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Lt. Gen. Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Edward SSEKANDI (since 24 May 2011) note - the president is both chief of state and head of government",
+      "head of government": "President Lt. Gen. Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Prime Minister Amama MBABAZI (since 24 May 2011); note - the prime minister assists the president in supervising the cabinet",
+      "cabinet": "Cabinet appointed by the president from among elected legislators",
+      "elections": "president elected by popular vote for a five-year term; election last held on 18 February 2011 (next to be held in 2016)",
+      "election results": "Lt. Gen. Yoweri Kaguta MUSEVENI re-elected president; percent of vote - Lt. Gen. Yoweri Kaguta MUSEVENI 68.4%, Kizza BESIGYE 26.0%, other 5.6%"
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly (375 seats; 238 members elected by popular vote, 112 women directly elected, 25 nominated by legally established special interest groups [army 10, disabled 5, youth 5, labor 5], additional ex-officio members may be nominated by the president; members serve five-year terms)",
+      "elections": "last held on 18 February 2011 (next to be held in 2016)",
+      "election results": "percent of vote by party - NA; seats by party - NRM 263, FDC 34, DP 12, UPC 10, UPDF 10, CP 1, JEEMA 1, independents 43, vacant 1; note - UPDF is the Uganda People's Defense Force"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of Uganda (consists of the chief justice and 5 justices)",
+      "judge selection and term of office": "justices appointed by the president in consultation with the Judicial Service Commission (a 9-member independent advisory body) and with approval of the National Assembly; justices serve until mandatory retirement at age 70",
+      "subordinate courts": "Court of Appeal (also sits as the Constitutional Court); High Court (includes 10 High Court Circuits and 7 High Court Divisions); Chief Magistrate Grade One and Grade Two Courts"
+    },
+    "Political parties and leaders": {
+      "text": "Conservative Party or CP [Ken LUKYAMUZI]//Democratic Party or DP [Norbert MAO]//Forum for Democratic Change or FDC [Muntu MUGISHA]//Inter-Party Co-operation or IPC (a coalition of opposition groups)//Justice Forum or JEEMA [Asuman BASALIRWA]//National Resistance Movement or NRM [Yoweri MUSEVENI]//Peoples Progressive Party or PPP [Bidandi SSALI]//Ugandan People's Congress or UPC [Olara OTUNNU]//",
+      "note": "a national referendum in July 2005 opened the way for Uganda's transition to a multi-party political system"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Lord's Resistance Army or LRA [Joseph KONY]//Parliamentary Advocacy Forum or PAFO//National Association of Women Organizations in Uganda or NAWOU [Florence NEKYON]//The Ugandan Coalition for Political Accountability to Women or COPAW"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Oliver WONEKHA (since 6 June 2013)",
+      "chancery": "5911 16th Street NW, Washington, DC 20011",
+      "telephone": "[1] (202) 726-7100 through 7102, 0416",
+      "FAX": "[1] (202) 726-1727"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Scott H. DELISI (since 18 July 2012)",
+      "embassy": "1577 Ggaba Road, Kampala",
+      "mailing address": "P. O. Box 7007, Kampala",
+      "telephone": "[256] (414) 259 791 through 93, 95",
+      "FAX": "[256] (414) 259-794"
+    },
+    "Flag description": {
+      "text": "six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is superimposed at the center and depicts a grey crowned crane (the national symbol) facing the hoist side; black symbolizes the African people, yellow sunshine and vitality, red African brotherhood; the crane was the military badge of Ugandan soldiers under the UK"
+    },
+    "National symbol(s)": {
+      "text": "grey crowned crane"
+    },
+    "National anthem": {
+      "name": "\"Oh Uganda, Land of Beauty!\"",
+      "lyrics/music": "George Wilberforce KAKOMOA",
+      "note": "adopted 1962"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Uganda has substantial natural resources, including fertile soils, regular rainfall, small deposits of copper, gold, and other minerals, and recently discovered oil. Uganda has never conducted a national minerals survey. Agriculture is the most important sector of the economy, employing over 80% of the work force. Coffee accounts for the bulk of export revenues. Since 1986, the government - with the support of foreign countries and international agencies - has acted to rehabilitate and stabilize the economy by undertaking currency reform, raising producer prices on export crops, increasing prices of petroleum products, and improving civil service wages. The policy changes are especially aimed at dampening inflation and boosting production and export earnings. Since 1990 economic reforms ushered in an era of solid economic growth based on continued investment in infrastructure, improved incentives for production and exports, lower inflation, better domestic security, and the return of exiled Indian-Ugandan entrepreneurs. The global economic downturn hurt Uganda's exports; however, Uganda's GDP growth has largely recovered due to past reforms and sound management of the downturn. Oil revenues and taxes will become a larger source of government funding as oil comes on line in the next few years. Instability in South Sudan is a risk for the Ugandan economy because Uganda's main export partner is Sudan, and Uganda is a key destination for Sudanese refugees. Unreliable power, high energy costs, inadequate transportation infrastructure, and corruption inhibit economic development and investor confidence."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$54.37 billion (2013 est.)//$51.47 billion (2012 est.)//$50.08 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$22.6 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.6% (2013 est.)//2.8% (2012 est.)//6.2% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,500 (2013 est.)//$1,400 (2012 est.)//$1,500 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "17.4% of GDP (2013 est.)//14.7% of GDP (2012 est.)//13.1% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "82.3%",
+      "government consumption": "7.6%",
+      "investment in fixed capital": "25.5%",
+      "investment in inventories": "0.2%",
+      "exports of goods and services": "22.8%",
+      "imports of goods and services": "-38.3%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "23.1%",
+      "industry": "26.9%",
+      "services": "50% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "coffee, tea, cotton, tobacco, cassava (manioc, tapioca), potatoes, corn, millet, pulses, cut flowers; beef, goat meat, milk, poultry"
+    },
+    "Industries": {
+      "text": "sugar, brewing, tobacco, cotton textiles; cement, steel production"
+    },
+    "Industrial production growth rate": {
+      "text": "3.8% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "17.4 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "82%",
+      "industry": "5%",
+      "services": "13% (1999 est.)"
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "24.5% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "2.4%",
+      "highest 10%": "36.1% (2009 est.)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "44.3 (2009)//45.7 (2002)"
+    },
+    "Budget": {
+      "revenues": "$3.2 billion",
+      "expenditures": "$3.803 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "14.2% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.7% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "30.7% of GDP (2013 est.)//26.3% of GDP (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.2% (2013 est.)//14% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "14% (31 December 2010 est.)//9.65% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "23.7% (31 December 2013 est.)//26.31% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$2.455 billion (31 December 2013 est.)//$2.015 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$4.049 billion (31 December 2013 est.)//$3.293 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$3.67 billion (31 December 2013 est.)//$3.042 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$7.294 billion (31 December 2012 est.)//$7.727 billion (31 December 2011)//$1.788 billion (31 December 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.908 billion (2013 est.)//-$2.232 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$3.156 billion (2013 est.)//$2.811 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "coffee, fish and fish products, tea, cotton, flowers, horticultural products; gold"
+    },
+    "Exports - partners": {
+      "text": "Kenya 12.3%, Rwanda 10.3%, UAE 10.2%, Democratic Republic of the Congo 9.4%, Netherlands 6.1%, Germany 5.6%, Italy 4.4% (2012)"
+    },
+    "Imports": {
+      "text": "$4.858 billion (2013 est.)//$5.187 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "capital equipment, vehicles, petroleum, medical supplies; cereals"
+    },
+    "Imports - partners": {
+      "text": "Kenya 15.6%, UAE 15.4%, China 12.8%, India 11.7%, South Africa 4.1%, Japan 4% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.579 billion (31 December 2013 est.)//$3.167 billion (31 December 2012 est.)",
+      "note": "excludes gold"
+    },
+    "Debt - external": {
+      "text": "$5.223 billion (31 December 2013 est.)//$4.461 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Ugandan shillings (UGX) per US dollar -//2,604.6 (2013 est.)//2,505.6 (2012 est.)//2,177.6 (2010 est.)//2,030 (2009)//1,658.1 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "2.406 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "2.192 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "75 million kWh (2010)"
+    },
+    "Electricity - imports": {
+      "text": "29 million kWh (2011 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "539,000 kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "31.5% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "65.3% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "3.2% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "2.5 billion bbl (1 January 2010 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "16,930 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "22,990 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "14.16 billion cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "3.244 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "315,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "16.355 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "mobile cellular service is increasing rapidly, but the number of main lines is still deficient; work underway on a national backbone information and communications technology infrastructure; international phone networks and Internet connectivity provided through satellite and VSAT applications",
+      "domestic": "intercity traffic by wire, microwave radio relay, and radiotelephone communication stations, fixed and mobile-cellular systems for short-range traffic; mobile-cellular teledensity about 50 per 100 persons in 2010",
+      "international": "country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog links to Kenya and Tanzania (2011)"
+    },
+    "Broadcast media": {
+      "text": "public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; Uganda first began licensing privately owned stations in the 1990s; by 2007 there were nearly 150 radio and 35 TV stations, mostly based in and around Kampala; transmissions of multiple international broadcasters are available in Kampala (2007)"
+    },
+    "Internet country code": {
+      "text": ".ug"
+    },
+    "Internet hosts": {
+      "text": "32,683 (2012)"
+    },
+    "Internet users": {
+      "text": "3.2 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "47 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "5",
+      "over 3,047 m": "3",
+      "1,524 to 2,437 m": "1",
+      "914 to 1,523 m": "1 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "42",
+      "over 3,047 m": "1",
+      "1,524 to 2,437 m": "8",
+      "914 to 1,523 m": "26",
+      "under 914 m": "7 (2013)"
+    },
+    "Railways": {
+      "total": "1,244 km",
+      "narrow gauge": "1,244 km 1.000-m gauge (2008)"
+    },
+    "Roadways": {
+      "total": "20,000 km (does not include local roads)",
+      "paved": "3,264 km",
+      "unpaved": "16,736 km (2011)"
+    },
+    "Waterways": {
+      "text": "(there are no long navigable stretches of river in Uganda; parts of the Albert Nile that flow out of Lake Albert in the northwestern part of the country are navigable; several lakes including Lake Victoria and Lake Kyoga have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores) (2011)"
+    },
+    "Ports and terminals": {
+      "lake port(s)": "Entebbe, Jinja, Port Bell (Lake Victoria)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Uganda People's Defense Force (UPDF): Land Forces (includes Marine Unit), Uganda Air Force (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-26 years of age for voluntary military duty; 18-30 years of age for professionals; no conscription; 9-year service obligation; the government has stated that while recruitment under 18 years of age could occur with proper consent, \"no person under the apparent age of 18 years shall be enrolled in the armed forces\"; Ugandan citizenship and secondary education required (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "7,249,271",
+      "females age 16-49": "7,025,439 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "4,313,068",
+      "females age 16-49": "4,200,901 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "423,923",
+      "female": "420,236 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "1.45% of GDP (2012)//3.73% of GDP (2011)//1.45% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders; Ugandan refugees as well as members of the Lord's Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo's Garamba National Park; LRA forces have also attacked Kenyan villages across the border"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": "155,742 (Democratic Republic of Congo); 13,376 (Rwanda); 10,578 (Burundi) (2013); 137,844 (South Sudan); 18,534 (Somalia) (2014)"
+    }
+  }
+}

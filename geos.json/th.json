@@ -1,0 +1,654 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "th",
+    "countryname": "Thailand",
+    "flag_orig": "400x267",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "533x502",
+    "map_orig": "330x715",
+    "region": "East &amp; Southeast Asia",
+    "regioncode": "eas"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "A unified Thai kingdom was established in the mid-14th century. Known as Siam until 1939, Thailand is the only Southeast Asian country never to have been taken over by a European power. A bloodless revolution in 1932 led to a constitutional monarchy. In alliance with Japan during World War II, Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the United States in Vietnam. Thailand since 2005 has experienced several rounds of political turmoil including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat, followed by large-scale street protests by competing political factions in 2008, 2009, and 2010. THAKSIN's youngest sister, YINGLAK Chinnawat, in 2011 led the Puea Thai Party to an electoral win and assumed control of the government. A blanket amnesty bill for individuals involved in street protests, altered at the last minute to include all political crimes - including all convictions against THAKSIN - triggered months of large-scale anti-government protests in Bangkok beginning in November 2013. In early May 2014 YINGLAK was removed from office and in late May 2014 the Royal Thai Army staged a coup against the caretaker government. Thailand has also experienced violence associated with the ethno-nationalist insurgency in Thailand's southern Malay-Muslim majority provinces. Since January 2004, thousands have been killed and wounded in the insurgency."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Asia, bordering the Andaman Sea and the Gulf of Thailand, southeast of Burma"
+    },
+    "Geographic coordinates": {
+      "text": "15 00 N, 100 00 E"
+    },
+    "Map references": {
+      "text": "Southeast Asia"
+    },
+    "Area": {
+      "total": "513,120 sq km",
+      "land": "510,890 sq km",
+      "water": "2,230 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of Wyoming"
+    },
+    "Land boundaries": {
+      "total": "4,863 km",
+      "border countries": "Burma 1,800 km, Cambodia 803 km, Laos 1,754 km, Malaysia 506 km"
+    },
+    "Coastline": {
+      "text": "3,219 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "exclusive economic zone": "200 nm",
+      "continental shelf": "200 m depth or to the depth of exploitation"
+    },
+    "Climate": {
+      "text": "tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid"
+    },
+    "Terrain": {
+      "text": "central plain; Khorat Plateau in the east; mountains elsewhere"
+    },
+    "Elevation extremes": {
+      "lowest point": "Gulf of Thailand 0 m",
+      "highest point": "Doi Inthanon 2,576 m"
+    },
+    "Natural resources": {
+      "text": "tin, rubber, natural gas, tungsten, tantalum, timber, lead, fish, gypsum, lignite, fluorite, arable land"
+    },
+    "Land use": {
+      "arable land": "30.71%",
+      "permanent crops": "8.77%",
+      "other": "60.52% (2011)"
+    },
+    "Irrigated land": {
+      "text": "64,150 sq km (2007)"
+    },
+    "Total renewable water resources": {
+      "text": "438.6 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "57.31 cu km/yr (5%/5%/90%)",
+      "per capita": "845.3 cu m/yr (2007)"
+    },
+    "Natural hazards": {
+      "text": "land subsidence in Bangkok area resulting from the depletion of the water table; droughts"
+    },
+    "Environment - current issues": {
+      "text": "air pollution from vehicle emissions; water pollution from organic and factory wastes; deforestation; soil erosion; wildlife populations threatened by illegal hunting"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands",
+      "signed, but not ratified": "Law of the Sea"
+    },
+    "Geography - note": {
+      "text": "controls only land route from Asia to Malaysia and Singapore"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Thai (singular and plural)",
+      "adjective": "Thai"
+    },
+    "Ethnic groups": {
+      "text": "Thai 95.9%, Burmese 2%, other 1.3%, unspecified 0.9% (2010 est.)"
+    },
+    "Languages": {
+      "text": "Thai (official) 90.7%, Burmese 1.3%, other 8%",
+      "note": "English is a secondary language of the elite (2010 est.)"
+    },
+    "Religions": {
+      "text": "Buddhist (official) 93.6%, Muslim 4.9%, Christian 1.2%, other 0.2%, none 0.1% (2010 est.)"
+    },
+    "Population": {
+      "text": "67,741,401",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "17.6% (male 6,117,993/female 5,827,981)",
+      "15-24 years": "15% (male 5,194,332/female 4,999,669)",
+      "25-54 years": "46.9% (male 15,685,882/female 16,097,245)",
+      "55-64 years": "10.9% (male 3,468,620/female 3,893,925)",
+      "65 years and over": "9.8% (male 2,830,418/female 3,625,336) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "38.6 %",
+      "youth dependency ratio": "24.7 %",
+      "elderly dependency ratio": "13.9 %",
+      "potential support ratio": "7.2 (2014 est.)"
+    },
+    "Median age": {
+      "total": "36.2 years",
+      "male": "35.3 years",
+      "female": "37.2 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "0.35% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "11.26 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "7.72 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "0 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "34.1% of total population (2011)",
+      "rate of urbanization": "1.6% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "BANGKOK (capital) 8.426 million; Samut Prakan 1.212 million (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.05 male(s)/female",
+      "0-14 years": "1.05 male(s)/female",
+      "15-24 years": "1.04 male(s)/female",
+      "25-54 years": "0.97 male(s)/female",
+      "55-64 years": "0.97 male(s)/female",
+      "65 years and over": "0.82 male(s)/female",
+      "total population": "0.98 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "23.3 (2009 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "48 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "9.86 deaths/1,000 live births",
+      "male": "10.82 deaths/1,000 live births",
+      "female": "8.85 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "74.18 years",
+      "male": "71 years",
+      "female": "77.54 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.5 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "79.6% (2009)"
+    },
+    "Health expenditures": {
+      "text": "4.1% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "0.3 physicians/1,000 population (2004)"
+    },
+    "Hospital bed density": {
+      "text": "2.1 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 96.7% of population; rural: 95.3% of population; total: 95.8% of population",
+      "unimproved": "urban: 3.3% of population; rural: 4.7% of population; total: 4.2% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 88.7% of population; rural: 95.9% of population; total: 93.4% of population",
+      "unimproved": "urban: 11.3% of population; rural: 4.1% of population; total: 6.6% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "1.1% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "443,100 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "20,800 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "very high",
+      "food or waterborne diseases": "bacterial diarrhea",
+      "vectorborne diseases": "dengue fever, Japanese encephalitis, and malaria",
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "8.8% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "7% (2006)"
+    },
+    "Education expenditures": {
+      "text": "5.8% of GDP (2011)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "93.5%",
+      "male": "95.6%",
+      "female": "91.5% (2005 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "13 years",
+      "male": "13 years",
+      "female": "13 years (2009)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "818,399",
+      "percentage": "8 % (2006 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "2.8%",
+      "male": "2.5%",
+      "female": "3.1% (2012)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Kingdom of Thailand",
+      "conventional short form": "Thailand",
+      "local long form": "Ratcha Anachak Thai",
+      "local short form": "Prathet Thai",
+      "former": "Siam"
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": "Bangkok",
+      "geographic coordinates": "13 45 N, 100 31 E",
+      "time difference": "UTC+7 (12 hours ahead of Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "77 provinces (changwat, singular and plural); Amnat Charoen, Ang Thong, Bueng Kan, Buriram, Chachoengsao, Chai Nat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin, Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Krung Thep Mahanakhon (Bangkok), Lampang, Lamphun, Loei, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan, Narathiwat, Nong Bua Lamphu, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket, Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi Et, Sa Kaeo, Sakon Nakhon, Samut Prakan, Samut Sakhon, Samut Songkhram, Sara Buri, Satun, Sing Buri, Sisaket, Songkhla, Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon"
+    },
+    "Independence": {
+      "text": "1238 (traditional founding date; never colonized)"
+    },
+    "National holiday": {
+      "text": "Birthday of King PHUMIPHON (BHUMIBOL), 5 December (1927)"
+    },
+    "Constitution": {
+      "text": "many previous; latest approved by referendum 19 August 2007, effective 24 August 2007 (2013)"
+    },
+    "Legal system": {
+      "text": "civil law system with common law influences"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": "King PHUMIPHON Adunyadet, also spelled BHUMIBOL Adulyadej (since 9 June 1946)",
+      "head of government": "Prime Minister (acting) NIWATTAMRONG Boonsongpaisan; Deputy Prime Minister PHONGTHEP Thepkanchana also spelled PHONGTHEP Therkanchana (since 28 October 2012); Deputy Prime Minister YUKHON Limlaemthong (since 25 March 2013); note - 4 other deputy prime ministers were removed from office on 7 May 2014",
+      "note": "Prime Minister YINGLAK Chinnawat, also spelled YINGLUCK Shinawatra, was removed from office on 7 May 2014 after the Constitutional Court ruled she illegally transferred a government official; Thai army declared martial law on 20 May 2014 and a coup on 22 May 2014",
+      "cabinet": "Council of Ministers",
+      "note": "a Privy Council advises the king",
+      "elections": "the monarchy is hereditary; the prime minister is elected from among members of the House of Representatives; following national elections for the House of Representatives, the leader of the party positioned to organize a majority coalition usually becomes prime minister by appointment by the king; the prime minister is limited to two four-year terms"
+    },
+    "Legislative branch": {
+      "text": "bicameral National Assembly or Rathasapha consisted of the Senate or Wuthisapha (150 seats; 76 members elected by popular vote representing 75 provinces and 1 metropolitan district (Bangkok), 74 appointed by the Senate Selection Committee; members serve six-year terms) and the House of Representatives or Sapha Phuthaen Ratsadon (500 seats; 375 members elected from 375 single-seat constituencies and 125 elected on proportional party-list basis; members serve four-year terms)",
+      "elections": "Senate - last held on 30 March 2014; House of Representatives - last held on 2 February 2014, but later declared invalid by the Constitutional Court; a new election will be held on 20 July 2014",
+      "election results": "Senate - percent of vote by party - NA; seats by party - NA; House of Representatives - percent of vote by party - NA; seats by party - NA",
+      "note": "73 senators were appointed on 12 April 2011 by a seven-member committee headed by the chief of the Constitutional Court; 76 senators were elected on 30 March 2014; elections to the Senate are non-partisan; registered political party members are disqualified from being senators"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of Justice (consists of the court president, 6 vice-presidents, and NA judges and organized into civil and criminal divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (the number of judges determined by the Judicial Commission of the Administrative Courts)",
+      "judge selection and term of office": "Supreme Court judges selected by the Judicial Commission of the Courts of Justice and approved by the monarch; judges' terms NA; Constitutional Court justices - 3 judges drawn from the Supreme Court, 2 judges drawn from the Administrative Court, and 4 judge candidates selected by the Selective Committee for Judges of the Constitutional Court and confirmed by the Senate; judges appointed by the monarch to serve single 9-year terms; Supreme Administrative Court judges selected by the Judicial Commission of the Administrative Courts and appointed by the monarch; judge tenure NA",
+      "subordinate courts": "courts of first instance and appeals courts within both the judicial and administrative systems; military courts"
+    },
+    "Political parties and leaders": {
+      "text": "Chat Pattana Party or CPN (Nation Development Party) [WANNARAT Channukul]//Chat Thai Phattana Party or CTP (Thai Nation Development Party) [THEERA Wongsamut]//Mahachon Party or Mass Party [APHIRAT Sirinawin]//Matubhum Party (Motherland Party) [ Gen. SONTHI Bunyaratkalin]//Phalang Chon Party (People Chonburi Power Party) [SONTHAYA Khunpluem]//Phumjai (Bhumjai) Thai Party or PJT (Thai Pride) [ANUTIN Charnvirakul]//Prachathipat Party or DP (Democrat Party) [ABHISIT Wechachiwa, also spelled ABHISIT Vejjajiva]//Prachathipathai Mai Party (New Democracy Party) [SURATIN Phijarn]//Puea Thai Party (For Thais Party) or PTP [CHARUPHONG Rueangsuwan also spelled JARUPONG Ruangsuwan]//Rak Prathet Thai Party (Love Thailand Party) [CHUWIT Kamonwisit]//Rak Santi Party (Peace Conservation Party) [Pol. Lt. Gen. THAWIL Surachetphong]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Multicolor Group//People's Alliance for Democracy or PAD//People's Democratic Reform Committee or PDRC//Student and People Network for Thailand's Reform or STR//United Front for Democracy Against Dictatorship or UDD"
+    },
+    "International organization participation": {
+      "text": "ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador WICHAWAT Isarabhakdi (since 3 December 2013)",
+      "chancery": "1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007",
+      "telephone": "[1] (202) 944-3600",
+      "FAX": "[1] (202) 944-3611",
+      "consulate(s) general": "Chicago, Los Angeles, New York"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Kristie A. KENNEY (since 10 January 2011)",
+      "embassy": "120-122 Wireless Road, Bangkok 10330",
+      "mailing address": "APO AP 96546",
+      "telephone": "[66] (2) 205-4000",
+      "FAX": "[66] (2) 254-2990, 205-4131",
+      "consulate(s) general": "Chiang Mai"
+    },
+    "Flag description": {
+      "text": "five horizontal bands of red (top), white, blue (double width), white, and red; the red color symbolizes the nation and the blood of life; white represents religion and the purity of Buddhism; blue stands for the monarchy",
+      "note": "similar to the flag of Costa Rica but with the blue and red colors reversed"
+    },
+    "National symbol(s)": {
+      "text": "garuda (mythical half-man, half-bird figure); elephant"
+    },
+    "National anthem": {
+      "name": "\"Phleng Chat Thai\" (National Anthem of Thailand)",
+      "lyrics/music": "Luang SARANUPRAPAN/Phra JENDURIYANG",
+      "note": "music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 and 1800 every day; the anthem is played in schools, offices, theaters, and on television and radio during this time; \"Phleng Sansasoen Phra Barami\" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "With a well-developed infrastructure, a free-enterprise economy, generally pro-investment policies, and strong export industries, Thailand achieved steady growth due largely to industrial and agriculture exports - mostly electronics, agricultural commodities, automobiles and parts, and processed foods. Unemployment, at less than 1% of the labor force, stands as one of the lowest levels in the world, which puts upward pressure on wages in some industries. Thailand also attracts nearly 2.5 million migrant workers from neighboring countries. The Thai government in 2013 implemented a nation-wide 300 baht ($10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners. The Thai economy has weathered internal and external economic shocks in recent years. The global economic recession severely cut Thailand's exports, with most sectors experiencing double-digit drops. In late 2011 Thailand's recovery was interrupted by historic flooding in the industrial areas in Bangkok and its five surrounding provinces, crippling the manufacturing sector. The government approved flood mitigation projects worth $11.7 billion, which were started in 2012, to prevent similar economic damage, and an additional $75 billion for infrastructure over the following seven years. This was expected to lead to an economic upsurge but growth has remained slow, in part due to ongoing political unrest and resulting uncertainties. Spending on infrastructure will require re-approval once a new government is seated."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$673 billion (2013 est.)//$654 billion (2012 est.)//$614.2 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$400.9 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.9% (2013 est.)//6.5% (2012 est.)//0.1% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$9,900 (2013 est.)//$9,600 (2012 est.)//$9,100 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "30.8% of GDP (2013 est.)//30.5% of GDP (2012 est.)//28.3% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "53.5%",
+      "government consumption": "13.3%",
+      "investment in fixed capital": "28.2%",
+      "investment in inventories": "0.9%",
+      "exports of goods and services": "70.6%",
+      "imports of goods and services": "-66.6%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "12.1%",
+      "industry": "43.6%",
+      "services": "44.2% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "rice, cassava (manioc, tapioca), rubber, corn, sugarcane, coconuts, soybeans"
+    },
+    "Industries": {
+      "text": "tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts; world's second-largest tungsten producer and third-largest tin producer"
+    },
+    "Industrial production growth rate": {
+      "text": "-3.1% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "39.38 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "38.2%",
+      "industry": "13.6%",
+      "services": "48.2% (2011 est.)"
+    },
+    "Unemployment rate": {
+      "text": "0.7% (2013 est.)//0.7% (2012 est.)"
+    },
+    "Population below poverty line": {
+      "text": "13.2% (2011 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "2.8%",
+      "highest 10%": "31.5% (2009 est.)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "39.4 (2010)//42 (2002)"
+    },
+    "Budget": {
+      "revenues": "$80.91 billion",
+      "expenditures": "$92.9 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "20.2% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "45.9% of GDP (2013 est.)//45.8% of GDP (2012 est.)",
+      "note": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions"
+    },
+    "Fiscal year": {
+      "text": "1 October - 30 September"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.2% (2013 est.)//3% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "2.25% (31 December 2013 est.)//3.25% (31 December 2011 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.9% (31 December 2013 est.)//7.1% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$50.18 billion (31 December 2013 est.)//$52.18 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$516.4 billion (31 December 2013 est.)//$488.6 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$511.2 billion (31 December 2013 est.)//$480.5 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$348.5 billion (31 December 2013 est.)//$383 billion (31 December 2012)//$268.5 billion (31 December 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$3.2 billion (2013 est.)//-$1.4 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$225.4 billion (2013 est.)//$225.8 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "electronics, computer parts, automobiles and parts, electrical appliances, machinery and equipment, textiles and footwear, fishery products, rice, rubber"
+    },
+    "Exports - partners": {
+      "text": "China 11.7%, Japan 10.2%, US 9.9%, Hong Kong 5.7%, Malaysia 5.4%, Indonesia 4.9%, Singapore 4.7%, Australia 4.3% (2012)"
+    },
+    "Imports": {
+      "text": "$219 billion (2013 est.)//$219.8 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "capital goods, intermediate goods and raw materials, consumer goods, fuels"
+    },
+    "Imports - partners": {
+      "text": "Japan 20%, China 14.9%, UAE 6.3%, Malaysia 5.3%, US 5.3% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$167.2 billion (31 December 2013 est.)//$181.6 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$142.6 billion (31 December 2013 est.)//$130.9 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$193.7 billion (31 December 2013 est.)//$159.6 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$65.14 billion (31 December 2013 est.)//$52.56 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "baht per US dollar -//30.59 (2013 est.)//31.083 (2012 est.)//31.686 (2010 est.)//34.286 (2009)//33.37 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "173.3 billion kWh (2012 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "169.4 billion kWh (2012 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.535 billion kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "9.575 billion kWh (2012 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "32.6 million kW (2012 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "89% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "10.9% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.2% of total installed capacity (2012 est.)"
+    },
+    "Crude oil - production": {
+      "text": "574,000 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "32,200 bbl/day (2011 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "793,900 bbl/day (2011 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "453.3 million bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "913,600 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "721,100 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "192,400 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "41,700 bbl/day (2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "36.99 billion cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "45.08 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "9.58 billion cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "284.9 billion cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "269.6 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "6.391 million (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "84.075 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "high quality system, especially in urban areas like Bangkok",
+      "domestic": "fixed line system provided by both a government-owned and commercial provider; wireless service expanding rapidly",
+      "international": "country code - 66; connected to major submarine cable systems providing links throughout Asia, Australia, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2011)"
+    },
+    "Broadcast media": {
+      "text": "6 terrestrial TV stations in Bangkok broadcast nationally via relay stations - 2 of the networks are owned by the military, the other 4 are government-owned or controlled, leased to private enterprise, and all are required to broadcast government-produced news programs twice a day; multi-channel satellite and cable TV subscription services are available; radio frequencies have been allotted for more than 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2008)"
+    },
+    "Internet country code": {
+      "text": ".th"
+    },
+    "Internet hosts": {
+      "text": "3.399 million (2012)"
+    },
+    "Internet users": {
+      "text": "17.483 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "101 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "63",
+      "over 3,047 m": "8",
+      "2,438 to 3,047 m": "12",
+      "1,524 to 2,437 m": "23",
+      "914 to 1,523 m": "14",
+      "under 914 m": "6 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "38",
+      "2,438 to 3,047 m": "1",
+      "1,524 to 2,437 m": "1",
+      "914 to 1,523 m": "10",
+      "under 914 m": "26 (2013)"
+    },
+    "Heliports": {
+      "text": "7 (2013)"
+    },
+    "Pipelines": {
+      "text": "condensate 2 km; gas 5,900 km; liquid petroleum gas 85 km; oil 1 km; refined products 1,097 km (2013)"
+    },
+    "Railways": {
+      "total": "4,071 km",
+      "standard gauge": "29 km 1.435-m gauge (29 km electrified)",
+      "narrow gauge": "4,042 km 1.000-m gauge (2008)"
+    },
+    "Roadways": {
+      "total": "180,053 km (includes 450 km of expressways) (2006)"
+    },
+    "Waterways": {
+      "text": "4,000 km (3,701 km navigable by boats with drafts up to 0.9 m) (2011)"
+    },
+    "Merchant marine": {
+      "total": "363",
+      "by type": "bulk carrier 31, cargo 99, chemical tanker 28, container 18, liquefied gas 36, passenger 1, passenger/cargo 10, petroleum tanker 114, refrigerated cargo 24, roll on/roll off 1, vehicle carrier 1",
+      "foreign-owned": "13 (China 1, Hong Kong 1, Malaysia 3, Singapore 1, Taiwan 1, UK 6)",
+      "registered in other countries": "46 (Bahamas 4, Belize 1, Honduras 2, Panama 6, Singapore 33) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha",
+      "container port(s) TEUs)": "Bangkok (1,305,229), Laem Chabang (5,731,063)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN, includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Agard Thai, RTAF) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "21 years of age for compulsory military service; 18 years of age for voluntary military service; males register at 18 years of age; 2-year conscript service obligation (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "17,689,921",
+      "females age 16-49": "17,754,795 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "13,308,372",
+      "females age 16-49": "14,182,567 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "533,424",
+      "female": "509,780 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "1.47% of GDP (2012)//1.6% of GDP (2011)//1.47% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "separatist violence in Thailand's predominantly Malay-Muslim southern provinces prompt border closures and controls with Malaysia to stem insurgent activities; Southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River; despite continuing border committee talks, Thailand must deal with Karen and other ethnic rebels, refugees, and illegal cross-border activities; Cambodia and Thailand dispute sections of boundary; in 2011 Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962 and part of a planned UN World Heritage site; Thailand is studying the feasibility of jointly constructing the Hatgyi Dam on the Salween river near the border with Burma; in 2004, international environmentalist pressure prompted China to halt construction of 13 dams on the Salween River that flows through China, Burma, and Thailand; 140,000 mostly Karen refugees fleeing civil strife, political upheaval and economic stagnation in Burma live in remote camps in Thailand near the border"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": "78,970 (Burma) (2013)",
+      "IDPs": "up to 35,000 (resurgence in ethno-nationalist violence in south of country since 2004) (2013)",
+      "stateless persons": "506,197 (2012); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving"
+    },
+    "Trafficking in persons": {
+      "current situation": "Thailand is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; victims, who are most often from neighboring countries, especially Burma, and also China, Vietnam, Russia, Uzbekistan, and Fiji, migrate to Thailand in search of economic opportunities but are forced, coerced, or defrauded into labor or commercial sexual exploitation; forced laborers are exploited in fishing, low-end garment production, domestic service, and some are forced to beg; some men forced to work on fishing boats have reportedly been kept at sea for years; sex trafficking of Thai and migrant children and sex tourism remain significant problems; Thailand is a transit country for victims from North Korea, China, Vietnam, Pakistan, and Burma destined for exploitation in third countries, including Malaysia, Indonesia, Singapore, Russia, the Republic of Korea, the US, and Western European countries",
+      "tier rating": "Tier 2 Watch List - Thailand does not fully comply with the minimum standards for the elimination of trafficking; the government investigated more trafficking-related cases but prosecuted and convicted fewer trafficking offender in 2012 than it did in the previous year; widespread corruption among law enforcement personnel creates an enabling environment for human trafficking; local authorities lack an awareness of the elements of trafficking and are deficient at identifying and protecting victims; weak law enforcement, inadequate human and financial resources, and fragmented coordination among regulatory agencies in the fishing industry contributes to overall impunity for exploitive labor practices in this sector; no labor recruitment companies have been punished for forced labor or trafficking allegations (2013)"
+    },
+    "Illicit drugs": {
+      "text": "a minor producer of opium, heroin, and marijuana; transit point for illicit heroin en route to the international drug market from Burma and Laos; eradication efforts have reduced the area of cannabis cultivation and shifted some production to neighboring countries; opium poppy cultivation has been reduced by eradication efforts; also a drug money-laundering center; minor role in methamphetamine production for regional consumption; major consumer of methamphetamine since the 1990s despite a series of government crackdowns"
+    }
+  }
+}

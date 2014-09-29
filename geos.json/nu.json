@@ -1,0 +1,621 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "nu",
+    "countryname": "Nicaragua",
+    "flag_orig": "500x250",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "774x477",
+    "map_orig": "329x352",
+    "region": "Central America and Caribbean",
+    "regioncode": "cam"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "The Pacific coast of Nicaragua was settled as a Spanish colony from Panama in the early 16th century. Independence from Spain was declared in 1821 and the country became an independent republic in 1838. Britain occupied the Caribbean Coast in the first half of the 19th century, but gradually ceded control of the region in subsequent decades. Violent opposition to governmental manipulation and corruption spread to all classes by 1978 and resulted in a short-lived civil war that brought the Marxist Sandinista guerrillas to power in 1979. Nicaraguan aid to leftist rebels in El Salvador caused the US to sponsor anti-Sandinista contra guerrillas through much of the 1980s. After losing free and fair elections in 1990, 1996, and 2001, former Sandinista President Daniel ORTEGA Saavedra was elected president in 2006 and reelected in 2011. The 2008 municipal elections, 2010 regional elections, 2011 presidential elections, 2012 municipal elections, and 2013 regional elections were marred by widespread irregularities. Nicaragua's infrastructure and economy - hard hit by the earlier civil war and by Hurricane Mitch in 1998 - are slowly being rebuilt, but democratic institutions have been weakened under the ORTEGA administration."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Costa Rica and Honduras"
+    },
+    "Geographic coordinates": {
+      "text": "13 00 N, 85 00 W"
+    },
+    "Map references": {
+      "text": "Central America and the Caribbean"
+    },
+    "Area": {
+      "total": "130,370 sq km",
+      "land": "119,990 sq km",
+      "water": "10,380 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Pennsylvania; slightly smaller than New York state"
+    },
+    "Land boundaries": {
+      "total": "1,231 km",
+      "border countries": "Costa Rica 309 km, Honduras 922 km"
+    },
+    "Coastline": {
+      "text": "910 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "contiguous zone": "24 nm",
+      "continental shelf": "natural prolongation"
+    },
+    "Climate": {
+      "text": "tropical in lowlands, cooler in highlands"
+    },
+    "Terrain": {
+      "text": "extensive Atlantic coastal plains rising to central interior mountains; narrow Pacific coastal plain interrupted by volcanoes"
+    },
+    "Elevation extremes": {
+      "lowest point": "Pacific Ocean 0 m",
+      "highest point": "Mogoton 2,438 m"
+    },
+    "Natural resources": {
+      "text": "gold, silver, copper, tungsten, lead, zinc, timber, fish"
+    },
+    "Land use": {
+      "arable land": "14.57%",
+      "permanent crops": "1.76%",
+      "other": "83.66% (2011)"
+    },
+    "Irrigated land": {
+      "text": "942.4 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "196.6 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "1.39 cu km/yr (23%/4%/73%)",
+      "per capita": "265.9 cu m/yr (2008)"
+    },
+    "Natural hazards": {
+      "text": "destructive earthquakes; volcanoes; landslides; extremely susceptible to hurricanes",
+      "volcanism": "significant volcanic activity; Cerro Negro (elev. 728 m), which last erupted in 1999, is one of Nicaragua's most active volcanoes; its lava flows and ash have been known to cause significant damage to farmland and buildings; other historically active volcanoes include Concepcion, Cosiguina, Las Pilas, Masaya, Momotombo, San Cristobal, and Telica"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; water pollution"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "largest country in Central America; contains the largest freshwater body in Central America, Lago de Nicaragua"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Nicaraguan(s)",
+      "adjective": "Nicaraguan"
+    },
+    "Ethnic groups": {
+      "text": "mestizo (mixed Amerindian and white) 69%, white 17%, black 9%, Amerindian 5%"
+    },
+    "Languages": {
+      "text": "Spanish (official) 95.3%, Miskito 2.2%, Mestizo of the Caribbean coast 2%, other 0.5%",
+      "note": "English and indigenous languages found on the Caribbean coast (2005 est.)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 58.5%, Protestant 23.2% (Evangelical 21.6%, Moravian 1.6%), Jehovah's Witnesses 0.9%, other 1.6%, none 15.7% (2005 est.)"
+    },
+    "Demographic profile": {
+      "text": "Despite being one of the poorest countries in Latin America, Nicaragua has improved its access to potable water and sanitation and has ameliorated its life expectancy, infant and child mortality, and immunization rates. However, income distribution is very uneven, and the poor, agriculturalists, and indigenous people continue to have less access to healthcare services. Nicaragua's total fertility rate has fallen from around 6 children per woman in 1980 to just above replacement level today, but the high birth rate among adolescents perpetuates a cycle of poverty and low educational attainment.//Nicaraguans emigrate primarily to Costa Rica and to a lesser extent the United States. Nicaraguan men have been migrating seasonally to Costa Rica to harvest bananas and coffee since the early 20th century. Political turmoil, civil war, and natural disasters from the 1970s through the 1990s dramatically increased the flow of refugees and permanent migrants seeking jobs, higher wages, and better social and healthcare benefits. Since 2000, Nicaraguan emigration to Costa Rica has slowed and stabilized. Today roughly 300,000 Nicaraguans are permanent residents of Costa Rica - about 75% of the foreign population - and thousands more migrate seasonally for work, many illegally."
+    },
+    "Population": {
+      "text": "5,848,641 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "29.3% (male 873,545/female 839,853)",
+      "15-24 years": "22.4% (male 657,076/female 652,856)",
+      "25-54 years": "38% (male 1,051,656/female 1,173,084)",
+      "55-64 years": "5.4% (male 147,405/female 169,618)",
+      "65 years and over": "4.7% (male 127,699/female 155,849) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "58.8 %",
+      "youth dependency ratio": "51.4 %",
+      "elderly dependency ratio": "7.4 %",
+      "potential support ratio": "13.4 (2014 est.)"
+    },
+    "Median age": {
+      "total": "24.2 years",
+      "male": "23.3 years",
+      "female": "25.1 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "1.02% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "18.41 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "5.07 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.13 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "57.5% of total population (2011)",
+      "rate of urbanization": "1.94% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "MANAGUA (capital) 970,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.05 male(s)/female",
+      "0-14 years": "1.04 male(s)/female",
+      "15-24 years": "1.01 male(s)/female",
+      "25-54 years": "0.9 male(s)/female",
+      "55-64 years": "0.96 male(s)/female",
+      "65 years and over": "0.83 male(s)/female",
+      "total population": "0.96 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "19.7",
+      "note": "median age at first birth among women 25-29 (2006-07 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "95 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "20.36 deaths/1,000 live births",
+      "male": "23.36 deaths/1,000 live births",
+      "female": "17.2 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "72.72 years",
+      "male": "70.57 years",
+      "female": "74.98 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.99 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "72.4% (2006/07)"
+    },
+    "Health expenditures": {
+      "text": "10.1% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.37 physicians/1,000 population (2003)"
+    },
+    "Hospital bed density": {
+      "text": "1.1 beds/1,000 population (2011)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 97.6% of population; rural: 67.8% of population; total: 85% of population",
+      "unimproved": "urban: 2.4% of population; rural: 32.2% of population; total: 15% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 63.2% of population; rural: 37% of population; total: 52.1% of population",
+      "unimproved": "urban: 36.8% of population; rural: 63% of population; total: 47.9% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.3% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "9,600 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "100 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "high",
+      "food or waterborne diseases": "bacterial diarrhea, hepatitis A, and typhoid fever",
+      "vectorborne disease": "dengue fever and malaria (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "22.2% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "5.7% (2007)"
+    },
+    "Education expenditures": {
+      "text": "4.6% of GDP (2010)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "78%",
+      "male": "78.1%",
+      "female": "77.9% (2005 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "11 years",
+      "male": "10 years",
+      "female": "11 years (2002)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "223,992",
+      "percentage": "14 %",
+      "note": "data represents children ages 5-17 (2005 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "8.6%",
+      "male": "8.1%",
+      "female": "9.7% (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Nicaragua",
+      "conventional short form": "Nicaragua",
+      "local long form": "Republica de Nicaragua",
+      "local short form": "Nicaragua"
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": "Managua",
+      "geographic coordinates": "12 08 N, 86 15 W",
+      "time difference": "UTC-6 (1 hour behind Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Atlantico Norte*, Atlantico Sur*, Boaco, Carazo, Chinandega, Chontales, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas"
+    },
+    "Independence": {
+      "text": "15 September 1821 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 15 September (1821)"
+    },
+    "Constitution": {
+      "text": "several previous; latest adopted 19 November 1986, effective 9 January 1987; amended several times, last in 2014 (2014)"
+    },
+    "Legal system": {
+      "text": "civil law system; Supreme Court may review administrative acts"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "16 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Moises Omar HALLESLEVENS Acevedo (since 10 January 2012); note - the president is both chief of state and head of government",
+      "head of government": "President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Moises Omar HALLESLEVENS Acevedo (since 10 January 2012)",
+      "cabinet": "Council of Ministers appointed by the president",
+      "elections": "president and vice president elected on the same ticket by popular vote for a five-year term; election last held on 6 November 2011 (next to be held by November 2016)",
+      "election results": "Jose Daniel ORTEGA Saavedra reelected president; percent of vote - Jose Daniel ORTEGA Saavedra 62.5%, Fabio GADEA 31%, Arnoldo ALEMAN 5.9%, other 0.6%"
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Asamblea Nacional (92 seats; 90 members elected by proportional representation and party lists to serve five-year terms; 1 seat for the previous president, 1 seat for the runner-up in previous presidential election)",
+      "elections": "last held on 6 November 2011 (next to be held by November 2016)",
+      "election results": "percent of vote by party - NA; seats by party - FSLN 62, PLI/MRS 26, PLC 2"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)",
+      "judge selection and term of office": "Supreme Court judges elected by the National Assembly to serve 5-year staggered terms",
+      "subordinate courts": "Appeals Court; first instance civil, criminal, and military courts"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for the Republic or APRE [Carlos CANALES]//Conservative Party or PC [Alejandro BOLANOS Davis]//Independent Liberal Party or PLI [Indalecio RODRIGUEZ]//Liberal Constitutionalist Party or PLC [Maria Haydee OSUNA]//Nicaraguan Liberal Alliance or ALN [Alejandro MEJIA Ferreti]//Sandinista National Liberation Front or FSLN [Jose Daniel ORTEGA Saavedra]//Sandinista Renovation Movement or MRS [Ana Margarita VIJIL]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Workers Front or FNT (a Sandinista umbrella group of eight labor unions including: Farm Workers Association or ATC, Health Workers Federation or FETASALUD, Heroes and Martyrs Confederation of Professional Associations or CONAPRO, National Association of Educators of Nicaragua or ANDEN, National Union of Employees or UNE, National Union of Farmers and Ranchers or UNAG, Sandinista Workers Central or CST, and Union of Journalists of Nicaragua or UPN)//Permanent Congress of Workers or CPT (an umbrella group of four non-Sandinista labor unions including: Autonomous Nicaraguan Workers Central or CTN-A, Confederation of Labor Unification or CUS, Independent General Confederation of Labor or CGT-I, and Labor Action and Unity Central or CAUS)//Nicaraguan Workers' Central or CTN (an independent labor union)//Superior Council of Private Enterprise or COSEP (a confederation of business groups)"
+    },
+    "International organization participation": {
+      "text": "BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Francisco Obadiah CAMPBELL Hooker (since 23 June 2010)",
+      "chancery": "1627 New Hampshire Avenue NW, Washington, DC 20009",
+      "telephone": "[1] (202) 939-6570, 6573",
+      "FAX": "[1] (202) 939-6545",
+      "consulate(s) general": "Houston, Los Angeles, Miami, New York, San Francisco"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Phyllis M. POWERS (since 24 April 2012)",
+      "embassy": "Kilometer 5.5 Carretera Sur, Managua",
+      "mailing address": "American Embassy Managua, APO AA 34021",
+      "telephone": "[505] 2252-7100, 2252-7888; 2252-7634 (after hours)",
+      "FAX": "[505] 2252-7250"
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water",
+      "note": "similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band"
+    },
+    "National symbol(s)": {
+      "text": "turquoise-browed motmot (bird)"
+    },
+    "National anthem": {
+      "name": "\"Salve a ti, Nicaragua\" (Hail to Thee, Nicaragua)",
+      "lyrics/music": "Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DELGADILLO",
+      "note": "although only officially adopted in 1971, the music was approved in 1918 and the lyrics in 1939; the tune, originally from Spain, was used as an anthem for Nicaragua from the 1830's until 1876"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. The Dominican Republic-Central America-United States Free Trade Agreement (CAFTA-DR) has been in effect since April 2006 and has expanded export opportunities for many agricultural and manufactured goods. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. In 2013, the government granted a 100-year concession to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $40 billion. The economy grew 4.6% in 2013, despite a 33% decline in coffee export revenues due to a coffee rust fungus."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$27.97 billion (2013 est.)//$26.74 billion (2012 est.)//$25.42 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$11.26 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.6% (2013 est.)//5.2% (2012 est.)//5.4% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,500 (2013 est.)//$4,400 (2012 est.)//$4,200 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "86.1%",
+      "government consumption": "10.3%",
+      "investment in fixed capital": "34.4%",
+      "exports of goods and services": "38.6%",
+      "imports of goods and services": "-69.5%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "17.1%",
+      "industry": "25.5%",
+      "services": "57.5% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "coffee, bananas, sugarcane, rice, corn, tobacco, sesame, soya, beans; beef, veal, pork, poultry, dairy products; shrimp, lobsters, cotton"
+    },
+    "Industries": {
+      "text": "food processing, chemicals, machinery and metal products, knit and woven apparel, petroleum refining and distribution, beverages, footwear, wood, electric wire harness manufacturing, mining"
+    },
+    "Industrial production growth rate": {
+      "text": "3% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "3.039 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "31%",
+      "industry": "18%",
+      "services": "50% (2011 est.)"
+    },
+    "Unemployment rate": {
+      "text": "7.2% (2013 est.)//5.9% (2012 est.)",
+      "note": "underemployment was 46.5% in 2008"
+    },
+    "Population below poverty line": {
+      "text": "42.5% (2009)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "1.4%",
+      "highest 10%": "41.8% (2005)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "40.5 (2010)//60.3 (1998)"
+    },
+    "Budget": {
+      "revenues": "$1.776 billion",
+      "expenditures": "$1.656 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "25.6% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-0.3% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "50.4% of GDP (2013 est.)//51.5% of GDP (2012 est.)",
+      "note": "official data; data cover general Government Debt, and includes debt instruments issued (or owned) by Government entities other than the treasury; the data include treasury debt held by foreign entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions; Nicaragua rebased its GDP figures in 2012, which reduced the figures for debt as a percentage of GDP"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.7% (2013 est.)//6.6% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3% (31 December 2010 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "12% (31 December 2013 est.)//NA% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$961 million (31 December 2013 est.)//$897.5 million (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$4.453 billion (31 December 2013 est.)//$4.136 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$4.268 billion (31 December 2013 est.)//$4.567 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$1.578 billion (2013 est.)//-$1.362 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$2.401 billion (2013 est.)//$4.581 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "coffee, beef, gold, sugar, peanuts, shrimp and lobster, tobacco, cigars, automobile wiring harnesses, textiles, apparel, cotton"
+    },
+    "Exports - partners": {
+      "text": "United States 25.2%, Venezuela 16%, Canada 13.1%, El Salvador 8.9%, Costa Rica 5% (2013 est.)"
+    },
+    "Imports": {
+      "text": "$5.65 billion (2013 est.)//$5.851 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "consumer goods, machinery and equipment, raw materials, petroleum products"
+    },
+    "Imports - partners": {
+      "text": "Venezuela 18.8% (2013 est.)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.993 billion (31 December 2013 est.)//$1.887 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$4.532 billion (31 December 2013 est.)//$4.289 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "cordobas (NIO) per US dollar -//24.77 (2013 est.)//23.547 (2012 est.)//21.356 (2010 est.)//20.34 (2009)//19.374 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "4.159 billion kWh (2013 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "2.941 billion kWh (2011 est.)"
+    },
+    "Electricity - exports": {
+      "text": "43 million kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "10 million kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.275 million kW (2013 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "57.6% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "8.3% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "34.1% of total installed capacity (2013 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2013 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2011 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "12,910 bbl/day (2013 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "15,870 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "30,690 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "1,000 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "15,830 bbl/day (2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "5.035 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "320,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "5.346 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "system being upgraded by foreign investment; nearly all installed telecommunications capacity now uses digital technology, owing to investments since privatization of the formerly state-owned telecommunications company",
+      "domestic": "since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 5 per 100 persons; mobile-cellular telephone subscribership has increased to roughly 85 per 100 persons",
+      "international": "country code - 505; the Americas Region Caribbean Ring System (ARCOS-1) fiber optic submarine cable provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2011)"
+    },
+    "Broadcast media": {
+      "text": "multiple privately owned terrestrial TV networks, supplemented by cable TV in most urban areas; of more than 100 radio stations, nearly all are privately owned; Radio Nicaragua is government-owned and Radio Sandino is controlled by the Sandinista National Liberation Front (FSLN) (2007)"
+    },
+    "Internet country code": {
+      "text": ".ni"
+    },
+    "Internet hosts": {
+      "text": "296,068 (2012)"
+    },
+    "Internet users": {
+      "text": "199,800 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "147 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "12",
+      "2,438 to 3,047 m": "3",
+      "1,524 to 2,437 m": "2",
+      "914 to 1,523 m": "3",
+      "under 914 m": "4 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "135",
+      "1,524 to 2,437 m": "1",
+      "914 to 1,523 m": "15",
+      "under 914 m": "119 (2013)"
+    },
+    "Pipelines": {
+      "text": "oil 54 km (2013)"
+    },
+    "Roadways": {
+      "total": "23,897 km",
+      "paved": "3,282 km",
+      "unpaved": "20,615 km (2012)"
+    },
+    "Waterways": {
+      "text": "2,220 km (navigable waterways as well as the use of the large Lake Managua and Lake Nicaragua; rivers serve only the sparsely populated eastern part of the country) (2011)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Bluefields, Corinto"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "National Army of Nicaragua (Ejercito Nacional de Nicaragua, ENN; includes Navy, Air Force) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "1,452,107",
+      "females age 16-49": "1,552,698 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "1,227,757",
+      "females age 16-49": "1,335,653 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "69,093",
+      "female": "67,522 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "0.63% of GDP (2012)//0.53% of GDP (2011)//0.63% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "the 1992 (International Court of Justice) ICJ ruling for El Salvador and Honduras advised a tripartite resolution to establish a maritime boundary in the Gulf of Fonseca, which considers Honduran access to the Pacific; Nicaragua and Costa Rica regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the ICJ; in 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river; in 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area; in 2013, the ICJ rejected Nicaragua's 2012 suit to halt Costa Rica's construction of a highway paralleling the river on the grounds of irreparable environmental damage; in 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel; in early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for cocaine destined for the US and transshipment point for arms-for-drugs dealing"
+    }
+  }
+}

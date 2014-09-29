@@ -1,0 +1,508 @@
+# Montserrat
+
+_overseas territory of the UK_
+
+![Flag of Montserrat](../flags.png/mh.png)
+
+![Location of Montserrat](../locator-orig.png/mh.png)
+
+![Map of Montserrat](../maps-orig.png/mh.png)
+
+
+## Introduction
+
+**_Background:_**   
+English and Irish colonists from St. Kitts first settled on Montserrat in 1632; the first African slaves arrived three decades later. The British and French fought for possession of the island for most of the 18th century, but it finally was confirmed as a British possession in 1783. The island's sugar plantation economy was converted to small farm landholdings in the mid 19th century. Much of this island was devastated and two-thirds of the population fled abroad because of the eruption of the Soufriere Hills Volcano that began on 18 July 1995. Montserrat has endured volcanic activity since, with the last eruption occurring in July 2003.
+
+
+## Geography
+
+**_Location:_**   
+Caribbean, island in the Caribbean Sea, southeast of Puerto Rico
+
+**_Geographic coordinates:_**   
+16 45 N, 62 12 W
+
+**_Map references:_**   
+Central America and the Caribbean
+
+**_Area:_**   
+**total:** 102 sq km   
+**land:** 102 sq km   
+**water:** 0 sq km
+
+**_Area - comparative:_**   
+about 0.6 times the size of Washington, DC
+
+**_Land boundaries:_**   
+0 km
+
+**_Coastline:_**   
+40 km
+
+**_Maritime claims:_**   
+**territorial sea:** 3 nm   
+**exclusive fishing zone:** 200 nm
+
+**_Climate:_**   
+tropical; little daily or seasonal temperature variation
+
+**_Terrain:_**   
+volcanic island, mostly mountainous, with small coastal lowland
+
+**_Elevation extremes:_**   
+**lowest point:** Caribbean Sea 0 m   
+**highest point:** lava dome in English's Crater (in the Soufriere Hills volcanic complex) estimated at over 930 m (2006)
+
+**_Natural resources:_**   
+NEGL
+
+**_Land use:_**   
+**arable land:** 20%   
+**permanent crops:** 0%   
+**other:** 80% (2011)
+
+**_Irrigated land:_**   
+NA
+
+**_Natural hazards:_**   
+volcanic eruptions; severe hurricanes (June to November)   
+**volcanism:** Soufriere Hills volcano (elev. 915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable
+
+**_Environment - current issues:_**   
+land erosion occurs on slopes that have been cleared for cultivation
+
+**_Geography - note:_**   
+the island is entirely volcanic in origin and comprised of three major volcanic centers of differing ages
+
+
+## People and Society
+
+**_Nationality:_**   
+**noun:** Montserratian(s)   
+**adjective:** Montserratian
+
+**_Ethnic groups:_**   
+African/black 88.4%, mixed 3.7%, hispanic/Spanish 3%, caucasian/white 2.7%, East Indian/Indian 1.5%, other 0.7% (2011 est.)
+
+**_Languages:_**   
+English
+
+**_Religions:_**   
+Protestant 67.1% (includes Anglican 21.8%, Methodist 17%, Pentecostal 14.1%, Seventh Day Adventist 10.5%, and Church of God 3.7%), Roman Catholic 11.6%, Rastafarian 1.4%, other 6.5%, none 2.6%, unspecified 10.8% (2001 est.)
+
+**_Population:_**   
+5,215   
+**note:** an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned (July 2014 est.)
+
+**_Age structure:_**   
+**0-14 years:** 17.6% (male 472/female 445)   
+**15-24 years:** 21.5% (male 588/female 531)   
+**25-54 years:** 47.9% (male 1,190/female 1,309)   
+**55-64 years:** 6.9% (male 160/female 200)   
+**65 years and over:** 6.2% (male 196/female 124) (2014 est.)
+
+**_Median age:_**   
+**total:** 31.4 years   
+**male:** 30.9 years   
+**female:** 31.9 years (2014 est.)
+
+**_Population growth rate:_**   
+0.48% (2014 est.)
+
+**_Birth rate:_**   
+11.31 births/1,000 population (2014 est.)
+
+**_Death rate:_**   
+6.52 deaths/1,000 population (2014 est.)
+
+**_Net migration rate:_**   
+0 migrant(s)/1,000 population (2014 est.)
+
+**_Urbanization:_**   
+**urban population:** 14.2% of total population (2011)   
+**rate of urbanization:** 1.89% annual rate of change (2010-15 est.)
+
+**_Sex ratio:_**   
+**at birth:** 1.04 male(s)/female   
+**0-14 years:** 1.06 male(s)/female   
+**15-24 years:** 1.11 male(s)/female   
+**25-54 years:** 0.91 male(s)/female   
+**55-64 years:** 1 male(s)/female   
+**65 years and over:** 1.55 male(s)/female   
+**total population:** 1 male(s)/female (2014 est.)
+
+**_Infant mortality rate:_**   
+**total:** 13.66 deaths/1,000 live births   
+**male:** 10.54 deaths/1,000 live births   
+**female:** 16.92 deaths/1,000 live births (2014 est.)
+
+**_Life expectancy at birth:_**   
+**total population:** 73.9 years   
+**male:** 75.48 years   
+**female:** 72.24 years (2014 est.)
+
+**_Total fertility rate:_**   
+1.29 children born/woman (2014 est.)
+
+**_Drinking water source:_**   
+**improved:** urban: 99% of population; rural: 99% of population; total: 99% of population   
+**unimproved:** urban: 1% of population; rural: 1% of population; total: 1% of population (2012 est.)
+
+**_Sanitation facility access:_**   
+**improved:** urban: 82.9% of population; rural: 82.9% of population; total: 82.9% of population   
+**unimproved:** urban: 17.1% of population; rural: 17.1% of population; total: 17.1% of population (2007 est.)
+
+**_HIV/AIDS - adult prevalence rate:_**   
+NA
+
+**_HIV/AIDS - people living with HIV/AIDS:_**   
+NA
+
+**_HIV/AIDS - deaths:_**   
+NA
+
+**_Literacy:_**   
+**definition:** age 15 and over has ever attended school   
+**total population:** 97%   
+**male:** 97%   
+**female:** 97% (1970 est.)
+
+**_School life expectancy (primary to tertiary education):_**   
+**total:** 15 years   
+**male:** 14 years   
+**female:** 17 years (2007)
+
+
+## Government
+
+**_Country name:_**   
+**conventional long form:** none   
+**conventional short form:** Montserrat
+
+**_Dependency status:_**   
+overseas territory of the UK
+
+**_Government type:_**   
+NA
+
+**_Capital:_**   
+**name:** Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat   
+**geographic coordinates:** 16 42 N, 62 13 W   
+**time difference:** UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+
+**_Administrative divisions:_**   
+3 parishes; Saint Anthony, Saint Georges, Saint Peter
+
+**_Independence:_**   
+none (overseas territory of the UK)
+
+**_National holiday:_**   
+birthday of Queen ELIZABETH II, second Saturday in June (1926)
+
+**_Constitution:_**   
+previous 1960; latest effective 1 September 2010; amended 2011 (2012)
+
+**_Legal system:_**   
+English common law
+
+**_Suffrage:_**   
+18 years of age; universal
+
+**_Executive branch:_**   
+**chief of state:** Queen ELIZABETH II (since 6 February 1952); represented by Governor Adrian DAVIS (since 8 April 2011)   
+**head of government:** Premier Rueben T. MEADE (since 27 September 2011); note - the office of premier came into effect with the new Constitution Order; he replaces the chief minister   
+**cabinet:** Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary   
+**elections:** the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier
+
+**_Legislative branch:_**   
+unicameral Legislative Council (11 seats; 9 members popularly elected to serve five-year terms; the attorney general and financial secretary sit as ex-officio members)   
+**elections:** last held on 8 September 2009 (next to be held by 2014)   
+**election results:** percent of vote by party - NA; seats by party - MCAP 6, independents 3
+
+**_Judicial branch:_**   
+**highest court(s):** the Eastern Caribbean Supreme Court (ECSC) is the itinerant superior court of record for the 9-member Organization of Eastern Caribbean States to include Montserrat; the ECSC - with its headquarters on St. Lucia - is headed by the chief justice and is comprised of the Court of Appeal with 3 justices and the High Court with 16 judges; sittings of the Court of Appeal and High Court rotate among the 9 member states; 1 judge of the Supreme Court is a resident of Montserrat and presides over the High Court; note - Montserrat is also a member of the Caribbean Court of Justice   
+**judge selection and term of office:** Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62   
+**subordinate courts:** magistrate's court
+
+**_Political parties and leaders:_**   
+Montserrat Democratic Party or MDP [Lowell LEWIS]   
+Movement for Change and Prosperity or MCAP [Roselyn CASSELL-SEALY]   
+New People's Liberation Movement or NPLM [John A. OSBORNE]
+
+**_Political pressure groups and leaders:_**   
+NA
+
+**_International organization participation:_**   
+Caricom, CDB, Interpol (subbureau), OECS, UPU
+
+**_Diplomatic representation in the US:_**   
+none (overseas territory of the UK)
+
+**_Diplomatic representation from the US:_**   
+none (overseas territory of the UK)
+
+**_Flag description:_**   
+blue, with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness
+
+**_National anthem:_**   
+**note:** as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)
+
+
+## Economy
+
+**_Economy - overview:_**   
+Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops. Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management.
+
+**_GDP (purchasing power parity):_**   
+$43.78 million (2006 est.)
+
+**_GDP (official exchange rate):_**   
+$NA
+
+**_GDP - real growth rate:_**   
+3.5% (2008 est.)
+
+**_GDP - per capita (PPP):_**   
+$8,500 (2006 est.)
+
+**_GDP - composition, by end use:_**   
+**household consumption:** 84.8%   
+**government consumption:** 47.1%   
+**investment in fixed capital:** 26%   
+**investment in inventories:** 0%   
+**exports of goods and services:** 23%   
+**imports of goods and services:** -80.9%; (2013 est.)
+
+**_GDP - composition, by sector of origin:_**   
+**agriculture:** 1.6%   
+**industry:** 23.2%   
+**services:** 75.1% (2013 est.)
+
+**_Agriculture - products:_**   
+cabbages, carrots, cucumbers, tomatoes, onions, peppers; livestock products
+
+**_Industries:_**   
+tourism, rum, textiles, electronic appliances
+
+**_Industrial production growth rate:_**   
+2% (2013 est.)
+
+**_Labor force:_**   
+4,521 (2012)
+
+**_Unemployment rate:_**   
+6% (1998 est.)
+
+**_Population below poverty line:_**   
+NA%
+
+**_Household income or consumption by percentage share:_**   
+**lowest 10%:** NA%   
+**highest 10%:** NA%
+
+**_Budget:_**   
+**revenues:** $31.4 million   
+**expenditures:** $37.04 million (2011 est.)
+
+**_Fiscal year:_**   
+1 April - 31 March
+
+**_Inflation rate (consumer prices):_**   
+4.5% (2013 est.)   
+4.8% (2012 est.)
+
+**_Central bank discount rate:_**   
+10.99% (31 December 2010 est.)   
+6.5% (31 December 2009 est.)
+
+**_Commercial bank prime lending rate:_**   
+8.3% (31 December 2013 est.)   
+8.16% (31 December 2012 est.)
+
+**_Stock of narrow money:_**   
+$19.5 million (31 December 2013 est.)   
+$17.54 million (31 December 2012 est.)
+
+**_Stock of broad money:_**   
+$89.96 million (31 December 2013 est.)   
+$81.79 million (31 December 2012 est.)
+
+**_Stock of domestic credit:_**   
+$4.074 million (31 December 2012 est.)   
+$5.185 million (31 December 2011 est.)
+
+**_Exports:_**   
+$3.6 million (2013 est.)   
+$2.3 million (2012 est.)
+
+**_Exports - commodities:_**   
+electronic components, plastic bags, apparel; hot peppers, limes, live plants; cattle
+
+**_Imports:_**   
+$30 million (2013 est.)   
+$32.5 million (2012 est.)
+
+**_Imports - commodities:_**   
+machinery and transportation equipment, foodstuffs, manufactured goods, fuels, lubricants, and related materials
+
+**_Reserves of foreign exchange and gold:_**   
+$32.08 million (31 December 2012 est.)   
+$24.81 million (31 December 2011 est.)
+
+**_Debt - external:_**   
+$8.9 million (1997)
+
+**_Exchange rates:_**   
+East Caribbean dollars (XCD) per US dollar -   
+2.7 (2013 est.)   
+2.7 (2012 est.)   
+2.7 (2010 est.)   
+2.7 (2009)
+
+
+## Energy
+
+**_Electricity - production:_**   
+24 million kWh (2010 est.)
+
+**_Electricity - consumption:_**   
+22.32 million kWh (2010 est.)
+
+**_Electricity - exports:_**   
+0 kWh (2012 est.)
+
+**_Electricity - imports:_**   
+0 kWh (2012 est.)
+
+**_Electricity - installed generating capacity:_**   
+10,000 kW (2010 est.)
+
+**_Electricity - from fossil fuels:_**   
+100% of total installed capacity (2010 est.)
+
+**_Electricity - from nuclear fuels:_**   
+0% of total installed capacity (2010 est.)
+
+**_Electricity - from hydroelectric plants:_**   
+0% of total installed capacity (2010 est.)
+
+**_Electricity - from other renewable sources:_**   
+0% of total installed capacity (2010 est.)
+
+**_Crude oil - production:_**   
+0 bbl/day (2012 est.)
+
+**_Crude oil - exports:_**   
+0 bbl/day (2010 est.)
+
+**_Crude oil - imports:_**   
+0 bbl/day (2010 est.)
+
+**_Crude oil - proved reserves:_**   
+0 bbl (1 January 2013 est.)
+
+**_Refined petroleum products - production:_**   
+0 bbl/day (2010 est.)
+
+**_Refined petroleum products - consumption:_**   
+1,000 bbl/day (2011 est.)
+
+**_Refined petroleum products - exports:_**   
+0 bbl/day (2010 est.)
+
+**_Refined petroleum products - imports:_**   
+569 bbl/day (2010 est.)
+
+**_Natural gas - production:_**   
+0 cu m (2011 est.)
+
+**_Natural gas - consumption:_**   
+0 cu m (2010 est.)
+
+**_Natural gas - exports:_**   
+0 cu m (2011 est.)
+
+**_Natural gas - imports:_**   
+0 cu m (2011 est.)
+
+**_Natural gas - proved reserves:_**   
+0 cu m (1 January 2013 est.)
+
+**_Carbon dioxide emissions from consumption of energy:_**   
+87,860 Mt (2011 est.)
+
+
+## Communications
+
+**_Telephones - main lines in use:_**   
+3,000 (2012)
+
+**_Telephones - mobile cellular:_**   
+4,000 (2012)
+
+**_Telephone system:_**   
+**general assessment:** modern and fully digitalized   
+**domestic:** combined fixed-line and mobile-cellular teledensity exceeds 100 per 100 persons   
+**international:** country code - 1-664; landing point for the East Caribbean Fiber System (ECFS) optic submarine cable with links to 13 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2011)
+
+**_Broadcast media:_**   
+Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)
+
+**_Internet country code:_**   
+.ms
+
+**_Internet hosts:_**   
+2,431 (2012)
+
+**_Internet users:_**   
+1,200 (2009)
+
+
+## Transportation
+
+**_Airports:_**   
+1 (2013)
+
+**_Airports - with paved runways:_**   
+**total:** 1   
+**under 914 m:** 1 (2013)
+
+**_Roadways:_**   
+**note:** volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island (2008)
+
+**_Ports and terminals:_**   
+**major seaport(s):** Little Bay, Plymouth
+
+
+## Military
+
+**_Military branches:_**   
+no regular military forces; Royal Montserrat Police Force (2011)
+
+**_Manpower available for military service:_**   
+**males age 16-49:** 1,353 (2010 est.)
+
+**_Manpower fit for military service:_**   
+**males age 16-49:** 1,135   
+**females age 16-49:** 1,223 (2010 est.)
+
+**_Manpower reaching militarily significant age annually:_**   
+**male:** 35   
+**female:** 34 (2010 est.)
+
+**_Military - note:_**   
+defense is the responsibility of the UK
+
+
+## Transnational Issues
+
+**_Disputes - international:_**   
+none
+
+**_Illicit drugs:_**   
+transshipment point for South American narcotics destined for the US and Europe
+
+
+............................................................   
+_Page last updated on June 20, 2014_

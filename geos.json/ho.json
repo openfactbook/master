@@ -1,0 +1,639 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "ho",
+    "countryname": "Honduras",
+    "flag_orig": "500x251",
+    "last_update": "Page last updated on June 22, 2014",
+    "locator_orig": "773x476",
+    "map_orig": "328x352",
+    "region": "Central America and Caribbean",
+    "regioncode": "cam"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Once part of Spain's vast empire in the New World, Honduras became an independent nation in 1821. After two and a half decades of mostly military rule, a freely elected civilian government came to power in 1982. During the 1980s, Honduras proved a haven for anti-Sandinista contras fighting the Marxist Nicaraguan Government and an ally to Salvadoran Government forces fighting leftist guerrillas. The country was devastated by Hurricane Mitch in 1998, which killed about 5,600 people and caused approximately $2 billion in damage. Since then, the economy has slowly rebounded."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central America, bordering the Caribbean Sea, between Guatemala and Nicaragua and bordering the Gulf of Fonseca (North Pacific Ocean), between El Salvador and Nicaragua"
+    },
+    "Geographic coordinates": {
+      "text": "15 00 N, 86 30 W"
+    },
+    "Map references": {
+      "text": "Central America and the Caribbean"
+    },
+    "Area": {
+      "total": "112,090 sq km",
+      "land": "111,890 sq km",
+      "water": "200 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Tennessee"
+    },
+    "Land boundaries": {
+      "total": "1,575 km",
+      "border countries": "Guatemala 244 km, El Salvador 391 km, Nicaragua 940 km"
+    },
+    "Coastline": {
+      "text": "Caribbean Sea 669 km; Gulf of Fonseca 163 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "contiguous zone": "24 nm",
+      "exclusive economic zone": "200 nm",
+      "continental shelf": "natural extension of territory or to 200 nm"
+    },
+    "Climate": {
+      "text": "subtropical in lowlands, temperate in mountains"
+    },
+    "Terrain": {
+      "text": "mostly mountains in interior, narrow coastal plains"
+    },
+    "Elevation extremes": {
+      "lowest point": "Caribbean Sea 0 m",
+      "highest point": "Cerro Las Minas 2,870 m"
+    },
+    "Natural resources": {
+      "text": "timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, hydropower"
+    },
+    "Land use": {
+      "arable land": "9.07%",
+      "permanent crops": "3.91%",
+      "other": "87.02% (2011)"
+    },
+    "Irrigated land": {
+      "text": "878.5 sq km (2007)"
+    },
+    "Total renewable water resources": {
+      "text": "95.93 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "2.12 cu km/yr (16%/23%/61%)",
+      "per capita": "295.6 cu m/yr (2006)"
+    },
+    "Natural hazards": {
+      "text": "frequent, but generally mild, earthquakes; extremely susceptible to damaging hurricanes and floods along the Caribbean coast"
+    },
+    "Environment - current issues": {
+      "text": "urban population expanding; deforestation results from logging and the clearing of land for agricultural purposes; further land degradation and soil erosion hastened by uncontrolled development and improper land use practices such as farming of marginal lands; mining activities polluting Lago de Yojoa (the country's largest source of fresh water), as well as several rivers and streams, with heavy metals"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "has only a short Pacific coast but a long Caribbean shoreline, including the virtually uninhabited eastern Mosquito Coast"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Honduran(s)",
+      "adjective": "Honduran"
+    },
+    "Ethnic groups": {
+      "text": "mestizo (mixed Amerindian and European) 90%, Amerindian 7%, black 2%, white 1%"
+    },
+    "Languages": {
+      "text": "Spanish (official), Amerindian dialects"
+    },
+    "Religions": {
+      "text": "Roman Catholic 97%, Protestant 3%"
+    },
+    "Demographic profile": {
+      "text": "Honduras is one of the poorest countries in Latin America and has the world's highest murder rate. More than half of the population lives in poverty and per capita income is one of the lowest in the region. Poverty rates are higher among rural and indigenous people and in the south, west, and along the eastern border than in the north and central areas where most of Honduras' industries and infrastructure are concentrated. The increased productivity needed to break Honduras' persistent high poverty rate depends, in part, on further improvements in educational attainment. Although primary-school enrollment is near 100%, educational quality is poor, the drop-out rate and grade repetition remain high, and teacher and school accountability is low.//Honduras' population growth rate has slowed since the 1990s, but it remains high at nearly 2% annually because the birth rate averages approximately three children per woman and more among rural, indigenous, and poor women. Consequently, Honduras' young adult population - ages 15 to 29 - is projected to continue growing rapidly for the next three decades and then stabilize or slowly shrink. Population growth and limited job prospects outside of agriculture will continue to drive emigration. Remittances represent about a fifth of GDP."
+    },
+    "Population": {
+      "text": "8,598,561",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "34.8% (male 1,529,578/female 1,465,188)",
+      "15-24 years": "21.2% (male 928,756/female 892,629)",
+      "25-54 years": "35.3% (male 1,530,429/female 1,502,916)",
+      "55-64 years": "4.7% (male 187,771/female 217,093)",
+      "65 years and over": "3.9% (male 150,681/female 193,520) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "64.7 %",
+      "youth dependency ratio": "57.2 %",
+      "elderly dependency ratio": "7.4 %",
+      "potential support ratio": "13.5 (2014 est.)"
+    },
+    "Median age": {
+      "total": "21.9 years",
+      "male": "21.6 years",
+      "female": "22.3 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "1.74% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "23.66 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "5.13 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.18 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "52.2% of total population (2011)",
+      "rate of urbanization": "3.06% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "TEGUCIGALPA (capital) 1.088 million (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.05 male(s)/female",
+      "0-14 years": "1.04 male(s)/female",
+      "15-24 years": "1.04 male(s)/female",
+      "25-54 years": "1.02 male(s)/female",
+      "55-64 years": "1.01 male(s)/female",
+      "65 years and over": "0.79 male(s)/female",
+      "total population": "1.01 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "20.4",
+      "note": "median age a first birth among women 25-29 (2011-12 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "100 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "18.72 deaths/1,000 live births",
+      "male": "21.2 deaths/1,000 live births",
+      "female": "16.13 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "70.91 years",
+      "male": "69.24 years",
+      "female": "72.65 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "2.86 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "65.2% (2005/06)"
+    },
+    "Health expenditures": {
+      "text": "9.1% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.37 physicians/1,000 population (2005)"
+    },
+    "Hospital bed density": {
+      "text": "0.7 beds/1,000 population (2011)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 96.8% of population; rural: 81.5% of population; total: 89.6% of population",
+      "unimproved": "urban: 3.2% of population; rural: 18.5% of population; total: 10.4% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 85.3% of population; rural: 74% of population; total: 80% of population",
+      "unimproved": "urban: 14.7% of population; rural: 26% of population; total: 20% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.5% (2012 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "25,600 (2012 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "1,700 (2012 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": "high",
+      "food or waterborne diseases": "bacterial diarrhea, hepatitis A, and typhoid fever",
+      "vectorborne diseases": "dengue fever and malaria (2013)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "18.4% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "8.6% (2006)"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "85.1%",
+      "male": "85.3%",
+      "female": "84.9% (2011 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "11 years",
+      "male": "11 years",
+      "female": "12 years (2012)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "280,809",
+      "percentage": "16 % (2002 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "8%",
+      "male": "5.5%",
+      "female": "13.8% (2011)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Honduras",
+      "conventional short form": "Honduras",
+      "local long form": "Republica de Honduras",
+      "local short form": "Honduras"
+    },
+    "Government type": {
+      "text": "democratic constitutional republic"
+    },
+    "Capital": {
+      "name": "Tegucigalpa",
+      "geographic coordinates": "14 06 N, 87 13 W",
+      "time difference": "UTC-6 (1 hour behind Washington, DC during Standard Time)",
+      "daylight saving time": "none scheduled for 2013"
+    },
+    "Administrative divisions": {
+      "text": "18 departments (departamentos, singular - departamento); Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazan, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro"
+    },
+    "Independence": {
+      "text": "15 September 1821 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 15 September (1821)"
+    },
+    "Constitution": {
+      "text": "several previous; latest approved 11 January 1982, effective 20 January 1982; amended many times, last in 2012 (2013)"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": "President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Rossana GUEVARA, and Lorena HERRERA (since 27 January 2014); note - the president is both chief of state and head of government",
+      "head of government": "President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Rossana GUEVARA, and Lorena HERRERA (since 27 January 2014)",
+      "cabinet": "Cabinet appointed by president",
+      "elections": "president elected by popular vote for a four-year term; election last held on 24 November 2013 (next to be held in November 2017)",
+      "election results": "Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado 36.9%, Xiomara CASTRO 28.8%, Mauricio VILLEDA 20.3%, Salvador NASRALLA 13.4%"
+    },
+    "Legislative branch": {
+      "text": "unicameral National Congress or Congreso Nacional (128 seats; members elected proportionally by department to serve four-year terms)",
+      "elections": "last held on 24 November 2013 (next to be held in November 2017)",
+      "election results": "percent of vote by party - NA; seats by party - PNH 48, LIBRE 37, PL 27, PAC 13, DC 1, UD 1, PINU 1"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges - including the court president - and 7 alternates; court organized into civil, criminal, and labor chambers); note - the court has both judicial and constitutional jurisdiction",
+      "judge selection and term of office": "court president elected by his peers; judges elected by the National Congress from candidates proposed by the Nominating Board, a diverse 7-member group of judicial officials, other government and non-government officials selected by each of their organizations; judges elected by Congress for renewable, 7-year terms",
+      "subordinate courts": "courts of appeal; courts of first instance; peace courts"
+    },
+    "Political parties and leaders": {
+      "text": "Anti-Corruption Party or PAC [Salvador NASRALLA]//Christian Democratic Party or DC [Felicito AVILA Ordonez]//Democratic Unification Party or UD [Cesar HAM]//Freedom and Refounding Party or LIBRE [Jose Manuel ZELAYA Rosales]//Liberal Party or PL [Mauricio VILLEDA Bermudez]//National Party of Honduras or PNH [Gladys Aurora LOPEZ]//Social Democratic Innovation and Unity Party or PINU [Jorge Rafael AGUILAR Paredes]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Beverage and Related Industries Syndicate or STIBYS//Committee for the Defense of Human Rights in Honduras or CODEH//Commiittee of the Relatives of the Disappeared in Honduras or COFADEH//Confederation of Honduran Workers or CTH//Coordinating Committee of Popular Organizations or CCOP//General Workers Confederation or CGT//Honduran Council of Private Enterprise or COHEP//National Association of Honduran Campesinos or ANACH//National Union of Campesinos or UNC//Popular Bloc or BP//United Confederation of Honduran Workers or CUTH//United Farm Workers' Movement of the Aguan OR MUCA"
+    },
+    "International organization participation": {
+      "text": "BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, NAM, OAS (suspended), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Jorge Alberto MILLA Reyes (since 21 May 2014)",
+      "chancery": "Suite 4-M, 3007 Tilden Street NW, Washington, DC 20008",
+      "telephone": "[1] (202) 966-2604",
+      "FAX": "[1] (202) 966-9751",
+      "consulate(s) general": "Atlanta, Chicago, Dallas, Houston, Los Angeles, McAllen (TX), Miami, New Orleans, New York, San Francisco"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Lisa J. KUBISKE (since 26 July 2011)",
+      "embassy": "Avenida La Paz, Apartado Postal No. 3453, Tegucigalpa",
+      "mailing address": "American Embassy, APO AA 34022, Tegucigalpa",
+      "telephone": "[504] 2236-9320, 2238-5114",
+      "FAX": "[504] 2236-9037"
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of blue (top), white, and blue, with five blue, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America - Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands symbolize the Pacific Ocean and the Caribbean Sea; the white band represents the land between the two bodies of water and the peace and prosperity of its people",
+      "note": "similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom, centered in the white band"
+    },
+    "National symbol(s)": {
+      "text": "scarlet macaw; white-tailed deer"
+    },
+    "National anthem": {
+      "name": "\"Himno Nacional de Honduras\" (National Anthem of Honduras)",
+      "lyrics/music": "Augusto Constancio COELLO/Carlos HARTLING",
+      "note": "adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Honduras, the second poorest country in Central America, suffers from extraordinarily unequal distribution of income, as well as high underemployment. While historically dependent on the export of bananas and coffee, Honduras has diversified its export base to include apparel and automobile wire harnessing. Nearly half of Honduras's economic activity is directly tied to the US, with exports to the US accounting for 30% of GDP and remittances for another 20%. The US-Central America-Dominican Republic Free Trade Agreement (CAFTA-DR) came into force in 2006 and has helped foster foreign direct investment, but physical and political insecurity, as well as crime and perceptions of corruption, may deter potential investors; about 70% of FDI is from US firms. The economy registered modest economic growth of 3.0%-4.0% from 2010 to 2012, insufficient to improve living standards for the nearly 65% of the population in poverty. An 18-month IMF Standby Arrangement expired in March 2012 and was not renewed, due to the country's growing budget deficit and weak current account performance. Public sector workers complained of not receiving their salaries in November and December 2012, and government suppliers are owed at least several hundred million dollars in unpaid contracts. The government announced in January 2013 that loss-making public enterprises will be forced to submit financial rescue plans before receiving their budget allotments for 2013."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$39.23 billion (2013 est.)//$38.16 billion (2012 est.)//$36.74 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$18.88 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.8% (2013 est.)//3.9% (2012 est.)//3.8% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,800 (2013 est.)//$4,800 (2012 est.)//$4,700 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "17.7% of GDP (2013 est.)//16.4% of GDP (2012 est.)//17.5% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "79.5%",
+      "government consumption": "16.4%",
+      "investment in fixed capital": "25.2%",
+      "investment in inventories": "1.2%",
+      "exports of goods and services": "51.5%",
+      "imports of goods and services": "-73.8%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "14%",
+      "industry": "28.2%",
+      "services": "57.8% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, coffee, citrus, corn, African palm; beef; timber; shrimp, tilapia, lobster"
+    },
+    "Industries": {
+      "text": "sugar, coffee, woven and knit apparel, wood products, cigars"
+    },
+    "Industrial production growth rate": {
+      "text": "4.6% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "3.507 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "39.2%",
+      "industry": "20.9%",
+      "services": "39.8% (2005 est.)"
+    },
+    "Unemployment rate": {
+      "text": "4.5% (2013 est.)//4.4% (2012 est.)",
+      "note": "about one-third of the people are underemployed"
+    },
+    "Population below poverty line": {
+      "text": "60% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "0.4%",
+      "highest 10%": "42.4% (2009 est.)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "57.7 (2007)//53.8 (2003)"
+    },
+    "Budget": {
+      "revenues": "$3.113 billion",
+      "expenditures": "$4.285 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "16.5% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6.2% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "40.6% of GDP (2013 est.)//35.8% of GDP (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.2% (2013 est.)//5.2% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.25% (31 December 2010 est.)//NA% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "17.8% (31 December 2013 est.)//18.45% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$1.781 billion (31 December 2013 est.)//$1.913 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$6.845 billion (31 December 2013 est.)//$6.801 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$10.5 billion (31 December 2013 est.)//$10.43 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$1.636 billion (2013 est.)//-$1.744 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$7.881 billion (2013 est.)//$7.931 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "apparel, coffee, shrimp, automobile wire harnesses, cigars, bananas, gold, palm oil, fruit, lobster, lumber"
+    },
+    "Exports - partners": {
+      "text": "US 34.5%, Germany 11.6%, Belgium 6.8%, El Salvador 6.6%, Guatemala 4.9%, Nicaragua 4.6% (2012)"
+    },
+    "Imports": {
+      "text": "$11.34 billion (2013 est.)//$11.18 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, industrial raw materials, chemical products, fuels, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "US 44.3%, Guatemala 8.5%, El Salvador 5.7%, Mexico 5.6%, China 4.7%, Costa Rica 4.1% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.414 billion (31 December 2013 est.)//$2.533 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$6.173 billion (31 December 2013 est.)//$5.233 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "lempiras (HNL) per US dollar -//20.53 (2013 est.)//19.638 (2012 est.)//18.9 (2010 est.)//18.9 (2009)//18.983 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "6.486 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "4.85 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "22 million kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "22 million kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.701 million kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "63.7% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "30.9% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "5.4% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "20 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "58,150 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "46,370 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "7.975 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "610,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "7.37 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "fixed-line connections are increasing but still limited; competition among multiple providers of mobile-cellular services is contributing to a sharp increase in subscribership",
+      "domestic": "beginning in 2003, private sub-operators allowed to provide fixed-lines in order to expand telephone coverage contributing to a small increase in fixed-line teledensity; mobile-cellular subscribership is roughly 100 per 100 persons",
+      "international": "country code - 504; landing point for both the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 fiber-optic submarine cable system that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2011)"
+    },
+    "Broadcast media": {
+      "text": "multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the lone government-owned radio network; roughly 300 privately owned radio stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".hn"
+    },
+    "Internet hosts": {
+      "text": "30,955 (2012)"
+    },
+    "Internet users": {
+      "text": "731,700 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "103 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "13",
+      "2,438 to 3,047 m": "3",
+      "1,524 to 2,437 m": "3",
+      "914 to 1,523 m": "4",
+      "under 914 m": "3 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "90",
+      "1,524 to 2,437 m": "1",
+      "914 to 1,523 m": "16",
+      "under 914 m": "73 (2013)"
+    },
+    "Railways": {
+      "total": "44 km",
+      "narrow gauge": "44 km 1.067-m gauge",
+      "note": "(4 km are in use) (2012)"
+    },
+    "Roadways": {
+      "total": "14,742 km",
+      "paved": "3,367 km",
+      "unpaved": "11,375 km (1,543 km summer only)",
+      "note": "there are another 8,951 km of non-offical roads used by the coffee industry (2012)"
+    },
+    "Waterways": {
+      "text": "465 km (most navigable only by small craft) (2012)"
+    },
+    "Merchant marine": {
+      "total": "88",
+      "by type": "bulk carrier 5, cargo 39, carrier 2, chemical tanker 5, container 1, passenger 4, passenger/cargo 1, petroleum tanker 21, refrigerated cargo 7, roll on/roll off 3",
+      "foreign-owned": "47 (Bahrain 5, Canada 1, Chile 1, China 2, Egypt 2, Greece 4, Israel 1, Japan 4, Lebanon 2, Montenegro 1, Panama 1, Singapore 11, South Korea 6, Taiwan 1, Thailand 2, UAE 1, UK 1, US 1) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "La Ceiba, Puerto Cortes, San Lorenzo, Tela"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army, Navy (includes Naval Infantry), Honduran Air Force (Fuerza Aerea Hondurena, FAH) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary 2- to 3-year military service; no conscription (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "2,045,914",
+      "females age 16-49": "1,991,418 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "1,525,578",
+      "females age 16-49": "1,539,688 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "95,895",
+      "female": "92,087 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "1.05% of GDP (2012)//1.13% of GDP (2011)//1.05% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "International Court of Justice (ICJ) ruled on the delimitation of \"bolsones\" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca; Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": "17,000 (violence, extortion, threats, forced recruitment by urban gangs) (2013 est.)"
+    },
+    "Trafficking in persons": {
+      "current situation": "Honduras is a source and transit country for men, women, and children subjected to sex trafficking and forced labor; Honduran women and girls, and, to a lesser extent, women and girls from neighboring countries, are forced into prostitution in urban and tourist centers; Honduran women and girls are also exploited in sex trafficking in other countries in the region, including Mexico, Guatemala, El Salvador, and the US; Honduran adults and children are subjected to forced labor in Guatemala, Mexico, and the US and domestically in agriculture and domestic service; gangs coerce some young men to transport drugs or be hit men",
+      "tier rating": "Tier 2 Watch List - Honduras does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government maintains limited law enforcement efforts against child sex trafficking offenders but has held no offenders accountable for the forced labor or forced prostitution of adults; most trafficking offenders are prosecuted under non-trafficking statutes that prescribe lower penalties; government efforts to identify, refer, and assist trafficking victims are inadequate, and most services for victims are provided by NGOs without government funding (2013)"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for drugs and narcotics; illicit producer of cannabis, cultivated on small plots and used principally for local consumption; corruption is a major problem; some money-laundering activity"
+    }
+  }
+}

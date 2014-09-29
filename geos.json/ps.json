@@ -1,0 +1,437 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "ps",
+    "countryname": "Palau",
+    "flag_orig": "400x267",
+    "last_update": "Page last updated on June 20, 2014",
+    "locator_orig": "772x490",
+    "map_orig": "330x353",
+    "region": "Australia-Oceania",
+    "regioncode": "aus"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "After three decades as part of the UN Trust Territory of the Pacific under US administration, this westernmost cluster of the Caroline Islands opted for independence in 1978 rather than join the Federated States of Micronesia. A Compact of Free Association with the US was approved in 1986 but not ratified until 1993. It entered into force the following year when the islands gained independence."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, group of islands in the North Pacific Ocean, southeast of the Philippines"
+    },
+    "Geographic coordinates": {
+      "text": "7 30 N, 134 30 E"
+    },
+    "Map references": {
+      "text": "Oceania"
+    },
+    "Area": {
+      "total": "459 sq km",
+      "land": "459 sq km",
+      "water": "0 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly more than 2.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,519 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "3 nm",
+      "exclusive fishing zone": "200 nm"
+    },
+    "Climate": {
+      "text": "tropical; hot and humid; wet season May to November"
+    },
+    "Terrain": {
+      "text": "varying geologically from the high, mountainous main island of Babelthuap to low, coral islands usually fringed by large barrier reefs"
+    },
+    "Elevation extremes": {
+      "lowest point": "Pacific Ocean 0 m",
+      "highest point": "Mount Ngerchelchuus 242 m"
+    },
+    "Natural resources": {
+      "text": "forests, minerals (especially gold), marine products, deep-seabed minerals"
+    },
+    "Land use": {
+      "arable land": "2.17%",
+      "permanent crops": "4.35%",
+      "other": "93.48% (2011)"
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "typhoons (June to December)"
+    },
+    "Environment - current issues": {
+      "text": "inadequate facilities for disposal of solid waste; threats to the marine ecosystem from sand and coral dredging, illegal fishing practices, and overfishing"
+    },
+    "Environment - international agreements": {
+      "party to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Ozone Layer Protection, Wetlands, Whaling",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "westernmost archipelago in the Caroline chain, consists of six island groups totaling more than 300 islands; includes World War II battleground of Beliliou (Peleliu) and world-famous rock islands"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Palauan(s)",
+      "adjective": "Palauan"
+    },
+    "Ethnic groups": {
+      "text": "Palauan (Micronesian with Malayan and Melanesian admixtures) 72.5%, Carolinian 1%, other Micronesian 2.4%, Filipino 16.3%, Chinese 1.6%, Vietnamese 1.6%, other Asian 3.4%, white 0.9%, other 0.3% (2005 est.)"
+    },
+    "Languages": {
+      "text": "Palauan (official on most islands) 66.6%, Carolinian 0.7%, other Micronesian 0.7%, English (official) 15.5%, Filipino 10.8%, Chinese 1.8%, other Asian 2.6%, other 1.3%",
+      "note": "Sonsoral (Sonsoralese and English are official), Tobi (Tobi and English are official), and Angaur (Angaur, Japanese, and English are official) (2005 est.)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 49.4%, Protestant 30.9% (includes Protestant (general) 23.1%, Seventh Day Adventist 5.3%, and other Protestant 2.5%), Modekngei 8.7% (indigenous to Palau), Jehovah's Witnesses 1.1%, other 8.8%, none or unspecified 1.1% (2005 est.)"
+    },
+    "Population": {
+      "text": "21,186 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "20.5% (male 2,239/female 2,101)",
+      "15-24 years": "17.4% (male 1,835/female 1,855)",
+      "25-54 years": "46.4% (male 5,985/female 3,842)",
+      "55-64 years": "8.6% (male 642/female 1,188)",
+      "65 years and over": "6.8% (male 410/female 1,089) (2014 est.)"
+    },
+    "Median age": {
+      "total": "33 years",
+      "male": "32.5 years",
+      "female": "34.2 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "0.37% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "10.95 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "7.93 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.66 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "84.2% of total population (2011)",
+      "rate of urbanization": "1.67% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "MELEKEOK (capital) 1,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.05 male(s)/female",
+      "0-14 years": "1.07 male(s)/female",
+      "15-24 years": "0.99 male(s)/female",
+      "25-54 years": "1.56 male(s)/female",
+      "55-64 years": "1.1 male(s)/female",
+      "65 years and over": "0.4 male(s)/female",
+      "total population": "1.12 male(s)/female (2014 est.)"
+    },
+    "Infant mortality rate": {
+      "total": "11.46 deaths/1,000 live births",
+      "male": "13.01 deaths/1,000 live births",
+      "female": "9.81 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "72.6 years",
+      "male": "69.43 years",
+      "female": "75.96 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.71 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "32.8%",
+      "note": "percent of women aged 15-44 (2003)"
+    },
+    "Health expenditures": {
+      "text": "10.6% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "1.38 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "4.8 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 97% of population; rural: 86% of population; total: 95.3% of population",
+      "unimproved": "urban: 3% of population; rural: 14% of population; total: 4.7% of population (2011 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 100% of population; rural: 100% of population; total: 100% of population",
+      "unimproved": "urban: 0% of population; rural: 0% of population; total: 0% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "48.9% (2008)"
+    },
+    "Education expenditures": {
+      "text": "7.3% of GDP (2002)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "92%",
+      "male": "93%",
+      "female": "90% (1980 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "14 years",
+      "male": "13 years",
+      "female": "15 years (2000)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Palau",
+      "conventional short form": "Palau",
+      "local long form": "Beluu er a Belau",
+      "local short form": "Belau",
+      "former": "Trust Territory of the Pacific Islands, Palau District"
+    },
+    "Government type": {
+      "text": "constitutional government in free association with the US; the Compact of Free Association entered into force on 1 October 1994"
+    },
+    "Capital": {
+      "name": "Melekeok",
+      "geographic coordinates": "7 29 N, 134 38 E",
+      "time difference": "UTC+9 (14 hours ahead of Washington, DC, during Standard Time)"
+    },
+    "Administrative divisions": {
+      "text": "16 states; Aimeliik, Airai, Angaur, Hatohobei, Kayangel, Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang, Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsorol"
+    },
+    "Independence": {
+      "text": "1 October 1994 (from the US-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 9 July (1979)"
+    },
+    "Constitution": {
+      "text": "ratified 9 July 1980, effective 1 January 1981; amended 1992, 2004 (2011)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of civil, common, and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Tommy REMENGESAU (since 17 January 2013); Vice President Antonio BELLS (since 17 January 2013); note - the president is both chief of state and head of government",
+      "head of government": "President Tommy REMENGESAU (since 17 January 2013); Vice President Antonio BELLS (since 17 January 2013)",
+      "cabinet": "NA",
+      "elections": "president and vice president elected on separate tickets by popular vote for four-year terms (eligible for a second term); election last held on 6 November 2012 (next to be held in November 2016)",
+      "election results": "Tommy REMENGESAU elected president; percent of vote - Tommy REMENGESAU 58%, Johnson TORIBIONG 42%"
+    },
+    "Legislative branch": {
+      "text": "bicameral National Congress or Olbiil Era Kelulau (OEK) consists of the Senate (9 seats; members elected by popular vote on a population basis to serve four-year terms) and the House of Delegates (16 seats; members elected by popular vote to serve four-year terms)",
+      "elections": "Senate - last held on 6 November 2012 (next to be held in November 2016); House of Delegates - last held on 6 November 2012 (next to be held in November 2016)",
+      "election results": "Senate - percent of vote - NA; seats - independents 9; House of Delegates - percent of vote - NA; seats - independents 16"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; also within the Supreme Court organization are the Common Pleas and Land Courts)",
+      "judge selection and term of office": "justices nominated by a 7-member independent body consisting of judges, presidential appointees, and lawyers, and appointed by the president; judges appointed until mandatory retirement at age 65",
+      "subordinate courts": "National Court and other 'inferior' courts"
+    },
+    "Political parties and leaders": {
+      "text": "none"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Hersey KYOTA (since 12 November 1997)",
+      "chancery": "1701 Pennsylvania Avenue NW, Suite 300, Washington, DC 20006",
+      "telephone": "[1] (202) 452-6814",
+      "FAX": "[1] (202) 452-6281",
+      "consulate(s)": "Tamuning (Guam)"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Helen P. REED-ROWE (since 27 September 2013)",
+      "embassy": "Koror (no street address)",
+      "mailing address": "P. O. Box 6028, Koror, Republic of Palau 96940",
+      "telephone": "[680] 587-2920",
+      "FAX": "[680] 587-2911"
+    },
+    "Flag description": {
+      "text": "light blue with a large yellow disk shifted slightly to the hoist side; the blue color represents the ocean, the disk represents the moon; Palauans consider the full moon to be the optimum time for human activity; it is also considered a symbol of peace, love, and tranquility"
+    },
+    "National anthem": {
+      "name": "\"Belau rekid\" (Our Palau)",
+      "lyrics/music": "multiple/Ymesei O. EZEKIEL",
+      "note": "adopted 1980"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The economy consists of tourism and other services such as trade, subsistence agriculture, and fishing. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US. The Compact took effect, after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. Business and leisure tourist arrivals numbered over 109,000 in 2011, for a 27% increase over 2010. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region's major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau's advantage as a destination."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$245.5 million (2013 est.)//$237.2 million (2012 est.)//$223.2 million (2011 est.)",
+      "note": "GDP estimate includes US subsidy"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$221 million (2011 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.5% (2013 est.)//6.3% (2012 est.)//"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,500 (2011 est.)//$7,600 (2005 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "3.2%",
+      "industry": "20%",
+      "services": "76.8% (2012 est.)"
+    },
+    "Agriculture - products": {
+      "text": "coconuts, copra, cassava (manioc, tapioca), sweet potatoes; fish"
+    },
+    "Industries": {
+      "text": "tourism, craft items (from shell, wood, pearls), construction, garment making"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Labor force": {
+      "text": "9,777 (2005)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "20%",
+      "industry": "NA%",
+      "services": "NA% (1990)"
+    },
+    "Unemployment rate": {
+      "text": "4.2% (2005 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "NA%",
+      "highest 10%": "NA%"
+    },
+    "Budget": {
+      "revenues": "$89 million",
+      "expenditures": "$94.3 million (2010 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "40.3% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.4% of GDP (2010 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 October - 30 September"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.7% (2011 est.)//1.6% (2010 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$20.8 million (2010 est.)//$15.09 million (FY03/04)"
+    },
+    "Exports": {
+      "text": "$12.3 million (2010 est.)//$5.882 million (2004 est.)"
+    },
+    "Exports - commodities": {
+      "text": "shellfish, tuna, copra, garments"
+    },
+    "Imports": {
+      "text": "$113.4 million (2010 est.)//$107.3 million (2004 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, fuels, metals; foodstuffs"
+    },
+    "Debt - external": {
+      "text": "$0 (FY99/00)"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "7,300 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "17,150 (2012)"
+    },
+    "Telephone system": {
+      "domestic": "fixed-line and mobile-cellular services available with a combined subscribership of roughly 100 per 100 persons",
+      "international": "country code - 680; satellite earth station - 1 Intelsat (Pacific Ocean) (2009)"
+    },
+    "Broadcast media": {
+      "text": "no TV stations; a cable TV network covers the major islands and provides access to rebroadcasts, on a delayed basis, of a number of US stations as well as access to a number of real-time satellite TV channels; about a half dozen radio stations with 1 government-owned (2009)"
+    },
+    "Internet country code": {
+      "text": ".pw"
+    },
+    "Internet hosts": {
+      "text": "4 (2012)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "3 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "1",
+      "1,524 to 2,437 m": "1 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "2",
+      "1,524 to 2,437 m": "2 (2013)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Koror"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Palau National Police (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "6,987 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "5,272",
+      "females age 16-49": "3,969 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "216",
+      "female": "222 (2010 est.)"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the US; under a Compact of Free Association between Palau and the US, the US military is granted access to the islands for 50 years, but it has not stationed any military forces there (2008)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "maritime delineation negotiations continue with Philippines, Indonesia"
+    }
+  }
+}

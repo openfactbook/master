@@ -1,0 +1,657 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "cy",
+    "countryname": "Cyprus",
+    "flag_orig": "504x303",
+    "last_update": "Page last updated on June 22, 2014",
+    "locator_orig": "468x502",
+    "map_orig": "634x324",
+    "region": "Europe",
+    "regioncode": "eur"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "A former British colony, Cyprus became independent in 1960 following years of resistance to British rule. Tensions between the Greek Cypriot majority and Turkish Cypriot minority came to a head in December 1963, when violence broke out in the capital of Nicosia. Despite the deployment of UN peacekeepers in 1964, sporadic intercommunal violence continued forcing most Turkish Cypriots into enclaves throughout the island. In 1974, a Greek Government-sponsored attempt to overthrow the elected president of Cyprus was met by military intervention from Turkey, which soon controlled more than a third of the island. In 1983, the Turkish Cypriot-occupied area declared itself the \"Turkish Republic of Northern Cyprus\" (\"TRNC\"), but it is recognized only by Turkey. In February 2014, after a hiatus of nearly two years, the leaders of the two communities resumed formal discussions under UN auspices aimed at reuniting the divided island. The talks are ongoing. The entire island entered the EU on 1 May 2004, although the EU acquis - the body of common rights and obligations - applies only to the areas under the internationally recognized government, and is suspended in the areas administered by Turkish Cypriots. However, individual Turkish Cypriots able to document their eligibility for Republic of Cyprus citizenship legally enjoy the same rights accorded to other citizens of European Union states."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, island in the Mediterranean Sea, south of Turkey"
+    },
+    "Geographic coordinates": {
+      "text": "35 00 N, 33 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": "9,251 sq km (of which 3,355 sq km are in north Cyprus)",
+      "land": "9,241 sq km",
+      "water": "10 sq km"
+    },
+    "Area - comparative": {
+      "text": "about 0.6 times the size of Connecticut"
+    },
+    "Land boundaries": {
+      "total": "156 km",
+      "border sovereign base areas": "Akrotiri 48 km, Dhekelia 108 km"
+    },
+    "Coastline": {
+      "text": "648 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "contiguous zone": "24 nm",
+      "continental shelf": "200 m depth or to the depth of exploitation"
+    },
+    "Climate": {
+      "text": "temperate; Mediterranean with hot, dry summers and cool winters"
+    },
+    "Terrain": {
+      "text": "central plain with mountains to north and south; scattered but significant plains along southern coast"
+    },
+    "Elevation extremes": {
+      "lowest point": "Mediterranean Sea 0 m",
+      "highest point": "Mount Olympus 1,951 m"
+    },
+    "Natural resources": {
+      "text": "copper, pyrites, asbestos, gypsum, timber, salt, marble, clay earth pigment"
+    },
+    "Land use": {
+      "arable land": "9.06%",
+      "permanent crops": "3.54%",
+      "other": "87.41% (2011)"
+    },
+    "Irrigated land": {
+      "text": "457.9 sq km (2007)"
+    },
+    "Total renewable water resources": {
+      "text": "0.78 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "0.18 cu km/yr (10%/3%/86%)",
+      "per capita": "164.7 cu m/yr (2009)"
+    },
+    "Natural hazards": {
+      "text": "moderate earthquake activity; droughts"
+    },
+    "Environment - current issues": {
+      "text": "water resource problems (no natural reservoir catchments, seasonal disparity in rainfall, sea water intrusion to island's largest aquifer, increased salination in the north); water pollution from sewage and industrial wastes; coastal degradation; loss of wildlife habitats from urbanization"
+    },
+    "Environment - international agreements": {
+      "party to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "the third largest island in the Mediterranean Sea (after Sicily and Sardinia)"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Cypriot(s)",
+      "adjective": "Cypriot"
+    },
+    "Ethnic groups": {
+      "text": "Greek 77%, Turkish 18%, other 5% (2001)"
+    },
+    "Languages": {
+      "text": "Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filippino 1.1%, other 4.3%, unspecified 0.6% (2011 est.)"
+    },
+    "Religions": {
+      "text": "Greek Orthodox 78%, Muslim 18%, other (includes Maronite and Armenian Apostolic) 4%"
+    },
+    "Population": {
+      "text": "1,172,458 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "15.7% (male 94,437/female 89,174)",
+      "15-24 years": "15.3% (male 97,773/female 82,053)",
+      "25-54 years": "46.9% (male 288,673/female 261,651)",
+      "55-64 years": "10.8% (male 60,639/female 66,336)",
+      "65 years and over": "11% (male 57,188/female 74,534) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "41.4 %",
+      "youth dependency ratio": "23.7 %",
+      "elderly dependency ratio": "17.7 %",
+      "potential support ratio": "5.6 (2014 est.)"
+    },
+    "Median age": {
+      "total": "35.7 years",
+      "male": "34.4 years",
+      "female": "37.4 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "1.48% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "11.44 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "6.57 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "9.89 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "70.5% of total population (2011)",
+      "rate of urbanization": "1.36% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "NICOSIA (capital) 253,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.05 male(s)/female",
+      "0-14 years": "1.06 male(s)/female",
+      "15-24 years": "1.19 male(s)/female",
+      "25-54 years": "1.1 male(s)/female",
+      "55-64 years": "1.04 male(s)/female",
+      "65 years and over": "0.77 male(s)/female",
+      "total population": "1.04 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "28.5",
+      "note": "data cover only government-controlled areas; data are based on events and not on fertility rates (2010 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "10 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "8.54 deaths/1,000 live births",
+      "male": "10.1 deaths/1,000 live births",
+      "female": "6.91 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "78.34 years",
+      "male": "75.54 years",
+      "female": "81.27 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.46 children born/woman (2014 est.)"
+    },
+    "Health expenditures": {
+      "text": "7.4% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "2.75 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "3.5 beds/1,000 population (2010)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 100% of population; rural: 100% of population; total: 100% of population",
+      "unimproved": "urban: 0% of population; rural: 0% of population; total: 0% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 100% of population; rural: 100% of population; total: 100% of population",
+      "unimproved": "urban: 0% of population; rural: 0% of population; total: 0% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2003 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 1,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "25.5% (2008)"
+    },
+    "Education expenditures": {
+      "text": "7.3% of GDP (2010)"
+    },
+    "Literacy": {
+      "definition": "age 15 and over can read and write",
+      "total population": "98.7%",
+      "male": "99.3%",
+      "female": "98.1% (2011 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "14 years",
+      "male": "14 years",
+      "female": "14 years (2011)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "27.8%",
+      "male": "28.8%",
+      "female": "26.6% (2012)"
+    },
+    "People - note": {
+      "text": "demographic data for Cyprus include the population in the government-controlled area and the area administered by Turkish Cypriots"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Cyprus",
+      "conventional short form": "Cyprus",
+      "local long form": "Kypriaki Dimokratia/Kibris Cumhuriyeti",
+      "local short form": "Kypros/Kibris",
+      "note": "the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the \"Turkish Republic of Northern Cyprus\" or \"TRNC\" (Kuzey Kibris Turk Cumhuriyeti or KKTC)"
+    },
+    "Government type": {
+      "text": "republic",
+      "note": "a separation of the two ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified after the Turkish intervention in July 1974, following a Greek military-junta-supported coup attempt that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government; on 15 November 1983 Turkish Cypriot \"President\" Rauf DENKTAS declared independence and the formation of a \"Turkish Republic of Northern Cyprus\" (\"TRNC\"), which is recognized only by Turkey"
+    },
+    "Capital": {
+      "name": "Nicosia (Lefkosia/Lefkosa)",
+      "geographic coordinates": "35 10 N, 33 22 E",
+      "time difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+      "daylight saving time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+    },
+    "Administrative divisions": {
+      "text": "6 districts; Ammochostos (Famagusta; all but a small part administered by Turkish Cypriots), Keryneia (Kyrenia; the only district completely administered by Turkish Cypriots), Larnaka (Larnaca; a small part administered by Turkish Cypriots), Lemesos (Limassol), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Pafos (Paphos); note - the five districts of Turkish Cypriot-administered part of Cyprus are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Lefkosia (Nicosia) and Iskele (Trikomo)"
+    },
+    "Independence": {
+      "text": "16 August 1960 (from the UK); note - Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are only recognized by Turkey"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as \"Independence Day\""
+    },
+    "Constitution": {
+      "text": "ratified 16 August 1960; note - in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the \"Turkish Republic of Northern Cyprus\" (\"TRNC\"); in 1985, the \"TRNC\" approved its own constitution (2013)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law and civil law with Greek Orthodox religious law influence"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President Nicos ANASTASIADES (since 28 February 2013); note - the president is both chief of state and head of government; post of vice president is currently vacant; under the 1960 constitution, the post is reserved for a Turkish Cypriot",
+      "head of government": "President Nicos ANASTASIADES (since 28 February 2013)",
+      "cabinet": "Council of Ministers appointed by the president; note - under the 1960 constitution, three of the ministerial posts are reserved for Turkish Cypriots appointed by the Vice President but the positions are currently filled by Greek Cypriots",
+      "elections": "president elected by popular vote for a five-year term; election last held on 17 and 24 February 2013 (next to be held in February 2018)",
+      "election results": "Nicos ANASTASIADES elected president; percent of vote (first round) - Nicos ANASTASIADES 45.46%, Stavros MALAS 26.91%, Giorgos LILLIKAS 24.93%, other 2.7%; (second round) Nicos ANASTASIADES 57.48%, Savros MALAS 42.52%",
+      "note": "Dervis EROGLU became \"president\" of the \"TRNC\" on 23 April 2010 after \"presidential\" elections on 18 April 2010; results - Dervis EROGLU 50.4%, Mehmet Ali TALAT 42.9%; Ozkan YORGANCIOGLU is \"TRNC prime minister\""
+    },
+    "Legislative branch": {
+      "text": "unicameral - area under government control: House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to the Greek Cypriots, 24 to Turkish Cypriots; note - only those assigned to Greek Cypriots are filled; members are elected by popular vote to serve five-year terms); area administered by Turkish Cypriots: \"Assembly of the Republic\" or Cumhuriyet Meclisi (50 seats; members elected by popular vote to serve five-year terms)",
+      "elections": "area under government control: last held on 22 May 2011 (next to be held in May 2016); area administered by Turkish Cypriots: last held on 28 July 2013 (next to be held on July 2018)",
+      "election results": "area under government control: House of Representatives - percent of vote by party - DISY 34.3%, AKEL 32.7%, DIKO 15.8%, KS-EDEK 8.9%, EVROKO 3.9%, other 4.4%; seats by party - DISY 20, AKEL 19, DIKO 9, KS-EDEK 5, EVROKO 2, KOP 1; note - as of 1 January 2014, the composition of the Cypriot House of Representatives was DISY 20, AKEL 19, DIKO 8, KS-EDEK 5, EVROKO 1, SP 1, KOP 1, independent 1; area administered by Turkish Cypriots: \"Assembly of the Republic\" - percent of vote by party - CTP-BG 38%, UBP 27%, DP-UG 23%, TDP 7%, other 5%; seats by party - CTP-BG 21, UBP 14, DP-UG 12, TDP 3"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Supreme Court of Cyprus (consists of 13 judges including the court president); note - the highest court in the \"Turkish Republic of Northern Cyprus (TRNC)\" is the \"Supreme Court\" (consists of 8 \"judges\" including the \"court president\")",
+      "judge selection and term of office": "Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges tenure is until the age of 68; \"TRNC Supreme Court\" judges appointed by the \"Supreme Council of Judicature\", a 12-member body of \"judges\", the \"attorney general\", \"appointees\" - one each by the \"president\" of the \"TRNC\" and by the \"Legislative Assembly\", and a member elected by the Bar Association; \"judge\" tenure NA",
+      "subordinate courts": "Republic of Cyprus district courts; Assize Courts; specialized courts for issues relating to family, industrial disputes, military, and rent control; \"TRNC Assize Courts\"; \"district and family courts\""
+    },
+    "Political parties and leaders": {
+      "area under government control": "Citizens' Alliance or SP [Giorgos LILLIKAS]; Democratic Party or DIKO [Nicolas PAPADOPOULOS]; Democratic Rally or DISY [Averof NEOPHYTOU (Neofytou)]; European Party or EVROKO [Dimitris SYLLOURIS]; Ecological and Environmental Movement of KOP (Green Party) [Giorgos PERDIKIS]; Movement of Social Democrats or KS-EDEK [Yiannakis OMIROU]; National Popular Front or ELAM [Christos CHRISTOU]; Progressive Party of the Working People or AKEL (Communist Party) [Andros KYPRIANOU]; Frontt for the Restoration of the Center or EPALXI [Kypros CHRYSOSTOMIDIS]; United Democrats or EDI [Praxoula ANTONIADOU]",
+      "area administered by Turkish Cypriots": "Communal Democracy Party or TDP [Cemal OZYIGIT]; Cyprus Socialist Party or KSP [Mehmet BIRINCI]; Democrat Party- National Forces or DP-UG [Serdar DENKTAS]; National Unity Party or UBP [Huseyin OZGURGUN]; New Cyprus Party or YKP [Murat KANATLI]; Republican Turkish Party-United Forces or CTP-BG [Ozkan YORGANCIOGLU]; United Cyprus Party or BKP [Izzet IZCAN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Confederation of Cypriot Workers or SEK (pro-West)//Pan-Cyprian Labor Federation or PEO (Communist controlled)",
+      "area administered by Turkish Cypriots": "Federation of Turkish Cypriot Labor Unions or Turk-Sen; Confederation of Revolutionary Labor Unions or Dev-Is"
+    },
+    "International organization participation": {
+      "text": "Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), IDA, IFAD, IFC, IFRCS (observer), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador George CHACALLI (since 30 May 2013)",
+      "chancery": "2211 R Street NW, Washington, DC 20008",
+      "telephone": "[1] (202) 462-5772, 462-0873",
+      "FAX": "[1] (202) 483-6710",
+      "consulate(s) general": "New York",
+      "note": "representative of the Turkish Cypriot community in the US is Ahmet ERDENGIZ; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador John M. KOENIG (since 17 August 2012)",
+      "embassy": "corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia",
+      "mailing address": "P. O. Box 24536, 1385 Nicosia",
+      "telephone": "[357] (22) 393939",
+      "FAX": "[357] (22) 780944"
+    },
+    "Flag description": {
+      "text": "white with a copper-colored silhouette of the island (the name Cyprus is derived from the Greek word for copper) above two green crossed olive branches in the center of the flag; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities",
+      "note": "the \"Turkish Republic of Northern Cyprus\" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges between which are centered a red crescent and a red five-pointed star; the banner is modeled after the Turkish national flag but with the colors reversed"
+    },
+    "National symbol(s)": {
+      "text": "Cypriot mouflon (wild sheep); white dove"
+    },
+    "National anthem": {
+      "name": "\"Ymnos eis tin Eleftherian\" (Hymn to Liberty)",
+      "lyrics/music": "Dionysios SOLOMOS/Nikolaos MANTZAROS",
+      "note": "adopted 1960; Cyprus adopted the Greek national anthem as its own; the Turkish community in Cyprus uses the anthem of Turkey"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The area of the Republic of Cyprus under government control has a market economy dominated by the service sector, which accounts for four-fifths of GDP. Tourism, financial services, and real estate have traditionally been the most important sectors. Cyprus has been a member of the European Union (EU) since May 2004 and adopted the euro as its national currency in January 2008. During the first five years of EU membership, the Cyprus economy grew at an average rate of about 4%, with unemployment between 2004 and 2008 averaging about 3%. An overextended banking sector with excessive exposure to Greek debt resulted in a contraction in economic growth. Two of Cyprus' biggest banks were among the largest holders of Greek bonds in Europe and had a substantial presence in Greece through bank branches and subsidiaries. Following numerous downgrades of its credit rating, Cyprus lost access to international capital markets in May 2011. The economy contracted by an accumulated 8.2% between 2009 and 2013 and is not expected to return to positive growth before 2015. Unemployment is currently over 17% and expected to reach 19% in 2014. In July 2012, Cyprus became the fifth eurozone government to request an economic bailout program from the European Commission, European Central Bank and the International Monetary Fund - known collectively as the \"Troika\". Shortly after the election of President Nicos ANASTASIADES in February 2013, Cyprus faced an economic crisis and agreed with the Troika to a $13 billion bailout that included losses on uninsured bank deposits. The bailout triggered a two-week bank closure and the imposition of capital controls, some of which remained in place through 2014. Cyprus' two largest banks merged and the combined entity was recapitalized through conversion of some large bank deposits to shares and imposition of losses on some bank bondholders. The Troika conditioned the bailout on progress in financial and structural reforms and privatization of state-owned enterprises. Cyprus has downsized and restructured its banking sector significantly. Three positive reviews by the Troika since May 2013 indicate that Cyprus’ bailout program is on track with a fourth review scheduled in May 2014. In October 2013, Cyprus completed preliminary appraisal of hydrocarbon deposits in its territorial waters, which revealed less than anticipated natural gas reserves. Additional exploration drilling is likely to continue in 2014-2015."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$21.62 billion (2013 est.)//$23.68 billion (2012 est.)//$24.27 billion (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$21.78 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-8.7% (2013 est.)//-2.4% (2012 est.)//0.5% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$24,500 (2013 est.)//$27,200 (2012 est.)//$28,200 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "8.4% of GDP (2013 est.)//6.6% of GDP (2012 est.)//14.2% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "67.2%",
+      "government consumption": "20.1%",
+      "investment in fixed capital": "10.5%",
+      "investment in inventories": "-4.8%",
+      "exports of goods and services": "45.5%",
+      "imports of goods and services": "-38.5%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "2.4%",
+      "industry": "15.9%",
+      "services": "81.7% (2013 est.)"
+    },
+    "Agriculture - products": {
+      "text": "citrus, vegetables, barley, grapes, olives, vegetables; poultry, pork, lamb; dairy, cheese"
+    },
+    "Industries": {
+      "text": "tourism, food and beverage processing, cement and gypsum, ship repair and refurbishment, textiles, light chemicals, metal products, wood, paper, stone and clay products"
+    },
+    "Industrial production growth rate": {
+      "text": "-3.5% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "443,500 (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "8.5%",
+      "industry": "20.5%",
+      "services": "71% (2006 est.)"
+    },
+    "Unemployment rate": {
+      "text": "17.4% (2013 est.)//11.9% (2012 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "NA%",
+      "highest 10%": "NA%"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "31 (2012 est.)//29 (2005 est.)"
+    },
+    "Budget": {
+      "revenues": ": $8.799 billion",
+      "expenditures": ": $10.04 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "40.4% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.7% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "113.1% of GDP (2013 est.)//85.8% of GDP (2012 est.)",
+      "note": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.2% (2013 est.)//$NA (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "0.75% (31 December 2013)//1.5% (31 December 2010)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7% (31 December 2013 est.)//7.05% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$14.73 billion (31 December 2011 est.)//$14.6 billion (31 December 2010 est.)",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the EMU; individual members of the EMU do not control the quantity of money circulating within their own borders"
+    },
+    "Stock of broad money": {
+      "text": "$46.46 billion (31 December 2013 est.)//$50.06 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$50.39 billion (31 December 2013 est.)//$54.29 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.996 billion (31 December 2012 est.)//$2.853 billion (31 December 2011)//$NA (31 December 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$358.2 million (2013 est.)//-$1.506 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$2.42 billion (2013 est.)//$2.602 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "citrus, potatoes, pharmaceuticals, cement, clothing"
+    },
+    "Exports - partners": {
+      "text": "Greece 23%, UK 10.1% (2012)"
+    },
+    "Imports": {
+      "text": "$4.747 billion (2013 est.)//$6.755 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "consumer goods, petroleum and lubricants, machinery, transport equipment"
+    },
+    "Imports - partners": {
+      "text": "Greece 21.6%, Israel 11.9%, Italy 8.3%, UK 7.3%, Germany 7.1%, Netherlands 6.7%, France 6%, China 4.5% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$853 million (31 December 2013 est.)//$1.191 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$95.28 billion (31 December 2013 est.)//$103.5 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$28.53 billion (31 December 2013 est.)//$26.28 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$12.11 billion (31 December 2013 est.)//$11.16 billion (31 December 2012 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar -//0.7634 (2013 est.)//0.7752 (2012 est.)//0.755 (2010 est.)//0.7198 (2009 est.)//0.6827 (2008 est.)"
+    },
+    "Economy of the area administered by Turkish Cypriots": {
+      "Economy - overview": "The market-based economy of the area administered by Turkish Cypriots, known locally as the \"Turkish Republic of Northern Cyprus\" (\"TRNC\"), is roughly half the size of its southern neighbor and is likewise dominated by the service sector with a large portion of the population employed by the government. Since its creation, the \"TRNC\" has heavily relied on financial assistance from Turkey which supports the \"TRNC\" defense, telecommunications, water and postal services, and the \"TRNC\" remains vulnerable to the Turkish market and monetary policy through its use of the Turkish Lira. The \"TRNC\" weathered the European financial crisis relatively unscathed-compared to the Republic of Cyprus-because of the lack of financial sector development, health of the Turkish economy, and its separation from the rest of the island.",
+      "GDP (purchasing power parity)": "$1.829 billion (2007 est.)",
+      "GDP - real growth rate": "-0.6% (2010 est.)",
+      "GDP - per capita": "$11,700 (2007 est.)",
+      "GDP - composition by sector": "agriculture: 8.6%, industry: 22.4%, services: 69.1% (2006 est.)",
+      "Labor force": "95,030 (2007 est.)",
+      "Labor force - by occupation": "agriculture: 14.5%, industry: 29%, services: 56.5% (2004)",
+      "Unemployment rate": "9.4% (2005 est.)",
+      "Population below poverty line": "%NA",
+      "Inflation rate": "11.4% (2006)",
+      "Budget": "revenues: $2.5 billion, expenditures: $2.5 billion (2006)",
+      "Agriculture - products": "citrus fruit, dairy, potatoes, grapes, olives, poultry, lamb",
+      "Industries": "foodstuffs, textiles, clothing, ship repair, clay, gypsum, copper, furniture",
+      "Industrial production growth rate": "-0.3% (2007 est.)",
+      "Electricity production": "998.9 million kWh (2005)",
+      "Electricity consumption": "797.9 million kWh (2005)",
+      "Exports": "$68.1 million, f.o.b. (2007 est.)",
+      "Export - commodities": "citrus, dairy, potatoes, textiles",
+      "Export - partners": "Turkey 40%; direct trade between the area administered by Turkish Cypriots and the area under government control remains limited",
+      "Imports": "$1.2 billion, f.o.b. (2007 est.)",
+      "Import - commodities": "vehicles, fuel, cigarettes, food, minerals, chemicals, machinery",
+      "Import - partners": "Turkey 60%; direct trade between the area administered by Turkish Cypriots and the area under government control remains limited",
+      "Reserves of foreign exchange and gold": "$NA",
+      "Debt - external": "$NA",
+      "Currency (code)": "Turkish new lira (YTL)",
+      "Exchange rates": "Turkish new lira per US dollar: 1.668 (2011) 1.5026 (2010) 1.55 (2009) 1.3179 (2008) 1.319 (2007)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "4.443 billion kWh (2012 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "4.356 billion kWh (2012 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.493 million kW (2012 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "94.2% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "5.8% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "8.47 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "58,430 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "58,310 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "9.503 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "373,200 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.11 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "excellent in both area under government control and area administered by Turkish Cypriots",
+      "domestic": "open-wire, fiber-optic cable, and microwave radio relay",
+      "international": "country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, combine to provide connectivity to Western Europe, the Middle East, and Asia; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat)"
+    },
+    "Broadcast media": {
+      "text": "mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and privately owned TV and radio broadcast stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".cy"
+    },
+    "Internet hosts": {
+      "text": "252,013 (2012)"
+    },
+    "Internet users": {
+      "text": "433,900 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "15 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "13",
+      "2,438 to 3,047 m": "7",
+      "1,524 to 2,437 m": "2",
+      "914 to 1,523 m": "3",
+      "under 914 m": "1 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "2",
+      "under 914 m": "2 (2013)"
+    },
+    "Heliports": {
+      "text": "9 (2013)"
+    },
+    "Roadways": {
+      "total": "20,006 km",
+      "government control": "13,006 km (includes 2,277 km of expressways)",
+      "paved": "8,564 km",
+      "unpaved": "4,442 km",
+      "Turkish Cypriot control": "7,000 km (2011)"
+    },
+    "Merchant marine": {
+      "total": "838",
+      "by type": "bulk carrier 278, cargo 163, chemical tanker 77, container 201, liquefied gas 11, passenger 3, passenger/cargo 25, petroleum tanker 62, refrigerated cargo 5, roll on/roll off 9, vehicle carrier 4",
+      "foreign-owned": "622 (Angola 1, Austria 1, Belgium 3, Bermuda 1, Canada 2, China 6, Denmark 6, Estonia 6, France 16, Germany 192, Greece 201, Hong Kong 2, India 4, Iran 10, Ireland 3, Italy 6, Japan 16, Netherlands 23, Norway 14, Philippines 1, Poland 24, Portugal 2, Russia 46, Singapore 1, Slovenia 5, Spain 6, Sweden 5, Turkey 1, UAE 3, UK 7, Ukraine 3, US 5)",
+      "registered in other countries": "152 (Bahamas 23, Cambodia 4, Comoros 2, Finland 1, Gibraltar 1, Greece 3, Hong Kong 3, Liberia 9, Malta 32, Marshall Islands 40, Norway 1, Panama 5, Russia 13, Saint Vincent and the Grenadines 3, Sierra Leone 2, Singapore 6, unknown 4) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "area under government control: Larnaca, Limassol, Vasilikos; area administered by Turkish Cypriots: Famagusta, Kyrenia"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes naval and air elements); Northern Cyprus: Turkish Cypriot Security Force (GKK) (2014)"
+    },
+    "Military service age and obligation": {
+      "text": "Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; length of service obligation is 24 months (2014)"
+    },
+    "Manpower available for military service": {
+      "Cypriot National Guard (CNG)": "",
+      "males age 16-49": "327,875",
+      "females age 16-49": "287,891 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "Cypriot National Guard (CNG)": "",
+      "males age 16-49": "275,842",
+      "females age 16-49": "239,862 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "8,167",
+      "female": "7,398 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "2.05% of GDP (2012)//2.14% of GDP (2011)//2.05% of GDP (2010) (U)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the European Union still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": "208,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2012)"
+    },
+    "Illicit drugs": {
+      "text": "minor transit point for heroin and hashish via air routes and container traffic to Europe, especially from Lebanon and Turkey; some cocaine transits as well; despite a strengthening of anti-money-laundering legislation, remains vulnerable to money laundering; reporting of suspicious transactions in offshore sector remains weak (2008)"
+    }
+  }
+}

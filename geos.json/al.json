@@ -1,0 +1,636 @@
+{
+  "headers": {
+    "countryaffiliation": "",
+    "countrycode": "al",
+    "countryname": "Albania",
+    "flag_orig": "500x358",
+    "last_update": "Page last updated on June 23, 2014",
+    "locator_orig": "468x502",
+    "map_orig": "330x352",
+    "region": "Europe",
+    "regioncode": "eur"
+  },
+  "Introduction": {
+    "Background": {
+      "text": "Albania declared its independence from the Ottoman Empire in 1912, but was conquered by Italy in 1939, and occupied by Germany in 1943. Communist partisans took over the country in 1944. Albania allied itself first with the USSR (until 1960), and then with China (to 1978). In the early 1990s, Albania ended 46 years of xenophobic communist rule and established a multiparty democracy. The transition has proven challenging as successive governments have tried to deal with high unemployment, widespread corruption, dilapidated infrastructure, powerful organized crime networks, and combative political opponents. Albania has made progress in its democratic development since first holding multiparty elections in 1991, but deficiencies remain. International observers judged elections to be largely free and fair since the restoration of political stability following the collapse of pyramid schemes in 1997; however, each of Albania's post-communist elections have been marred by claims of electoral fraud. The 2009 general elections resulted in a coalition government, the first such in the country's history. In 2013, general elections achieved a peaceful transition of power and a second successive coalition government. Albania joined NATO in April 2009 and is a potential candidate for EU accession. Although Albania's economy continues to grow, it has slowed, and the country is still one of the poorest in Europe. A large informal economy and an inadequate energy and transportation infrastructure remain obstacles."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Europe, bordering the Adriatic Sea and Ionian Sea, between Greece in the south and Montenegro and Kosovo to the north"
+    },
+    "Geographic coordinates": {
+      "text": "41 00 N, 20 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": "28,748 sq km",
+      "land": "27,398 sq km",
+      "water": "1,350 sq km"
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maryland"
+    },
+    "Land boundaries": {
+      "total": "691 km",
+      "border countries": "Greece 212 km, Kosovo 112 km, Macedonia 181 km, Montenegro 186 km"
+    },
+    "Coastline": {
+      "text": "362 km"
+    },
+    "Maritime claims": {
+      "territorial sea": "12 nm",
+      "continental shelf": "200 m depth or to the depth of exploitation"
+    },
+    "Climate": {
+      "text": "mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter"
+    },
+    "Terrain": {
+      "text": "mostly mountains and hills; small plains along coast"
+    },
+    "Elevation extremes": {
+      "lowest point": "Adriatic Sea 0 m",
+      "highest point": "Maja e Korabit (Golem Korab) 2,764 m"
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, coal, bauxite, chromite, copper, iron ore, nickel, salt, timber, hydropower"
+    },
+    "Land use": {
+      "arable land": "21.63%",
+      "permanent crops": "2.57%",
+      "other": "75.79% (2011)"
+    },
+    "Irrigated land": {
+      "text": "1,884 sq km (2006)"
+    },
+    "Total renewable water resources": {
+      "text": "41.7 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": "1.31 cu km/yr (43%/18%/39%)",
+      "per capita": "413.6 cu m/yr (2006)"
+    },
+    "Natural hazards": {
+      "text": "destructive earthquakes; tsunamis occur along southwestern coast; floods; drought"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; water pollution from industrial and domestic effluents"
+    },
+    "Environment - international agreements": {
+      "party to": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands",
+      "signed, but not ratified": "none of the selected agreements"
+    },
+    "Geography - note": {
+      "text": "strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and Mediterranean Sea)"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": "Albanian(s)",
+      "adjective": "Albanian"
+    },
+    "Ethnic groups": {
+      "text": "Albanian 82.6%, Greek 0.9%, other 1% (including Vlach, Roma (Gypsy), Macedonian, Montenegrin, and Egyptian), unspecified 15.5% (2011 est.)"
+    },
+    "Languages": {
+      "text": "Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Roma, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)"
+    },
+    "Religions": {
+      "text": "Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi order) 2.1%, other 5.7%, unspecified 16.2%",
+      "note": "all mosques and churches were closed in 1967 and religious observances prohibited; in November 1990, Albania began allowing private religious practice (2011 est.)"
+    },
+    "Population": {
+      "text": "3,020,209 (July 2014 est.)"
+    },
+    "Age structure": {
+      "0-14 years": "19.3% (male 307,275/female 274,634)",
+      "15-24 years": "19.2% (male 297,851/female 282,498)",
+      "25-54 years": "40% (male 574,820/female 633,729)",
+      "55-64 years": "10.5% (male 157,014/female 158,602)",
+      "65 years and over": "11.1% (male 157,143/female 176,643) (2014 est.)"
+    },
+    "Dependency ratios": {
+      "total dependency ratio": "44.9 %",
+      "youth dependency ratio": "29 %",
+      "elderly dependency ratio": "15.9 %",
+      "potential support ratio": "6.3 (2014 est.)"
+    },
+    "Median age": {
+      "total": "31.6 years",
+      "male": "30.3 years",
+      "female": "32.9 years (2014 est.)"
+    },
+    "Population growth rate": {
+      "text": "0.3% (2014 est.)"
+    },
+    "Birth rate": {
+      "text": "12.73 births/1,000 population (2014 est.)"
+    },
+    "Death rate": {
+      "text": "6.47 deaths/1,000 population (2014 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.31 migrant(s)/1,000 population (2014 est.)"
+    },
+    "Urbanization": {
+      "urban population": "53.4% of total population (2011)",
+      "rate of urbanization": "2.27% annual rate of change (2010-15 est.)"
+    },
+    "Major urban areas - population": {
+      "text": "TIRANA (capital) 419,000 (2011)"
+    },
+    "Sex ratio": {
+      "at birth": "1.11 male(s)/female",
+      "0-14 years": "1.12 male(s)/female",
+      "15-24 years": "1.05 male(s)/female",
+      "25-54 years": "0.91 male(s)/female",
+      "55-64 years": "0.98 male(s)/female",
+      "65 years and over": "0.89 male(s)/female",
+      "total population": "0.98 male(s)/female (2014 est.)"
+    },
+    "Mother's mean age at first birth": {
+      "text": "23.4 (2010 est.)"
+    },
+    "Maternal mortality rate": {
+      "text": "27 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": "13.19 deaths/1,000 live births",
+      "male": "14.68 deaths/1,000 live births",
+      "female": "11.54 deaths/1,000 live births (2014 est.)"
+    },
+    "Life expectancy at birth": {
+      "total population": "77.96 years",
+      "male": "75.33 years",
+      "female": "80.86 years (2014 est.)"
+    },
+    "Total fertility rate": {
+      "text": "1.5 children born/woman (2014 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "69.3% (2008/09)"
+    },
+    "Health expenditures": {
+      "text": "6.3% of GDP (2011)"
+    },
+    "Physicians density": {
+      "text": "1.11 physicians/1,000 population (2011)"
+    },
+    "Hospital bed density": {
+      "text": "2.4 beds/1,000 population (2011)"
+    },
+    "Drinking water source": {
+      "improved": "urban: 97.3% of population; rural: 93.8% of population; total: 95.7% of population",
+      "unimproved": "urban: 2.7% of population; rural: 6.2% of population; total: 4.3% of population (2012 est.)"
+    },
+    "Sanitation facility access": {
+      "improved": "urban: 95.3% of population; rural: 86.3% of population; total: 91.2% of population",
+      "unimproved": "urban: 4.7% of population; rural: 13.7% of population; total: 8.8% of population (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "21.3% (2008)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "6.3% (2009)"
+    },
+    "Education expenditures": {
+      "text": "3.3% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": "age 9 and over can read and write",
+      "total population": "96.8%",
+      "male": "98%",
+      "female": "95.7% (2011 est.)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": "10 years",
+      "male": "10 years",
+      "female": "10 years (2001)"
+    },
+    "Child labor - children ages 5-14": {
+      "total number": "72,818",
+      "percentage": "12 % (2005 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": "22.5%",
+      "male": "23.8%",
+      "female": "20.7% (2011)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": "Republic of Albania",
+      "conventional short form": "Albania",
+      "local long form": "Republika e Shqiperise",
+      "local short form": "Shqiperia",
+      "former": "People's Socialist Republic of Albania"
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": "Tirana (Tirane)",
+      "geographic coordinates": "41 19 N, 19 49 E",
+      "time difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+      "daylight saving time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+    },
+    "Administrative divisions": {
+      "text": "12 counties (qarqe, singular - qark); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane, Vlore"
+    },
+    "Independence": {
+      "text": "28 November 1912 (from the Ottoman Empire)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 28 November (1912) also known as Flag Day"
+    },
+    "Constitution": {
+      "text": "several previous; latest approved by parliament 21 October 1998, adopted by popular referendum 22 November 1998, promulgated 28 November 1998; amended 2007, 2008, 2012 (2014)"
+    },
+    "Legal system": {
+      "text": "civil law system except in the northern rural areas where customary law known as the \"Code of Leke\" prevails"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": "President of the Republic Bujar NISHANI (since 24 July 2012)",
+      "head of government": "Prime Minister Edi Rama (since 10 September 2013)",
+      "cabinet": "Council of Ministers proposed by the prime minister, nominated by the president, and approved by parliament",
+      "elections": "president is elected by the Assembly for a five-year term and is eligible for a second term (a candidate needs a three-fifths majority of the Assembly's 140 votes (84 votes) in one of the first three rounds of voting or a simple majority in round four or five to become president; up to five rounds of voting are held, if necessary); four election rounds held between 30 May and 11 June 2012 (next election to be held in 2017); prime minister appointed by the president on the proposal of the party or coalition of parties that has the majority of seats in the Assembly",
+      "election results": "Bujar NISHANI elected president on fourth round of voting; Assembly vote (for first three rounds three-fifths majority, 84 votes, required; fourth round, a simple majority of votes is required): Bujar NISHANI 73 votes"
+    },
+    "Legislative branch": {
+      "text": "unicameral Assembly or Kuvendi (140 deputies elected through a regional proportional system from multi-name lists of parties or party coalitions according to their respective order; elected for a four-year term)",
+      "elections": "last held on 23 June 2013 (next to be held in 2017)",
+      "election results": "percent of vote by party- PS 41.36%, PD 30.63%, LSI 10.46%, PR 3.02%, PDIU 2.61%, other 11.92%; seats by party- PS 65, PD 50, LSI 16, PDIU 4, PR 3, other 2",
+      "note": "seats by parliamentary group as of March 2014 - ASHE 85, APMI 55"
+    },
+    "Judicial branch": {
+      "highest court(s)": "Constitutional Court (consists of 9 judges, including a chairman); Court of Cassation (consists of 14 judges, including the chief justice)",
+      "judge selection and term of office": "Constitutional Court judges appointed by the president with the consent of the Assembly to serve single 9-year terms; chairman elected by the People's Assembly for single 3-year term; Court of Cassation judges, including the chairman, appointed by the president with the consent of the Assembly to serve single, 9-year terms)",
+      "subordinate courts": "Courts of Appeal; Courts of First Instance"
+    },
+    "Political parties and leaders": {
+      "Alliance for Employment, Welfare, and Integration or APMI (coalition of 25 centrist and center-right parties) [Sali BERISHA]": "Christian Democratic Party or PDK [Nard NDOKA]; Democratic Party or PD [Lulzim BASHA]; Movement for National Development of LZHK [Dashamir SHEHI]; Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI]; Republican Party or PR [Fatmir MEDIU]; ",
+      "Alliance for a European Albania or ASHE (coalition of 37 opposition parties from far left to right wing) [Edi RAMA]": "Christian Democratic Party of PKD [Mark FRROKU]; Socialist Movement for Integration or LSI [Ilir META]; Socialist Party or PS [Edi RAMA]; Union for Human Rights Party or PBDNJ [Vangjel DULE]; ",
+      "other parties": "New Democratic Spirit or FRD [Bamir TOPI]; Red and Black Alliance [Kreshnik SPAHIU]",
+      "note": "only the major parties of each coalition are listed"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Confederation of Trade Unions of Albania or KSSH [Kol NIKOLLAJ]//Omonia [Vasil BOLLANO]//Union of Independent Trade Unions of Albania or BSPSH [Gezim KALAJA]"
+    },
+    "International organization participation": {
+      "text": "BSEC, CD, CE, CEI, EAPC, EBRD, EITI (candidate country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": "Ambassador Gilbert GALANXHI (since 5 January 2011)",
+      "chancery": "1312 18th Street NW, 4th Floor, Washington, DC 20036",
+      "telephone": "[1] (202) 223-4942",
+      "FAX": "[1] (202) 628-7342",
+      "consulate(s) general": "New York"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": "Ambassador Alexander ARVIZU (since 10 November 2010)",
+      "embassy": "Rruga e Elbasanit, 103, Tirana",
+      "mailing address": "US Department of State, 9510 Tirana Place, Dulles, VA 20189-9510",
+      "telephone": "[355] (4) 2247-285",
+      "FAX": "[355] (4) 2232-222"
+    },
+    "Flag description": {
+      "text": "red with a black two-headed eagle in the center; the design is claimed to be that of 15th-century hero George Kastrioti SKANDERBEG, who led a successful uprising against the Turks that resulted in a short-lived independence for some Albanian regions (1443-78); an unsubstantiated explanation for the eagle symbol is the tradition that Albanians see themselves as descendants of the eagle; they refer to themselves as \"Shqipetare,\" which translates as \"sons of the eagle\""
+    },
+    "National symbol(s)": {
+      "text": "double-headed eagle"
+    },
+    "National anthem": {
+      "name": "\"Hymni i Flamurit\" (Hymn to the Flag)",
+      "lyrics/music": "Aleksander Stavre DRENOVA/Ciprian PORUMBESCU",
+      "note": "adopted 1912"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Albania, a formerly closed, centrally-planned state, is making the difficult transition to a more modern open-market economy. Albania managed to weather the first waves of the global financial crisis but, more recently, its negative effects have put some pressure on the Albanian economy. While the government is focused on establishing a favorable business climate through the simplification of licensing requirements and tax codes, it entered into a new arrangement with the IMF for additional financial and technical support. Remittances, a significant catalyst for economic growth declined from 12-15% of GDP before the 2008 financial crisis to 7% of GDP in 2012, mostly from Albanians residing in Greece and Italy. The agricultural sector, which accounts for almost half of employment but only about one-fifth of GDP, is limited primarily to small family operations and subsistence farming, because of a lack of modern equipment, unclear property rights, and the prevalence of small, inefficient plots of land. Complex tax codes and licensing requirements, a weak judicial system, poor enforcement of contracts and property issues, and antiquated infrastructure contribute to Albania's poor business environment and makes attracting foreign investment more difficult. Inward FDI is among the lowest in the region, but the government has embarked on an ambitious program to improve the business climate through fiscal and legislative reforms. Albania’s energy supply has improved in recent years mostly due to upgraded transmission capacities that Albania has developed with its neighboring countries. However, technical and non-technical losses - including energy theft and non-payment - continue to be a threat to the financial viability of the entire system. Also, with help from international donors, the government is taking steps to improve the poor national road and rail network, a long-standing barrier to sustained economic growth. The country will continue to face challenges from increasing public debt, having exceeded its former statutory limit of 60% of GDP in 2013. Strong trade, remittance, and banking sector ties with Greece and Italy make Albania vulnerable to spillover effects of debt crises and weak growth in the euro zone."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$28.34 billion (2013 est.)//$28.14 billion (2012 est.)//$27.78 billion (2011 est.)",
+      "note": "data are in 2013 US dollars; Albania has an informal, and unreported, sector that may be as large as 50% of official GDP"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$12.8 billion (2013 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "0.7% (2013 est.)//1.3% (2012 est.)//3.1% (2011 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,700 (2013 est.)//$10,400 (2012 est.)//$9,900 (2011 est.)",
+      "note": "data are in 2013 US dollars"
+    },
+    "Gross national saving": {
+      "text": "14.1% of GDP (2013 est.)//13.6% of GDP (2012 est.)//13.6% of GDP (2011 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": "87.6%",
+      "government consumption": "8.4%",
+      "investment in fixed capital": "25%",
+      "investment in inventories": "-2.6%",
+      "exports of goods and services": "36%",
+      "imports of goods and services": "-54.4%; (2013 est.)"
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": "19.5%",
+      "industry": "12%",
+      "services": "68.5%; (2011 est.)"
+    },
+    "Agriculture - products": {
+      "text": "wheat, corn, potatoes, vegetables, fruits, sugar beets, grapes; meat, dairy products; sheep"
+    },
+    "Industries": {
+      "text": "food and tobacco products; textiles and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower"
+    },
+    "Industrial production growth rate": {
+      "text": "3.1% (2013 est.)"
+    },
+    "Labor force": {
+      "text": "1.098 million (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": "54.6%",
+      "industry": "12.8%",
+      "services": "32.6%; (December 2012 est)"
+    },
+    "Unemployment rate": {
+      "text": "16.9% (2013 est.)//14.4% (2012 est.)",
+      "note": "these are official rates that may not include those working at near-subsistence farming"
+    },
+    "Population below poverty line": {
+      "text": "14.3% (2012 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": "3.5%",
+      "highest 10%": "29% (2008)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34.5 (2008)//26.7 (2005)"
+    },
+    "Budget": {
+      "revenues": "$3.074 billion",
+      "expenditures": "$3.858 billion (2013 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "24% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6.1% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "70.5% of GDP (2013 est.)//62.5% of GDP (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.7% (2013 est.)//2.1% (2012 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "$NA (31 December 2013 est.)//4% (31 December 2012 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.52% (31 December 2013 est.)//10.28% (31 December 2012 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$2.791 billion (31 December 2013 est.)//$2.652 billion (31 December 2012 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$6.539 billion (31 December 2013 est.)//$6.316 billion (31 December 2012 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$5.17 billion (31 December 2013 est.)//$5.233 billion (31 December 2012 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$1.28 billion (2013 est.)//-$1.316 billion (2012 est.)"
+    },
+    "Exports": {
+      "text": "$2.323 billion (2013 est.)//$2.1 billion (2012 est.)"
+    },
+    "Exports - commodities": {
+      "text": "textiles and footwear; asphalt, metals and metallic ores, crude oil; vegetables, fruits, tobacco"
+    },
+    "Exports - partners": {
+      "text": "Italy 51.1%, Spain 9.2%, Turkey 6.3%, Greece 4.4% (2012)"
+    },
+    "Imports": {
+      "text": "$4.835 billion (2013 est.)//$4.985 billion (2012 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, foodstuffs, textiles, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Italy 31.9%, Greece 9.5%, China 6.4%, Germany 6%, Turkey 5.7% (2012)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.827 billion (31 December 2013 est.)//$2.784 billion (31 December 2012 est.)"
+    },
+    "Debt - external": {
+      "text": "$3.213 billion (31 December 2013 est.)//$2.957 billion (31 December 2012 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$4.226 billion (31 December 2011)//$3.534 billion (31 December 2010)"
+    },
+    "Exchange rates": {
+      "text": "leke (ALL) per US dollar -//109.2 (2013 est.)//108.19 (2012 est.)//103.94 (2010 est.)//94.98 (2009)//79.546 (2008)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "6.987 billion kWh (2013 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "4.551 billion kWh (2013 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.424 billion kWh (2013 est.)"
+    },
+    "Electricity - imports": {
+      "text": "2.322 billion kWh (2013 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.726 million kW (2012 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "5.6% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "94.4% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)"
+    },
+    "Crude oil - production": {
+      "text": "23,930 bbl/day (2013 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "23,320 bbl/day (2013 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "172.4 million bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "3,121 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "38,390 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "68 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "22,810 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "849.5 million cu m (1 January 2013 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "4.183 million Mt (2011 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "312,000 (2012)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "3.5 million (2012)"
+    },
+    "Telephone system": {
+      "general assessment": "despite new investment in fixed lines, teledensity remains low with roughly 10 fixed lines per 100 people; mobile-cellular telephone use is widespread and generally effective",
+      "domestic": "offsetting the shortage of fixed line capacity, mobile-cellular phone service has been available since 1996; by 2011 multiple companies were providing mobile services and mobile teledensity had reached 100 per 100 persons; Internet broadband services initiated in 2005 but growth has been slow; Internet cafes are popular in Tirana and have started to spread outside the capital",
+      "international": "country code - 355; submarine cable provides connectivity to Italy, Croatia, and Greece; the Trans-Balkan Line, a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2011)"
+    },
+    "Broadcast media": {
+      "text": "3 public TV networks, one of which transmits by satellite to Albanian-language communities in neighboring countries; more than 60 private TV stations; many viewers can pick up Italian and Greek TV broadcasts via terrestrial reception; cable TV service is available; 2 public radio networks and roughly 25 private radio stations; several international broadcasters are available (2010)"
+    },
+    "Internet country code": {
+      "text": ".al"
+    },
+    "Internet hosts": {
+      "text": "15,528 (2012)"
+    },
+    "Internet users": {
+      "text": "1.3 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "4 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": "4",
+      "2,438 to 3,047 m": "3",
+      "1,524 to 2,437 m": "1 (2013)"
+    },
+    "Airports - with unpaved runways": {
+      "total": "1",
+      "914 to 1,523 m": "1 (2012)"
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 331 km; oil 249 km (2013)"
+    },
+    "Railways": {
+      "total": "339 km",
+      "standard gauge": "339 km 1.435-m gauge (2009)"
+    },
+    "Roadways": {
+      "total": "18,000 km",
+      "paved": "7,020 km",
+      "unpaved": "10,980 km (2002)"
+    },
+    "Waterways": {
+      "text": "41 km (on the Bojana River) (2011)"
+    },
+    "Merchant marine": {
+      "total": "17",
+      "by type": "cargo 16, roll on/roll off 1",
+      "foreign-owned": "1 (Turkey 1)",
+      "registered in other countries": "5 (Antigua and Barbuda 1, Panama 4) (2010)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": "Durres, Sarande, Shengjin, Vlore"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Land Forces Command, Navy Force Command, Air Forces Command (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": "731,111",
+      "females age 16-49": "780,216 (2010 est.)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": "622,379",
+      "females age 16-49": "660,715 (2010 est.)"
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": "31,986",
+      "female": "29,533 (2010 est.)"
+    },
+    "Military expenditures": {
+      "text": "1.47% of GDP (2012)//1.52% of GDP (2011)//1.47% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": "7,443 (2012)"
+    },
+    "Trafficking in persons": {
+      "current situation": "Albania is a source country for men, women, and children subjected to sex trafficking and forced labor; Albanian victims of sexual exploitation are trafficked within Albania and in Greece, Italy, Macedonia, Kosovo, Belgium, the Netherlands, Germany, Switzerland, Ireland, and the UK; some Albanian women become sex trafficking victims after accepting offers of legitimate jobs; Albanian children are forced to beg or perform other forms of forced labor; Filipino victims of labor trafficking were identified in Albania during 2012",
+      "tier rating": "Tier 2 Watch List - Albania does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government decreased its trafficking investigations, prosecutions, and convictions over the last year and, because of inconsistent implementation of operating procedures, continues to punish victims for unlawful acts that are a direct result of being subjected to sex trafficking; the high turnover rate of law enforcement personnel prevents progress at the local level in identifying and protecting trafficking victims; removal of the national anti-trafficking coordinator hinders efforts to implement the 2011 national action plan against trafficking; the government provides limited funding to NGO shelters (2013)"
+    },
+    "Illicit drugs": {
+      "text": "increasingly active transshipment point for Southwest Asian opiates, hashish, and cannabis transiting the Balkan route and - to a lesser extent - cocaine from South America destined for Western Europe; limited opium and expanding cannabis production; ethnic Albanian narcotrafficking organizations active and expanding in Europe; vulnerable to money laundering associated with regional trafficking in narcotics, arms, contraband, and illegal aliens"
+    }
+  }
+}

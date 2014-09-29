@@ -1,0 +1,690 @@
+# Ireland
+
+![Flag of Ireland](../flags.png/ei.png)
+
+![Location of Ireland](../locator-orig.png/ei.png)
+
+![Map of Ireland](../maps-orig.png/ei.png)
+
+
+## Introduction
+
+**_Background:_**   
+Celtic tribes arrived on the island between 600 and 150 B.C. Invasions by Norsemen that began in the late 8th century were finally ended when King Brian BORU defeated the Danes in 1014. Norman invasions began in the 12th century and set off more than seven centuries of Anglo-Irish struggle marked by fierce rebellions and harsh repressions. The Irish famine of the mid-19th century saw the population of the island drop by one third through starvation and emigration. For more than a century after that the population of the island continued to fall only to begin growing again in the 1960s. Over the last 50 years, Ireland's high birthrate has made it demographically one of the youngest populations in the EU. The modern Irish state traces its origins to the failed 1916 Easter Monday Uprising which touched off several years of guerrilla warfare resulting in independence from the UK in 1921 for 26 southern counties; six northern counties remained part of the UK. Unresolved issues in Northern Ireland erupted into years of violence known as the "Troubles" that began in the 1960s. The Government of Ireland was part of a process along with the UK and US Governments that helped broker what is known as The Good Friday Agreement in Northern Ireland in 1998. This initiated a new phase of cooperation between Irish and British governments. Ireland was neutral in World War II and continues its policy of military neutrality. Ireland joined the European Community in 1973 and the Eurozone currency union in 1999. The economic boom years of the Celtic Tiger (1995-2007) saw rapid economic growth, which came to an abrupt end in 2008 with the meltdown of the Irish banking system. Today the economy is recovering, fueled by large and growing foreign direct investment, especially from US multi-nationals.
+
+
+## Geography
+
+**_Location:_**   
+Western Europe, occupying five-sixths of the island of Ireland in the North Atlantic Ocean, west of Great Britain
+
+**_Geographic coordinates:_**   
+53 00 N, 8 00 W
+
+**_Map references:_**   
+Europe
+
+**_Area:_**   
+**total:** 70,273 sq km   
+**land:** 68,883 sq km   
+**water:** 1,390 sq km
+
+**_Area - comparative:_**   
+slightly larger than West Virginia
+
+**_Land boundaries:_**   
+**total:** 443 km   
+**border countries:** UK 443 km
+
+**_Coastline:_**   
+1,448 km
+
+**_Maritime claims:_**   
+**territorial sea:** 12 nm   
+**exclusive fishing zone:** 200 nm
+
+**_Climate:_**   
+temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time
+
+**_Terrain:_**   
+mostly level to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast
+
+**_Elevation extremes:_**   
+**lowest point:** Atlantic Ocean 0 m   
+**highest point:** Carrauntoohil 1,041 m
+
+**_Natural resources:_**   
+natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite
+
+**_Land use:_**   
+**arable land:** 15.11%   
+**permanent crops:** 0.01%   
+**other:** 84.87% (2011)
+
+**_Irrigated land:_**   
+11 sq km (2003)
+
+**_Total renewable water resources:_**   
+52 cu km (2011)
+
+**_Freshwater withdrawal (domestic/industrial/agricultural):_**   
+**total:** 0.79 cu km/yr (94%/6%/0%)   
+**per capita:** 226.9 cu m/yr (2007)
+
+**_Natural hazards:_**   
+NA
+
+**_Environment - current issues:_**   
+water pollution, especially of lakes, from agricultural runoff
+
+**_Environment - international agreements:_**   
+**party to:** Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling   
+**signed, but not ratified:** Air Pollution-Persistent Organic Pollutants, Marine Life Conservation
+
+**_Geography - note:_**   
+strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin
+
+
+## People and Society
+
+**_Nationality:_**   
+**noun:** Irishman(men), Irishwoman(women), Irish (collective plural)   
+**adjective:** Irish
+
+**_Ethnic groups:_**   
+Irish 84.5%, other white 9.8%, Asian 1.9%, black 1.4%, mixed and other 0.9%, unspecified 1.6% (2011 est.)
+
+**_Languages:_**   
+English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken mainly in areas along the western coast)
+
+**_Religions:_**   
+Roman Catholic 84.7%, Church of Ireland 2.7%, other Christian 2.7%, Muslim 1.1%, other 1.7%, unspecified 1.5%, none 5.7% (2011 est.)
+
+**_Population:_**   
+4,832,765 (July 2014 est.)
+
+**_Age structure:_**   
+**0-14 years:** 21.4% (male 529,140/female 506,857)   
+**15-24 years:** 11.9% (male 292,962/female 283,127)   
+**25-54 years:** 44.1% (male 1,070,875/female 1,061,396)   
+**55-64 years:** 10.1% (male 245,913/female 244,345)   
+**65 years and over:** 12.1% (male 275,114/female 323,036) (2014 est.)
+
+**_Dependency ratios:_**   
+**total dependency ratio:** 51.4 %   
+**youth dependency ratio:** 32.7 %   
+**elderly dependency ratio:** 18.7 %   
+**potential support ratio:** 5.4 (2014 est.)
+
+**_Median age:_**   
+**total:** 35.7 years   
+**male:** 35.4 years   
+**female:** 36.1 years (2014 est.)
+
+**_Population growth rate:_**   
+1.2% (2014 est.)
+
+**_Birth rate:_**   
+15.18 births/1,000 population (2014 est.)
+
+**_Death rate:_**   
+6.45 deaths/1,000 population (2014 est.)
+
+**_Net migration rate:_**   
+3.31 migrant(s)/1,000 population (2014 est.)
+
+**_Urbanization:_**   
+**urban population:** 62.2% of total population (2011)   
+**rate of urbanization:** 1.63% annual rate of change (2010-15 est.)
+
+**_Major urban areas - population:_**   
+DUBLIN (capital) 1.121 million (2011)
+
+**_Sex ratio:_**   
+**at birth:** 1.06 male(s)/female   
+**0-14 years:** 1.04 male(s)/female   
+**15-24 years:** 1.04 male(s)/female   
+**25-54 years:** 1.01 male(s)/female   
+**55-64 years:** 1 male(s)/female   
+**65 years and over:** 0.84 male(s)/female   
+**total population:** 1 male(s)/female (2014 est.)
+
+**_Mother's mean age at first birth:_**   
+29.8   
+**note:** data are based on events and not on fertility rates (2011 est.)
+
+**_Maternal mortality rate:_**   
+6 deaths/100,000 live births (2010)
+
+**_Infant mortality rate:_**   
+**total:** 3.74 deaths/1,000 live births   
+**male:** 4.11 deaths/1,000 live births   
+**female:** 3.35 deaths/1,000 live births (2014 est.)
+
+**_Life expectancy at birth:_**   
+**total population:** 80.56 years   
+**male:** 78.28 years   
+**female:** 82.97 years (2014 est.)
+
+**_Total fertility rate:_**   
+2 children born/woman (2014 est.)
+
+**_Contraceptive prevalence rate:_**   
+64.8%   
+**note:** percent of women aged 18-49 (2004/05)
+
+**_Health expenditures:_**   
+9.4% of GDP (2011)
+
+**_Physicians density:_**   
+3.19 physicians/1,000 population (2008)
+
+**_Hospital bed density:_**   
+3.2 beds/1,000 population (2010)
+
+**_Drinking water source:_**   
+**improved:** urban: 100% of population; rural: 99.7% of population; total: 99.9% of population   
+**unimproved:** urban: 0% of population; rural: 0.3% of population; total: 0.1% of population (2012 est.)
+
+**_Sanitation facility access:_**   
+**improved:** urban: 99.6% of population; rural: 97.9% of population; total: 99% of population   
+**unimproved:** urban: 0.4% of population; rural: 2.1% of population; total: 1% of population (2012 est.)
+
+**_HIV/AIDS - adult prevalence rate:_**   
+0.2% (2009 est.)
+
+**_HIV/AIDS - people living with HIV/AIDS:_**   
+6,900 (2009 est.)
+
+**_HIV/AIDS - deaths:_**   
+fewer than 100 (2009 est.)
+
+**_Obesity - adult prevalence rate:_**   
+25.2% (2008)
+
+**_Education expenditures:_**   
+6.4% of GDP (2010)
+
+**_Literacy:_**   
+**definition:** age 15 and over can read and write   
+**total population:** 99%   
+**male:** 99%   
+**female:** 99% (2003 est.)
+
+**_School life expectancy (primary to tertiary education):_**   
+**total:** 19 years   
+**male:** 19 years   
+**female:** 19 years (2011)
+
+**_Unemployment, youth ages 15-24:_**   
+**total:** 24%   
+**male:** 36.4%   
+**female:** 24% (2012)
+
+
+## Government
+
+**_Country name:_**   
+**conventional long form:** none   
+**conventional short form:** Ireland   
+**local long form:** none   
+**local short form:** Eire
+
+**_Government type:_**   
+republic, parliamentary democracy
+
+**_Capital:_**   
+**name:** Dublin   
+**geographic coordinates:** 53 19 N, 6 14 W   
+**time difference:** UTC 0 (5 hours ahead of Washington, DC, during Standard Time)   
+**daylight saving time:** +1hr, begins last Sunday in March; ends last Sunday in October
+
+**_Administrative divisions:_**   
+28 counties and 3 cities\*; Carlow, Cavan, Clare, Cork, Cork\*, Donegal, Dublin\*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway\*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow
+
+**_Independence:_**   
+6 December 1921 (from the UK by treaty)
+
+**_National holiday:_**   
+Saint Patrick's Day, 17 March
+
+**_Constitution:_**   
+previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937; amended many times, last in 2013 (2013)
+
+**_Legal system:_**   
+common law system based on the English model but substantially modified by customary law; judicial review of legislative acts in Supreme Court
+
+**_International law organization participation:_**   
+has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
+
+**_Suffrage:_**   
+18 years of age; universal
+
+**_Executive branch:_**   
+**chief of state:** President Michael D. HIGGINS (since 29 October 2011)   
+**head of government:** Taoiseach (Prime Minister) Enda KENNY (since 9 March 2011)   
+**cabinet:** Cabinet appointed by the president with previous nomination by the prime minister and approval of the lower house of Parliament   
+**elections:** president elected by popular vote for a seven-year term (eligible for a second term); election last held on 29 October 2011 (next to be held in October 2018); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann) and appointed by the president   
+**election results:** Michael D. HIGGINS elected president; percent of vote - Michael D. HIGGINS 39.6%, Sean GALLAGHER 28.5%, Martin MCGUINNESS 13.7%, Gay MITCHELL 6.4%, David NORRIS 6.2%, other 5.6%
+
+**_Legislative branch:_**   
+bicameral Parliament or Oireachtas consists of the Senate or Seanad Eireann (60 seats; 49 members elected by the universities and from candidates put forward by five vocational panels, 11 are nominated by the prime minister; members serve five-year terms) and the House of Representatives or Dail Eireann (166 seats; members elected by popular vote on the basis of proportional representation to serve five-year terms)   
+**elections:** Senate - last held in 27 April 2011 (next to be held 2016); House of Representatives - last held on 25 February 2011 (next to be held probably in 2016)   
+**election results:** Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Labor Party 12, Sinn Fein 3, independents 12; House of Representatives - percent of vote by party - Fine Gael 36.1%, Labor Party 19.5%, Fianna Fail 17.5%, Sinn Fein 9.9%, United Left Alliance 2.6%, independents and others 14.4%; seats by party - Fine Gael 76, Labor Party 37, Fianna Fail 20, Sinn Fein 14, United Left Alliance 5, independents 14
+
+**_Judicial branch:_**   
+**highest court(s):** Supreme Court or Court of Final Appeal (consists of the chief justice and 7 judges)   
+**judge selection and term of office:** judges nominated by the prime minister and Cabinet and appointed by the president; judges serve till age 70   
+**subordinate courts:** High Court, Court of Criminal Appeal; circuit and district courts
+
+**_Political parties and leaders:_**   
+Fianna Fail [Micheal MARTIN]   
+Fine Gael [Enda KENNY]   
+Green Party [Eamon RYAN]   
+Labor Party [Eamon GILMORE]   
+New Vision   
+Sinn Fein [Gerry ADAMS]   
+Socialist Party [Collective Leadership]   
+The Workers' Party [Michael FINNEGAN]   
+United Left Alliance
+
+**_Political pressure groups and leaders:_**   
+Families Acting for Innocent Relatives or FAIR [Brian MCCONNELL] (seek compensation for victims of violence);   
+Iona Institute [David QUINN] (a conservative Catholic think tank);   
+Irish Anti-War Movement [Richard BOYD BARRETT] (campaigns against wars around the world);   
+Oglaigh na hEireann (terrorist group);   
+Continuity IRA (terrorist group);   
+New Irish Republican Army (terrorist group combining elements of the former Real IRA and Republican Action Against Drugs);   
+Keep Ireland Open (environmental group);   
+Midland Railway Action Group or MRAG [Willie ALLEN] (transportation promoters);   
+Peace and Neutrality Alliance [Roger COLE] (campaigns to protect Irish neutrality);   
+Rail Users Ireland (formerly the Platform 11 - transportation promoters);   
+32 Country Sovereignty Movement or 32CSM (supports unifying Northern Ireland with the rest of the island under Irish government sovereignty);
+
+**_International organization participation:_**   
+ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNITAR, UNOCI, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC
+
+**_Diplomatic representation in the US:_**   
+**chief of mission:** Ambassador Anne Colette ANDERSON (since 28 August 2013)   
+**chancery:** 2234 Massachusetts Avenue NW, Washington, DC 20008   
+**telephone:** [1] (202) 462-3939   
+**FAX:** [1] (202) 232-5993   
+**consulate(s) general:** Atlanta, Boston, Chicago, New York, San Francisco; note - Ireland will open a consulate general in Austin by the end of 2014
+
+**_Diplomatic representation from the US:_**   
+**chief of mission:** Ambassador (vacant); Charge d'Affaires Stuart DWYER (since 5 September 2013)   
+**embassy:** 42 Elgin Road, Ballsbridge, Dublin 4   
+**mailing address:** use embassy street address   
+**telephone:** [353] (1) 668-8777   
+**FAX:** [353] (1) 668-9946
+
+**_Flag description:_**   
+three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange   
+**note:** similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red
+
+**_National symbol(s):_**   
+harp, shamrock (trefoil)
+
+**_National anthem:_**   
+**name:** "Amhran na bhFiann" (The Soldier's Song)   
+**lyrics/music:** Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY   
+**note:** adopted 1926; instead of "Amhran na bhFiann," the song "Ireland's Call" is often used in athletic events where citizens of the Republic of Ireland and Northern Ireland compete as a unified team
+
+
+## Economy
+
+**_Economy - overview:_**   
+Ireland is a small, modern, trade-dependent economy. Ireland was among the initial group of 12 EU nations that began circulating the euro on 1 January 2002. GDP growth averaged 6% in 1995-2007, but economic activity has dropped sharply since the onset of the world financial crisis. Ireland entered into a recession in 2008 for the first time in more than a decade, with the subsequent collapse of its domestic property market and construction industry. Property prices rose more rapidly in Ireland in the decade up to 2007 than in any other developed economy. Since their 2007 peak, average house prices have fallen 47%. In the wake of the collapse of the construction sector and the downturn in consumer spending and business investment, the export sector, dominated by foreign multinationals, has become an even more important component of Ireland's economy. Agriculture, once the most important sector, is now dwarfed by industry and services. In 2008 the former COWEN government moved to guarantee all bank deposits, recapitalize the banking system, and establish partly-public venture capital funds in response to the country's economic downturn. In 2009, in continued efforts to stabilize the banking sector, the Irish Government established the National Asset Management Agency (NAMA) to acquire problem commercial property and development loans from Irish banks. Faced with sharply reduced revenues and a burgeoning budget deficit, the Irish Government introduced the first in a series of draconian budgets in 2009. In addition to across-the-board cuts in spending, the 2009 budget included wage reductions for all public servants. These measures were not sufficient to stabilize Ireland’s public finances. In 2010, the budget deficit reached 32.4% of GDP - the world's largest deficit, as a percentage of GDP - because of additional government support for the country’s deeply troubled banking sector. In late 2010, the former COWEN government agreed to a $92 billion loan package from the EU and IMF to help Dublin recapitalize Ireland’s fragile banking sector and avoid defaulting on its sovereign debt. Since entering office in March 2011, the new KENNY government has intensified austerity measures to try to meet the deficit targets under Ireland's EU-IMF program. Ireland has grown slowly since 2011, but managed to reduce the budget deficit to 7.2% of GDP in 2013. In late 2013, Ireland formally exited its EU-IMF bailout program, benefiting from its strict adherence to deficit-reduction targets and success in refinancing a large amount of banking-related debt.
+
+**_GDP (purchasing power parity):_**   
+$190.4 billion (2013 est.)   
+$189.3 billion (2012 est.)   
+$189 billion (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_GDP (official exchange rate):_**   
+$220.9 billion (2013 est.)
+
+**_GDP - real growth rate:_**   
+0.6% (2013 est.)   
+0.2% (2012 est.)   
+2.2% (2011 est.)
+
+**_GDP - per capita (PPP):_**   
+$41,300 (2013 est.)   
+$41,300 (2012 est.)   
+$41,300 (2011 est.)   
+**note:** data are in 2013 US dollars
+
+**_Gross national saving:_**   
+13.4% of GDP (2013 est.)   
+15.3% of GDP (2012 est.)   
+12.5% of GDP (2011 est.)
+
+**_GDP - composition, by end use:_**   
+**household consumption:** 50.2%   
+**government consumption:** 14.8%   
+**investment in fixed capital:** 10%   
+**investment in inventories:** 0%   
+**exports of goods and services:** 106.8%   
+**imports of goods and services:** -81.9%; (2013 est.)
+
+**_GDP - composition, by sector of origin:_**   
+**agriculture:** 1.6%   
+**industry:** 28%   
+**services:** 70.4% (2013 est.)
+
+**_Agriculture - products:_**   
+barley, potatoes, wheat; beef, dairy products
+
+**_Industries:_**   
+pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices
+
+**_Industrial production growth rate:_**   
+0.2% (2013 est.)
+
+**_Labor force:_**   
+2.161 million (2013 est.)
+
+**_Labor force - by occupation:_**   
+**agriculture:** 5%   
+**industry:** 19%   
+**services:** 76% (2011 est.)
+
+**_Unemployment rate:_**   
+13.5% (2013 est.)   
+14.7% (2012 est.)
+
+**_Population below poverty line:_**   
+5.5% (2009)
+
+**_Household income or consumption by percentage share:_**   
+**lowest 10%:** 2.9%   
+**highest 10%:** 27.2% (2000)
+
+**_Distribution of family income - Gini index:_**   
+33.9 (2010)   
+35.9 (1987)
+
+**_Budget:_**   
+**revenues:** $75.32 billion   
+**expenditures:** $91.3 billion (2013 est.)
+
+**_Taxes and other revenues:_**   
+34.1% of GDP (2013 est.)
+
+**_Budget surplus (+) or deficit (-):_**   
+-7.2% of GDP (2013 est.)
+
+**_Public debt:_**   
+124.2% of GDP (2013 est.)   
+117.6% of GDP (2012 est.)   
+**note:** data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions
+
+**_Fiscal year:_**   
+calendar year
+
+**_Inflation rate (consumer prices):_**   
+0.6% (2013 est.)   
+1.7% (2012 est.)
+
+**_Central bank discount rate:_**   
+0.75% (31 December 2013)   
+1.5% (31 December 2010)   
+**note:** this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area
+
+**_Commercial bank prime lending rate:_**   
+3.2% (31 December 2013 est.)   
+3.55% (31 December 2012 est.)
+
+**_Stock of narrow money:_**   
+$121.3 billion (31 December 2013 est.)   
+$122.3 billion (31 December 2012 est.)   
+**note:** see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders
+
+**_Stock of broad money:_**   
+$238 billion (31 December 2013 est.)   
+$238.7 billion (31 December 2012 est.)
+
+**_Stock of domestic credit:_**   
+$425.4 billion (31 December 2013 est.)   
+$433.1 billion (31 December 2012 est.)
+
+**_Market value of publicly traded shares:_**   
+$109 billion (31 December 2012 est.)   
+$108.1 billion (31 December 2011)   
+$60.45 billion (31 December 2010 est.)
+
+**_Current account balance:_**   
+$7.3 billion (2013 est.)   
+$9.245 billion (2012 est.)
+
+**_Exports:_**   
+$113.6 billion (2013 est.)   
+$119.3 billion (2012 est.)
+
+**_Exports - commodities:_**   
+machinery and equipment, computers, chemicals, medical devices, pharmaceuticals; food products, animal products
+
+**_Exports - partners:_**   
+US 17.9%, UK 17.3%, Belgium 15.6%, Germany 8.4%, Switzerland 5.8%, France 5% (2012)
+
+**_Imports:_**   
+$61.51 billion (2013 est.)   
+$63.63 billion (2012 est.)
+
+**_Imports - commodities:_**   
+data processing equipment, other machinery and equipment, chemicals, petroleum and petroleum products, textiles, clothing
+
+**_Imports - partners:_**   
+UK 39.8%, US 13.2%, Germany 7.6%, Netherlands 5.7% (2012)
+
+**_Reserves of foreign exchange and gold:_**   
+$1.707 billion (31 December 2012 est.)   
+$1.703 billion (31 December 2011 est.)
+
+**_Debt - external:_**   
+$2.164 trillion (31 December 2012 est.)   
+$2.213 trillion (31 December 2011)
+
+**_Stock of direct foreign investment - at home:_**   
+$777.3 billion (31 December 2013 est.)   
+$725.8 billion (31 December 2012 est.)
+
+**_Stock of direct foreign investment - abroad:_**   
+$792.6 billion (31 December 2013 est.)   
+$766 billion (31 December 2012 est.)
+
+**_Exchange rates:_**   
+euros (EUR) per US dollar -   
+0.7634 (2013 est.)   
+0.7752 (2012 est.)   
+0.755 (2010 est.)   
+0.7198 (2009 est.)   
+0.6827 (2008 est.)
+
+
+## Energy
+
+**_Electricity - production:_**   
+26.04 billion kWh (2011 est.)
+
+**_Electricity - consumption:_**   
+26.1 billion kWh (2011 est.)
+
+**_Electricity - exports:_**   
+370 million kWh (2012 est.)
+
+**_Electricity - imports:_**   
+724 million kWh (2012 est.)
+
+**_Electricity - installed generating capacity:_**   
+8.316 million kW (2010 est.)
+
+**_Electricity - from fossil fuels:_**   
+76.2% of total installed capacity (2010 est.)
+
+**_Electricity - from nuclear fuels:_**   
+0% of total installed capacity (2010 est.)
+
+**_Electricity - from hydroelectric plants:_**   
+2.9% of total installed capacity (2010 est.)
+
+**_Electricity - from other renewable sources:_**   
+17.4% of total installed capacity (2010 est.)
+
+**_Crude oil - production:_**   
+725.6 bbl/day (2012 est.)
+
+**_Crude oil - exports:_**   
+1,858 bbl/day (2010 est.)
+
+**_Crude oil - imports:_**   
+62,070 bbl/day (2010 est.)
+
+**_Crude oil - proved reserves:_**   
+0 bbl (1 January 2013 est.)
+
+**_Refined petroleum products - production:_**   
+59,630 bbl/day (2010 est.)
+
+**_Refined petroleum products - consumption:_**   
+144,000 bbl/day (2011 est.)
+
+**_Refined petroleum products - exports:_**   
+26,120 bbl/day (2010 est.)
+
+**_Refined petroleum products - imports:_**   
+166,000 bbl/day (2010 est.)
+
+**_Natural gas - production:_**   
+373 million cu m (2012 est.)
+
+**_Natural gas - consumption:_**   
+5.506 billion cu m (2010 est.)
+
+**_Natural gas - exports:_**   
+0 cu m (2011 est.)
+
+**_Natural gas - imports:_**   
+4.522 billion cu m (2012 est.)
+
+**_Natural gas - proved reserves:_**   
+9.911 billion cu m (1 January 2013 est.)
+
+**_Carbon dioxide emissions from consumption of energy:_**   
+36.57 million Mt (2011 est.)
+
+
+## Communications
+
+**_Telephones - main lines in use:_**   
+2.007 million (2012)
+
+**_Telephones - mobile cellular:_**   
+4.906 million (2012)
+
+**_Telephone system:_**   
+**general assessment:** modern digital system using cable and microwave radio relay   
+**domestic:** system privatized but dominated by former state monopoly operator; increasing levels of broadband access particularly in urban areas   
+**international:** country code - 353; landing point for the Hibernia-Atlantic submarine cable with links to the US, Canada, and UK; satellite earth stations - 81 (2014)
+
+**_Broadcast media:_**   
+publicly owned broadcaster Radio Telefis Eireann (RTE) operates 2 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2014)
+
+**_Internet country code:_**   
+.ie
+
+**_Internet hosts:_**   
+1.387 million (2012)
+
+**_Internet users:_**   
+3.042 million (2009)
+
+
+## Transportation
+
+**_Airports:_**   
+40 (2013)
+
+**_Airports - with paved runways:_**   
+**total:** 16   
+**over 3,047 m:** 1   
+**2,438 to 3,047 m:** 1   
+**1,524 to 2,437 m:** 4   
+**914 to 1,523 m:** 5   
+**under 914 m:** 5 (2013)
+
+**_Airports - with unpaved runways:_**   
+**total:** 24   
+**2,438 to 3,047 m:** 1   
+**914 to 1,523 m:** 2   
+**under 914 m:** 21 (2013)
+
+**_Pipelines:_**   
+gas 2,147 km (2013)
+
+**_Railways:_**   
+**total:** 3,237 km   
+**broad gauge:** 1,872 km 1.600-m gauge (37 km electrified)   
+**narrow gauge:** 1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2008)
+
+**_Roadways:_**   
+**total:** 96,036 km   
+**paved:** 96,036 km (includes 1,224 km of expressways) (2014)
+
+**_Waterways:_**   
+956 km (pleasure craft only) (2010)
+
+**_Merchant marine:_**   
+**total:** 31   
+**by type:** cargo 28, chemical tanker 2, container 1   
+**foreign-owned:** 5 (France 2, Spain 1, US 2)   
+**registered in other countries:** 33 (Bahamas 3, Bermuda 1, Cambodia 1, Cyprus 3, Isle of Man 1, Kazakhstan 1, Malta 4, Marshall Islands 6, Netherlands 8, Panama 1, Russia 1, Slovakia 1, Sweden 1, UK 1) (2010)
+
+**_Ports and terminals:_**   
+**major seaport(s):** Dublin, Shannon Foynes,   
+**river port(s):** Cork (Lee), Waterford (Suir)   
+**container port(s) (TEUs):** Dublin (1,931,001)
+
+
+## Military
+
+**_Military branches:_**   
+Irish Defence Forces (Oglaigh na h-Eireannn), Permanent Defence Forces (PDF): Army, Naval Service, Air Corps; Reserve Defence Forces (RDF): Army, Naval Service Reserves (2014)
+
+**_Military service age and obligation:_**   
+18-25 years of age for male and female voluntary military service recruits to the Permanent Defence Forces (PDF; 18-27 years of age for the Naval Service); 18-28 for cadetship (officer) applicants; 18-35 years of age for the Reserve Defence Forces (RDF); maximum obligation 12 years (PDF officers), 5 years (PDF enlisted), 3 years RDF (4 years for Naval Service Reserves); EU citizenship, refugee status, or 5-year residence in Ireland required (2014)
+
+**_Manpower available for military service:_**   
+**males age 16-49:** 1,179,125   
+**females age 16-49:** 1,163,728 (2010 est.)
+
+**_Manpower fit for military service:_**   
+**males age 16-49:** 977,631   
+**females age 16-49:** 965,900 (2010 est.)
+
+**_Manpower reaching militarily significant age annually:_**   
+**male:** 28,564   
+**female:** 27,197 (2010 est.)
+
+**_Military expenditures:_**   
+0.55% of GDP (2012)   
+0.59% of GDP (2011)   
+0.55% of GDP (2010)
+
+
+## Transnational Issues
+
+**_Disputes - international:_**   
+Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm
+
+**_Refugees and internally displaced persons:_**   
+**stateless persons:** 73 (2012)
+
+**_Illicit drugs:_**   
+transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern
+
+
+............................................................   
+_Page last updated on June 22, 2014_

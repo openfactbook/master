@@ -1,0 +1,267 @@
+aa	(part of the Kingdom of the Netherlands)
+ac	
+ae	
+af	
+ag	
+aj	
+al	
+am	
+an	
+ao	
+aq	(territory of the US)
+ar	
+as	
+at	(territory of Australia)
+au	
+av	(overseas territory of the UK)
+ax	(UK Sovereign Base Area)
+ay	
+ba	
+bb	
+bc	
+bd	(overseas territory of the UK)
+be	
+bf	
+bg	
+bh	
+bk	
+bl	
+bm	
+bn	
+bo	
+bp	
+bq	(territory of the US)
+br	
+bt	
+bu	
+bv	(territory of Norway)
+bx	
+by	
+ca	
+cb	
+cc	(part of the Kingdom of the Netherlands)
+cd	
+ce	
+cf	
+cg	
+ch	(also see separate Hong Kong, Macau, and Taiwan entries)
+ci	
+cj	(overseas territory of the UK)
+ck	(territory of Australia)
+cm	
+cn	
+co	
+cq	(commonwealth in political union with the US)
+cr	(territory of Australia)
+cs	
+ct	
+cu	
+cv	
+cw	(self-governing in free association with New Zealand)
+cy	
+da	
+dj	
+do	
+dq	(territory of the US)
+dr	
+dx	(UK sovereign base area)
+ec	
+ee	
+eg	
+ei	
+ek	
+en	
+er	
+es	
+et	
+ez	
+fi	
+fj	
+fk	(overseas territory of the UK; also claimed by Argentina)
+fm	
+fo	(part of the Kingdom of Denmark)
+fp	(overseas lands of France)
+fr	
+fs	(overseas territory of France)
+ga	
+gb	
+gg	
+gh	
+gi	(overseas territory of the UK)
+gj	
+gk	(British crown dependency)
+gl	(part of the Kingdom of Denmark)
+gm	
+gq	(territory of the US)
+gr	
+gt	
+gv	
+gy	
+gz	
+ha	
+hk	(special administrative region of China)
+hm	(territory of Australia)
+ho	
+hq	(territory of the US)
+hr	
+hu	
+ic	
+id	
+im	(British crown dependency)
+in	
+io	(overseas territory of the UK)
+ip	(possession of France)
+ir	
+is	(also see separate Gaza Strip and West Bank entries)
+it	
+iv	
+iz	
+ja	
+je	(British crown dependency)
+jm	
+jn	(territory of Norway)
+jo	
+jq	(territory of the US)
+ke	
+kg	
+kn	
+kq	(territory of the US)
+kr	
+ks	
+kt	(territory of Australia)
+ku	
+kv	
+kz	
+la	
+le	
+lg	
+lh	
+li	
+lo	
+lq	(territory of the US)
+ls	
+lt	
+lu	
+ly	
+ma	
+mc	(special administrative region of China)
+md	
+mg	
+mh	(overseas territory of the UK)
+mi	
+mj	
+mk	
+ml	
+mn	
+mo	
+mp	
+mq	(territory of the US)
+mr	
+mt	
+mu	
+mv	
+mx	
+my	
+mz	
+nc	(self-governing territory of France)
+ne	(self-governing in free association with New Zealand)
+nf	(territory of Australia)
+ng	
+nh	
+ni	
+nl	
+no	
+np	
+nr	
+ns	
+nu	
+nz	
+od	
+oo	
+pa	
+pc	(overseas territory of the UK)
+pe	
+pf	
+pg	
+pk	
+pl	
+pm	
+po	
+pp	
+ps	
+pu	
+qa	
+ri	
+rm	
+rn	(overseas collectivity of France)
+ro	
+rp	
+rq	(territory of the US with commonwealth status)
+rs	
+rw	
+sa	
+sb	(territorial overseas collectivity of France)
+sc	
+se	
+sf	
+sg	
+sh	(overseas territory of the UK)
+si	
+sk	(part of the Kingdom of the Netherlands)
+sl	
+sm	
+sn	
+so	
+sp	
+st	
+su	
+sv	(territory of Norway)
+sw	
+sx	(overseas territory of the UK, also claimed by Argentina)
+sy	
+sz	
+tb	(overseas collectivity of France)
+td	
+th	
+ti	
+tk	(overseas territory of the UK)
+tl	(territory of New Zealand)
+tn	
+to	
+tp	
+ts	
+tt	
+tu	
+tv	
+tw	
+tx	
+tz	
+ug	
+uk	
+um	(territories of the US)
+up	
+us	
+uv	
+uy	
+uz	
+vc	
+ve	
+vi	(overseas territory of the UK)
+vm	
+vq	(territory of the US)
+vt	
+wa	
+we	
+wf	(overseas collectivity of France)
+wi	
+wq	(territory of the US)
+ws	
+wz	
+xo	
+xq	
+xx	
+ym	
+za	
+zh	
+zi	
+zn	
