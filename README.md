@@ -181,7 +181,7 @@ followed by ``lynx --dump``).
 ## Github repo
 
 The projected is hosted on ``github`` at 
-[https://github.com/elicher/openWorldFactbook](https://github.com/openfactbook)
+[https://github.com/openfactbook/master](https://github.com/openfactbook/master)
 
 ## Mailing List
 
