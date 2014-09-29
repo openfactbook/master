@@ -1,5 +1,5 @@
 
-# geos.tex
+# README-latex.md
 
 
 ## Summary
@@ -148,10 +148,4 @@ Examples: ``\wfbLastUpdated{last updated on June 23, 2014}``
 End the ``multicols`` environment (if started)
 
 Note: this is the last macro called.
-
-
-## Further information
-
-For more information about the _open_ World Factbook project 
-visit the master repository at https://github.com/elicher/openWorldFactbook
 
