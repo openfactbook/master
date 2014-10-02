@@ -1,6 +1,7 @@
 
 # 00-index-by-region.md
 
+[World](xx.png)
 
 ## Africa
 

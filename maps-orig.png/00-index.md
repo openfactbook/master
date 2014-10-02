@@ -1,6 +1,7 @@
 
 # 00-index.md
 
+[World](xx.png)
 
 ## Sovereign Countries
 

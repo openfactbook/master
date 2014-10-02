@@ -52,8 +52,8 @@ Parameters: none
 
 Present if a flag is available for the entity.
 
-Parameters: pathname, image width (pixels), image height (pixels),
-suggested width, suggested height
+Parameters: image width (pixels), image height (pixels),
+suggested width, suggested height, pathname
 
 Example: ``\wfbFlag{455}{302}{3.682337cm}{2.444100cm}{../flags-orig.png/aa.png}``
 
@@ -62,8 +62,8 @@ Example: ``\wfbFlag{455}{302}{3.682337cm}{2.444100cm}{../flags-orig.png/aa.png}`
 
 Present if a map is available for the entity.
 
-Parameters: pathname, image width (pixels), image height (pixels),
-suggested width, suggested height
+Parameters: image width (pixels), image height (pixels),
+suggested width, suggested height, pathname
 
 Example: ``\wfbMap{329}{354}{8.700000cm}{9.361094cm}{../maps-orig.png/aa.png}``
 
@@ -72,8 +72,8 @@ Example: ``\wfbMap{329}{354}{8.700000cm}{9.361094cm}{../maps-orig.png/aa.png}``
 
 Present if an overview map is available for the entity.
 
-Parameters: pathname, image width (pixels), image height (pixels),
-suggested width, suggested height
+Parameters: image width (pixels), image height (pixels),
+suggested width, suggested height, pathname
 
 Example: ``\wfbLocator{773}{476}{8.700000cm}{5.357309cm}{../locator-orig.png/aa.png}``
 
@@ -147,5 +147,5 @@ Examples: ``\wfbLastUpdated{last updated on June 23, 2014}``
 
 End the ``multicols`` environment (if started)
 
-Note: this is the last macro called.
+*Note:* this is the last macro called.
 

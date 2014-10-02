@@ -58,7 +58,7 @@ def main():
         return s.replace('"', '\\"').encode("utf-8")
         
     def fix_sect(s):
-        # fix section name: srip whitespace and throw away silly " :: ENTITYNAME" text       
+        # fix section name: strip whitespace and throw away silly " :: ENTITYNAME" text       
         pos = s.find('::')
         return s[0:pos].strip()
                 

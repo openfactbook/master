@@ -7,27 +7,28 @@ The ``JSON`` format is almost identical with the
 version 0.1.3 with long field name and header options.
 The differences between the two file formats are as follows:
 
-* contents of the header secton differ; the header sectons 
+* contents of the header section differ; the header sections 
   of the ``JSON`` files provided here contain:
 
-    * ``countrycode`` (gec / fips 10-4)
+    * ``countrycode``: GEC (fips 10-4 code)
     
-    * ``countryname``
+    * ``countryname``: selfevident
     
-    * ``regioncode``, e.g. ``afr`` for Africa
+    * ``regioncode``: 3 letter region code, e.g. ``afr`` for Africa
     
-    * ``region``
+    * ``region``: region name
     
     * ``flag_orig``: image resolution of flag given as WIDTHxHEIGHT, 
       e.g. 800x600, empty string if image is not provided
       
-    * ``locator_orig``: image resolution of overview map given as WIDTHxHEIGHT, 
+    * ``locator_orig``: image resolution of locator (overview map) given as WIDTHxHEIGHT, 
       empty string if image is not provided
       
     * ``map_orig``: image resolution of map given as WIDTHxHEIGHT, 
       empty string if image is not provided
       
-    * ``countryaffiliation``: affiliation with other entity/entities
+    * ``countryaffiliation``: affiliation with other entities,
+      e.g. "(part of the Kingdom of the Netherlands)"
     
     * ``last_update``: update information contained in scraped document, 
       e.g. "Page last updated on June 20, 2014"
@@ -49,4 +50,4 @@ The differences between the two file formats are as follows:
       
     * Summary: With regard to hard linebreaks the re-mastered *open* World 
       Factbook deviates minimally from the original while overall being 
-      *substantially* more consistent.
+      substantially more consistent.
