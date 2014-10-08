@@ -15,7 +15,7 @@
 # The script reads a country profile via stdin and writes the result to stdout. 
 #
 # NOTE: references to external media (flag, locator, map) assume the
-# same structure as the Github repository, i.e. the directories containig
+# same structure as the Github repository, i.e. the directories containing
 # flags, locators and maps are assumed to be siblings of the directory
 # containing the generated county profile files. 
 #
