@@ -272,7 +272,7 @@ accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 **_Legislative branch:_**   
 bicameral Parliament consists of a Senate or Senaat in Dutch, Senat in French (71 seats indirectly elected serve five-year terms) and a Chamber of Deputies or Kamer van Volksvertegenwoordigers in Dutch, Chambre des Representants in French (150 seats; members directly elected by popular vote on the basis of proportional representation to serve five-year terms)   
 **elections:** Chamber of Deputies - last held on 23 May 2014 (next to be held May 2019); note - elections will coincide with the EU's elections   
-**election results:** Chamber of Deputies - percent of vote by party - N-VA 20.3%, PS 11.7%, CD&amp;V 11.6%, Open VLD 9.8%, MR 9.6%, SP.A 8.8%, Groen! 5.3%, CDH 5.0% Workers' Party 3.7%, VB 3.7%, Ecolo 3.3%, FDF 1.8%, the People's Party 1.5%, other 7.2%; seats by party - N-VA 33, PS 23, CD&amp;V 18, Open VLD 14, MR 20, SP.A 13, Groen! 6, CDH 9, Workers' Party 2, VB 3, Ecolo 6, FDF 2, the People's Party 1   
+**election results:** Chamber of Deputies - percent of vote by party - N-VA 20.3%, PS 11.7%, CD&V 11.6%, Open VLD 9.8%, MR 9.6%, SP.A 8.8%, Groen! 5.3%, CDH 5.0% Workers' Party 3.7%, VB 3.7%, Ecolo 3.3%, FDF 1.8%, the People's Party 1.5%, other 7.2%; seats by party - N-VA 33, PS 23, CD&V 18, Open VLD 14, MR 20, SP.A 13, Groen! 6, CDH 9, Workers' Party 2, VB 3, Ecolo 6, FDF 2, the People's Party 1   
 **note:** as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly
 
 **_Judicial branch:_**   
@@ -281,7 +281,7 @@ bicameral Parliament consists of a Senate or Senaat in Dutch, Senat in French (7
 **subordinate courts:** Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, and audit issues; magistrate's courts; justices of the peace
 
 **_Political parties and leaders:_**   
-**Flemish parties:** Christian Democratic and Flemish or CD&amp;V [Wouter BEKE]; Flemish Liberals and Democrats or Open VLD [Gwendolyn RUTTEN]; Groen! [Wouter VAN BESIEN] (formerly AGALEV, Flemish Greens); Libertarian, Direct, Democratic or LDD (formerly Dedecker's List) [Jean-Marie DEDECKER]; New Flemish Alliance or N-VA [Bart DE WEVER]; People's Party [Mischael MODRIKAMEN]; Social Progressive Alternative or SP.A [Bruno TOBBACK]; Vlaams Belang (Flemish Interest) or VB [Gerolf ANNEMANS]   
+**Flemish parties:** Christian Democratic and Flemish or CD&V [Wouter BEKE]; Flemish Liberals and Democrats or Open VLD [Gwendolyn RUTTEN]; Groen! [Wouter VAN BESIEN] (formerly AGALEV, Flemish Greens); Libertarian, Direct, Democratic or LDD (formerly Dedecker's List) [Jean-Marie DEDECKER]; New Flemish Alliance or N-VA [Bart DE WEVER]; People's Party [Mischael MODRIKAMEN]; Social Progressive Alternative or SP.A [Bruno TOBBACK]; Vlaams Belang (Flemish Interest) or VB [Gerolf ANNEMANS]   
 **Francophone parties:** Ecolo (Francophone Greens) [Olivier DELEUZE, Emily HOYOS]; Francophone Federalist Democrats [Olivier MAINGAIN]; Humanist and Democratic Center or CDH [Benoit LUTGEN]; Reform Movement or MR [Charles MICHEL]; Socialist Party or PS [Elio DI RUPO]; Workers' Party [Peter Mertens]; other minor parties
 
 **_Political pressure groups and leaders:_**   

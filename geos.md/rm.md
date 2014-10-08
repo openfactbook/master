@@ -221,7 +221,7 @@ constitutional government in free association with the US; the Compact of Free A
 **time difference:** UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
 
 **_Administrative divisions:_**   
-24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini &amp; Kili, Ebon, Enewetak &amp; Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namdrik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje
+24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini & Kili, Ebon, Enewetak & Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namdrik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje
 
 **_Independence:_**   
 21 October 1986 (from the US-administered UN trusteeship)

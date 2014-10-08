@@ -225,7 +225,7 @@ Jersey Hospitality Association [Robert JONES] (trade association)
 Jersey Rights Association [David ROTHERHAM] (human rights)   
 La Societe Jersiaise (education and conservation group)   
 Progress Jersey [Daren O'TOOLE, Gino RISOLI] (human rights)   
-Royal Jersey Agriculture and Horticultural Society or RJA&amp;HS (development and management of the Jersey breed of cattle)   
+Royal Jersey Agriculture and Horticultural Society or RJA&HS (development and management of the Jersey breed of cattle)   
 Save Jersey's Heritage (protects heritage through building preservation)
 
 **_Diplomatic representation in the US:_**   

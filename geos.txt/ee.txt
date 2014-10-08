@@ -334,7 +334,7 @@ Government
 
   Executive branch:
     under the EU treaties there are three distinct institutions, each of
-    which conducts functions that may be regarded as executive in nature
+    which conducts functions that may be regarded as executive in nature:
     the European Council: brings together heads of state and government,
     along with the president of the European Commission, and meets at least
     four times a year; its aim is to provide the impetus for the

@@ -7,14 +7,18 @@
 # the referenced images showing flag, locator and map are read
 # and analyzed.
 # 
-# usage: wfbScraper.py [-h --help -p factbook_path --path factbook_path] GEC
+# usage: wfbScraper.py [-h --help -p factbook_path --path factbook_path
+#                       -m media_root --media media_root] GEC
 #
 # GEC is the 2 byte code identifying the entity to process.
 #
-# Unless specified with the -p or --path option, the assumed path to the 
+# Unless called with the -p or --path option, the assumed path to the 
 # Factbook base directory is a sibling directory named "factbook", 
 # i.e. by default the HTML file to be scraped is assumed to be located 
 # in the "../factbook/geos/" directory (relative to the script). 
+# Unless called with the -m or --media option, the assumed path to the 
+# media root directory is the parent directory of the directory where
+# this script lives in. 
 #
 #
 # IMPORTANT
@@ -39,8 +43,12 @@ from wand.image import Image
 from bs4 import BeautifulSoup
 
 
-_version = "1.0 as of 2014-09-29"
+_version = "1.1 as of 2014-10-05"
  
+flagdir = "flags-orig.png"
+locdir  = "locator-orig.png"
+mapdir  = "maps-orig.png"
+
 
 def main():
     
@@ -58,7 +66,7 @@ def main():
         return s.replace('"', '\\"').encode("utf-8")
         
     def fix_sect(s):
-        # fix section name: strip whitespace and throw away silly " :: ENTITYNAME" text       
+        # fix section name: srip whitespace and throw away silly " :: ENTITYNAME" text       
         pos = s.find('::')
         return s[0:pos].strip()
                 
@@ -74,7 +82,7 @@ def main():
     def get_size(path):
         # analyze image contained in path, return string WIDTHxHEIGHT (e.g. 640x400)
         # or empy string if image can not be analyzed
-        path = factbook_path + path[3:]
+        path = media_path + path
         try:
             with Image(filename=path) as img:
                 return("%dx%d" % (img.width, img.height))
@@ -83,9 +91,11 @@ def main():
     
     def usage():
         # help message
-        print >> sys.stderr, "\nusage: %s [-h --help -p factbook_path --path factbook_path] GEC\n" % sys.argv[0]
-        print >> sys.stderr, "GEC is the 2 byte code identifying the entity to process."
+        print >> sys.stderr, "\nusage: %s [-h --help -p factbook_path --path factbook_path" % sys.argv[0]
+        print >> sys.stderr, "        %s -m media_parent --media media_parent] GEC\n" % (" " * len(sys.argv[0]))
+        print >> sys.stderr, "GEC is the 2 byte code identifying the entity to process.\n"
         print >> sys.stderr, "Unless specified the assumed path to the Factbook base directory is \n'%s'\n" % default_path
+        print >> sys.stderr, "Unless specified the assumed path to the media parent directory is \n'%s'\n" % default_media
 
     ######################
     # Preliminary stuff...
@@ -94,11 +104,12 @@ def main():
     # set default factbook base directory
     parentpath = sep.join(abspath(__file__).split(sep)[:-2])
     factbook_path = default_path = parentpath + "/factbook/"
+    media_path = default_media = parentpath
     n_args = len(sys.argv) -1
 
     # process options
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "hp:", ["help", "path="])
+        opts, args = getopt.getopt(sys.argv[1:], "hp:m:", ["help", "path=", "media="])
     except getopt.GetoptError as err:
         print >> sys.stderr, "\n" + str(err) 
         usage()
@@ -108,10 +119,11 @@ def main():
             print >> sys.stderr, "\n%s %s" % (sys.argv[0], _version)
             usage()
             exit(0)
-        if o in ("-p", "--path"):
+        elif o in ("-p", "--path"):
             factbook_path = a
-            if not factbook_path.endswith(sep):
-                factbook_path += sep
+            n_args -= 2
+        elif o in ("-m", "--media"):
+            media_path = a
             n_args -= 2
         else:
             assert False, "unhandled option"
@@ -120,9 +132,15 @@ def main():
     if n_args != 1:
         usage()
         exit(2)
-    
+
+    # make sure pathname ends with separator    
+    if not factbook_path.endswith(sep):
+        factbook_path += sep
+    if not media_path.endswith(sep):
+        media_path += sep
     # construct pathname from GEC and open input file
-    path = factbook_path + "geos/" + sys.argv[-1].lower() + ".html"
+    gec  = sys.argv[-1].lower()
+    path = factbook_path + "geos/" + gec + ".html"
     try:
         page = open(path, "r").read()
     except IOError:
@@ -299,24 +317,9 @@ def main():
                     break
     # now we get the image size information for 
     # the flag, locator and map (if provided)
-    pos = page.find("../graphics/flags/large/")    
-    if pos > 0:
-        pos2 = page[pos:].find('"')
-        flag = page[pos:pos + pos2]
-        flag = get_size(flag)
-        headers["flag_orig"] = flag
-    pos = page.find("../graphics/locator/")    
-    if pos > 0:
-        pos2 = page[pos:].find('"')
-        locator = page[pos:pos + pos2]
-        locator = get_size(locator)
-        headers["locator_orig"] = locator
-    pos = page.find("../graphics/maps/")    
-    if pos > 0:
-        pos2 = page[pos:].find('"')
-        lmap = page[pos:pos + pos2]
-        lmap = get_size(lmap)
-        headers["map_orig"] = lmap
+    headers["flag_orig"]    = get_size("%s/%s.png" % (flagdir, gec))
+    headers["locator_orig"] = get_size("%s/%s.png" % (locdir, gec))
+    headers["map_orig"]     = get_size("%s/%s.png" % (mapdir, gec))
     # last but not least we are interested in the update status of the document
     pos = page.find("Page last updated")
     if pos > 0:

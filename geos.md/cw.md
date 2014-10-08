@@ -96,7 +96,7 @@ Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh-Day Adventist 7.9
 
 **_Population:_**   
 10,134   
-**note:** the Cook Islands' Ministry of Finance &amp; Economic Management estimated the resident population to have been 13,700 in September 2013 (July 2014 est.)
+**note:** the Cook Islands' Ministry of Finance & Economic Management estimated the resident population to have been 13,700 in September 2013 (July 2014 est.)
 
 **_Age structure:_**   
 **0-14 years:** 22.8% (male 1,224/female 1,084)   

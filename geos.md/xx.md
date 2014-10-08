@@ -1,4 +1,4 @@
-# World
+# World Summary
 
 ![Map of World](../maps-orig.png/xx.png)
 
