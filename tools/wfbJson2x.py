@@ -17,7 +17,7 @@
 # NOTE: references to external media (flag, locator, map) assume the
 # same structure as the Github repository, i.e. the directories containing
 # flags, locators and maps are assumed to be siblings of the directory
-# containing the generated county profile files. 
+# containing the generated country profile files. 
 #
 
 import sys, getopt, json, math, cgi
