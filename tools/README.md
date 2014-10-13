@@ -53,3 +53,31 @@ NOTE: references to external media (flag, locator, map) in the created file assu
 the same structure as the Github repository, i.e. the directories containing
 flags, locators and maps are assumed to be siblings of the directory
 containing the generated country profile file.
+
+
+## ``scrape-fieldlist.py``
+
+Script that scrapes the field name (in plain language) from the 
+contents of one or more files named "print_XXXX.html" in the 
+``factbook/fields/`` directory of the WFB.
+
+As the fieldkey (field-ID) itself is not contained in the contents of
+the scraped file(s) the fieldkey(s) is/are taken from the name(s) supplied.
+The script implies the CIA naming convention "print_XXXX.html"
+where xxxx is a 4-digit number. 
+The fieldkey(s) and the name(s) are printed to stdout (tab-delimited).
+
+
+## ``scrape-fielddesc.py``
+
+Script that scrapes the field description (in plain language) from the 
+contents of one or more files named "print_XXXX.html" in the 
+``factbook/fields/`` directory of the WFB.
+
+As the fieldkey (field-ID) itself is not contained in the contents of
+the scraped file(s) the fieldkey(s) is/are taken from the name(s) supplied.
+The script implies the CIA naming convention "print_XXXX.html"
+where xxxx is a 4-digit number. 
+The field descriptions(s) and the name(s) are printed to stdout (tab-delimited).
+
+

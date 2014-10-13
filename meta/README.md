@@ -23,6 +23,19 @@ in the ``tools/`` directory as follows:
 You guessed it.
 
 
+## ``field_names.txt`` 
+
+List of all field keys (hash values) used in the WFB and their associated field names. The 
+field keys associated with the field names are part of the field listing and 
+rankorder filenames in the ``factbook/fields/`` and the ``factbook/rankorder/``
+directory respectively.
+
+
+## ``field_descriptions.txt`` 
+
+List of all field keys (hash values) and the description of the associated fields.
+
+
 ## ``update_status--...``
 
 Files containing the upstream update status for all entities at the date

@@ -169,6 +169,13 @@ Tools for the _open_ World Factbook:
 * [wfbJson2x.py](tools/wfbJson2x) --Script that creates various formats from ``JSON`` files created by
 ``wfbScraper.py``. 
 
+* [scrape-fieldlist.py](tools/scrape-fieldlist.py) -- Script that scrapes the field name 
+from the contents of one or more files in the ``factbook/fields/`` directory.
+
+* [scrape-fielddesc.py](tools/scrape-fielddesc.py) -- Script that scrapes the field description from the 
+contents of one or more files in the ``factbook/fields/`` directory.
+
+
 [read more](tools/README.md) 
 
 
