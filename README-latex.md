@@ -5,10 +5,10 @@
 ## Summary
 
 The contents of the _open_ World Factbook converted from ``JSON`` format to custom
-``LaTeX`` by homebrew script (to be released eventually). 
+``LaTeX`` by ``wfbScraper.py``. 
 
-For each entity this directory provides 2 files: a ``.input`` file containing 
-``LaTeX`` macro calls and a ``.tex`` file.
+For each entity this directory provides 2 files: a ``.input`` file created by
+``wfbScraper.py`` containing ``LaTeX`` macro calls and a ``.tex`` file.
 
 Each ``.tex`` file consists of exactly 3 lines, as exemplified by the entry for 
 Aruba (FIPS code ``aa``):

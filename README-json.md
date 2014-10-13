@@ -7,7 +7,7 @@ The ``JSON`` format is almost identical with the
 version 0.1.3 with long field name and header options.
 The differences between the two file formats are as follows:
 
-* contents of the header section differ; the header sections 
+* contents of the header sections differ; the header sections 
   of the ``JSON`` files provided here contain:
 
     * ``countrycode``: GEC (fips 10-4 code)

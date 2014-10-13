@@ -19,6 +19,9 @@
 # flags, locators and maps are assumed to be siblings of the directory
 # containing the generated country profile files. 
 #
+# This script is dedicated to the public domain and may be used without
+# restrictions.
+#
 
 import sys, getopt, json, math, cgi
 

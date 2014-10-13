@@ -32,7 +32,9 @@
 # On a Debian (based) system run "apt-get install python-wand python-bs4" 
 # as root to install the required packages.
 #
-
+# This script is dedicated to the public domain and may be used without
+# restrictions.
+#
 
 import sys, getopt
 

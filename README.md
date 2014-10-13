@@ -9,21 +9,26 @@ _The World Factbook data in this repo was retrieved on August 31, 2014_
 ## Introduction
 
 The _open_ World Factbook aims to provide the contents of the
-World Factbook (referred to as WFB) in various formats so it is
+World Factbook (referred to as WFB) in various open formats so it is
 easily acessible for re-use.
 
 The tools and procedures used to process and update the data in this repopository 
-will be provided once they are mature enough for publication. As of
-end of September 2014 the [toolbox](tools/) contains the Python based 
-World Factbook scraper (``wfbScraper.py``).
+are provided, see the [tools](tools/) directory.
 
 The World Factbook is in the public domain. Accordingly, it may be copied 
 freely without permission of the Central Intelligence Agency (CIA). 
-The tools to be provided in this repository are dedicated to the public 
+The tools provided in this repository are dedicated to the public 
 domain by their respective author(s) as well.
 
 For a brief description of the original World Factbook follow
 [this](SUMMARY.md) link. 
+
+As ``Gihub`` renders files in ``markdown`` notation to ``HTML`` the country profiles 
+in the ``geos.md/`` directory provide a nice-looking preview which even includes
+flags, locators and maps.
+
+Preview index [by region](geos.json/00-index-by-region.md)
+• [by status](geos.json/00-index.md)
 
 
 ## Naming conventions
@@ -49,7 +54,7 @@ containing this ``README.md`` file.
 ### Directory ``geos.json/``
 
 The contents of the _open_ World Factbook in ``JSON`` format as produced by 
-the World Factbook [scraper](tools/wfbScraper.py). 
+the World Factbook scraper [wfbScraper.py](tools/wfbScraper.py). 
 
 All other file formats are derived from the ``JSON`` files provided here.
 
@@ -60,13 +65,10 @@ All other file formats are derived from the ``JSON`` files provided here.
 
 ### Directory ``geos.md/``
 
-The contents of the _open_ World Factbook in converted from ``JSON`` format 
-to ``pandoc`` markdown notation by homebrew script (to be released eventually). 
+The contents of the _open_ World Factbook converted from ``JSON`` format 
+to ``pandoc`` markdown notation by [wfbJson2x.py](tools/wfbJson2x.py). 
 References to flags, locators and maps are all relative (media directories are 
 supposed to be siblings of the ``geos.md/`` directory. 
-
-The country profiles in the ``geos.md/`` directory provide a nice-looking preview.
-See the [EU](geos.md/ee.md) for example.
 
 [index by region](geos.md/00-index-by-region.md) • 
 [by status](geos.md/00-index.md)
@@ -75,7 +77,7 @@ See the [EU](geos.md/ee.md) for example.
 ### Directory ``geos.txt/``
 
 The contents of the _open_ World Factbook converted from ``JSON`` format to plain 
-``.txt`` by homebrew script (to be released eventually). This text version 
+``.txt`` by [wfbJson2x.py](tools/wfbJson2x.py) with option "``-f txt``". This text version 
 is somewhat easier to grasp than other plain text versions created by 
 standard conversion tools (e.g. ``pandoc -t plain`` or
 ``pandoc -t html`` followed by ``lynx --dump``) or similar.
@@ -87,8 +89,7 @@ standard conversion tools (e.g. ``pandoc -t plain`` or
 ### Directory ``geos.tex/``
 
 The contents of the _open_ World Factbook converted from ``JSON`` format to custom
-``LaTeX`` by homebrew script (to be released eventually). 
-
+``LaTeX`` by [wfbJson2x.py](tools/wfbJson2x.py) with option "``-f tex``". 
 
 [read more](README-latex.md) 
 • [index by region](geos.tex/00-index-by-region.md)
@@ -109,7 +110,7 @@ image size retained.
 
 ### Directory ``flags.png/``
 
-Flags for the _open_ World Factbook, scaled down to approximately 14400 pixels, 
+Flags for the _open_ World Factbook, scaled down to approximately 15000 pixels, 
 independent of aspect ratio (y/x), primarily for web usage.
 
 [index by region](flags.png/00-index-by-region.md)
@@ -161,9 +162,14 @@ a 400x400 box, primarily for web usage.
 Tools for the _open_ World Factbook:  
 
 * [wfbScraper.py](tools/wfbScraper.py) -- Script that scrapes a single HTML page from the 
-  Word Factbook and outputs its content in JSON format to stdout. 
+  Word Factbook and outputs its content in ``JSON`` format to stdout. 
   For additional header information the referenced images showing flag, 
   locator and map are read and analyzed.
+
+* [wfbJson2x.py](tools/wfbJson2x) --Script that creates various formats from ``JSON`` files created by
+``wfbScraper.py``. 
+
+[read more](tools/README.md) 
 
 
 ### Directory ``meta/``
@@ -174,20 +180,15 @@ Some useful metadata. To be completed.
 ### Other formats
 
 The files in directory ``geos.md/`` provide a good starting point for automated conversion
-of the WFB into other formats, e.g. ``.html``, ``LaTeX``, ``.odt``, Word (``.docx``) and 
+of the WFB into other formats, e.g. ``.html``, ``LaTeX``, ``.odt``, ``.docx`` (MS Word) and 
 several others. See the [Pandoc website](http://johnmacfarlane.net/pandoc/) for details.
 
-*Note:* Other open file formats will be added to the repo over time. 
-
-
-## External sources and references
-
-(To be done. There is some very interesting stuff out there ...)
+*Note:* Other open file formats may be added to the repopository over time. 
 
 
 ## Github repository
 
-The projected is hosted on ``github`` at 
+The _open_ World Factbook project is hosted on ``github`` at 
 [https://github.com/openfactbook/master](https://github.com/openfactbook/master)
 
 
