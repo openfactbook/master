@@ -256,7 +256,7 @@ def main():
     # number of categories, at most one of which is an unnamed (text)
     # category. 
     #
-    # Text fragments belonging to a text field are diplayed as lines. 
+    # Text fragments belonging to a text field are displayed as lines. 
     # In order not to deviate too much from Gerald Bauer's factbook gem 
     # text lines are stored in a single string (concatenated with "//" 
     # as opposed to "; " which is used by the factbook gem). 

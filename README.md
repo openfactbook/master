@@ -27,8 +27,8 @@ As ``Gihub`` renders files in ``markdown`` notation to ``HTML`` the country prof
 in the ``geos.md/`` directory provide a nice-looking preview which even includes
 flags, locators and maps.
 
-Preview index [by region](geos.json/00-index-by-region.md)
-• [by status](geos.json/00-index.md)
+Preview index [by region](geos.md/00-index-by-region.md)
+• [by status](geos.md/00-index.md)
 
 
 ## Naming conventions
